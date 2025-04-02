@@ -1,0 +1,170 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "produceType",
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeFinalLessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeMid1LessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeMid2LessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "title": "最終試験前日"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "title": "中間試験前日"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+            "title": "中間試験前日"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_Opening",
+            "title": "定期公演『初』"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultA",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultB",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultC",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_FirstStar",
+            "type": "ProduceAdvType_ProduceResultFailedMid2",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeFinalLessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid1LessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid2LessonHard",
+            "title": "追い込みレッスン開始！"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "title": "最終オーディション前日"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "title": "１次オーディション前日"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+            "title": "２次オーディション前日"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeFinalAuditionSelect",
+            "title": "最終オーディション選択"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid1AuditionSelect",
+            "title": "１次オーディション選択"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_BeforeMid2AuditionSelect",
+            "title": "２次オーディション選択"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_StepSkip",
+            "title": "今日は休もう"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_Opening",
+            "title": "NEXT IDOL AUDITION"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultA",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultB",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultC",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "title": "最終評価は……"
+        },
+        {
+            "produceType": "ProduceType_NextIdolAudition",
+            "type": "ProduceAdvType_ProduceResultFailedMid2",
+            "title": "最終評価は……"
+        }
+    ]
+}

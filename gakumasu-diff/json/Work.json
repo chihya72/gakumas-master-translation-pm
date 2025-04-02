@@ -1,0 +1,17 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "WorkType_MiniLive",
+            "name": "ミニライブ"
+        },
+        {
+            "type": "WorkType_LiveStreaming",
+            "name": "ライブ配信"
+        }
+    ]
+}

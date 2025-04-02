@@ -1,0 +1,30 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 1,
+            "name": "笑って"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 2,
+            "name": "怒って"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 3,
+            "name": "困って"
+        },
+        {
+            "id": "photo_facial_motion_group-amao-001",
+            "number": 4,
+            "name": "照れて"
+        }
+    ]
+}

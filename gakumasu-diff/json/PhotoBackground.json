@@ -1,0 +1,33 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "photo_background-danceroom-01",
+            "name": "ダンスレッスン室"
+        },
+        {
+            "id": "photo_background-hotspring-01",
+            "name": "初星温泉"
+        },
+        {
+            "id": "photo_background-rooftop-01",
+            "name": "本校舎屋上"
+        },
+        {
+            "id": "photo_background-visualroom-01",
+            "name": "ビジュアルレッスン室"
+        },
+        {
+            "id": "photo_background-vocalroom-01",
+            "name": "ボイスレッスン室"
+        },
+        {
+            "id": "photo_photobooth-01",
+            "name": "アニメイト"
+        }
+    ]
+}

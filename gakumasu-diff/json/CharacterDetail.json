@@ -1,0 +1,923 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId",
+            "type",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3年生"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "157"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "46"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "85/53/85"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "やぎ座"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "七瀬つむぎ"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "1月18日"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "兵庫県"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "格闘技、手先が器用"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "他人の面倒を見ること、観劇"
+        },
+        {
+            "characterId": "amao",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "カッコいいアイドルを目指す小柄な3年生。後輩達からは小さな王子様として慕われている。\n幼い頃から歌劇のスターに憧れ、子役として活躍していたが、\n最近は彼女の理想とするイメージと身体の成長のギャップに悩んでいる。"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "156"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "40"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "75/55/75"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "おうし座"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "飯田ヒカル"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4月29日"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "埼玉県"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "ダンス、人の顔と名前を覚えること"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "お金を稼ぐこと"
+        },
+        {
+            "characterId": "fktn",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "「稼げるアイドル」を目指すムードメーカー。\n中等部からの内部進学組。ダンスの才能に富む。\n学園評価、自己評価ともに低いが、本調子ではないように見える。\nたくさんのアルバイトを掛け持ちしているせいで、いつも疲れているようだ。"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3年生"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "166"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "56"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "90/59/93"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "うお座"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "薄井友里"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "3月5日"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "福岡県"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "料理、裁縫・手芸"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "カフェ巡り、コスメ集め"
+        },
+        {
+            "characterId": "hrnm",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "大人びた雰囲気のある3年生。面倒見のいい寮のみんなのお姉さん。\n過去にユニットに所属していたこともあるが、結果は振るわなかった。"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "152"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "45"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "84/55/80 "
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "おひつじ座"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "長月あおい"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "16"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4月2日"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "左"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "愛知県"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "運動全般、家事全般、マッサージ"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "勝負ごと全般"
+        },
+        {
+            "characterId": "hski",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "入学試験主席の新入生。勝ち気で負けず嫌いな元アスリート。\n優れた身体能力は、全校生徒中、上位１０パーセントに入るほど。\n未経験者ながら、きわめて飲み込みがよく、成長が早い。\nすでに完成されつつある能力は、大きな成長が見込めないようにも思えるが……"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "158"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "50"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "91/60/85"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "おひつじ座"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "松田 彩音"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "4月1日"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "愛知県"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "スポーツ全般、マッサージ"
+        },
+        {
+            "characterId": "hume",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "お姉ちゃんとの勝負"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "3年生"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "170"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "54"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "A"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "88/56/86"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "いて座"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "陽高 真白"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "17"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "12月7日"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "両利き"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "東京都"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "アイドルの才能を見抜くこと"
+        },
+        {
+            "characterId": "jsna",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "レッスン、才能のあるアイドルを見つけること"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "148"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "43"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "73/56/73"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "しし座"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "伊藤舞音"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "8月1日"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "神奈川県"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "元気なあいさつ、動物に好かれること"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "お絵描き"
+        },
+        {
+            "characterId": "kcna",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "甘やかされて育った生粋のお嬢様。天真爛漫な女の子。\n「立派なアイドル」を夢見て初星学園に入学した。"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "161"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "43"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "B"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "82/53/80"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "しし座"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "花岩香奈"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "7月24日"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "スウェーデン"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "お菓子作り、ゲーム"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "お菓子作り、日本のアニメ"
+        },
+        {
+            "characterId": "kllj",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "海外出身の新入生。\n歌やダンスの経験はなく、いつも自信がなさそうに縮こまっている。\nあまりアイドルに向いているようには見えないが……"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "159"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "41"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "72/54/76"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "いて座"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "川村玲奈"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "12月21日"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "左"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "秋田県"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "学業全般、物理、数学、パズル"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "苦手分野に挑戦すること、観葉植物を育てること"
+        },
+        {
+            "characterId": "shro",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "14歳で大学を卒業した天才少女。詳細な経歴は別記。\n嘱望されていた将来を捨て、アイドルを目指した理由は不明。\n入学試験は、座学満点、実技0点。学園長による面接評価は優とのこと。"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "168"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "54"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "O"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "89/58/85"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "さそり座"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "湊みや"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "11月11日"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "左"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "北海道"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "身体が柔らかい"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "カラオケ、SNS"
+        },
+        {
+            "characterId": "ssmk",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "元気で明るく、誰とでも仲良くなれる気質の少女。\n入学前にはバレエで世界に羽ばたいた実績もあり、期待されていた。\nしかし、授業やレッスンをよくサボっており、やる気がないように見える。"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Grade",
+            "order": 1,
+            "content": "1年生"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Height",
+            "order": 2,
+            "content": "162"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Weight",
+            "order": 3,
+            "content": "51"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_BloodType",
+            "order": 4,
+            "content": "AB"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_ThreeSize",
+            "order": 5,
+            "content": "82/58/86"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_ZodiacSign",
+            "order": 6,
+            "content": "ふたご座"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Cv",
+            "order": 7,
+            "content": "小鹿なお"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Age",
+            "order": 8,
+            "content": "15"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Birthday",
+            "order": 9,
+            "content": "6月3日"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_DominantHand",
+            "order": 10,
+            "content": "右"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Birthplace",
+            "order": 11,
+            "content": "京都府"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_SpecialSkill",
+            "order": 12,
+            "content": "歌"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Hobby",
+            "order": 13,
+            "content": "美味しいものを食べること（封印中）"
+        },
+        {
+            "characterId": "ttmr",
+            "type": "CharacterDetailType_Introduction",
+            "order": 14,
+            "content": "中等部ナンバーワンユニット「SyngUp!」の元メンバー。\n1年生にして、すでに一線級の歌唱力を持つ。\n素行に問題あり。悪い噂多し。トラブルメーカー。"
+        }
+    ]
+}

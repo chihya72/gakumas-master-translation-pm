@@ -1,0 +1,919 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "costume_head_amao-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_amao-casl-0001",
+            "name": "ホントのボク",
+            "description": "有村 麻央の親愛度Lvを10にする"
+        },
+        {
+            "id": "costume_head_amao-cstm-0004",
+            "name": "Fluorite",
+            "description": "【Fluorite】有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0016",
+            "name": "Fluorite",
+            "description": "【Fluorite】有村 麻央の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0035",
+            "name": "Feel Jewel Dream",
+            "description": "【Feel Jewel Dream】有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】有村 麻央の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0063",
+            "name": "冠菊",
+            "description": "【Fluorite】'24祭 有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【Fluorite】'24ハロウィン 有村 麻央を入手"
+        },
+        {
+            "id": "costume_head_amao-hair-0000",
+            "name": "ホントのフローライト",
+            "description": "有村 麻央の親愛度Lvを10にする"
+        },
+        {
+            "id": "costume_head_amao-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年6月で獲得"
+        },
+        {
+            "id": "costume_head_amao-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "有村麻央のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_amao-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年9月で獲得"
+        },
+        {
+            "id": "costume_head_amao-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_amao-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
+            "id": "costume_head_atbm-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_fktn-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0001",
+            "name": "世界一可愛い私",
+            "description": "【世界一可愛い私】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0013",
+            "name": "世界一可愛い私",
+            "description": "【世界一可愛い私】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0027",
+            "name": "Yellow Big Bang！",
+            "description": "【Yellow Big Bang！】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0028",
+            "name": "Yellow Big Bang！",
+            "description": "【Yellow Big Bang！】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0045",
+            "name": "冠菊",
+            "description": "【冠菊】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0046",
+            "name": "冠菊",
+            "description": "【冠菊】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】藤田 ことねの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【世界一可愛い私】'24ハロウィン 藤田 ことねを入手"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "藤田ことねのアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "藤田ことねのアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "costume_head_fktn-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "藤田ことねのアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_fktn-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年5月で獲得"
+        },
+        {
+            "id": "costume_head_fktn-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "藤田ことねのアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_fktn-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年10月で獲得"
+        },
+        {
+            "id": "costume_head_fktn-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年11月で獲得"
+        },
+        {
+            "id": "costume_head_fktn-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
+        },
+        {
+            "id": "costume_head_hmsz-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0005",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0017",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0037",
+            "name": "L.U.V",
+            "description": "【L.U.V】姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0038",
+            "name": "L.U.V",
+            "description": "【L.U.V】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0043",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0044",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】姫崎 莉波の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0063",
+            "name": "冠菊",
+            "description": "【clumsy trick】'24祭 姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【clumsy trick】'24ハロウィン 姫崎 莉波を入手"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "姫崎莉波のアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "costume_head_hrnm-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "姫崎莉波のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年7月で獲得"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "姫崎莉波のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年10月で獲得"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_hrnm-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
+            "id": "costume_head_hrnm-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hski-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hski-cstm-0002",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0014",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】花海 咲季の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0029",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0030",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】花海 咲季の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 咲季の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0063",
+            "name": "冠菊",
+            "description": "【冠菊】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【Fighting My Way】'24ハロウィン 花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0070",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季を入手"
+        },
+        {
+            "id": "costume_head_hski-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "花海咲季のアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "costume_head_hski-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "花海咲季のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "costume_head_hski-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "花海咲季のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_hski-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年5月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "花海咲季のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_hski-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年8月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年11月で獲得"
+        },
+        {
+            "id": "costume_head_hski-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
+        },
+        {
+            "id": "costume_head_hski-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hume-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_hume-cstm-0010",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0022",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】花海 佑芽の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】花海 佑芽の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0063",
+            "name": "冠菊",
+            "description": "【The Rolling Riceball】'24祭 花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【The Rolling Riceball】'24ハロウィン 花海 佑芽を入手"
+        },
+        {
+            "id": "costume_head_hume-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "花海佑芽のアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "costume_head_hume-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "花海佑芽のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "costume_head_hume-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "紫陽花の髪飾り（花海佑芽）を購入"
+        },
+        {
+            "id": "costume_head_hume-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "花海佑芽のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_hume-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年10月で獲得"
+        },
+        {
+            "id": "costume_head_hume-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_hume-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
+            "id": "costume_head_hume-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0012",
+            "name": "小さな野望",
+            "description": "【小さな野望】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0024",
+            "name": "小さな野望",
+            "description": "【小さな野望】十王 星南の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0055",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南を入手"
+        },
+        {
+            "id": "costume_head_jsna-cstm-0056",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_jsna-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "紫陽花の髪飾り（十王星南）を購入"
+        },
+        {
+            "id": "costume_head_jsna-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "十王星南のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_jsna-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "ラウンドメガネ（十王星南）を購入"
+        },
+        {
+            "id": "costume_head_jsna-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
+            "id": "costume_head_jsna-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_kcna-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0008",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0020",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】倉本 千奈の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0033",
+            "name": "日々、発見的ステップ！",
+            "description": "【日々、発見的ステップ！】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0034",
+            "name": "日々、発見的ステップ！",
+            "description": "【日々、発見的ステップ！】倉本 千奈の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0061",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0062",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0063",
+            "name": "冠菊",
+            "description": "【Wonder Scale】'24祭 倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】倉本 千奈を入手"
+        },
+        {
+            "id": "costume_head_kcna-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年7月で獲得"
+        },
+        {
+            "id": "costume_head_kcna-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "倉本千奈のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_kcna-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年10月で獲得"
+        },
+        {
+            "id": "costume_head_kcna-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_kcna-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0007",
+            "name": "白線",
+            "description": "【白線】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0041",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0042",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0045",
+            "name": "冠菊",
+            "description": "【冠菊】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0046",
+            "name": "冠菊",
+            "description": "【冠菊】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0049",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0050",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】葛城 リーリヤの才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_kllj-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【白線】'24ハロウィン 葛城 リーリヤを入手"
+        },
+        {
+            "id": "costume_head_kllj-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年7月で獲得"
+        },
+        {
+            "id": "costume_head_kllj-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "葛城リーリヤのアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_kllj-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年9月で獲得"
+        },
+        {
+            "id": "costume_head_kllj-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_kllj-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
+            "id": "costume_head_kllj-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_nasr-casl-0000",
+            "name": "いつもの髪型",
+            "description": ""
+        },
+        {
+            "id": "costume_head_nasr-hair-0005",
+            "name": "スクエアメガネ",
+            "description": "スクエアメガネ（根緒亜紗里）を購入"
+        },
+        {
+            "id": "costume_head_shro-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_shro-cstm-0006",
+            "name": "光景",
+            "description": "【光景】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0031",
+            "name": "コントラスト",
+            "description": "【コントラスト】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0047",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0048",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】篠澤 広の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_shro-cstm-0063",
+            "name": "冠菊",
+            "description": "【光景】'24祭 篠澤 広を入手"
+        },
+        {
+            "id": "costume_head_shro-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年6月で獲得"
+        },
+        {
+            "id": "costume_head_shro-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "篠澤広のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_shro-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年8月で獲得"
+        },
+        {
+            "id": "costume_head_shro-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年12月で獲得"
+        },
+        {
+            "id": "costume_head_shro-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年3月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0009",
+            "name": "Tame-Lie-One-Step",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0039",
+            "name": "カクシタワタシ",
+            "description": "【カクシタワタシ】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0043",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0044",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】紫雲 清夏の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0054",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】紫雲 清夏の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0063",
+            "name": "冠菊",
+            "description": "【Tame-Lie-One-Step】'24祭 紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0065",
+            "name": "仮装狂騒曲",
+            "description": "【Tame-Lie-One-Step】'24ハロウィン 紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-cstm-0079",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】紫雲 清夏を入手"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年6月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "紫雲清夏のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年8月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2025年1月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年4月で獲得"
+        },
+        {
+            "id": "costume_head_ssmk-schl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_ttmr-casl-0000",
+            "name": "いつもの髪型",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0000",
+            "name": "初（はじめ）",
+            "description": "最初から所持"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0003",
+            "name": "Luna say maybe",
+            "description": "【Luna say maybe】月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0025",
+            "name": "アイヴイ",
+            "description": "【アイヴイ】月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0047",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0048",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】月村 手毬の才能開花4段階目で入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0053",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0063",
+            "name": "冠菊",
+            "description": "【Luna say maybe】'24祭 月村 手毬を入手"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0072",
+            "name": "ゴールドの輝き",
+            "description": "月村手毬のアイドルへの道 ステージ10をクリア"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0073",
+            "name": "プラチナの輝き",
+            "description": "月村手毬のアイドルへの道 ステージ15をクリア"
+        },
+        {
+            "id": "costume_head_ttmr-cstm-0110",
+            "name": "漆黒の輝き",
+            "description": "月村手毬のアイドルへの道 ステージ25をクリア"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0001",
+            "name": "紫陽花の髪飾り",
+            "description": "プレミアムミッションパス 2024年5月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0002",
+            "name": "お姫様ティアラ",
+            "description": "月村手毬のアイドルへの道 ステージ20をクリア"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0003",
+            "name": "ラウンドメガネ",
+            "description": "プレミアムミッションパス 2024年9月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0004",
+            "name": "ネコミミ",
+            "description": "プレミアムミッションパス 2024年11月で獲得"
+        },
+        {
+            "id": "costume_head_ttmr-hair-0006",
+            "name": "はつみ☆アクセサリー",
+            "description": "プレミアムミッションパス 2025年2月で獲得"
+        }
+    ]
+}

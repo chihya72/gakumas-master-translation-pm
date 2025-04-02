@@ -1,0 +1,2509 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "achieve-i_card-amao-3-001-01",
+            "name": "ひんやり一休み",
+            "description": "【キミとセミブルー】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-001-02",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-001-03",
+            "name": "最後の夏だから――",
+            "description": "【キミとセミブルー】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-002-01",
+            "name": "月夜のランウェイ",
+            "description": "【Feel Jewel Dream】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-002-02",
+            "name": "Feel Jewel Dream",
+            "description": "【Feel Jewel Dream】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-002-03",
+            "name": "そんなに期待されちゃったら",
+            "description": "【Feel Jewel Dream】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-01",
+            "name": "手にした答え",
+            "description": "【Campus mode!!】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-007-03",
+            "name": "憧れになれるように",
+            "description": "【Campus mode!!】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-01",
+            "name": "頬張る3色",
+            "description": "【雪解けに】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-009-03",
+            "name": "名残雪が溶けてしまっても",
+            "description": "【雪解けに】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-01",
+            "name": "アドレナリン全開",
+            "description": "【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-02",
+            "name": "Yellow Big Bang！",
+            "description": "【Yellow Big Bang！】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-001-03",
+            "name": "ちょー元気！",
+            "description": "【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-002-01",
+            "name": "夏の宵の線香花火",
+            "description": "【冠菊】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-002-02",
+            "name": "冠菊",
+            "description": "【冠菊】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-002-03",
+            "name": "離れたくないんです",
+            "description": "【冠菊】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-01",
+            "name": "メリクリで～す♪",
+            "description": "【White Night! White Wish!】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-02",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-006-03",
+            "name": "たったいまからクリスマス",
+            "description": "【White Night! White Wish!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-007-01",
+            "name": "自慢のお姉ちゃんだぞ",
+            "description": "【Campus mode!!】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-fktn-3-007-03",
+            "name": "本気の本気のちょー本気",
+            "description": "【Campus mode!!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-001-01",
+            "name": "入道雲と、きみ",
+            "description": "【キミとセミブルー】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-001-02",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-001-03",
+            "name": "大人になったんだね",
+            "description": "【キミとセミブルー】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-01",
+            "name": "また、明日",
+            "description": "【L.U.V】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-02",
+            "name": "L.U.V",
+            "description": "【L.U.V】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-002-03",
+            "name": "ちゃんと、見ててくれてたんだ",
+            "description": "【L.U.V】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-004-01",
+            "name": "さっぱりひといき",
+            "description": "【ようこそ初星温泉】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-004-02",
+            "name": "ようこそ初星温泉",
+            "description": "【ようこそ初星温泉】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-004-03",
+            "name": "また、お出かけ誘っちゃうね",
+            "description": "【ようこそ初星温泉】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-01",
+            "name": "アイドルにしてくれた",
+            "description": "【Campus mode!!】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-007-03",
+            "name": "ありがとう",
+            "description": "【Campus mode!!】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-01",
+            "name": "受け取ってくれる？",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-008-03",
+            "name": "きみにあげますっ！",
+            "description": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-001-01",
+            "name": "POW！",
+            "description": "【Boom Boom Pow】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-001-02",
+            "name": "Boom Boom Pow",
+            "description": "【Boom Boom Pow】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-001-03",
+            "name": "プロポーズしてきなさいっ♡",
+            "description": "【Boom Boom Pow】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-01",
+            "name": "金魚すくいで勝負",
+            "description": "【冠菊】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-02",
+            "name": "冠菊",
+            "description": "【冠菊】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-002-03",
+            "name": "叶えてあげるわ",
+            "description": "【冠菊】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-006-01",
+            "name": "ちょちょいのちょい",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-006-02",
+            "name": "古今東西ちょちょいのちょい",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-006-03",
+            "name": "店長として、アイドルとして",
+            "description": "【古今東西ちょちょいのちょい】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-01",
+            "name": "これまでも、これからも",
+            "description": "【Campus mode!!】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-008-03",
+            "name": "最高の想い出を",
+            "description": "【Campus mode!!】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-2-000-01",
+            "name": "打倒お姉ちゃん",
+            "description": "【アイドル、はじめっ！】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-2-000-02",
+            "name": "アイドル、はじめっ！",
+            "description": "【アイドル、はじめっ！】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-2-000-03",
+            "name": "常勝不敗のトップアイドル",
+            "description": "【アイドル、はじめっ！】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-01",
+            "name": "おっきなおにぎり",
+            "description": "【The Rolling Riceball】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-02",
+            "name": "The Rolling Riceball",
+            "description": "【The Rolling Riceball】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-000-03",
+            "name": "全校生徒への挑戦状",
+            "description": "【The Rolling Riceball】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-005-01",
+            "name": "おすそわけですっ！",
+            "description": "【White Night! White Wish!】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-005-02",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-005-03",
+            "name": "クリスマスのサプライズ",
+            "description": "【White Night! White Wish!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-01",
+            "name": "新たなステージ",
+            "description": "【Campus mode!!】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-006-03",
+            "name": "たくさんの伝えたいこと",
+            "description": "【Campus mode!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-2-000-01",
+            "name": "王者の御出まし",
+            "description": "【一番星】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-2-000-02",
+            "name": "一番星",
+            "description": "【一番星】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-2-000-03",
+            "name": "皆を導く星",
+            "description": "【一番星】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-01",
+            "name": "一番高い星",
+            "description": "【小さな野望】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-02",
+            "name": "小さな野望",
+            "description": "【小さな野望】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-000-03",
+            "name": "歌いたくて仕方がないわ",
+            "description": "【小さな野望】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-002-01",
+            "name": "夢はまだ続く",
+            "description": "【Campus mode!!】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-002-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-002-03",
+            "name": "初心を思い出して",
+            "description": "【Campus mode!!】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-01",
+            "name": "あなたにあげる",
+            "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-003-03",
+            "name": "早めに証拠隠滅を",
+            "description": "【ハッピーミルフィーユ】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-01",
+            "name": "お茶会へようこそ♪",
+            "description": "【日々、発見的ステップ！】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-02",
+            "name": "日々、発見的ステップ！",
+            "description": "【日々、発見的ステップ！】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-001-03",
+            "name": "ありのままのわたくしを！",
+            "description": "【日々、発見的ステップ！】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-002-01",
+            "name": "悪戯しちゃいますわ！",
+            "description": "【仮装狂騒曲】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-002-02",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-002-03",
+            "name": "サプライズをお届けする悪戯心",
+            "description": "【仮装狂騒曲】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-01",
+            "name": "こくりとひとくち",
+            "description": "【ようこそ初星温泉】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-02",
+            "name": "ようこそ初星温泉",
+            "description": "【ようこそ初星温泉】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-005-03",
+            "name": "お休みを取る番ですわ",
+            "description": "【ようこそ初星温泉】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-01",
+            "name": "広がり続ける世界",
+            "description": "【Campus mode!!】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-007-03",
+            "name": "生粋のワガママお嬢様",
+            "description": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-01",
+            "name": "ちいさなおひさま",
+            "description": "【雪解けに】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kcna-3-009-03",
+            "name": "愛された責任",
+            "description": "【雪解けに】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-01",
+            "name": "はじめてのラムネ",
+            "description": "【冠菊】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-02",
+            "name": "冠菊",
+            "description": "【冠菊】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-001-03",
+            "name": "もう少しだけ、このままで",
+            "description": "【冠菊】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-005-01",
+            "name": "愛をこめて",
+            "description": "【White Night! White Wish!】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-005-02",
+            "name": "White Night! White Wish!",
+            "description": "【White Night! White Wish!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-005-03",
+            "name": "センパイへ",
+            "description": "【White Night! White Wish!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-01",
+            "name": "いつか見た景色",
+            "description": "【Campus mode!!】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-006-03",
+            "name": "みんなが見ている景色",
+            "description": "【Campus mode!!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-008-01",
+            "name": "きらきらプリズム",
+            "description": "【極光】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-008-02",
+            "name": "極光",
+            "description": "【極光】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-008-03",
+            "name": "そのままのわたしで",
+            "description": "【極光】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-01",
+            "name": "放課後おしゃべり",
+            "description": "【桜フォトグラフ】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-02",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-010-03",
+            "name": "センパイの夢を叶えます！",
+            "description": "【桜フォトグラフ】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-001-01",
+            "name": "バスに揺られて",
+            "description": "【コントラスト】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-001-02",
+            "name": "コントラスト",
+            "description": "【コントラスト】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-001-03",
+            "name": "摩訶不思議な魅力",
+            "description": "【コントラスト】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-01",
+            "name": "正確無比な看板づくり",
+            "description": "【仮装狂騒曲】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-02",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-002-03",
+            "name": "面白くて、幸せな夜を……",
+            "description": "【仮装狂騒曲】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-01",
+            "name": "エウレカ！",
+            "description": "【Campus mode!!】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-007-03",
+            "name": "選んで、よかったな",
+            "description": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-01",
+            "name": "がんばった、よ",
+            "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-02",
+            "name": "ハッピーミルフィーユ",
+            "description": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-008-03",
+            "name": "本当に作りたいもの",
+            "description": "【ハッピーミルフィーユ】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-001-01",
+            "name": "昼下がりのそよ風",
+            "description": "【キミとセミブルー】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-001-02",
+            "name": "キミとセミブルー",
+            "description": "【キミとセミブルー】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-001-03",
+            "name": "来年の夏も、一緒に",
+            "description": "【キミとセミブルー】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-01",
+            "name": "踏切の先に",
+            "description": "【カクシタワタシ】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-02",
+            "name": "カクシタワタシ",
+            "description": "【カクシタワタシ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-002-03",
+            "name": "精一杯の強がり",
+            "description": "【カクシタワタシ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-007-01",
+            "name": "また、飛べる",
+            "description": "【Campus mode!!】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-007-03",
+            "name": "ここまで来て",
+            "description": "【Campus mode!!】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-01",
+            "name": "ヒーローとの出会い",
+            "description": "【桜フォトグラフ】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-02",
+            "name": "桜フォトグラフ",
+            "description": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-010-03",
+            "name": "あなたが支えてくれるなら",
+            "description": "【桜フォトグラフ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-001-01",
+            "name": "絡まる想い",
+            "description": "【アイヴイ】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-001-02",
+            "name": "アイヴイ",
+            "description": "【アイヴイ】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-001-03",
+            "name": "カッコいいアイドル",
+            "description": "【アイヴイ】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-01",
+            "name": "悪戦苦闘ハンドメイド",
+            "description": "【仮装狂騒曲】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-02",
+            "name": "仮装狂騒曲",
+            "description": "【仮装狂騒曲】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-002-03",
+            "name": "一番得意な仮装",
+            "description": "【仮装狂騒曲】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-007-01",
+            "name": "嫌いな自分にバイバイ",
+            "description": "【Campus mode!!】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-007-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-007-03",
+            "name": "バシッとファンサ",
+            "description": "【Campus mode!!】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-01",
+            "name": "おてつき注意！",
+            "description": "【雪解けに】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-02",
+            "name": "雪解けに",
+            "description": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-009-03",
+            "name": "順番に振り返りましょう",
+            "description": "【雪解けに】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-m_amao-001",
+            "name": "マスターアチーブメント",
+            "description": "有村 麻央のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_fktn-001",
+            "name": "マスターアチーブメント",
+            "description": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_hrnm-001",
+            "name": "マスターアチーブメント",
+            "description": "姫崎 莉波のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_hski-001",
+            "name": "マスターアチーブメント",
+            "description": "花海 咲季のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_hume-001",
+            "name": "マスターアチーブメント",
+            "description": "花海 佑芽のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_jsna-001",
+            "name": "マスターアチーブメント",
+            "description": "十王 星南のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_kcna-001",
+            "name": "マスターアチーブメント",
+            "description": "倉本 千奈のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_kllj-001",
+            "name": "マスターアチーブメント",
+            "description": "葛城 リーリヤのアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_shro-001",
+            "name": "マスターアチーブメント",
+            "description": "篠澤 広のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_ssmk-001",
+            "name": "マスターアチーブメント",
+            "description": "紫雲 清夏のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-m_ttmr-001",
+            "name": "マスターアチーブメント",
+            "description": "月村 手毬のアチーブメントの★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-o_001",
+            "name": "初星学園へようこそ",
+            "description": "プロデュースを始めた証"
+        },
+        {
+            "id": "achieve-o_002",
+            "name": "がんばりや",
+            "description": "お仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-o_003",
+            "name": "単位取得",
+            "description": "課題を{threshold}個クリア"
+        },
+        {
+            "id": "achieve-o_004",
+            "name": "成績優秀",
+            "description": "課題を{threshold}個クリア"
+        },
+        {
+            "id": "achieve-o_006",
+            "name": "ルーキー卒業",
+            "description": "プロデューサーLv{threshold}に到達"
+        },
+        {
+            "id": "achieve-o_007",
+            "name": "道半ば",
+            "description": "プロデューサーLv{threshold}に到達"
+        },
+        {
+            "id": "achieve-o_009",
+            "name": "打ち出の小槌",
+            "description": "活動費で合計{threshold}のマニーを受け取る"
+        },
+        {
+            "id": "achieve-o_010",
+            "name": "下積み",
+            "description": "合計ファン数を{threshold}人にする"
+        },
+        {
+            "id": "achieve-o_011",
+            "name": "稼ぎ頭",
+            "description": "合計ファン数を{threshold}人にする"
+        },
+        {
+            "id": "achieve-o_012",
+            "name": "ヒットメーカー",
+            "description": "合計ファン数を{threshold}人にする"
+        },
+        {
+            "id": "achieve-o_013",
+            "name": "幅広い人脈",
+            "description": "フォロワー数{threshold}人以上"
+        },
+        {
+            "id": "achieve-o_014",
+            "name": "チャンピオン",
+            "description": "コンテストで1位になる"
+        },
+        {
+            "id": "achieve-o_015",
+            "name": "ベスト100",
+            "description": "コンテストで100位以内に入る"
+        },
+        {
+            "id": "achieve-o_016",
+            "name": "夢への第一歩",
+            "description": "コンテストでグレード1に到達"
+        },
+        {
+            "id": "achieve-o_017",
+            "name": "青二才の努力",
+            "description": "コンテストでグレード2に到達"
+        },
+        {
+            "id": "achieve-o_018",
+            "name": "石の上にも三年",
+            "description": "コンテストでグレード3に到達"
+        },
+        {
+            "id": "achieve-o_019",
+            "name": "四六時中アイドル",
+            "description": "コンテストでグレード4に到達"
+        },
+        {
+            "id": "achieve-o_020",
+            "name": "五感を駆使して",
+            "description": "コンテストでグレード5に到達"
+        },
+        {
+            "id": "achieve-o_021",
+            "name": "六芸に通ず",
+            "description": "コンテストでグレード6に到達"
+        },
+        {
+            "id": "achieve-o_022",
+            "name": "七海に轟く",
+            "description": "コンテストでグレード7に到達"
+        },
+        {
+            "id": "achieve-o_023",
+            "name": "期待の新人",
+            "description": "コンテストでスコアを{threshold}以上獲得"
+        },
+        {
+            "id": "achieve-o_024",
+            "name": "ダークホース",
+            "description": "コンテストでスコアを{threshold}以上獲得"
+        },
+        {
+            "id": "achieve-o_025",
+            "name": "本命候補",
+            "description": "コンテストでスコアを{threshold}以上獲得"
+        },
+        {
+            "id": "achieve-o_026",
+            "name": "コンテスト覇者",
+            "description": "コンテストのグレード7で1位になる"
+        },
+        {
+            "id": "achieve-o_027",
+            "name": "一流",
+            "description": "コンテストのグレード7で100位以内に入る"
+        },
+        {
+            "id": "achieve-p_common-001",
+            "name": "縁の下の力持ち",
+            "description": "Pポイントを合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_common-002",
+            "name": "思い出いっぱい",
+            "description": "アチーブメントを{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_common-003",
+            "name": "テクニシャン",
+            "description": "スキルカードを合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_common-004",
+            "name": "サポート上手",
+            "description": "Pアイテムを合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_common-005",
+            "name": "水分補給！",
+            "description": "Pドリンクを合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_common-006",
+            "name": "準備万端",
+            "description": "スキルカードを{threshold}種類獲得"
+        },
+        {
+            "id": "achieve-p_common-007",
+            "name": "創意工夫",
+            "description": "Pアイテムを{threshold}種類獲得"
+        },
+        {
+            "id": "achieve-p_common-008",
+            "name": "ドリンクマニア",
+            "description": "Pドリンクを{threshold}種類獲得"
+        },
+        {
+            "id": "achieve-p_common-009",
+            "name": "ボーカルマスター",
+            "description": "プロデュースでVoレッスンを{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_common-010",
+            "name": "ダンスマスター",
+            "description": "プロデュースでDaレッスンを{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_common-011",
+            "name": "ビジュアルマスター",
+            "description": "プロデュースでViレッスンを{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_common-012",
+            "name": "備えあれば憂いなし",
+            "description": "プロデュースで活動支給を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_common-013",
+            "name": "学園生活",
+            "description": "プロデュースで授業/おでかけを{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_common-014",
+            "name": "指導上手",
+            "description": "プロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_common-015",
+            "name": "常連さん",
+            "description": "相談で{threshold}回交換"
+        },
+        {
+            "id": "achieve-p_common-016",
+            "name": "日々の鍛錬",
+            "description": "レッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_common-017",
+            "name": "気合を入れて",
+            "description": "SPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_common-018",
+            "name": "熱血指導",
+            "description": "プロデュースで体力を合計{threshold}消費"
+        },
+        {
+            "id": "achieve-p_common-019",
+            "name": "中級プロデューサー",
+            "description": "最終試験をスコアB以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-020",
+            "name": "上級プロデューサー",
+            "description": "最終試験をスコアA以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-021",
+            "name": "ベテランプロデューサー",
+            "description": "最終試験をスコアA+以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-022",
+            "name": "敏腕プロデューサー",
+            "description": "最終試験をスコアS以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-023",
+            "name": "エリートプロデューサー",
+            "description": "最終試験をスコアS+以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-024",
+            "name": "つぼみから花へ",
+            "description": "TrueEndアチーブメントを{threshold}個達成"
+        },
+        {
+            "id": "achieve-p_common-025",
+            "name": "積み重なる経験",
+            "description": "プロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_common-026",
+            "name": "マスタープロデューサー",
+            "description": "最終試験をスコアSS以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_common-027",
+            "name": "才能を育む者",
+            "description": "最終試験をスコアSS+以上で{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-amao-000",
+            "name": "本当のボク",
+            "description": "有村 麻央でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-amao-000-1",
+            "name": "The Little Prince",
+            "description": "有村 麻央でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-amao-001",
+            "name": "カッコよさだけじゃない",
+            "description": "有村 麻央のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-amao-002",
+            "name": "道場仕込みの運動神経",
+            "description": "有村 麻央でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-amao-003",
+            "name": "ハイブリッド",
+            "description": "有村 麻央でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-amao-004",
+            "name": "本当の魅力",
+            "description": "有村 麻央で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-005",
+            "name": "見せたい姿",
+            "description": "有村 麻央で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-006",
+            "name": "ボクらしさ",
+            "description": "有村 麻央で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-007",
+            "name": "諦めきれない夢",
+            "description": "有村 麻央のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-amao-008",
+            "name": "理想と現実",
+            "description": "有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-amao-009",
+            "name": "まだ見ぬ境地",
+            "description": "有村 麻央のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-amao-010",
+            "name": "リトルプリンス",
+            "description": "有村 麻央のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-011",
+            "name": "キミのおかげです",
+            "description": "有村 麻央の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-amao-012",
+            "name": "爽やかドリンク",
+            "description": "有村 麻央でPドリンクを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-amao-013",
+            "name": "護身術の達人",
+            "description": "有村 麻央のプロデュースで体力を合計{threshold}消費"
+        },
+        {
+            "id": "achieve-p_idol-amao-014",
+            "name": "可愛さとカッコよさ",
+            "description": "有村 麻央のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-amao-015",
+            "name": "「アイドルへの道」有村麻央",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-016",
+            "name": "なってみせますよ！",
+            "description": "有村 麻央で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-017",
+            "name": "有村麻央マスター",
+            "description": "有村 麻央の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-018",
+            "name": "プリンス麻央イリュージョン",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-amao-019",
+            "name": "たくさんの喝采",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-020",
+            "name": "受け入れて、ボクらしく",
+            "description": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-002-1",
+            "name": "らしさ",
+            "description": "【はじまりはカッコよく】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-002-2",
+            "name": "はじまりはカッコよく",
+            "description": "【はじまりはカッコよく】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-002-3",
+            "name": "キミのおかげで、ボクは――",
+            "description": "【はじまりはカッコよく】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-003-1",
+            "name": "盛装の華形",
+            "description": "【Fluorite】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-003-2",
+            "name": "Fluorite",
+            "description": "【Fluorite】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-amao-003-3",
+            "name": "めいっぱい輝いてみせますよ！",
+            "description": "【Fluorite】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-002-1",
+            "name": "Colorful Cute!",
+            "description": "【カワイイ♡はじめました】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-002-2",
+            "name": "カワイイ♡はじめました",
+            "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-002-3",
+            "name": "すぐそばで見ていてくださいね！",
+            "description": "【カワイイ♡はじめました】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-003-1",
+            "name": "よそ見はダメ♪",
+            "description": "【世界一可愛い私】藤田 ことねのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-003-2",
+            "name": "世界一可愛い私",
+            "description": "【世界一可愛い私】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-fktn-003-3",
+            "name": "ぜんぶぜんぶ可愛いんだぞ！",
+            "description": "【世界一可愛い私】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-002-1",
+            "name": "寄り添う気持ち",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-002-2",
+            "name": "『私らしさ』のはじまり",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-002-3",
+            "name": "私はきみの、お姉ちゃん",
+            "description": "【『私らしさ』のはじまり】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-003-1",
+            "name": "距離感",
+            "description": "【clumsy trick】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-003-2",
+            "name": "clumsy trick",
+            "description": "【clumsy trick】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-hrnm-003-3",
+            "name": "私の素直な気持ち",
+            "description": "【clumsy trick】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-002-1",
+            "name": "一番は譲らない",
+            "description": "【わたしが一番！】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-002-2",
+            "name": "わたしが一番！",
+            "description": "【わたしが一番！】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-002-3",
+            "name": "最後まで付き合いなさいよねっ！",
+            "description": "【わたしが一番！】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-003-1",
+            "name": "絶対に負けない",
+            "description": "【Fighting My Way】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-003-2",
+            "name": "Fighting My Way",
+            "description": "【Fighting My Way】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-hski-003-3",
+            "name": "不屈と勝利を歌ってくるわ！",
+            "description": "【Fighting My Way】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-002-1",
+            "name": "いっしょけんめい",
+            "description": "【胸を張って一歩ずつ】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-002-2",
+            "name": "胸を張って一歩ずつ",
+            "description": "【胸を張って一歩ずつ】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-002-3",
+            "name": "先生と一緒なのですものっ！",
+            "description": "【胸を張って一歩ずつ】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-003-1",
+            "name": "お嬢様の晴れ舞台",
+            "description": "【Wonder Scale】倉本 千奈のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-003-2",
+            "name": "Wonder Scale",
+            "description": "【Wonder Scale】倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-kcna-003-3",
+            "name": "ひだまりのようなライブを",
+            "description": "【Wonder Scale】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-002-1",
+            "name": "純白の妖精",
+            "description": "【一つ踏み出した先に】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-002-2",
+            "name": "一つ踏み出した先に",
+            "description": "【一つ踏み出した先に】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-002-3",
+            "name": "トップアイドルになります！",
+            "description": "【一つ踏み出した先に】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-003-1",
+            "name": "もう怖くないから",
+            "description": "【白線】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-003-2",
+            "name": "白線",
+            "description": "【白線】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-kllj-003-3",
+            "name": "この曲みたいに空を飛べるように",
+            "description": "【白線】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-002-1",
+            "name": "苦しいのが好き",
+            "description": "【一番向いてないこと】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-002-2",
+            "name": "一番向いてないこと",
+            "description": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-002-3",
+            "name": "それなら、ずっと、楽しいね",
+            "description": "【一番向いてないこと】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-003-1",
+            "name": "本気の趣味",
+            "description": "【光景】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-003-2",
+            "name": "光景",
+            "description": "【光景】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-shro-003-3",
+            "name": "わたしとみんながわくわくする歌",
+            "description": "【光景】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-002-1",
+            "name": "勇気の一歩",
+            "description": "【夢へのリスタート】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-002-2",
+            "name": "夢へのリスタート",
+            "description": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-002-3",
+            "name": "裏切ったら恨むからね？",
+            "description": "【夢へのリスタート】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-003-1",
+            "name": "ワンモアステップ",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-003-2",
+            "name": "Tame-Lie-One-Step",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-ssmk-003-3",
+            "name": "ためらいがあっても、もう一歩",
+            "description": "【Tame-Lie-One-Step】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-002-1",
+            "name": "ローン・ウルフ",
+            "description": "【一匹狼】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-002-2",
+            "name": "一匹狼",
+            "description": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-002-3",
+            "name": "一番高いところまで、連れていく",
+            "description": "【一匹狼】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-003-1",
+            "name": "それぞれの道",
+            "description": "【Luna say maybe】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-003-2",
+            "name": "Luna say maybe",
+            "description": "【Luna say maybe】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-card-ttmr-003-3",
+            "name": "素直になれない、ひねくれ者の歌",
+            "description": "【Luna say maybe】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-000",
+            "name": "アイドルになったんだ",
+            "description": "藤田 ことねでTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-fktn-000-1",
+            "name": "生涯一度きりみたいな",
+            "description": "藤田 ことねでTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-fktn-001",
+            "name": "QOL",
+            "description": "藤田 ことねのプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-fktn-002",
+            "name": "イチバンかわいい",
+            "description": "藤田 ことねでレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-fktn-003",
+            "name": "世界一かわいい",
+            "description": "藤田 ことねでSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-fktn-004",
+            "name": "仕事は仕事",
+            "description": "藤田 ことねで最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-005",
+            "name": "つまずいてなんていられない",
+            "description": "藤田 ことねで最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-006",
+            "name": "成り上がりはここから",
+            "description": "藤田 ことねで最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-007",
+            "name": "成り上がれ！",
+            "description": "藤田 ことねのプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-fktn-008",
+            "name": "秘めた才能",
+            "description": "藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-fktn-009",
+            "name": "もっと褒めてぇ～♡",
+            "description": "藤田 ことねのプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-fktn-010",
+            "name": "初星学園の看板娘",
+            "description": "藤田 ことねのファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-011",
+            "name": "ぷろでゅ～さぁ～♡",
+            "description": "藤田 ことねの親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-fktn-012",
+            "name": "アイドル適性S",
+            "description": "藤田 ことねでプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-013",
+            "name": "やりくり上手",
+            "description": "藤田 ことねのプロデュースの相談で{threshold}回交換"
+        },
+        {
+            "id": "achieve-p_idol-fktn-014",
+            "name": "軽快ステップ",
+            "description": "藤田 ことねのダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-fktn-015",
+            "name": "「アイドルへの道」藤田ことね",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-016",
+            "name": "一緒に大儲けしましょ～ね♡",
+            "description": "藤田 ことねで最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-017",
+            "name": "藤田ことねマスター",
+            "description": "藤田 ことねの難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-018",
+            "name": "比類なきアイドルの才能",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-fktn-019",
+            "name": "未来の財源",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-020",
+            "name": "目指してきた、星の光",
+            "description": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-000",
+            "name": "本当のきもち",
+            "description": "姫崎 莉波でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-000-1",
+            "name": "きみが手を引いてくれた",
+            "description": "姫崎 莉波でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-001",
+            "name": "理想の姉へ",
+            "description": "姫崎 莉波のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-002",
+            "name": "ほのかな芽生え",
+            "description": "姫崎 莉波でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-003",
+            "name": "あふれだす想い",
+            "description": "姫崎 莉波でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-004",
+            "name": "あの頃に戻ったみたい",
+            "description": "姫崎 莉波で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-005",
+            "name": "きみの好きな私",
+            "description": "姫崎 莉波で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-006",
+            "name": "お姉さんスイッチ",
+            "description": "姫崎 莉波で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-007",
+            "name": "今度こそリスタート",
+            "description": "姫崎 莉波のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-008",
+            "name": "きみの気持ちに応えたい",
+            "description": "姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-009",
+            "name": "お姉さんとの約束だよ",
+            "description": "姫崎 莉波のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-010",
+            "name": "お姉さんの包容力",
+            "description": "姫崎 莉波のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-011",
+            "name": "私はきみの……",
+            "description": "姫崎 莉波の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-012",
+            "name": "心に潤いを",
+            "description": "姫崎 莉波でPドリンクを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-013",
+            "name": "真面目にこつこつ",
+            "description": "姫崎 莉波のプロデュースで体力を合計{threshold}消費"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-014",
+            "name": "優しい笑顔",
+            "description": "姫崎 莉波のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-015",
+            "name": "「アイドルへの道」姫崎莉波",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-016",
+            "name": "大事な、言えない、願いごと",
+            "description": "姫崎 莉波で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-017",
+            "name": "姫崎莉波マスター",
+            "description": "姫崎 莉波の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-018",
+            "name": "お姉さん力強化週間",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-019",
+            "name": "守るべき存在",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-020",
+            "name": "夢を託され、夢を見せる",
+            "description": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-000",
+            "name": "無敵のトップアイドル",
+            "description": "花海 咲季でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hski-000-1",
+            "name": "わたしのベストパートナー",
+            "description": "花海 咲季でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-hski-001",
+            "name": "もう逃げない",
+            "description": "花海 咲季のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hski-002",
+            "name": "入学試験首席の力よ！",
+            "description": "花海 咲季でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hski-003",
+            "name": "早熟の天才",
+            "description": "花海 咲季でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hski-004",
+            "name": "不屈のアイドル",
+            "description": "花海 咲季で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-005",
+            "name": "最高のお姉ちゃん",
+            "description": "花海 咲季で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-006",
+            "name": "一世一代の悪あがき",
+            "description": "花海 咲季で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-007",
+            "name": "妹への挑戦",
+            "description": "花海 咲季のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hski-008",
+            "name": "限界はまだ",
+            "description": "花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hski-009",
+            "name": "合格は当たり前",
+            "description": "花海 咲季のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hski-010",
+            "name": "小さなお姉ちゃん",
+            "description": "花海 咲季のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-011",
+            "name": "期待してるからっ！",
+            "description": "花海 咲季の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hski-012",
+            "name": "トップまで止まらない",
+            "description": "花海 咲季でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-013",
+            "name": "無限の向上心",
+            "description": "花海 咲季のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-hski-014",
+            "name": "オールラウンダー",
+            "description": "花海 咲季のビジュアルを900以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-hski-015",
+            "name": "「アイドルへの道」花海咲季",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-016",
+            "name": "一度だって負けてあげない",
+            "description": "花海 咲季で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-017",
+            "name": "花海咲季マスター",
+            "description": "花海 咲季の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-018",
+            "name": "トップアイドルに必要なもの",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hski-019",
+            "name": "外付けの筋肉",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-020",
+            "name": "アイドルとしての武器",
+            "description": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-000",
+            "name": "人生最高のファインプレー",
+            "description": "花海 佑芽でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hume-000-1",
+            "name": "アイドルが大好きです！",
+            "description": "花海 佑芽でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-hume-001",
+            "name": "姉への挑戦",
+            "description": "花海 佑芽のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hume-002",
+            "name": "地道なトレーニング",
+            "description": "花海 佑芽でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hume-003",
+            "name": "無限の体力",
+            "description": "花海 佑芽でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hume-004",
+            "name": "気持ちだけは負けません",
+            "description": "花海 佑芽で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-005",
+            "name": "次こそ絶対！",
+            "description": "花海 佑芽で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-006",
+            "name": "今日より強いあたし",
+            "description": "花海 佑芽で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-007",
+            "name": "考える前に動け",
+            "description": "花海 佑芽のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hume-008",
+            "name": "加速度的成長",
+            "description": "花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hume-009",
+            "name": "輝く原石",
+            "description": "花海 佑芽のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hume-010",
+            "name": "王道アイドル",
+            "description": "花海 佑芽のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-011",
+            "name": "プロデューサーさんっ！",
+            "description": "花海 佑芽の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hume-012",
+            "name": "たくさんほしいです！",
+            "description": "花海 佑芽でPドリンクを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hume-013",
+            "name": "溢れ出る元気",
+            "description": "花海 佑芽のプロデュースで元気を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-014",
+            "name": "着実な進歩",
+            "description": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-hume-015",
+            "name": "「アイドルへの道」花海佑芽",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-016",
+            "name": "目指すは常勝不敗！",
+            "description": "花海 佑芽で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-017",
+            "name": "花海佑芽マスター",
+            "description": "花海 佑芽の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-018",
+            "name": "圧倒的な数値",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hume-019",
+            "name": "自分の一部",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-020",
+            "name": "さらなるブレイクスルー",
+            "description": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-000",
+            "name": "真のトップアイドル",
+            "description": "十王 星南でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-jsna-000-1",
+            "name": "頂点のその先へ",
+            "description": "十王 星南でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-jsna-001",
+            "name": "新しい一面",
+            "description": "十王 星南のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-jsna-002",
+            "name": "積み上げてきたもの",
+            "description": "十王 星南でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-jsna-003",
+            "name": "強く輝く星",
+            "description": "十王 星南でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-jsna-004",
+            "name": "希望があるなら",
+            "description": "十王 星南で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-005",
+            "name": "弱点を武器に",
+            "description": "十王 星南で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-006",
+            "name": "夢はここにある",
+            "description": "十王 星南で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-007",
+            "name": "可能性を求めて",
+            "description": "十王 星南のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-jsna-008",
+            "name": "一番星の風格",
+            "description": "十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-jsna-009",
+            "name": "限界のその先へ",
+            "description": "十王 星南のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-jsna-010",
+            "name": "幼い頃のように",
+            "description": "十王 星南のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-011",
+            "name": "見ていて、先輩",
+            "description": "十王 星南の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-jsna-012",
+            "name": "全部頂戴",
+            "description": "十王 星南のプロデュースの相談で{threshold}回交換"
+        },
+        {
+            "id": "achieve-p_idol-jsna-013",
+            "name": "すべてを糧にして",
+            "description": "十王 星南のプロデュースで体力を合計{threshold}消費"
+        },
+        {
+            "id": "achieve-p_idol-jsna-014",
+            "name": "完全無欠",
+            "description": "十王 星南のビジュアルを900以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-jsna-015",
+            "name": "「アイドルへの道」十王星南",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-016",
+            "name": "共に頂点へ",
+            "description": "十王 星南で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-017",
+            "name": "十王星南マスター",
+            "description": "十王 星南の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-018",
+            "name": "育むべき輝き",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-jsna-019",
+            "name": "スターゲイザー",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-020",
+            "name": "手にした輝き",
+            "description": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-000",
+            "name": "レベル1の駆け出しアイドル",
+            "description": "倉本 千奈でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-kcna-000-1",
+            "name": "世界で一番未熟な一流アイドル",
+            "description": "倉本 千奈でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-kcna-001",
+            "name": "練習、練習、また練習",
+            "description": "倉本 千奈のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-kcna-002",
+            "name": "スタートライン",
+            "description": "倉本 千奈でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-kcna-003",
+            "name": "元気一点突破",
+            "description": "倉本 千奈でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-kcna-004",
+            "name": "ぶっちぎりで最下位ですわ！",
+            "description": "倉本 千奈で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-005",
+            "name": "お爺様への反逆",
+            "description": "倉本 千奈で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-006",
+            "name": "立派なアイドルに！",
+            "description": "倉本 千奈で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-007",
+            "name": "落ちこぼれからの挑戦",
+            "description": "倉本 千奈のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-kcna-008",
+            "name": "一歩一歩成長中！",
+            "description": "倉本 千奈の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-kcna-009",
+            "name": "落ちこぼれとは言わせない",
+            "description": "倉本 千奈のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-kcna-010",
+            "name": "愛されアイドル",
+            "description": "倉本 千奈のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-011",
+            "name": "先生っ！！",
+            "description": "倉本 千奈の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-kcna-012",
+            "name": "天真爛漫",
+            "description": "倉本 千奈のプロデュースで元気を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-013",
+            "name": "財力",
+            "description": "倉本 千奈のプロデュースの相談で{threshold}回交換"
+        },
+        {
+            "id": "achieve-p_idol-kcna-014",
+            "name": "ダメダメだって頑張ってる",
+            "description": "倉本 千奈のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-kcna-015",
+            "name": "「アイドルへの道」倉本千奈",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-016",
+            "name": "夢の舞台へ邁進ですわ",
+            "description": "倉本 千奈で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-017",
+            "name": "倉本千奈マスター",
+            "description": "倉本 千奈の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-018",
+            "name": "961式プロデュース改",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-kcna-019",
+            "name": "わたくしの宝物",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-020",
+            "name": "切り離すことのできない力",
+            "description": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-000",
+            "name": "光",
+            "description": "葛城 リーリヤでTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-kllj-000-1",
+            "name": "トップアイドルになります！",
+            "description": "葛城 リーリヤでTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-kllj-001",
+            "name": "笑顔の練習",
+            "description": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-kllj-002",
+            "name": "基本の『き』から",
+            "description": "葛城 リーリヤでレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-kllj-003",
+            "name": "ビシバシやります",
+            "description": "葛城 リーリヤでSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-kllj-004",
+            "name": "みんなの前で歌いたい",
+            "description": "葛城 リーリヤで最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-005",
+            "name": "アイドルになります",
+            "description": "葛城 リーリヤで最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-006",
+            "name": "羽ばたいたリーリヤ",
+            "description": "葛城 リーリヤで最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-007",
+            "name": "勇気を出して",
+            "description": "葛城 リーリヤのプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-kllj-008",
+            "name": "歩くような速さだとしても",
+            "description": "葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-kllj-009",
+            "name": "走り続けたその先",
+            "description": "葛城 リーリヤのプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-kllj-010",
+            "name": "真っ直ぐな眼差し",
+            "description": "葛城 リーリヤのファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-011",
+            "name": "センパイと一緒なら……",
+            "description": "葛城 リーリヤの親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-kllj-012",
+            "name": "大きく声を出して",
+            "description": "葛城 リーリヤのプロデュースで元気を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-013",
+            "name": "踏み出す勇気",
+            "description": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-kllj-014",
+            "name": "楽しませる喜び",
+            "description": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-kllj-015",
+            "name": "「アイドルへの道」葛城リーリヤ",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-016",
+            "name": "もっと高く！",
+            "description": "葛城 リーリヤで最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-017",
+            "name": "葛城リーリヤマスター",
+            "description": "葛城 リーリヤの難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-018",
+            "name": "最後に笑うために",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-kllj-019",
+            "name": "ひとりひとり、大切な存在",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-020",
+            "name": "弱さは強さ",
+            "description": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-000",
+            "name": "ずっと、楽しいね",
+            "description": "篠澤 広でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-shro-000-1",
+            "name": "わたしたちの夢",
+            "description": "篠澤 広でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-shro-001",
+            "name": "課題達成",
+            "description": "篠澤 広のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-shro-002",
+            "name": "倒れなかった回数",
+            "description": "篠澤 広でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-shro-003",
+            "name": "辛いほどいい",
+            "description": "篠澤 広でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-shro-004",
+            "name": "一番向いていない仕事",
+            "description": "篠澤 広で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-005",
+            "name": "悔しいかもしれない",
+            "description": "篠澤 広で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-006",
+            "name": "本契約",
+            "description": "篠澤 広で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-007",
+            "name": "茨の道",
+            "description": "篠澤 広のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-shro-008",
+            "name": "次の課題はなに？",
+            "description": "篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-shro-009",
+            "name": "あたってくだけろ",
+            "description": "篠澤 広のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-shro-010",
+            "name": "放っておけない",
+            "description": "篠澤 広のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-011",
+            "name": "まだ見捨てない？",
+            "description": "篠澤 広の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-shro-012",
+            "name": "才能なしでもやれること",
+            "description": "篠澤 広でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-013",
+            "name": "苦難こそ喜び",
+            "description": "篠澤 広のプロデュースで元気を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-014",
+            "name": "ミステリアスガール",
+            "description": "篠澤 広のボーカルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-shro-015",
+            "name": "「アイドルへの道」篠澤広",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-016",
+            "name": "ままならない日々は、終わらない",
+            "description": "篠澤 広で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-017",
+            "name": "篠澤広マスター",
+            "description": "篠澤 広の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-018",
+            "name": "地獄のですろーど",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-shro-019",
+            "name": "変わり者がいっぱい",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-020",
+            "name": "ですろーど、踏破",
+            "description": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-000",
+            "name": "踏み出した一歩",
+            "description": "紫雲 清夏でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-000-1",
+            "name": "あたしの居場所",
+            "description": "紫雲 清夏でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-001",
+            "name": "まずは遊びから",
+            "description": "紫雲 清夏のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-002",
+            "name": "センスは抜群",
+            "description": "紫雲 清夏でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-003",
+            "name": "前を向いて",
+            "description": "紫雲 清夏でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-004",
+            "name": "そこまで言うならやってあげる！",
+            "description": "紫雲 清夏で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-005",
+            "name": "その嘘が本当になるまで",
+            "description": "紫雲 清夏で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-006",
+            "name": "ケジメとキズナと",
+            "description": "紫雲 清夏で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-007",
+            "name": "諦められない",
+            "description": "紫雲 清夏のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-008",
+            "name": "明けない夜を終わらせて",
+            "description": "紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-009",
+            "name": "本気を出せば",
+            "description": "紫雲 清夏のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-010",
+            "name": "トモダチ",
+            "description": "紫雲 清夏のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-011",
+            "name": "ありがと、Pっち",
+            "description": "紫雲 清夏の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-012",
+            "name": "流行りはバッチリ",
+            "description": "紫雲 清夏でPドリンクを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-013",
+            "name": "調子いいかも♪",
+            "description": "紫雲 清夏のプロデュースで体力を合計{threshold}消費"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-014",
+            "name": "未来へのステップ",
+            "description": "紫雲 清夏のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-015",
+            "name": "「アイドルへの道」紫雲清夏",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-016",
+            "name": "ふたりで強くなろーね！",
+            "description": "紫雲 清夏で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-017",
+            "name": "紫雲清夏マスター",
+            "description": "紫雲 清夏の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-018",
+            "name": "全力で頼る覚悟",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-019",
+            "name": "羽ばたくための力",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-020",
+            "name": "もう何も隠さない",
+            "description": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-000",
+            "name": "私だけのプロデューサー",
+            "description": "月村 手毬でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-000-1",
+            "name": "本物よりも高く飛べる",
+            "description": "月村 手毬でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-001",
+            "name": "体質改善",
+            "description": "月村 手毬のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-002",
+            "name": "ストイック",
+            "description": "月村 手毬でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-003",
+            "name": "ワンマンシンガー",
+            "description": "月村 手毬でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-004",
+            "name": "失望させないで",
+            "description": "月村 手毬で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-005",
+            "name": "2人の秘密",
+            "description": "月村 手毬で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-006",
+            "name": "一番高いところまで",
+            "description": "月村 手毬で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-007",
+            "name": "意地とプライド",
+            "description": "月村 手毬のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-008",
+            "name": "どこまでも高く",
+            "description": "月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-009",
+            "name": "当然です",
+            "description": "月村 手毬のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-010",
+            "name": "孤高の負けず嫌い",
+            "description": "月村 手毬のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-011",
+            "name": "そんなに私がいいんだ？",
+            "description": "月村 手毬の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-012",
+            "name": "全身全霊",
+            "description": "月村 手毬のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-013",
+            "name": "妥協はナシ",
+            "description": "月村 手毬のプロデュースの相談で{threshold}回交換"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-014",
+            "name": "歌姫",
+            "description": "月村 手毬のボーカルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-015",
+            "name": "「アイドルへの道」月村手毬",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-016",
+            "name": "どんな天才よりも",
+            "description": "月村 手毬で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-017",
+            "name": "月村手毬マスター",
+            "description": "月村 手毬の難易度「マスター」で最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-018",
+            "name": "計画外のプロデュース",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-019",
+            "name": "特別で運命",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-020",
+            "name": "ようやく、同じ高さで",
+            "description": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得"
+        }
+    ]
+}

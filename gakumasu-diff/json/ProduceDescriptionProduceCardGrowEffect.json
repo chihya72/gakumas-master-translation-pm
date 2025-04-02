@@ -1,0 +1,221 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProduceCardGrowEffectType_LessonAdd",
+            "name": "パラメータ値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonReduce",
+            "name": "パラメータ値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonCountAdd",
+            "name": "パラメータ上昇回数増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonCountReduce",
+            "name": "パラメータ上昇回数減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_BlockAdd",
+            "name": "元気値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_BlockReduce",
+            "name": "元気値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_FullPowerPointAdd",
+            "name": "全力値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_FullPowerPointReduce",
+            "name": "全力値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostBuffReduce",
+            "name": "強化状態コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostBuffAdd",
+            "name": "強化状態コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReduce",
+            "name": "コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAdd",
+            "name": "コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
+            "name": "体力消費コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
+            "name": "体力消費コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
+            "name": "好調値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffTurnReduce",
+            "name": "好調値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonBuffAdd",
+            "name": "集中値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonBuffReduce",
+            "name": "集中値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ReviewAdd",
+            "name": "好印象値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ReviewReduce",
+            "name": "好印象値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_AggressiveAdd",
+            "name": "やる気値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_AggressiveReduce",
+            "name": "やる気値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardDrawAdd",
+            "name": "ドロー枚数増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardDrawReduce",
+            "name": "ドロー枚数減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnAdd",
+            "name": "絶好調値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_ParameterBuffMultiplePerTurnReduce",
+            "name": "絶好調値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnAdd",
+            "name": "消費体力減少値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionDownTurnReduce",
+            "name": "消費体力減少値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnAdd",
+            "name": "消費体力増加値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_StaminaConsumptionAddTurnReduce",
+            "name": "消費体力増加値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectAdd",
+            "name": "効果追加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectDelete",
+            "name": "効果削除"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_EffectChange",
+            "name": "効果置換"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CardStatusEnchantChange",
+            "name": "成長効果置換"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayTriggerChange",
+            "name": "使用可能条件を置換"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayEffectTriggerChange",
+            "name": "効果発動条件を置換"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
+            "name": "使用後移動先変更"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_InitialAdd",
+            "name": "開始時手札効果付与"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
+            "name": "集中コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
+            "name": "集中コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReviewReduce",
+            "name": "好印象コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostReviewAdd",
+            "name": "好印象コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
+            "name": "やる気コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
+            "name": "やる気コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
+            "name": "好調コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
+            "name": "好調コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
+            "name": "全力値コスト値減少"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
+            "name": "全力値コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
+            "name": "元気分パラメータ倍率増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependExamCardPlayAggressiveAdd",
+            "name": "やる気分パラメータ倍率増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_LessonDependExamReviewAdd",
+            "name": "好印象分パラメータ倍率増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
+            "name": "絶好調コスト値増加"
+        },
+        {
+            "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
+            "name": "絶好調コスト値減少"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "mainStoryPartId",
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-01",
+            "title": "1章",
+            "description": "はじめまして初星学園"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-02",
+            "title": "2章",
+            "description": "アイドルたちの共同生活"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-03",
+            "title": "3章",
+            "description": "わたしたちはRe;IRIS"
+        },
+        {
+            "mainStoryPartId": "story-main-01",
+            "id": "story-main-01-04",
+            "title": "4章",
+            "description": "Hatsuboshi IDOL FESTIVAL"
+        }
+    ]
+}

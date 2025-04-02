@@ -1,0 +1,25 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProducePlanType_Common",
+            "name": "共通"
+        },
+        {
+            "type": "ProducePlanType_Plan1",
+            "name": "【センス専用】"
+        },
+        {
+            "type": "ProducePlanType_Plan2",
+            "name": "【ロジック専用】"
+        },
+        {
+            "type": "ProducePlanType_Plan3",
+            "name": "【アノマリー専用】"
+        }
+    ]
+}

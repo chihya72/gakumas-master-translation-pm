@@ -1,0 +1,182 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id",
+            "order"
+        ]
+    },
+    "data": [
+        {
+            "id": "help-achievement",
+            "order": 13,
+            "name": "アチーブメント",
+            "texts": [
+                "アチーブメントは様々な条件を満たすと獲得できます。プロデューサーLv上昇のための経験値など様々な報酬を獲得できるので積極的にアチーブメントを集めましょう。",
+                "アチーブメントを獲得した時に入手できる星が一定数に達するとマスターアチーブメントを獲得できます。マスターアチーブメントは入手した星の数に応じてランクアップし、報酬を獲得できます。",
+                "True EndアチーブメントはTrue Endに到達すると獲得できます。True Endアチーブメントを獲得すると、アイドルのパラメータが上昇します。"
+            ]
+        },
+        {
+            "id": "help-box-gasha-event",
+            "order": 20,
+            "name": "シーズンイベント",
+            "texts": []
+        },
+        {
+            "id": "help-circle-battle-event",
+            "order": 22,
+            "name": "地方行脚イベント",
+            "texts": []
+        },
+        {
+            "id": "help-contest",
+            "order": 8,
+            "name": "コンテスト",
+            "texts": [
+                "全国のプロデューサーと対戦することができます。\nコンテストでは、プロデュースで獲得した\nメモリーに紐づくパラメータ、スキルカード、\nPアイテムをつかって対戦ができます。",
+                "ステージごとにパフォーマンス対決を行い、\n獲得したスコアで勝敗を競います。\nステージの勝利数が多いプロデューサーが\n勝利となります。",
+                "コンテストにはグレードがあります。\nランキング上位になると\nより高いグレードに昇格できます。\nグレードが高くなると報酬が豪華になります。",
+                "コンテストメダルを集めると\nアイテム交換所で\n豪華な報酬と交換することができます。"
+            ]
+        },
+        {
+            "id": "help-event_mission",
+            "order": 21,
+            "name": "イベントミッション",
+            "texts": []
+        },
+        {
+            "id": "help-event-mission",
+            "order": 18,
+            "name": "特別ミッション",
+            "texts": []
+        },
+        {
+            "id": "help-gasha",
+            "order": 10,
+            "name": "ガシャ",
+            "texts": []
+        },
+        {
+            "id": "help-guild",
+            "order": 12,
+            "name": "サークル",
+            "texts": [
+                "サークルでは全国のプロデューサーとサークルを組んで交流することができます。",
+                "サークルではサークルメンバーに対して特訓アイテムを募集することができ、寄付されたアイテムを受け取ることができます。またアイテムを寄付するとフレンドコインを獲得できます。"
+            ]
+        },
+        {
+            "id": "help-highscore",
+            "order": 20,
+            "name": "十王邦夫のアイドル強化月間",
+            "texts": []
+        },
+        {
+            "id": "help-highscorerush",
+            "order": 20,
+            "name": "十王邦夫のアイドル強化月間・改",
+            "texts": []
+        },
+        {
+            "id": "help-home",
+            "order": 1,
+            "name": "ホーム",
+            "texts": []
+        },
+        {
+            "id": "help-idol",
+            "order": 2,
+            "name": "アイドル",
+            "texts": []
+        },
+        {
+            "id": "help-lesson",
+            "order": 6,
+            "name": "レッスン/試験",
+            "texts": []
+        },
+        {
+            "id": "help-main-story-event",
+            "order": 19,
+            "name": "初星コミュイベント",
+            "texts": []
+        },
+        {
+            "id": "help-memory",
+            "order": 4,
+            "name": "メモリー",
+            "texts": []
+        },
+        {
+            "id": "help-menu",
+            "order": 15,
+            "name": "メニュー",
+            "texts": []
+        },
+        {
+            "id": "help-mission",
+            "order": 11,
+            "name": "ミッション",
+            "texts": []
+        },
+        {
+            "id": "help-panel-mission",
+            "order": 17,
+            "name": "パネルミッションイベント",
+            "texts": []
+        },
+        {
+            "id": "help-photography-prepare-top",
+            "order": 19,
+            "name": "アイドル撮影",
+            "texts": []
+        },
+        {
+            "id": "help-produce",
+            "order": 5,
+            "name": "プロデュース",
+            "texts": [
+                "試験に合格して、ライブ出場を目指しましょう。\nライブに出場するためには、\n中間試験と最終試験に合格する必要があります。",
+                "試験に合格するためには、\nアイドルのパラメータが重要です。\n試験に向けてパラメータを育成しましょう。",
+                "試験ごとに審査基準があります。\n審査基準に合わせてパラメータを育成すると\n試験に合格しやすくなります。"
+            ]
+        },
+        {
+            "id": "help-shop",
+            "order": 14,
+            "name": "ショップ",
+            "texts": []
+        },
+        {
+            "id": "help-story",
+            "order": 7,
+            "name": "コミュ",
+            "texts": []
+        },
+        {
+            "id": "help-story-event",
+            "order": 16,
+            "name": "ストーリーイベント",
+            "texts": []
+        },
+        {
+            "id": "help-story-event-guild-mission",
+            "order": 21,
+            "name": "連携ミッション",
+            "texts": []
+        },
+        {
+            "id": "help-support",
+            "order": 3,
+            "name": "サポートカード",
+            "texts": []
+        },
+        {
+            "id": "help-tower",
+            "order": 9,
+            "name": "アイドルへの道",
+            "texts": []
+        }
+    ]
+}

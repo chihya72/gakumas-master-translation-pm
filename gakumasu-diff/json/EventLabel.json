@@ -1,0 +1,45 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "eventType"
+        ]
+    },
+    "data": [
+        {
+            "eventType": "EventType_MissionDailyRelease",
+            "name": "特別ミッション"
+        },
+        {
+            "eventType": "EventType_MissionPanel",
+            "name": "パネルミッション"
+        },
+        {
+            "eventType": "EventType_ProduceHighScore",
+            "name": "十王邦夫のアイドル強化月間"
+        },
+        {
+            "eventType": "EventType_StoryCampaign",
+            "name": "コミュ無料解放中"
+        },
+        {
+            "eventType": "EventType_StoryEvent",
+            "name": "ストーリー"
+        },
+        {
+            "eventType": "EventType_StoryEventMainStory",
+            "name": "初星コミュ"
+        },
+        {
+            "eventType": "EventType_StoryEventBoxGasha",
+            "name": "シーズン"
+        },
+        {
+            "eventType": "EventType_StoryEventGuildMission",
+            "name": "ストーリー"
+        },
+        {
+            "eventType": "EventType_GvgRaid",
+            "name": "地方行脚"
+        }
+    ]
+}

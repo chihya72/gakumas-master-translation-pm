@@ -1,0 +1,333 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "type"
+        ]
+    },
+    "data": [
+        {
+            "type": "ProduceExamEffectType_ExamLesson",
+            "name": "パラメータ"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuff",
+            "name": "好調"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlock",
+            "name": "元気"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardDraw",
+            "name": "スキルカードを引く"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDown",
+            "name": "消費体力減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardCreateId",
+            "name": "生成"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaReduceFix",
+            "name": "体力消費"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuff",
+            "name": "集中"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardUpgrade",
+            "name": "レッスン中強化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPlayableValueAdd",
+            "name": "スキルカード使用数追加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffMultiple",
+            "name": "集中効果一時増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardStaminaConsumptionChange",
+            "name": "消費体力変化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockRestriction",
+            "name": "元気増加無効"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStatusEnchant",
+            "name": "持続効果"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardStaminaConsumptionDownSpecify",
+            "name": "消費体力低下"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaDamage",
+            "name": "体力減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverFix",
+            "name": "体力回復"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonFix",
+            "name": "固定パラメータ"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardDuplicate",
+            "name": "複製"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReview",
+            "name": "好印象"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardSearchEffectPlayCountBuff",
+            "name": "スキルカード追加発動"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultiple",
+            "name": "パラメータ上昇量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamCardPlayAggressive",
+            "name": "やる気"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamConcentration",
+            "name": "強気"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPreservation",
+            "name": "温存"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPower",
+            "name": "全力"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStanceReset",
+            "name": "指針解除"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPoint",
+            "name": "全力値"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointReduce",
+            "name": "全力値減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamSearchPlayCardStaminaConsumptionChange",
+            "name": "消費体力変化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamUplifting",
+            "name": "高揚"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamExtraTurn",
+            "name": "ターン追加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAntiDebuff",
+            "name": "低下状態無効"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAdd",
+            "name": "消費体力増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockAddDown",
+            "name": "不安"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockAddDownRestriction",
+            "name": "不安無効"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverAdd",
+            "name": "体力回復効果増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaReduceChange",
+            "name": "体力消費軽減"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamPanic",
+            "name": "気まぐれ"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonChangeSpecifyLessThan",
+            "name": "パラメータ上昇値変更"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamHandHold",
+            "name": "手札持ち越し"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAddFix",
+            "name": "消費体力追加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionAddDown",
+            "name": "消費体力増加効果減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaRecoverRestriction",
+            "name": "体力回復無効"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDownAdd",
+            "name": "消費体力減少効果増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGetCardUpgrade",
+            "name": "生成強化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaConsumptionDownFix",
+            "name": "消費体力削減"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamHandGraveCountCardDraw",
+            "name": "手札を入れ替える"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEffectTimer",
+            "name": "発動予約"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickLessonDebuff",
+            "name": "緊張"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickParameterDebuff",
+            "name": "不調"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickSleepy",
+            "name": "弱気"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickEnthusiastic",
+            "name": "熱意"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickPlayCardLimit",
+            "name": "使用不可"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickSlump",
+            "name": "スランプ"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGimmickStartTurnCardDrawDown",
+            "name": "手札減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamBlockFix",
+            "name": "固定元気"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonChangeSpecifyMoreThan",
+            "name": "うわの空"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurn",
+            "name": "絶好調"
+        },
+        {
+            "type": "ProduceExamEffectType_StanceLock",
+            "name": "指針固定"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamDebuffRecover",
+            "name": "低下状態回復"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewReduce",
+            "name": "好印象減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveReduce",
+            "name": "やる気減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffReduce",
+            "name": "集中減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffReduce",
+            "name": "好調減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
+            "name": "パラメータ上昇量減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAddGrowEffect",
+            "name": "成長"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamOverPreservation",
+            "name": "のんびり"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEnthusiasticAdditive",
+            "name": "熱意追加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEnthusiasticMultiple",
+            "name": "熱意増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerLessonMultipleAdditive",
+            "name": "全力強化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamConcentrationLessonMultipleAdditive",
+            "name": "強気強化"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonBuffAdditive",
+            "name": "集中増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffAdditive",
+            "name": "好調増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamAggressiveAdditive",
+            "name": "やる気増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewAdditive",
+            "name": "好印象増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamFullPowerPointAdditive",
+            "name": "全力値増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamGrowEffectLessonAddAdditive",
+            "name": "パラメータ上昇値増加量増加"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
+            "name": "好調減少"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
+            "name": "プライド(仮)"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamReviewMultiple",
+            "name": "好印象強化"
+        }
+    ]
+}

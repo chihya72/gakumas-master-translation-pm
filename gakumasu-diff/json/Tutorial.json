@@ -1,0 +1,1417 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "tutorialType",
+            "step",
+            "subStep"
+        ]
+    },
+    "data": [
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 2,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 3,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 6,
+            "subStep": 1,
+            "texts": [
+                "レッスンクリアおめでとう！\nレッスンの目標を達成すると\n報酬を獲得することができますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 6,
+            "subStep": 2,
+            "texts": [
+                "この中からひとつ選べるみたいですね\n今回はこちらのスキルカードを\n受け取ってみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 6,
+            "subStep": 3,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 6,
+            "subStep": 4,
+            "texts": [
+                "レッスン目標をクリアすると、\nプロデュースに役立つ報酬を獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 9,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 10,
+            "subStep": 1,
+            "texts": [
+                "体力が少なくなっているようですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 10,
+            "subStep": 2,
+            "texts": [
+                "「休む」を選択して\nアイドルを休ませてあげましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 10,
+            "subStep": 3,
+            "texts": [
+                "体力が少なくなったら「休む」で体力を回復して\n試験やレッスンに備えましょう。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 10,
+            "subStep": 4,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 11,
+            "subStep": 1,
+            "texts": [
+                "他のアイドルとスコアを競い合い\n３位以内に入ると合格できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 1,
+            "texts": [
+                "レッスンと同じスキルカードを使用し、\nスコアを上昇させて順位を競います"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 2,
+            "texts": [
+                "こちらで現在のスコアと順位が\n確認できます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 3,
+            "texts": [
+                "試験終了時、\n３位以内だと合格になりますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 4,
+            "texts": [
+                "さっそくスキルカードを使用して\nスコアを上げていきましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 5,
+            "texts": [
+                "レッスン時より大きく上昇しましたね\n試験ではパラメータに応じて、\nスコアにボーナスがかかります"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 6,
+            "texts": [
+                "ボーナスはこちらで確認できます\nターンごとにボーナスが変わるので\n注意してくださいね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 7,
+            "texts": [
+                "それではあと３ターン\n試験頑張ってください！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 8,
+            "texts": [
+                "試験ではターンごとにスコアにボーナスがかかります。\nパラメータが高いほどスコアボーナスの値が大きく\nなります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 12,
+            "subStep": 9,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 13,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 14,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 15,
+            "subStep": 1,
+            "texts": [
+                "ライブ中は最大５０回撮影ができます\nアイドルの姿を記録にのこしましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 16,
+            "subStep": 1,
+            "texts": [
+                "プロデュース結果とアイドルの成長によって\n出場できるライブが決まります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 16,
+            "subStep": 2,
+            "texts": [
+                "プロデュースの結果を\n「メモリー」として\n獲得することができますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 16,
+            "subStep": 3,
+            "texts": [
+                "プロデュースの評価に応じて\nメモリーの性能が変化します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 16,
+            "subStep": 4,
+            "texts": [
+                "「メモリー」にするフォトを選べますよ！\n好きなフォトを選択してみましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 17,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 17,
+            "subStep": 2,
+            "texts": [
+                "プロデューサーLvが上がると新しいスキルカードや\nPドリンクなどが解放され、プロデュース中に登場します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 1,
+            "texts": [
+                "さぁ、プロデュースがはじまりましたね\n今回の試験は特別に最終だけです\nフォローするので安心してくださいね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 2,
+            "texts": [
+                "試験に合格して、ライブ出場を目指しましょう。\nライブに出場するためには、\n中間試験と最終試験に合格する必要があります。",
+                "試験に合格するためには、\nアイドルのパラメータが重要です。\n試験に向けてパラメータを育成しましょう。",
+                "試験ごとに審査基準があります。\n審査基準に合わせてパラメータを育成すると\n試験に合格しやすくなります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 3,
+            "texts": [
+                "アイドルのパラメータやアドバイス、\n審査基準はこちらで確認ができます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 4,
+            "texts": [
+                "まずはビジュアルレッスンで\nビジュアルをあげましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 2,
+            "texts": [
+                "クリアまでに必要なパラメータと\n現在のアイドルのパラメータは\nこちらで確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 3,
+            "texts": [
+                "レッスンでは、決まったターン数\n行動をすることができます\n今回は残り３ターンみたいですね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 4,
+            "texts": [
+                "レッスン中は\nこちらにあるスキルカードを選択して\n使用することができますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 5,
+            "texts": [
+                "さっそく使用してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 6,
+            "texts": [
+                "ビジュアルのパラメータが上昇して\nレッスンクリアに近づきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 7,
+            "texts": [
+                "体力が減少していますね\nスキルカードを使用するときには\n体力が必要になることがあります"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 8,
+            "texts": [
+                "次はこちらのスキルカードを\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 9,
+            "texts": [
+                "{ExamEffectType.ExamBlock}元気が上昇しましたね！\n{ExamEffectType.ExamBlock}元気は体力が減少するとき、\n体力のかわりに優先的に消費されます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 10,
+            "texts": [
+                "",
+                "スキルカードの使用には、体力が必要になります。\n元気がある時は元気を体力のかわりに消費して\nスキルカードを使用できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 11,
+            "texts": [
+                "最後にもう１枚選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 7,
+            "subStep": 1,
+            "texts": [
+                "次はダンスレッスンを\n選択してみましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 2,
+            "texts": [
+                "前回のレッスンで獲得した\nスキルカードが手札にありますね\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 3,
+            "texts": [
+                "スキルカードの効果で\n{ExamEffectType.ExamReview}好印象がつきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 4,
+            "texts": [
+                "ターン終了時に\nパラメータが上がりましたね！\n{ExamEffectType.ExamReview}好印象が発動したみたいです"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 5,
+            "texts": [
+                "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamReview}好印象の効果をみてみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 6,
+            "texts": [
+                "{ExamEffectType.ExamReview}好印象はターン終了時に\nパラメータを上昇させる\n効果のようですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 7,
+            "texts": [
+                "所持しているPアイテムの効果も\nアイコンをタップすると確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 8,
+            "texts": [
+                "今持っているPアイテムは\n{ExamEffectType.ExamReview}好印象と相性が良さそうですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 9,
+            "texts": [
+                "今回は{ExamEffectType.ExamReview}好印象の効果がついている\nスキルカードを選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 10,
+            "texts": [
+                "{ExamEffectType.ExamReview}好印象が増えたおかげで\nパラメータが大きく上がりましたね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 11,
+            "texts": [
+                "さらに、Pアイテムの効果で\n{ExamEffectType.ExamReview}好印象が増えましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 12,
+            "texts": [
+                "レッスン中の効果はアイコンをタップすると\n詳細情報の確認ができます。",
+                "Pアイテムは条件を満たすと効果を発揮します。\nはじめから持っているPアイテムは\nプロデュースアイドルによって決まります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 13,
+            "texts": [
+                "これまで学んだ内容を活かして\nできるだけたくさんパラメータを\n育成できるよう頑張ってみてください！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 14,
+            "texts": [
+                "大丈夫、きみならできますよ！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 15,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 1,
+            "texts": [
+                "さぁ、プロデュースがはじまりましたね\n今回の試験は特別に最終だけです\nフォローするので安心してくださいね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 2,
+            "texts": [
+                "試験に合格して、ライブ出場を目指しましょう。\nライブに出場するためには、\n中間試験と最終試験に合格する必要があります。",
+                "試験に合格するためには、\nアイドルのパラメータが重要です。\n試験に向けてパラメータを育成しましょう。",
+                "試験ごとに審査基準があります。\n審査基準に合わせてパラメータを育成すると\n試験に合格しやすくなります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 3,
+            "texts": [
+                "アイドルのパラメータやアドバイス、\n審査基準はこちらで確認ができます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 4,
+            "texts": [
+                "まずはダンスレッスンで\nダンスをあげましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 2,
+            "texts": [
+                "クリアまでに必要なパラメータと\n現在のアイドルのパラメータは\nこちらで確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 3,
+            "texts": [
+                "レッスンでは、決まったターン数\n行動をすることができます\n今回は残り３ターンみたいですね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 4,
+            "texts": [
+                "レッスン中は\nこちらにあるスキルカードを選択して\n使用することができますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 5,
+            "texts": [
+                "さっそく使用してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 6,
+            "texts": [
+                "ダンスのパラメータが上昇して\nレッスンクリアに近づきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 7,
+            "texts": [
+                "体力が減少していますね\nスキルカードを使用するときには\n体力が必要になることがあります"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 8,
+            "texts": [
+                "次はこちらのスキルカードを\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 9,
+            "texts": [
+                "{ExamEffectType.ExamBlock}元気が上昇しましたね！\n{ExamEffectType.ExamBlock}元気は体力が減少するとき、\n体力のかわりに優先的に消費されます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 10,
+            "texts": [
+                "",
+                "スキルカードの使用には、体力が必要になります。\n元気がある時は元気を体力のかわりに消費して\nスキルカードを使用できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 11,
+            "texts": [
+                "最後にもう１枚選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 7,
+            "subStep": 1,
+            "texts": [
+                "次はビジュアルレッスンを選択してみましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 2,
+            "texts": [
+                "前回のレッスンで獲得した\nスキルカードが手札にありますね\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 3,
+            "texts": [
+                "スキルカードの効果で\n{ExamEffectType.ExamParameterBuff}好調がつきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 4,
+            "texts": [
+                "こちらのPアイテムの効果で\nパラメータがあがりました！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 5,
+            "texts": [
+                "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamParameterBuff}好調の効果をみてみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 6,
+            "texts": [
+                "{ExamEffectType.ExamParameterBuff}好調は上がるパラメータの量を\n増やす効果のようですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 7,
+            "texts": [
+                "所持しているPアイテムの効果も\nアイコンをタップすると確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 8,
+            "texts": [
+                "今持っているPアイテムは\n{ExamEffectType.ExamParameterBuff}好調と相性が良さそうですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 9,
+            "texts": [
+                "{ExamEffectType.ExamParameterBuff}好調がついた状態で\nスキルカードを選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 10,
+            "texts": [
+                "{ExamEffectType.ExamParameterBuff}好調のおかげで\nパラメータが大きく上がりましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 11,
+            "texts": [
+                "レッスン中の効果はアイコンをタップすると\n詳細情報の確認ができます。",
+                "Pアイテムは条件を満たすと効果を発揮します。\nはじめから持っているPアイテムは\nプロデュースアイドルによって決まります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 12,
+            "texts": [
+                "これまで学んだ内容を活かして\nできるだけたくさんパラメータを\n育成できるよう頑張ってみてください！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 13,
+            "texts": [
+                "大丈夫、きみならできますよ！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 14,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 1,
+            "texts": [
+                "さぁ、プロデュースがはじまりましたね\n今回の試験は特別に最終だけです\nフォローするので安心してくださいね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 2,
+            "texts": [
+                "試験に合格して、ライブ出場を目指しましょう。\nライブに出場するためには、\n中間試験と最終試験に合格する必要があります。",
+                "試験に合格するためには、\nアイドルのパラメータが重要です。\n試験に向けてパラメータを育成しましょう。",
+                "試験ごとに審査基準があります。\n審査基準に合わせてパラメータを育成すると\n試験に合格しやすくなります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 3,
+            "texts": [
+                "アイドルのパラメータやアドバイス、\n審査基準はこちらで確認ができます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 4,
+            "subStep": 4,
+            "texts": [
+                "まずはダンスレッスンで\nダンスをあげましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 2,
+            "texts": [
+                "クリアまでに必要なパラメータと\n現在のアイドルのパラメータは\nこちらで確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 3,
+            "texts": [
+                "レッスンでは、決まったターン数\n行動をすることができます\n今回は残り３ターンみたいですね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 4,
+            "texts": [
+                "レッスン中は\nこちらにあるスキルカードを選択して\n使用することができますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 5,
+            "texts": [
+                "さっそく使用してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 6,
+            "texts": [
+                "ダンスのパラメータが上昇して\nレッスンクリアに近づきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 7,
+            "texts": [
+                "体力が減少していますね\nスキルカードを使用するときには\n体力が必要になることがあります"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 8,
+            "texts": [
+                "次はこちらのスキルカードを\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 9,
+            "texts": [
+                "{ExamEffectType.ExamBlock}元気が上昇しましたね！\n{ExamEffectType.ExamBlock}元気は体力が減少するとき、\n体力のかわりに優先的に消費されます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 10,
+            "texts": [
+                "",
+                "スキルカードの使用には、体力が必要になります。\n元気がある時は元気を体力のかわりに消費して\nスキルカードを使用できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 5,
+            "subStep": 11,
+            "texts": [
+                "最後にもう１枚選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 7,
+            "subStep": 1,
+            "texts": [
+                "次はボーカルレッスンを\n選択してみましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 2,
+            "texts": [
+                "前回のレッスンで獲得した\nスキルカードが手札にありますね\n選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 3,
+            "texts": [
+                "スキルカードの効果で\n{ExamEffectType.ExamLessonBuff}集中がつきましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 4,
+            "texts": [
+                "現在の効果はアイコンをタップすると\n確認することができます\n{ExamEffectType.ExamLessonBuff}集中の効果をみてみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 5,
+            "texts": [
+                "{ExamEffectType.ExamLessonBuff}集中は上がるパラメータの量を\n増やす効果のようですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 6,
+            "texts": [
+                "所持しているPアイテムの効果も\nアイコンをタップすると確認できますよ"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 7,
+            "texts": [
+                "今持っているPアイテムは\n{ExamEffectType.ExamLessonBuff}集中と相性が良さそうですね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 8,
+            "texts": [
+                "{ExamEffectType.ExamLessonBuff}集中がついた状態で\nスキルカードを選択してみましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 9,
+            "texts": [
+                "{ExamEffectType.ExamLessonBuff}集中のおかげで\nパラメータが大きく上がりましたね"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 10,
+            "texts": [
+                "さらに、Pアイテムの効果で\n{ExamEffectType.ExamLessonBuff}集中が増えましたね！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 11,
+            "texts": [
+                "レッスン中の効果はアイコンをタップすると\n詳細情報の確認ができます。",
+                "Pアイテムは条件を満たすと効果を発揮します。\nはじめから持っているPアイテムは\nプロデュースアイドルによって決まります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 12,
+            "texts": [
+                "これまで学んだ内容を活かして\nできるだけたくさんパラメータを\n育成できるよう頑張ってみてください！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 13,
+            "texts": [
+                "大丈夫、きみならできますよ！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_GameStart",
+            "step": 8,
+            "subStep": 14,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_MainTask",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "課題をクリアすることで新しい機能や\n初星コミュ解放することができます。\nまた、プロデューサーExpなどの報酬が\n獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Work",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "アイドルをお仕事に派遣すると\nさまざまな報酬を獲得できます。",
+                "お仕事は大成功になることがあり、\n大成功になると獲得できる報酬量が増加します。\nお仕事開始時に好調のアイドルは\n必ず大成功になります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_IdolCard",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "プロデュースアイドルを才能開花すると、\n初期Pアイテムやレッスンボーナスが強化されます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_IdolCardSkin",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "全国のプロデューサーと対戦することができます。\nコンテストでは、プロデュースで獲得した\nメモリーに紐づくパラメータ、スキルカード、\nPアイテムをつかって対戦ができます。",
+                "ステージごとにパフォーマンス対決を行い、\n獲得したスコアで勝敗を競います。\nステージの勝利数が多いプロデューサーが\n勝利となります。",
+                "コンテストにはグレードがあります。\nランキング上位になると\nより高いグレードに昇格できます。\nグレードが高くなると報酬が豪華になります。",
+                "コンテストメダルを集めると\nアイテム交換所で\n豪華な報酬と交換することができます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 2,
+            "texts": [
+                "コンテストに参加するために\nユニットを編成しましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 3,
+            "texts": [
+                "おまかせを使うと\nまとめて編成ができます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 4,
+            "texts": [
+                "おまかせを使うと\nまとめて編成ができます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 5,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 6,
+            "texts": [
+                "メモリーはステージごとに\n編成可能なプランが決まっています。",
+                "メモリー編成にはメインとサブがあります。\nメインとサブには同じアイドルのメモリーを\n編成できます。",
+                "メインに編成するとメモリーが持つ性能すべてが\nパフォーマンス対決に反映されます。\nサブに編成すると性能の一部が反映されます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_PvpRate",
+            "step": 1,
+            "subStep": 7,
+            "texts": [
+                "戻ってコンテストに参加しましょう"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_CoinGasha",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "コインガシャではプロデュースなどで獲得できる\nコインでガシャを引くことができます。\nサポートカードや特訓アイテムなどが獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_MoneyReceive",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "時間経過でマニーが貯まり、受け取ることができます。\nプロデューサーLvに応じて、獲得量と保管上限が増加します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_MissionPass",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "ミッションパスではミッションパスPtが一定以上\nに到達する度に報酬を獲得できます。\nミッションパスPtはデイリーミッションと\nウィークリーミッション達成で獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Profile",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "プロフィールでは他のプロデューサーがレンタルできる\nサポートカードとメモリーが設定できます。\nレンタルされた回数に応じてフレンドコインを獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Meishi",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "自分だけのオリジナル名刺を作成して、名刺の画像をSNSで共有することができます。プロフィールだけでなく、担当アイドルやサポートカード、フォトといった画像をカスタムして表示させることが可能です。\n※DMM GAMES版ではSNS共有をご利用いただけません"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Friend",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "フレンドではフォローやフォロワーのプロデューサーを確認できます。フォローしたフレンドのサポートカードやメモリーはプロデュースの時にレンタルできます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Achievement",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "アチーブメントは様々な条件を満たすと獲得できます。プロデューサーLv上昇のための経験値など様々な報酬を獲得できるので積極的にアチーブメントを集めましょう。",
+                "アチーブメントを獲得した時に入手できる星が一定数に達するとマスターアチーブメントを獲得できます。マスターアチーブメントは入手した星の数に応じてランクアップし、報酬を獲得できます。",
+                "True EndアチーブメントはTrue Endに到達すると獲得できます。True Endアチーブメントを獲得すると、アイドルのパラメータが上昇します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "プロデュースアイドルを特訓すると、\n初期スキルカードやパラメータが強化され、\nプロデュースが有利になります。また、\nプロデュースアイドルのイメージが解放されます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_SupportCardLevelUpdate",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "サポートカードのLvを上げると、\nサポートアビリティやサポートイベントが解放されます。\nまた、サポートアビリティは\nLvによって強化されます。",
+                "サポートカードを上限解放をすると、\n最大Lvが上昇します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_Tower",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_Guild",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "サークルでは全国のプロデューサーとサークルを組んで交流することができます。",
+                "サークルではサークルメンバーに対して特訓アイテムを募集することができ、寄付されたアイテムを受け取ることができます。またアイテムを寄付するとフレンドコインを獲得できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_TutorialReceiveIdolCard",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_PhotoTop",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_PhotoIdol",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_PhotoPrepare",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_Photo",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_MeishiEditCustom",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "カスタム名刺は【名刺 > 新規作成 > カスタム名刺】より作成できます",
+                "テンプレート名刺では背景のみに指定可能でしたが、カスタム名刺では複数指定可能です",
+                "動く名刺はPライブを動画で撮影し、撮影した動画の指定部分を名刺として設定できます\n動画は指定の秒数内で切り取りして設定することができます",
+                "カスタム名刺ではさまざまな編集ができます\n自分だけの名刺を作りましょう！\n操作方法はカスタム名刺左上のアイコンから確認できます",
+                "カスタム名刺では現在使用している内容をレイヤーウィンドウで確認できます\nレイヤーは最大で100個まで使用することができます",
+                "SNSでシェアすると、他のプロデューサーがSNSから\n学園アイドルマスター内のあなたのプロフィールに直接移動することができます\n※DMM GAMES版ではご利用いただけません"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_MeishiEditCustomManual",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceIdolCardSelect",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "",
+                "プロデュースアイドルごとに「プラン」が決まっています。\nプランごとにプロデュース中に登場するスキルカードやPアイテムの種類が異なります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceSupportCardSelect",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "サポートカードはプロデュースで編成できるカードで\nす。編成すると様々な効果が発動し、プロデュースを\nサポートします。",
+                "サポートカードにはタイプがあり、\nタイプによって編成時に上がるパラメータや\n発動する効果が変わります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceMemorySelect",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "メモリーは４枚のうち１枚まで\nフレンドや他のプロデューサーのメモリーを\nレンタルすることができます。\n１日にできるレンタル回数には限りがあります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceSchedule",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "レッスンはボーカル、ダンス、ビジュアルがあり、それぞれのパラメータを上げることができます。レッスンの目標を達成すると報酬としてスキルカードやPドリンクが獲得できます。",
+                "プロデュースでは様々なスケジュールを選択することができます。状況に応じて適切なスケジュールを選びましょう。",
+                "試験の前に行う特別なレッスンです。レッスンの目標を達成すると追い込みボーナスが発生し、ボーカル、ダンス、ビジュアルのパラメータを均等に成長させることができます。",
+                "試験前には、体力が最大体力に応じて自動で回復します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceEvent",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "授業とおでかけでは\n選択肢に応じて効果が変わります。\n消費する内容と発動する効果を確認して\n状況に応じた選択をしましょう。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProducePresentStep",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "活動支給では、スキルカード、Pポイント、Pドリンクを\n獲得することができます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceShopStep",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "相談ではPポイントを使って、\nスキルカードやPドリンクと交換できます。\n交換できるスキルカードやPドリンクは\n相談のたび毎回変わります。",
+                "Pドリンクを使うとパラメータの上昇や\n体力回復などの効果を発揮します。\nPドリンクはレッスンや試験中のみ使用できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceExamGimmick",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "指定ターンの時に条件を満たしていると自動的に\n発動する効果です。レッスン中に表示されている\nアイコンをタップすると発動条件を確認できます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceExamGimmick",
+            "step": 1,
+            "subStep": 2,
+            "texts": [
+                "応援やトラブルの内容は\nこちらをタップすると確認できます"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceExamGimmick",
+            "step": 1,
+            "subStep": 3,
+            "texts": [
+                "効果内容と発動条件を確認して\nしっかり対策しましょう！"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceExamPerfect",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "レッスン目標クリア後にパラメータを上限まで\n上げるとパーフェクトレッスンになります。\nパーフェクトレッスンになるとレッスンが終了し\n残ったターンに応じて体力が回復します。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "True Endは特定のアチーブメントを獲得した状態で\n最終試験１位になるとみられる特別なエンディングです。",
+                "True Endに必要なアチーブメントは\n「True End条件」をタップすると確認することができます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceDifficultySelect",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "難易度「プロ」が解放されました。\n難易度「プロ」は難易度が高いかわりに\nアイドルのパラメータが上がりやすくなります。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceCardUpgrade",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "Pポイントを使ってスキルカード強化ができます。\n強化をするとスキルカードの効果が上がります。\n１回の相談につき１枚まで強化でき、強化をする度\n必要なPポイントが増えていきます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceCardDelete",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "Pポイントを使ってスキルカード削除ができます。\n削除をすると所持スキルカードからなくなります。\n１回の相談につき１枚まで削除でき、削除をする度\n必要なPポイントは増えていきます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceChallenge",
+            "step": 1,
+            "subStep": 1,
+            "texts": [
+                "難易度「マスター」が解放されました。\n「プロ」よりも難易度が高いかわりにアイドルのパラメータがさらに上がりやすくなります。\n親愛度10を達成したアイドルでのみ挑戦可能です。",
+                "チャレンジPアイテムは、難易度「マスター」のプロデュース開始前に選択可能なPアイテムです。\nチャレンジPアイテムの効果により、レッスン・SPレッスンのPERFECT上限を上げることができます。",
+                "チャレンジPアイテムは、アイドルごとに特定の条件を満たすことで最大3つ解放され、選択することができます。"
+            ]
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceStepBusiness",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceStepCustomize",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceStepFanPresent",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_MissionPanel",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_ProduceHighScore",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_StoryEvent",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_StoryEventMainStroy",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_StoryEventBoxGasha",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_StoryEventGuildMission",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        },
+        {
+            "tutorialType": "TutorialType_GvgRaid",
+            "step": 1,
+            "subStep": 1,
+            "texts": []
+        }
+    ]
+}

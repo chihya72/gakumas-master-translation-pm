@@ -1,0 +1,208 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "characterId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "characterId": "amao",
+            "number": 1,
+            "title": "新しい自分",
+            "description": "ビジュアル300以上"
+        },
+        {
+            "characterId": "amao",
+            "number": 2,
+            "title": "成長できる証",
+            "description": "ボーカル450以上"
+        },
+        {
+            "characterId": "amao",
+            "number": 3,
+            "title": "憧れに近づく",
+            "description": "ビジュアル1000以上"
+        },
+        {
+            "characterId": "fktn",
+            "number": 1,
+            "title": "生活改善",
+            "description": "ダンス300以上"
+        },
+        {
+            "characterId": "fktn",
+            "number": 2,
+            "title": "才気煥発",
+            "description": "ビジュアル450以上"
+        },
+        {
+            "characterId": "fktn",
+            "number": 3,
+            "title": "信じる力",
+            "description": "ダンス1000以上"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 1,
+            "title": "3年生の実力",
+            "description": "ボーカル200以上"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 2,
+            "title": "もう一度夢を掴むため",
+            "description": "ダンス450以上"
+        },
+        {
+            "characterId": "hrnm",
+            "number": 3,
+            "title": "みんなのお姉さん",
+            "description": "ビジュアル1000以上"
+        },
+        {
+            "characterId": "hski",
+            "number": 1,
+            "title": "確実な一歩",
+            "description": "ダンス200以上"
+        },
+        {
+            "characterId": "hski",
+            "number": 2,
+            "title": "全力前進",
+            "description": "ボーカル450以上"
+        },
+        {
+            "characterId": "hski",
+            "number": 3,
+            "title": "絶対負けない力",
+            "description": "ビジュアル900以上"
+        },
+        {
+            "characterId": "hume",
+            "number": 1,
+            "title": "マイナスからのスタート",
+            "description": "ダンス300以上"
+        },
+        {
+            "characterId": "hume",
+            "number": 2,
+            "title": "底知れぬ才能",
+            "description": "ボーカル450以上"
+        },
+        {
+            "characterId": "hume",
+            "number": 3,
+            "title": "爆誕",
+            "description": "ダンス1000以上"
+        },
+        {
+            "characterId": "jsna",
+            "number": 1,
+            "title": "再始動",
+            "description": "ダンス200以上"
+        },
+        {
+            "characterId": "jsna",
+            "number": 2,
+            "title": "邁進するエリート",
+            "description": "ボーカル450以上"
+        },
+        {
+            "characterId": "jsna",
+            "number": 3,
+            "title": "光輝燦然",
+            "description": "ビジュアル900以上"
+        },
+        {
+            "characterId": "kcna",
+            "number": 1,
+            "title": "最初の一歩",
+            "description": "ボーカル200以上"
+        },
+        {
+            "characterId": "kcna",
+            "number": 2,
+            "title": "元気可愛いの力",
+            "description": "ビジュアル450以上"
+        },
+        {
+            "characterId": "kcna",
+            "number": 3,
+            "title": "憧れへの一歩",
+            "description": "ダンス1000以上"
+        },
+        {
+            "characterId": "kllj",
+            "number": 1,
+            "title": "一歩ずつ少しずつ",
+            "description": "ダンス200以上"
+        },
+        {
+            "characterId": "kllj",
+            "number": 2,
+            "title": "届けるための力",
+            "description": "ボーカル450以上"
+        },
+        {
+            "characterId": "kllj",
+            "number": 3,
+            "title": "理想の姿",
+            "description": "ビジュアル1000以上"
+        },
+        {
+            "characterId": "shro",
+            "number": 1,
+            "title": "必要な基礎力",
+            "description": "ボーカル300以上"
+        },
+        {
+            "characterId": "shro",
+            "number": 2,
+            "title": "踊りきる体力",
+            "description": "ダンス450以上"
+        },
+        {
+            "characterId": "shro",
+            "number": 3,
+            "title": "歌い続ける力",
+            "description": "ボーカル1000以上"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 1,
+            "title": "進むための一歩",
+            "description": "ダンス300以上"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 2,
+            "title": "磨かれた笑顔",
+            "description": "ビジュアル450以上"
+        },
+        {
+            "characterId": "ssmk",
+            "number": 3,
+            "title": "もう一度、踊り出す",
+            "description": "ダンス1000以上"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 1,
+            "title": "実力発揮",
+            "description": "ボーカル200以上"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 2,
+            "title": "弱点克服",
+            "description": "ダンス450以上"
+        },
+        {
+            "characterId": "ttmr",
+            "number": 3,
+            "title": "限界突破",
+            "description": "ボーカル1000以上"
+        }
+    ]
+}

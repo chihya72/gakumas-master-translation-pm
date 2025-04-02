@@ -1,0 +1,1830 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "mainTaskGroupId",
+            "number"
+        ]
+    },
+    "data": [
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 1,
+            "title": "初星課題1",
+            "description": "プロデュースに挑戦しよう",
+            "homeDescription": "プロデュースに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 2,
+            "title": "初星課題2",
+            "description": "1章1話をみよう",
+            "homeDescription": "1章1話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 3,
+            "title": "初星課題3",
+            "description": "サポートカードを強化しよう",
+            "homeDescription": "サポートカードを強化しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 4,
+            "title": "初星課題4",
+            "description": "名刺を編集しよう",
+            "homeDescription": "名刺を編集しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 5,
+            "title": "初星課題5",
+            "description": "他のプロデューサーをフォローしよう",
+            "homeDescription": "他のプロデューサーをフォローしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 6,
+            "title": "初星課題6",
+            "description": "研修を1つクリアしよう",
+            "homeDescription": "研修を1つクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 7,
+            "title": "初星課題7",
+            "description": "試験研修を1つクリアしよう",
+            "homeDescription": "試験研修を1つクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 8,
+            "title": "初星課題8",
+            "description": "プロデュースに挑戦しよう",
+            "homeDescription": "プロデュースに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 9,
+            "title": "初星課題9",
+            "description": "1章2話をみよう",
+            "homeDescription": "1章2話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 10,
+            "title": "初星課題10",
+            "description": "プロデュースアイドルを特訓しよう",
+            "homeDescription": "プロデュースアイドルを特訓しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 11,
+            "title": "初星課題11",
+            "description": "活動費を回収しよう",
+            "homeDescription": "活動費を回収しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 12,
+            "title": "初星課題12",
+            "description": "マニー交換所で交換しよう",
+            "homeDescription": "マニー交換所で交換しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 13,
+            "title": "初星課題13",
+            "description": "プロデュースに挑戦しよう",
+            "homeDescription": "プロデュースに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 14,
+            "title": "初星課題14",
+            "description": "1章3話をみよう",
+            "homeDescription": "1章3話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 15,
+            "title": "初星課題15",
+            "description": "お仕事を開始しよう",
+            "homeDescription": "お仕事を開始しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 16,
+            "title": "初星課題16",
+            "description": "プロデュースに挑戦しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 17,
+            "title": "初星課題17",
+            "description": "センスガシャを1回引こう",
+            "homeDescription": "センスガシャを1回引こう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 18,
+            "title": "初星課題18",
+            "description": "1章4話をみよう",
+            "homeDescription": "1章4話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 19,
+            "title": "初星課題19",
+            "description": "サポートカード{threshold}枚をLv20にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv20にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 20,
+            "title": "初星課題20",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 21,
+            "title": "初星課題21",
+            "description": "プロデュースに挑戦しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 22,
+            "title": "初星課題22",
+            "description": "ロジックガシャを1回引こう",
+            "homeDescription": "ロジックガシャを1回引こう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 23,
+            "title": "初星課題23",
+            "description": "1章5話をみよう",
+            "homeDescription": "1章5話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 24,
+            "title": "初星課題24",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 25,
+            "title": "初星課題25",
+            "description": "異なるアイドル{threshold}人のプロデュースを完了しよう",
+            "homeDescription": "異なるアイドル{threshold}人のプロデュースを完了しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 26,
+            "title": "初星課題26",
+            "description": "コンテストで編成しよう",
+            "homeDescription": "コンテストで編成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 27,
+            "title": "初星課題27",
+            "description": "いずれかのアイドルの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 28,
+            "title": "初星課題28",
+            "description": "1章6話をみよう",
+            "homeDescription": "1章6話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 29,
+            "title": "初星課題29",
+            "description": "サポートカード{threshold}枚をLv20にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv20にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 30,
+            "title": "初星課題30",
+            "description": "プロデュースに挑戦して評価C+以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価C+以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 31,
+            "title": "初星課題31",
+            "description": "1章7話をみよう",
+            "homeDescription": "1章7話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 32,
+            "title": "初星課題32",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 33,
+            "title": "初星課題33",
+            "description": "研修の【応用１】プラン：センスをクリアしよう",
+            "homeDescription": "研修の【応用１】プラン：センスをクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 34,
+            "title": "初星課題34",
+            "description": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 35,
+            "title": "初星課題35",
+            "description": "1章8話をみよう",
+            "homeDescription": "1章8話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 36,
+            "title": "初星課題36",
+            "description": "研修の【応用２】プラン：ロジックをクリアしよう",
+            "homeDescription": "研修の【応用２】プラン：ロジックをクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 37,
+            "title": "初星課題37",
+            "description": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 38,
+            "title": "初星課題38",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 39,
+            "title": "初星課題39",
+            "description": "1章9話をみよう",
+            "homeDescription": "1章9話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 40,
+            "title": "初星課題40",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を2にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を2にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 41,
+            "title": "初星課題41",
+            "description": "プロデュースで難易度プロに挑戦しよう",
+            "homeDescription": "プロデュースで難易度プロに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 42,
+            "title": "初星課題42",
+            "description": "サポートカード{threshold}枚をLv20にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv20にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 43,
+            "title": "初星課題43",
+            "description": "1章10話をみよう",
+            "homeDescription": "1章10話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 44,
+            "title": "初星課題44",
+            "description": "いずれかのアイドルの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 45,
+            "title": "初星課題45",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 46,
+            "title": "初星課題46",
+            "description": "プロデュースでいずれかのパラメータを600以上に育成しよう",
+            "homeDescription": "プロデュースでいずれかのパラメータを600以上に育成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 47,
+            "title": "初星課題47",
+            "description": "1章11話をみよう",
+            "homeDescription": "1章11話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 48,
+            "title": "初星課題48",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 49,
+            "title": "初星課題49",
+            "description": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 50,
+            "title": "初星課題50",
+            "description": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 51,
+            "title": "初星課題51",
+            "description": "1章12話をみよう",
+            "homeDescription": "1章12話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 52,
+            "title": "初星課題52",
+            "description": "サポートカードのLvを{threshold}にしよう",
+            "homeDescription": "サポートカードのLvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 53,
+            "title": "初星課題53",
+            "description": "最終試験で1位になろう",
+            "homeDescription": "最終試験で1位になろう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 54,
+            "title": "初星課題54",
+            "description": "1章13話をみよう",
+            "homeDescription": "1章13話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 55,
+            "title": "初星課題55",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 56,
+            "title": "初星課題56",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を3にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 57,
+            "title": "初星課題57",
+            "description": "プロデュースでいずれかのパラメータを800以上に育成しよう",
+            "homeDescription": "プロデュースでいずれかのパラメータを800以上に育成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 58,
+            "title": "初星課題58",
+            "description": "1章14話をみよう",
+            "homeDescription": "1章14話をみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 59,
+            "title": "初星課題59",
+            "description": "いずれかのアイドルの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-01-01",
+            "number": 60,
+            "title": "初星課題60",
+            "description": "TrueEndをみよう",
+            "homeDescription": "TrueEndをみよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 1,
+            "title": "P課題1",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 2,
+            "title": "P課題2",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 3,
+            "title": "P課題3",
+            "description": "プロデュースでいずれかのパラメータを1000以上に育成しよう",
+            "homeDescription": "プロデュースでいずれかのパラメータを1000以上に育成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 4,
+            "title": "P課題4",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 5,
+            "title": "P課題5",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 6,
+            "title": "P課題6",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を3にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 7,
+            "title": "P課題7",
+            "description": "SPレッスンを{threshold}回クリアしよう",
+            "homeDescription": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 8,
+            "title": "P課題8",
+            "description": "サポートカード{threshold}枚をLv30にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv30にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 9,
+            "title": "P課題9",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 10,
+            "title": "P課題10",
+            "description": "プロデュースに挑戦して評価B+以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価B+以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 11,
+            "title": "P課題11",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 12,
+            "title": "P課題12",
+            "description": "お仕事を合計{threshold}時間しよう",
+            "homeDescription": "お仕事を合計{threshold}時間しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 13,
+            "title": "P課題13",
+            "description": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 14,
+            "title": "P課題14",
+            "description": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 15,
+            "title": "P課題15",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 16,
+            "title": "P課題16",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を3にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 17,
+            "title": "P課題17",
+            "description": "TrueEndアチーブメントを{threshold}個達成",
+            "homeDescription": "TrueEndアチーブメントを{threshold}個達成"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 18,
+            "title": "P課題18",
+            "description": "サポートカードのLvを{threshold}にしよう",
+            "homeDescription": "サポートカードのLvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 19,
+            "title": "P課題19",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 20,
+            "title": "P課題20",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 21,
+            "title": "P課題21",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 22,
+            "title": "P課題22",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 23,
+            "title": "P課題23",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 24,
+            "title": "P課題24",
+            "description": "サポートカード{threshold}枚をLv30にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv30にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 25,
+            "title": "P課題25",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を4にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 26,
+            "title": "P課題26",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 27,
+            "title": "P課題27",
+            "description": "コンテストに挑戦しよう",
+            "homeDescription": "コンテストに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 28,
+            "title": "P課題28",
+            "description": "TrueEndアチーブメントを{threshold}個達成",
+            "homeDescription": "TrueEndアチーブメントを{threshold}個達成"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 29,
+            "title": "P課題29",
+            "description": "サポートカード{threshold}枚をLv30にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv30にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 30,
+            "title": "P課題30",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：花海 咲季",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：花海 咲季"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 31,
+            "title": "P課題31",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 32,
+            "title": "P課題32",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：月村 手毬",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：月村 手毬"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 33,
+            "title": "P課題33",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 34,
+            "title": "P課題34",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：藤田 ことね",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：藤田 ことね"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 35,
+            "title": "P課題35",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 36,
+            "title": "P課題36",
+            "description": "Pドリンクを{threshold}種類獲得しよう",
+            "homeDescription": "Pドリンクを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 37,
+            "title": "P課題37",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：有村 麻央",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：有村 麻央"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 38,
+            "title": "P課題38",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 39,
+            "title": "P課題39",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：姫崎 莉波",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：姫崎 莉波"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 40,
+            "title": "P課題40",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 41,
+            "title": "P課題41",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：葛城 リーリヤ",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：葛城 リーリヤ"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 42,
+            "title": "P課題42",
+            "description": "コンテストに挑戦しよう",
+            "homeDescription": "コンテストに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 43,
+            "title": "P課題43",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を4にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 44,
+            "title": "P課題44",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：紫雲 清夏",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：紫雲 清夏"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 45,
+            "title": "P課題45",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 46,
+            "title": "P課題46",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：篠澤 広",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：篠澤 広"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 47,
+            "title": "P課題47",
+            "description": "サポートカード{threshold}枚をLv40にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv40にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 48,
+            "title": "P課題48",
+            "description": "プロデュースで最終試験に合格しよう\n【条件】：倉本 千奈",
+            "homeDescription": "プロデュースで最終試験に合格しよう\n【条件】：倉本 千奈"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 49,
+            "title": "P課題49",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 50,
+            "title": "P課題50",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 51,
+            "title": "P課題51",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 52,
+            "title": "P課題52",
+            "description": "お仕事を合計{threshold}時間しよう",
+            "homeDescription": "お仕事を合計{threshold}時間しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 53,
+            "title": "P課題53",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を4にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 54,
+            "title": "P課題54",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 55,
+            "title": "P課題55",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 56,
+            "title": "P課題56",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 57,
+            "title": "P課題57",
+            "description": "コンテストに挑戦しよう",
+            "homeDescription": "コンテストに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 58,
+            "title": "P課題58",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 59,
+            "title": "P課題59",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 60,
+            "title": "P課題60",
+            "description": "いずれかのアイドルの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 61,
+            "title": "P課題61",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 62,
+            "title": "P課題62",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 63,
+            "title": "P課題63",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 64,
+            "title": "P課題64",
+            "description": "サポートカード{threshold}枚をLv40にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv40にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 65,
+            "title": "P課題65",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 66,
+            "title": "P課題66",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 67,
+            "title": "P課題67",
+            "description": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 68,
+            "title": "P課題68",
+            "description": "合計ファン数を{threshold}人にしよう",
+            "homeDescription": "合計ファン数を{threshold}人にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 69,
+            "title": "P課題69",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 70,
+            "title": "P課題70",
+            "description": "プロデュースでスキルカードを{threshold}回強化しよう",
+            "homeDescription": "プロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 71,
+            "title": "P課題71",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 72,
+            "title": "P課題72",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 73,
+            "title": "P課題73",
+            "description": "TrueEndアチーブメントを{threshold}個達成",
+            "homeDescription": "TrueEndアチーブメントを{threshold}個達成"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 74,
+            "title": "P課題74",
+            "description": "サポートカード{threshold}枚をLv40にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv40にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 75,
+            "title": "P課題75",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 76,
+            "title": "P課題76",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 77,
+            "title": "P課題77",
+            "description": "篠澤 広で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "篠澤 広で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 78,
+            "title": "P課題78",
+            "description": "倉本 千奈で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "倉本 千奈で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 79,
+            "title": "P課題79",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 80,
+            "title": "P課題80",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 81,
+            "title": "P課題81",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 82,
+            "title": "P課題82",
+            "description": "葛城 リーリヤで最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "葛城 リーリヤで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 83,
+            "title": "P課題83",
+            "description": "紫雲 清夏で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "紫雲 清夏で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 84,
+            "title": "P課題84",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を5にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を5にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 85,
+            "title": "P課題85",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 86,
+            "title": "P課題86",
+            "description": "プロデュース評価を合計{threshold}獲得しよう",
+            "homeDescription": "プロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 87,
+            "title": "P課題87",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 88,
+            "title": "P課題88",
+            "description": "有村 麻央で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "有村 麻央で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 89,
+            "title": "P課題89",
+            "description": "姫崎 莉波で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "姫崎 莉波で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 90,
+            "title": "P課題90",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 91,
+            "title": "P課題91",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 92,
+            "title": "P課題92",
+            "description": "月村 手毬で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "月村 手毬で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 93,
+            "title": "P課題93",
+            "description": "藤田 ことねで最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "藤田 ことねで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 94,
+            "title": "P課題94",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 95,
+            "title": "P課題95",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 96,
+            "title": "P課題96",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を6にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 97,
+            "title": "P課題97",
+            "description": "花海 咲季で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "花海 咲季で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 98,
+            "title": "P課題98",
+            "description": "花海 佑芽で最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "花海 佑芽で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 99,
+            "title": "P課題99",
+            "description": "TrueEndアチーブメントを{threshold}個達成",
+            "homeDescription": "TrueEndアチーブメントを{threshold}個達成"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-02-01",
+            "number": 100,
+            "title": "P課題100",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 1,
+            "title": "P課題2-1",
+            "description": "研修の【基礎７】全力をクリアしよう",
+            "homeDescription": "研修の【基礎７】全力をクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 2,
+            "title": "P課題2-2",
+            "description": "研修の【基礎８】強気をクリアしよう",
+            "homeDescription": "研修の【基礎８】強気をクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 3,
+            "title": "P課題2-3",
+            "description": "プラン：アノマリーのプロデュースアイドルで最終試験に{threshold}回合格しよう",
+            "homeDescription": "プラン：アノマリーのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 4,
+            "title": "P課題2-4",
+            "description": "アノマリーガシャを{threshold}回引こう",
+            "homeDescription": "アノマリーガシャを{threshold}回引こう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 5,
+            "title": "P課題2-5",
+            "description": "研修の【応用５】プラン：アノマリーをクリアしよう",
+            "homeDescription": "研修の【応用５】プラン：アノマリーをクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 6,
+            "title": "P課題2-6",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を4にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 7,
+            "title": "P課題2-7",
+            "description": "十王 星南の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "十王 星南の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 8,
+            "title": "P課題2-8",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 9,
+            "title": "P課題2-9",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 10,
+            "title": "P課題2-10",
+            "description": "十王 星南の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "十王 星南の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 11,
+            "title": "P課題2-11",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 12,
+            "title": "P課題2-12",
+            "description": "十王 星南の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "十王 星南の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 13,
+            "title": "P課題2-13",
+            "description": "敏腕P研修のいずれかをクリアしよう",
+            "homeDescription": "敏腕P研修のいずれかをクリアしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 14,
+            "title": "P課題2-14",
+            "description": "プロデュースで難易度マスターに挑戦しよう",
+            "homeDescription": "プロデュースで難易度マスターに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 15,
+            "title": "P課題2-15",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 16,
+            "title": "P課題2-16",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 17,
+            "title": "P課題2-17",
+            "description": "サポートカード{threshold}枚をLv40にしよう",
+            "homeDescription": "サポートカード{threshold}枚をLv40にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 18,
+            "title": "P課題2-18",
+            "description": "プラン：アノマリーのプロデュースアイドルで最終試験に合格して評価A以上を{threshold}回獲得しよう",
+            "homeDescription": "プラン：アノマリーのプロデュースアイドルで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 19,
+            "title": "P課題2-19",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を6にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 20,
+            "title": "P課題2-20",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 21,
+            "title": "P課題2-21",
+            "description": "APを{threshold}消費しよう",
+            "homeDescription": "APを{threshold}消費しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 22,
+            "title": "P課題2-22",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 23,
+            "title": "P課題2-23",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 24,
+            "title": "P課題2-24",
+            "description": "プロデュースでいずれかのパラメータを1500以上に育成しよう",
+            "homeDescription": "プロデュースでいずれかのパラメータを1500以上に育成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 25,
+            "title": "P課題2-25",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 26,
+            "title": "P課題2-26",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 27,
+            "title": "P課題2-27",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 28,
+            "title": "P課題2-28",
+            "description": "合計ファン数を{threshold}人にしよう",
+            "homeDescription": "合計ファン数を{threshold}人にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 29,
+            "title": "P課題2-29",
+            "description": "難易度マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
+            "homeDescription": "難易度マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 30,
+            "title": "P課題2-30",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 31,
+            "title": "P課題2-31",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 32,
+            "title": "P課題2-32",
+            "description": "お仕事を合計{threshold}時間しよう",
+            "homeDescription": "お仕事を合計{threshold}時間しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 33,
+            "title": "P課題2-33",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を6にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 34,
+            "title": "P課題2-34",
+            "description": "プロデュースに挑戦して評価A+以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価A+以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 35,
+            "title": "P課題2-35",
+            "description": "十王 星南のファンを{threshold}人獲得しよう",
+            "homeDescription": "十王 星南のファンを{threshold}人獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 36,
+            "title": "P課題2-36",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 37,
+            "title": "P課題2-37",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 38,
+            "title": "P課題2-38",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 39,
+            "title": "P課題2-39",
+            "description": "花海 咲季の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "花海 咲季の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 40,
+            "title": "P課題2-40",
+            "description": "月村 手毬の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "月村 手毬の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 41,
+            "title": "P課題2-41",
+            "description": "藤田 ことねの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "藤田 ことねの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 42,
+            "title": "P課題2-42",
+            "description": "有村 麻央の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "有村 麻央の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 43,
+            "title": "P課題2-43",
+            "description": "葛城 リーリヤの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "葛城 リーリヤの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 44,
+            "title": "P課題2-44",
+            "description": "倉本 千奈の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "倉本 千奈の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 45,
+            "title": "P課題2-45",
+            "description": "紫雲 清夏の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "紫雲 清夏の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 46,
+            "title": "P課題2-46",
+            "description": "篠澤 広の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "篠澤 広の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 47,
+            "title": "P課題2-47",
+            "description": "花海 佑芽の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "花海 佑芽の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 48,
+            "title": "P課題2-48",
+            "description": "姫崎 莉波の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "姫崎 莉波の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 49,
+            "title": "P課題2-49",
+            "description": "十王 星南の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "十王 星南の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 50,
+            "title": "P課題2-50",
+            "description": "プロデュースに挑戦して評価S以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価S以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 51,
+            "title": "P課題51",
+            "description": "プロデュースでN.I.Aに挑戦しよう",
+            "homeDescription": "プロデュースでN.I.Aに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 52,
+            "title": "P課題52",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 53,
+            "title": "P課題53",
+            "description": "プロデュースアイドル{threshold}人の特訓段階を6にしよう",
+            "homeDescription": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 54,
+            "title": "P課題54",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 55,
+            "title": "P課題55",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 56,
+            "title": "P課題56",
+            "description": "コンテストに挑戦しよう",
+            "homeDescription": "コンテストに挑戦しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 57,
+            "title": "P課題57",
+            "description": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう",
+            "homeDescription": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 58,
+            "title": "P課題58",
+            "description": "N.I.Aでファン投票数を{threshold}獲得しよう",
+            "homeDescription": "N.I.Aでファン投票数を{threshold}獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 59,
+            "title": "P課題59",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 60,
+            "title": "P課題60",
+            "description": "N.I.Aで最終オーディションに合格しよう",
+            "homeDescription": "N.I.Aで最終オーディションに合格しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 61,
+            "title": "P課題61",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 62,
+            "title": "P課題62",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 63,
+            "title": "P課題63",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 64,
+            "title": "P課題64",
+            "description": "合計ファン数を{threshold}人にしよう",
+            "homeDescription": "合計ファン数を{threshold}人にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 65,
+            "title": "P課題65",
+            "description": "お仕事を合計{threshold}時間しよう",
+            "homeDescription": "お仕事を合計{threshold}時間しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 66,
+            "title": "P課題66",
+            "description": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル",
+            "homeDescription": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 67,
+            "title": "P課題67",
+            "description": "プロデュースでいずれかのパラメータを1,700以上に育成しよう",
+            "homeDescription": "プロデュースでいずれかのパラメータを1,700以上に育成しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 68,
+            "title": "P課題68",
+            "description": "スキルカードを{threshold}種類獲得しよう",
+            "homeDescription": "スキルカードを{threshold}種類獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 69,
+            "title": "P課題69",
+            "description": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう",
+            "homeDescription": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 70,
+            "title": "P課題70",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 71,
+            "title": "P課題71",
+            "description": "プロデュースで特別指導を{threshold}回選択しよう",
+            "homeDescription": "プロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 72,
+            "title": "P課題72",
+            "description": "いずれかのアイドルの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 73,
+            "title": "P課題73",
+            "description": "お仕事を合計{threshold}時間しよう",
+            "homeDescription": "お仕事を合計{threshold}時間しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 74,
+            "title": "P課題74",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 75,
+            "title": "P課題75",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 76,
+            "title": "P課題76",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 77,
+            "title": "P課題77",
+            "description": "N.I.Aでファン投票数を{threshold}獲得しよう",
+            "homeDescription": "N.I.Aでファン投票数を{threshold}獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 78,
+            "title": "P課題78",
+            "description": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル",
+            "homeDescription": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 79,
+            "title": "P課題79",
+            "description": "合計ファン数を{threshold}人にしよう",
+            "homeDescription": "合計ファン数を{threshold}人にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 80,
+            "title": "P課題80",
+            "description": "アチーブメントを{threshold}個獲得しよう",
+            "homeDescription": "アチーブメントを{threshold}個獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 81,
+            "title": "P課題81",
+            "description": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル",
+            "homeDescription": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 82,
+            "title": "P課題82",
+            "description": "花海 咲季の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "花海 咲季の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 83,
+            "title": "P課題83",
+            "description": "月村 手毬の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "月村 手毬の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 84,
+            "title": "P課題84",
+            "description": "藤田 ことねの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "藤田 ことねの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 85,
+            "title": "P課題85",
+            "description": "有村 麻央の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "有村 麻央の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 86,
+            "title": "P課題86",
+            "description": "葛城 リーリヤの親愛度Lvを{threshold}にしよう",
+            "homeDescription": "葛城 リーリヤの親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 87,
+            "title": "P課題87",
+            "description": "倉本 千奈の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "倉本 千奈の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 88,
+            "title": "P課題88",
+            "description": "紫雲 清夏の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "紫雲 清夏の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 89,
+            "title": "P課題89",
+            "description": "篠澤 広の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "篠澤 広の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 90,
+            "title": "P課題90",
+            "description": "十王 星南の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "十王 星南の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 91,
+            "title": "P課題91",
+            "description": "花海 佑芽の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "花海 佑芽の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 92,
+            "title": "P課題92",
+            "description": "姫崎 莉波の親愛度Lvを{threshold}にしよう",
+            "homeDescription": "姫崎 莉波の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 93,
+            "title": "P課題93",
+            "description": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう",
+            "homeDescription": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 94,
+            "title": "P課題94",
+            "description": "アイドルへの道で★を合計{threshold}以上獲得しよう",
+            "homeDescription": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 95,
+            "title": "P課題95",
+            "description": "True End : N.I.Aを{threshold}人みよう",
+            "homeDescription": "True End : N.I.Aを{threshold}人みよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 96,
+            "title": "P課題96",
+            "description": "コンテストのユニット総合力を{threshold}以上にしよう",
+            "homeDescription": "コンテストのユニット総合力を{threshold}以上にしよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 97,
+            "title": "P課題97",
+            "description": "コンテストでスコアを{threshold}以上獲得しよう",
+            "homeDescription": "コンテストでスコアを{threshold}以上獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 98,
+            "title": "P課題98",
+            "description": "プロデューサーLv{threshold}に到達しよう",
+            "homeDescription": "プロデューサーLv{threshold}に到達しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 99,
+            "title": "P課題99",
+            "description": "プロデュースに挑戦して評価S+以上を獲得しよう",
+            "homeDescription": "プロデュースに挑戦して評価S+以上を獲得しよう"
+        },
+        {
+            "mainTaskGroupId": "main_task_group-03-01",
+            "number": 100,
+            "title": "P課題100",
+            "description": "True End : N.I.Aを{threshold}人みよう",
+            "homeDescription": "True End : N.I.Aを{threshold}人みよう"
+        }
+    ]
+}
