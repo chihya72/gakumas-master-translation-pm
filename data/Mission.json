@@ -1,0 +1,6241 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "id"
+    ]
+  },
+  "data": [
+    {
+      "id": "hidden_mission-app-review-main-task-clear",
+      "name": "課題14クリアしていない"
+    },
+    {
+      "id": "hidden_mission-normal-amao-piece-pack-remind",
+      "name": "麻央ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-fktn-piece-pack-remind",
+      "name": "ことねピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-hrnm-piece-pack-remind",
+      "name": "莉波ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-hski-piece-pack-remind",
+      "name": "咲季ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-kcna-piece-pack-remind",
+      "name": "千奈ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-kllj-piece-pack-remind",
+      "name": "リーリヤピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-main-task-clear-01-001",
+      "name": "課題1クリア"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-amao-3-000-b",
+      "name": "SSR麻央でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-fktn-3-000-b",
+      "name": "SSRことねでB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hrnm-3-000-b",
+      "name": "SSR莉波でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hski-3-000-b",
+      "name": "SSR咲季でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-hume-3-000-b",
+      "name": "SSR佑芽でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-jsna-3-000-b",
+      "name": "SSR星南でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-kcna-3-000-b",
+      "name": "SSR千奈でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-kllj-3-000-b",
+      "name": "SSRリーリヤでB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-shro-3-000-b",
+      "name": "SSR広でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-ssmk-3-000-b",
+      "name": "SSR清夏でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-produce-clear-i_card-ttmr-3-000-b",
+      "name": "SSR手毬でB評価"
+    },
+    {
+      "id": "hidden_mission-normal-shro-piece-pack-remind",
+      "name": "広ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-ssmk-piece-pack-remind",
+      "name": "清夏ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-normal-ttmr-piece-pack-remind",
+      "name": "手毬ピースパックリマインド用"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_kcna_initial-card",
+      "name": "千奈初期SSR/SR/Rプロデュース不合格"
+    },
+    {
+      "id": "hidden_mission-produce-audition-failure_shro_initial-card",
+      "name": "広初期SSR/SR/Rプロデュース不合格"
+    },
+    {
+      "id": "hidden_mission-tower_amao-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_fktn-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_hrnm-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_hski-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_hume-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_jsna-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_kcna-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_kllj-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_shro-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_ssmk-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-tower_ttmr-clear_star_40",
+      "name": "「アイドルへの道」で星を獲得"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-amao",
+      "name": "麻央でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-fktn",
+      "name": "ことねでA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hrnm",
+      "name": "莉波でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hski",
+      "name": "咲季でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-hume",
+      "name": "佑芽でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-jsna",
+      "name": "星南でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-kcna",
+      "name": "千奈でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-kllj",
+      "name": "リーリヤでA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-shro",
+      "name": "広でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-ssmk",
+      "name": "清夏でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-a-produce_group-002-ttmr",
+      "name": "手毬でA-End達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-amao",
+      "name": "麻央でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-fktn",
+      "name": "ことねでA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hrnm",
+      "name": "莉波でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hski",
+      "name": "咲季でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-hume",
+      "name": "佑芽でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-jsna",
+      "name": "星南でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-kcna",
+      "name": "千奈でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-kllj",
+      "name": "リーリヤでA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-shro",
+      "name": "広でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-ssmk",
+      "name": "清夏でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-a-ttmr",
+      "name": "手毬でA Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-amao",
+      "name": "麻央でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-fktn",
+      "name": "ことねでB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hrnm",
+      "name": "莉波でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hski",
+      "name": "咲季でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-hume",
+      "name": "佑芽でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-jsna",
+      "name": "星南でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-kcna",
+      "name": "千奈でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-kllj",
+      "name": "リーリヤでB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-shro",
+      "name": "広でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-ssmk",
+      "name": "清夏でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-b-ttmr",
+      "name": "手毬でB Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-amao",
+      "name": "麻央でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-fktn",
+      "name": "ことねでC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hrnm",
+      "name": "莉波でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hski",
+      "name": "咲季でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-hume",
+      "name": "佑芽でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-jsna",
+      "name": "星南でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-kcna",
+      "name": "千奈でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-kllj",
+      "name": "リーリヤでC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-shro",
+      "name": "広でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-ssmk",
+      "name": "清夏でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-normal-c-ttmr",
+      "name": "手毬でC Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-amao",
+      "name": "麻央でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-fktn",
+      "name": "ことねでTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hrnm",
+      "name": "莉波でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hski",
+      "name": "咲季でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-hume",
+      "name": "佑芽でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-jsna",
+      "name": "星南でTrueEndを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-kcna",
+      "name": "千奈でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-kllj",
+      "name": "リーリヤでTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002",
+      "name": "N.I.AでTrueEnd"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-amao",
+      "name": "麻央でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-fktn",
+      "name": "ことねでTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hrnm",
+      "name": "莉波でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hski",
+      "name": "咲季でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-hume",
+      "name": "佑芽でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-jsna",
+      "name": "星南でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-kcna",
+      "name": "千奈でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-kllj",
+      "name": "リーリヤでTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-shro",
+      "name": "広でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-ssmk",
+      "name": "清夏でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-produce_group-002-ttmr",
+      "name": "手毬でTrueEnd達成"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-shro",
+      "name": "広でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-ssmk",
+      "name": "清夏でTrue Endを見る"
+    },
+    {
+      "id": "hidden_mission-view-ending-true-ttmr",
+      "name": "手毬でTrue Endを見る"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_3",
+      "name": "イベントガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-001-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_3",
+      "name": "イベントガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-002-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_3",
+      "name": "イベントガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-003-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_3",
+      "name": "イベントボックスガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-004-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_3",
+      "name": "イベントボックスガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-005-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_3",
+      "name": "イベントボックスガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-006-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_3",
+      "name": "イベントボックスガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_4",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-box-gasha-event-007-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_2",
+      "name": "いずれかのステージに{threshold}回挑戦しよう"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_3",
+      "name": "花海 咲季のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_4",
+      "name": "月村 手毬のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-circle-battle-event-001-mission_5",
+      "name": "藤田 ことねのプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_12",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_13",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_14",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_15",
+      "name": "コインガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_16",
+      "name": "1日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_22",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_23",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_24",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_25",
+      "name": "コインガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_26",
+      "name": "2日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_32",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_33",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_34",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_35",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_36",
+      "name": "3日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_42",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_43",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_44",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_45",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_46",
+      "name": "4日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_52",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_53",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_54",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_55",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_56",
+      "name": "5日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_61",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_62",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_63",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_64",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_65",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_66",
+      "name": "6日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_71",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_72",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_73",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_74",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_75",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_76",
+      "name": "マスター最終試験を1回クリア"
+    },
+    {
+      "id": "mission-comeback_daily_release_mission_001-mission_77",
+      "name": "7日目のミッションをすべてクリア"
+    },
+    {
+      "id": "mission-daily-incrementgashadrawcount-1",
+      "name": "コインガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-daily-incrementmoneyexchangecount-1",
+      "name": "マニー交換所で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-daily-incrementproduceclearcount-1",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-daily-incrementpvpratewincount-1",
+      "name": "コンテストに{threshold}回挑戦しよう"
+    },
+    {
+      "id": "mission-daily-incrementreceivemoney-1",
+      "name": "マニーを回収しよう"
+    },
+    {
+      "id": "mission-daily-incrementsupportcardenhancecount-1",
+      "name": "サポートカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-daily-incrementworkcount-1",
+      "name": "お仕事を{threshold}回開始しよう"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_11_1",
+      "name": "APを{threshold}消費しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_12",
+      "name": "月村 手毬のボーカルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_12_1",
+      "name": "月村 手毬のボーカルを1000以上に育成してプロデュースを完了しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_13",
+      "name": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_13_1",
+      "name": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_14",
+      "name": "篠澤 広のボーカルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_14_1",
+      "name": "篠澤 広のボーカルを1000以上に育成してプロデュースを完了しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_15",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_15_1",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_16",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_16_1",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_17",
+      "name": "篠澤 広でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-001-mission_17_1",
+      "name": "篠澤 広でプロデュース評価を合計{threshold}獲得しよう（8/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_11_1",
+      "name": "APを{threshold}消費しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_12",
+      "name": "倉本 千奈のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_12_1",
+      "name": "倉本 千奈のダンスを1000以上に育成してプロデュースを完了しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_13",
+      "name": "花海 咲季のビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_13_1",
+      "name": "花海 咲季のビジュアルを1000以上に育成してプロデュースを完了しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_14",
+      "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_14_1",
+      "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_15",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_15_1",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_16",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_16_1",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_17",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-002-mission_17_1",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう（9/1 4:59:59まで）"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_11",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_12",
+      "name": "姫崎 莉波のビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_13",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_14",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_15",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_21",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_22",
+      "name": "藤田 ことねのダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_23",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_24",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_25",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_31",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_32",
+      "name": "紫雲 清夏のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_33",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_34",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_35",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_41",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_42",
+      "name": "姫崎 莉波または藤田 ことねまたは紫雲 清夏のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_43",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_44",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_45",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_51",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_52",
+      "name": "姫崎 莉波または藤田 ことねまたは紫雲 清夏のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_53",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_54",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_55",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-003-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_11",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_12",
+      "name": "有村 麻央のボーカルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_13",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_14",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_15",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_21",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_22",
+      "name": "十王 星南のビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_23",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_24",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_25",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_31",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_32",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_33",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_34",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_35",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_41",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_42",
+      "name": "有村 麻央または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_43",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_44",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_45",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_51",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_52",
+      "name": "有村 麻央または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_53",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_54",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_55",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscore-event-004-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_11",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_12",
+      "name": "花海咲季のビジュアルを1,000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_13",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_14",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_15",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_21",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_22",
+      "name": "月村手毬のボーカルを1,000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_23",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_24",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_25",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_31",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_32",
+      "name": "藤田ことねのダンスを1,000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_33",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_34",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_35",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_41",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_42",
+      "name": "花海 咲季または月村 手毬または藤田 ことねのプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_43",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_44",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_45",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_51",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_52",
+      "name": "花海 咲季または月村 手毬または藤田 ことねのプロデュースで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_53",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_54",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_55",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-highscorerush-event-001-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_12",
+      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_13",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_14",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_15",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_22",
+      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_23",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_24",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_25",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_32",
+      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_33",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_34",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_35",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_42",
+      "name": "藤田 ことねまたは花海 咲季または月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_43",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_44",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_45",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_52",
+      "name": "藤田 ことねまたは花海 咲季または月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_53",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_54",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_55",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-001-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_12",
+      "name": "紫雲 清夏のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_13",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_14",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_15",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_22",
+      "name": "葛城 リーリヤのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_23",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_24",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_25",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_32",
+      "name": "花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_33",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_34",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_35",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_42",
+      "name": "紫雲 清夏または葛城 リーリヤまたは花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_43",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_44",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_45",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_52",
+      "name": "紫雲 清夏または葛城 リーリヤまたは花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_53",
+      "name": "紫雲 清夏でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_54",
+      "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_55",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-002-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_12",
+      "name": "倉本 千奈のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_13",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_14",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_15",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_22",
+      "name": "花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_23",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_24",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_25",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_32",
+      "name": "有村 麻央のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_33",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_34",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_35",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_42",
+      "name": "倉本 千奈または花海 佑芽または有村 麻央のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_43",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_44",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_45",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_52",
+      "name": "倉本 千奈または花海 佑芽または有村 麻央のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_53",
+      "name": "倉本 千奈でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_54",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_55",
+      "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-003-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_12",
+      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_13",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_14",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_15",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_22",
+      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_23",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_24",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_25",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_32",
+      "name": "姫崎 莉波のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_33",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_34",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_35",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_42",
+      "name": "花海 咲季または藤田 ことねまたは姫崎 莉波のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_43",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_44",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_45",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_52",
+      "name": "花海 咲季または藤田 ことねまたは姫崎 莉波のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_53",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_54",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_55",
+      "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-004-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_12",
+      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_13",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_14",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_15",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_22",
+      "name": "花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_23",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_24",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_25",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_32",
+      "name": "十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_33",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_34",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_35",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_42",
+      "name": "月村 手毬または花海 佑芽または十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_43",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_44",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_45",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_52",
+      "name": "月村 手毬または花海 佑芽または十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_53",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_54",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_55",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-005-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_12",
+      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_13",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_14",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_15",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_22",
+      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_23",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_24",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_25",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_32",
+      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_33",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_34",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_35",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_42",
+      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_43",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_44",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_45",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_52",
+      "name": "花海 咲季または月村 手毬または藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_53",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_54",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_55",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-006-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_12",
+      "name": "花海 咲季のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_13",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_14",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_15",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_22",
+      "name": "花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_23",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_24",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_25",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_32",
+      "name": "十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_33",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_34",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_35",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_42",
+      "name": "花海 咲季または花海 佑芽または十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_43",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_44",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_45",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_52",
+      "name": "花海 咲季または花海 佑芽または十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_53",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_54",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_55",
+      "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-007-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_11",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_12",
+      "name": "月村 手毬のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_13",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_14",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_15",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_16",
+      "name": "1日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_22",
+      "name": "藤田 ことねのファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_23",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_24",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_25",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_26",
+      "name": "2日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_31",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_32",
+      "name": "花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_33",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_34",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_35",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_36",
+      "name": "3日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_41",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_42",
+      "name": "月村 手毬または藤田 ことねまたは花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_43",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_44",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_45",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_46",
+      "name": "4日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_51",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_52",
+      "name": "月村 手毬または藤田 ことねまたは花海 佑芽のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_53",
+      "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_54",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_55",
+      "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-main-story-event-008-mission_56",
+      "name": "5日目のミッションを全てクリア"
+    },
+    {
+      "id": "mission-normal-absolutedearnesslevel-1",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "mission-normal-absolutefancount-1",
+      "name": "合計ファン数を{threshold}人にしよう"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardcount-1",
+      "name": "プロデュースアイドルを{threshold}人迎えよう"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-1",
+      "name": "プロデュースアイドル{threshold}人の才能開花段階を1にしよう"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-2",
+      "name": "プロデュースアイドル{threshold}人の才能開花段階を2にしよう"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-3",
+      "name": "プロデュースアイドル{threshold}人の才能開花段階を3にしよう"
+    },
+    {
+      "id": "mission-normal-absoluteidolcardpotentialrankcount-4",
+      "name": "プロデュースアイドル{threshold}人の才能開花段階を4にしよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-2",
+      "name": "コンテストでグレード2に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-3",
+      "name": "コンテストでグレード3に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-4",
+      "name": "コンテストでグレード4に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-5",
+      "name": "コンテストでグレード5に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-6",
+      "name": "コンテストでグレード6に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprategrade-7",
+      "name": "コンテストでグレード7に到達しよう"
+    },
+    {
+      "id": "mission-normal-absolutepvprateunitoverallpower-1",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "mission-normal-absolutesupportcardcount-1",
+      "name": "サポートカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-normal-absolutesupportcardlevel-1",
+      "name": "サポートカードのLvを{threshold}にしよう"
+    },
+    {
+      "id": "mission-normal-discord-join-1",
+      "name": "公式Discordサーバーに入ろう"
+    },
+    {
+      "id": "mission-normal-incrementgashadrawcount-1",
+      "name": "コインガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-normal-incrementguilddonationcount-1",
+      "name": "サークルでアイテムを{threshold}回寄付しよう"
+    },
+    {
+      "id": "mission-normal-incrementidolcardlevellimitrankupdatecount-1",
+      "name": "プロデュースアイドルを{threshold}回特訓しよう"
+    },
+    {
+      "id": "mission-normal-incrementIdolcardpotentialrankupdatecount-1",
+      "name": "プロデュースアイドルを{threshold}回才能開花しよう"
+    },
+    {
+      "id": "mission-normal-incrementmeishiexchangecount-1",
+      "name": "他のプロデューサーから名刺を{threshold}回受け取ろう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-a-1",
+      "name": "評価A以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-a-2",
+      "name": "評価A+以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-b-1",
+      "name": "評価B+以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-s-1",
+      "name": "評価S以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-s-2",
+      "name": "評価S+以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-ss-1",
+      "name": "評価SS以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmemorygradecount-ss-2",
+      "name": "評価SS+以上のメモリーを{threshold}回獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementmissionclear-1",
+      "name": "課題を{threshold}個クリアしよう"
+    },
+    {
+      "id": "mission-normal-incrementmoneyexchangecount-1",
+      "name": "マニー交換所で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-normal-incrementproduceclearcount-1",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-normal-incrementproducememorydeckupdatecount-1",
+      "name": "メモリーを編成しよう"
+    },
+    {
+      "id": "mission-normal-incrementproducesupportcarddeckupdatecount-1",
+      "name": "サポートカードを編成しよう"
+    },
+    {
+      "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "mission-normal-incrementpvpratewincount-1",
+      "name": "コンテストで{threshold}回勝利しよう"
+    },
+    {
+      "id": "mission-normal-incrementreceivemoney-1",
+      "name": "活動費で合計{threshold}のマニーを受け取ろう"
+    },
+    {
+      "id": "mission-normal-incrementsupportcardenhancecount-1",
+      "name": "サポートカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-normal-incrementsupportcardlevellimitrankupdatecount-1",
+      "name": "サポートカードを{threshold}回上限解放しよう"
+    },
+    {
+      "id": "mission-normal-incrementworktimecount-1",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "mission-normal-linkBandaiNamco-1",
+      "name": "データ連携をしよう\n※メニュー > データ連携から可能です"
+    },
+    {
+      "id": "mission-normal-linkBandaiNamco-2",
+      "name": "スマートフォン版とDMM GAMES版のデータ連携をしよう\n※メニュー > データ連携から可能です"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-amao-1st",
+      "name": "麻央試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-amao-3rd",
+      "name": "麻央試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-fktn-1st",
+      "name": "ことね試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-fktn-3rd",
+      "name": "ことね試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hrnm-1st",
+      "name": "莉波試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hrnm-3rd",
+      "name": "莉波試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hski-1st",
+      "name": "咲季試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-hski-3rd",
+      "name": "咲季試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kcna-1st",
+      "name": "千奈試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kcna-3rd",
+      "name": "千奈試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kllj-1st",
+      "name": "リーリヤ試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-kllj-3rd",
+      "name": "リーリヤ試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-shro-1st",
+      "name": "広試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-shro-3rd",
+      "name": "広試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ssmk-1st",
+      "name": "清夏試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ssmk-3rd",
+      "name": "清夏試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ttmr-1st",
+      "name": "手毬試験1位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-pcondtionclear-p-cd-ttmr-3rd",
+      "name": "手毬試験3位を取ったことがある"
+    },
+    {
+      "id": "mission-normal-produce-clear-amao-c",
+      "name": "麻央でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-fktn-c",
+      "name": "ことねでC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-hrnm-c",
+      "name": "莉波でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-hski-c",
+      "name": "咲季でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-hume-c",
+      "name": "佑芽でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-jsna-c",
+      "name": "星南でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-kcna-c",
+      "name": "千奈でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-kllj-c",
+      "name": "リーリヤでC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-shro-c",
+      "name": "広でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-ssmk-c",
+      "name": "清夏でC評価を達成"
+    },
+    {
+      "id": "mission-normal-produce-clear-ttmr-c",
+      "name": "手毬でC評価を達成"
+    },
+    {
+      "id": "mission-normal-profileupdate-1",
+      "name": "プロフィールを設定しよう"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_hume-0001",
+      "name": "佑芽ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0006",
+      "name": "咲季ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0007",
+      "name": "手毬ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0008",
+      "name": "ことねピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0009",
+      "name": "麻央ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0010",
+      "name": "リーリヤピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0011",
+      "name": "千奈ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0012",
+      "name": "清夏ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0013",
+      "name": "広ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_item-0014",
+      "name": "莉波ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-view-shop_pack_jsna-0001",
+      "name": "星南ピースパック発火条件"
+    },
+    {
+      "id": "mission-normal-x-follow-1",
+      "name": "公式Xをフォローしよう"
+    },
+    {
+      "id": "mission-panel-mission-1-1",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-panel-mission-1-2",
+      "name": "ボーカルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-panel-mission-1-3",
+      "name": "ダンスレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-panel-mission-1-4",
+      "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-panel-mission-1-5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-panel-mission-1-6",
+      "name": "プロデュースで相談を{threshold}回選択しよう"
+    },
+    {
+      "id": "mission-panel-mission-1-7",
+      "name": "プロデュースでお出かけを{threshold}回選択しよう"
+    },
+    {
+      "id": "mission-panel-mission-1-8",
+      "name": "プロデュースで活動支給を{threshold}回選択しよう"
+    },
+    {
+      "id": "mission-panel-mission-1-9",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-panel-mission-2-1",
+      "name": "プラン：センスのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-2",
+      "name": "プラン：ロジックのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-3",
+      "name": "最終試験で1位を10回取ろう"
+    },
+    {
+      "id": "mission-panel-mission-2-4",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-5",
+      "name": "プロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-6",
+      "name": "Pドリンクを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-7",
+      "name": "プロデュースで体力を合計{threshold}消費しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-8",
+      "name": "スキルカードを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-panel-mission-2-9",
+      "name": "Pポイントを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-1-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-1-2",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-release_mission-1-3",
+      "name": "課題10をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-1-4",
+      "name": "研修を1つクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-1-5",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-1-6",
+      "name": "1日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-2-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-2-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-2-3",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-release_mission-2-4",
+      "name": "課題20をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-2-5",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-2-6",
+      "name": "2日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-3-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-3-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-3-3",
+      "name": "コンテストに{threshold}回挑戦しよう"
+    },
+    {
+      "id": "mission-release_mission-3-4",
+      "name": "プラン：センスのプロデュースアイドルのプロデュースで評価C+以上達成しよう"
+    },
+    {
+      "id": "mission-release_mission-3-5",
+      "name": "プラン：ロジックのプロデュースアイドルのプロデュースで評価C+以上達成しよう"
+    },
+    {
+      "id": "mission-release_mission-3-6",
+      "name": "課題28をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-3-7",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-3-8",
+      "name": "3日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-4-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-4-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-4-3",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-release_mission-4-4",
+      "name": "課題35をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-4-5",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-4-6",
+      "name": "4日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-5-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-5-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-5-3",
+      "name": "特訓段階を{threshold}にしよう"
+    },
+    {
+      "id": "mission-release_mission-5-4",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-5-5",
+      "name": "5日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-6-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-6-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-6-3",
+      "name": "プロのプロデュースで評価B以上達成しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "mission-release_mission-6-4",
+      "name": "プロのプロデュースで評価B以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "mission-release_mission-6-5",
+      "name": "課題55をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-6-6",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-6-7",
+      "name": "6日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-7-1",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "mission-release_mission-7-2",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-7-3",
+      "name": "課題60をクリアしよう"
+    },
+    {
+      "id": "mission-release_mission-7-4",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "mission-release_mission-7-5",
+      "name": "7日目の全てのミッションをクリアしよう"
+    },
+    {
+      "id": "mission-story-event-001-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-story-event-001-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-story-event-001-mission_3",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-story-event-001-mission_4",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-story-event-001-mission_5",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-story-event-001-mission_6",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-story-event-002-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-story-event-002-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-story-event-002-mission_3",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-story-event-002-mission_4",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-story-event-002-mission_5",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-story-event-002-mission_6",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-story-event-003-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-story-event-003-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-story-event-003-mission_3",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-story-event-003-mission_4",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-story-event-003-mission_5",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-story-event-003-mission_6",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-story-event-004-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-story-event-004-mission_2",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-story-event-004-mission_3",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "mission-story-event-004-mission_4",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-story-event-004-mission_5",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "mission-story-event-004-mission_6",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "mission-weekly-incrementgashadrawcount-1",
+      "name": "コインガシャを{threshold}回引こう"
+    },
+    {
+      "id": "mission-weekly-incrementlogincount-1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "mission-weekly-incrementmoneyexchangecount-1",
+      "name": "マニー交換所で{threshold}回交換しよう"
+    },
+    {
+      "id": "mission-weekly-incrementproduceclearcount-1",
+      "name": "最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "mission-weekly-incrementpvpratewincount-1",
+      "name": "コンテストに{threshold}回挑戦しよう"
+    },
+    {
+      "id": "mission-weekly-incrementsupportcardenhancecount-1",
+      "name": "サポートカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "mission-weekly-incrementworktimecount-1",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_1",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_11",
+      "name": "プラン：センスのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_12",
+      "name": "プラン：ロジックのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_13",
+      "name": "最終試験で1位を5回取ろう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_14",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_15",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_16",
+      "name": "Pドリンクを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_17",
+      "name": "プロデュースで体力を合計{threshold}消費しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_18",
+      "name": "スキルカードを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_19",
+      "name": "Pポイントを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_2",
+      "name": "SPボーカルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_3",
+      "name": "SPダンスレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_4",
+      "name": "SPビジュアルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_5",
+      "name": "レッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_6",
+      "name": "プロデュースで相談を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_7",
+      "name": "プロデュースでお出かけを{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_8",
+      "name": "プロデュースで活動支給を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-002-mission_9",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_1",
+      "name": "{threshold}日ログインしよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_2",
+      "name": "ボーカルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_3",
+      "name": "ダンスレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_4",
+      "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_5",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_6",
+      "name": "Pポイントを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_7",
+      "name": "スキルカードを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_8",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "panel_mission-event-003-mission_9",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_1",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_11",
+      "name": "プラン：センスのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_12",
+      "name": "プラン：ロジックのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_13",
+      "name": "最終試験で1位を5回取ろう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_14",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_15",
+      "name": "プロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_16",
+      "name": "Pドリンクを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_17",
+      "name": "プロデュースで体力を合計{threshold}消費しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_18",
+      "name": "スキルカードを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_19",
+      "name": "Pポイントを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_2",
+      "name": "ボーカルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_3",
+      "name": "ダンスレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_4",
+      "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_6",
+      "name": "プロデュースで相談を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_7",
+      "name": "プロデュースでお出かけを{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_8",
+      "name": "プロデュースで活動支給を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-004-mission_9",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_1",
+      "name": "プロデュースの相談で{threshold}回交換しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_11",
+      "name": "プラン：センスのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_12",
+      "name": "プラン：ロジックのプロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_13",
+      "name": "最終試験で1位を5回取ろう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_14",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_15",
+      "name": "プロデュースを{threshold}回完了しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_16",
+      "name": "Pドリンクを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_17",
+      "name": "プロデュースで体力を合計{threshold}消費しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_18",
+      "name": "スキルカードを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_19",
+      "name": "Pポイントを合計{threshold}獲得しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_2",
+      "name": "ボーカルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_3",
+      "name": "ダンスレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_4",
+      "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_5",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_6",
+      "name": "プロデュースで相談を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_7",
+      "name": "プロデュースでお出かけを{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_8",
+      "name": "プロデュースで活動支給を{threshold}回選択しよう"
+    },
+    {
+      "id": "panel_mission-event-006-mission_9",
+      "name": "Pドリンクを{threshold}回使おう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_1",
+      "name": "最終試験をスコアB+以上で{threshold}回合格しよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_2",
+      "name": "最終試験をスコアA以上で{threshold}回合格しよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_3",
+      "name": "最終試験をスコアA+以上で{threshold}回合格しよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_4",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_5",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_6",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_7",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_8",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "panel_mission-event-niv-mission_9",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-01",
+      "name": "【キミとセミブルー】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-02",
+      "name": "【キミとセミブルー】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-amao-3-001-03",
+      "name": "【キミとセミブルー】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-01",
+      "name": "【Feel Jewel Dream】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-02",
+      "name": "【Feel Jewel Dream】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-amao-3-002-03",
+      "name": "【Feel Jewel Dream】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-01",
+      "name": "【Campus mode!!】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-02",
+      "name": "【Campus mode!!】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-amao-3-007-03",
+      "name": "【Campus mode!!】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-01",
+      "name": "【雪解けに】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-02",
+      "name": "【雪解けに】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-amao-3-009-03",
+      "name": "【雪解けに】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-01",
+      "name": "【Yellow Big Bang！】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-02",
+      "name": "【Yellow Big Bang！】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-001-03",
+      "name": "【Yellow Big Bang！】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-01",
+      "name": "【冠菊】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-02",
+      "name": "【冠菊】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-002-03",
+      "name": "【冠菊】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-01",
+      "name": "【White Night! White Wish!】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-02",
+      "name": "【White Night! White Wish!】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-006-03",
+      "name": "【White Night! White Wish!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-01",
+      "name": "【Campus mode!!】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-02",
+      "name": "【Campus mode!!】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-fktn-3-007-03",
+      "name": "【Campus mode!!】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-01",
+      "name": "【キミとセミブルー】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-02",
+      "name": "【キミとセミブルー】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-001-03",
+      "name": "【キミとセミブルー】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-01",
+      "name": "【L.U.V】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-02",
+      "name": "【L.U.V】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-002-03",
+      "name": "【L.U.V】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-01",
+      "name": "【ようこそ初星温泉】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-02",
+      "name": "【ようこそ初星温泉】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-004-03",
+      "name": "【ようこそ初星温泉】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-01",
+      "name": "【Campus mode!!】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-02",
+      "name": "【Campus mode!!】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-007-03",
+      "name": "【Campus mode!!】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-01",
+      "name": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-02",
+      "name": "【ハッピーミルフィーユ】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hrnm-3-008-03",
+      "name": "【ハッピーミルフィーユ】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-01",
+      "name": "【Boom Boom Pow】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-02",
+      "name": "【Boom Boom Pow】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hski-3-001-03",
+      "name": "【Boom Boom Pow】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-01",
+      "name": "【冠菊】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-02",
+      "name": "【冠菊】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hski-3-002-03",
+      "name": "【冠菊】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-01",
+      "name": "【古今東西ちょちょいのちょい】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-02",
+      "name": "【古今東西ちょちょいのちょい】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hski-3-006-03",
+      "name": "【古今東西ちょちょいのちょい】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-01",
+      "name": "【Campus mode!!】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-02",
+      "name": "【Campus mode!!】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hski-3-008-03",
+      "name": "【Campus mode!!】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-01",
+      "name": "【アイドル、はじめっ！】花海 佑芽のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-02",
+      "name": "【アイドル、はじめっ！】花海 佑芽の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hume-2-000-03",
+      "name": "【アイドル、はじめっ！】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-01",
+      "name": "【The Rolling Riceball】花海 佑芽のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-02",
+      "name": "【The Rolling Riceball】花海 佑芽の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hume-3-000-03",
+      "name": "【The Rolling Riceball】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-01",
+      "name": "【White Night! White Wish!】花海 佑芽のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-02",
+      "name": "【White Night! White Wish!】花海 佑芽の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hume-3-005-03",
+      "name": "【White Night! White Wish!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-01",
+      "name": "【Campus mode!!】花海 佑芽のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-02",
+      "name": "【Campus mode!!】花海 佑芽の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-hume-3-006-03",
+      "name": "【Campus mode!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-01",
+      "name": "【一番星】十王 星南のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-02",
+      "name": "【一番星】十王 星南の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-jsna-2-000-03",
+      "name": "【一番星】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-01",
+      "name": "【小さな野望】十王 星南のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-02",
+      "name": "【小さな野望】十王 星南の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-000-03",
+      "name": "【小さな野望】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-01",
+      "name": "【Campus mode!!】十王 星南のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-02",
+      "name": "【Campus mode!!】十王 星南の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-002-03",
+      "name": "【Campus mode!!】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-01",
+      "name": "【ハッピーミルフィーユ】十王 星南のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-02",
+      "name": "【ハッピーミルフィーユ】十王 星南の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-jsna-3-003-03",
+      "name": "【ハッピーミルフィーユ】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-01",
+      "name": "【日々、発見的ステップ！】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-02",
+      "name": "【日々、発見的ステップ！】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-001-03",
+      "name": "【日々、発見的ステップ！】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-01",
+      "name": "【仮装狂騒曲】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-02",
+      "name": "【仮装狂騒曲】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-002-03",
+      "name": "【仮装狂騒曲】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-01",
+      "name": "【ようこそ初星温泉】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-02",
+      "name": "【ようこそ初星温泉】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-005-03",
+      "name": "【ようこそ初星温泉】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-01",
+      "name": "【Campus mode!!】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-02",
+      "name": "【Campus mode!!】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-007-03",
+      "name": "【Campus mode!!】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-01",
+      "name": "【雪解けに】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-02",
+      "name": "【雪解けに】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kcna-3-009-03",
+      "name": "【雪解けに】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-01",
+      "name": "【冠菊】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-02",
+      "name": "【冠菊】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-001-03",
+      "name": "【冠菊】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-01",
+      "name": "【White Night! White Wish!】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-02",
+      "name": "【White Night! White Wish!】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-005-03",
+      "name": "【White Night! White Wish!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-01",
+      "name": "【Campus mode!!】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-02",
+      "name": "【Campus mode!!】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-006-03",
+      "name": "【Campus mode!!】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-01",
+      "name": "【極光】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-02",
+      "name": "【極光】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-008-03",
+      "name": "【極光】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-01",
+      "name": "【桜フォトグラフ】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-02",
+      "name": "【桜フォトグラフ】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-kllj-3-010-03",
+      "name": "【桜フォトグラフ】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-01",
+      "name": "【コントラスト】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-02",
+      "name": "【コントラスト】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-shro-3-001-03",
+      "name": "【コントラスト】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-01",
+      "name": "【仮装狂騒曲】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-02",
+      "name": "【仮装狂騒曲】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-shro-3-002-03",
+      "name": "【仮装狂騒曲】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-01",
+      "name": "【Campus mode!!】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-02",
+      "name": "【Campus mode!!】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-shro-3-007-03",
+      "name": "【Campus mode!!】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-01",
+      "name": "【ハッピーミルフィーユ】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-02",
+      "name": "【ハッピーミルフィーユ】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-shro-3-008-03",
+      "name": "【ハッピーミルフィーユ】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-01",
+      "name": "【キミとセミブルー】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-02",
+      "name": "【キミとセミブルー】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-001-03",
+      "name": "【キミとセミブルー】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-01",
+      "name": "【カクシタワタシ】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-02",
+      "name": "【カクシタワタシ】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-002-03",
+      "name": "【カクシタワタシ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-01",
+      "name": "【Campus mode!!】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-02",
+      "name": "【Campus mode!!】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-007-03",
+      "name": "【Campus mode!!】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-01",
+      "name": "【桜フォトグラフ】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-02",
+      "name": "【桜フォトグラフ】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ssmk-3-010-03",
+      "name": "【桜フォトグラフ】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-01",
+      "name": "【アイヴイ】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-02",
+      "name": "【アイヴイ】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-001-03",
+      "name": "【アイヴイ】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-01",
+      "name": "【仮装狂騒曲】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-02",
+      "name": "【仮装狂騒曲】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-002-03",
+      "name": "【仮装狂騒曲】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-01",
+      "name": "【Campus mode!!】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-02",
+      "name": "【Campus mode!!】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-007-03",
+      "name": "【Campus mode!!】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-01",
+      "name": "【雪解けに】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-02",
+      "name": "【雪解けに】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-i_card-ttmr-3-009-03",
+      "name": "【雪解けに】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-m_amao-001",
+      "name": "有村 麻央のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_fktn-001",
+      "name": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_hrnm-001",
+      "name": "姫崎 莉波のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_hski-001",
+      "name": "花海 咲季のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_hume-001",
+      "name": "花海 佑芽のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_jsna-001",
+      "name": "十王 星南のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_kcna-001",
+      "name": "倉本 千奈のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_kllj-001",
+      "name": "葛城 リーリヤのアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_shro-001",
+      "name": "篠澤 広のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_ssmk-001",
+      "name": "紫雲 清夏のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-m_ttmr-001",
+      "name": "月村 手毬のアチーブメントの★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-o_001",
+      "name": "プロデュースを始めた証"
+    },
+    {
+      "id": "achieve-o_002",
+      "name": "お仕事を合計{threshold}時間"
+    },
+    {
+      "id": "achieve-o_003",
+      "name": "課題を{threshold}個クリア"
+    },
+    {
+      "id": "achieve-o_004",
+      "name": "課題を{threshold}個クリア"
+    },
+    {
+      "id": "achieve-o_006",
+      "name": "プロデューサーLv{threshold}に到達"
+    },
+    {
+      "id": "achieve-o_007",
+      "name": "プロデューサーLv{threshold}に到達"
+    },
+    {
+      "id": "achieve-o_009",
+      "name": "活動費で合計{threshold}のマニーを受け取る"
+    },
+    {
+      "id": "achieve-o_010",
+      "name": "合計ファン数を{threshold}人にする"
+    },
+    {
+      "id": "achieve-o_011",
+      "name": "合計ファン数を{threshold}人にする"
+    },
+    {
+      "id": "achieve-o_012",
+      "name": "合計ファン数を{threshold}人にする"
+    },
+    {
+      "id": "achieve-o_013",
+      "name": "フォロワー数{threshold}人以上"
+    },
+    {
+      "id": "achieve-o_014",
+      "name": "コンテストで1位になる"
+    },
+    {
+      "id": "achieve-o_015",
+      "name": "コンテストで100位以内に入る"
+    },
+    {
+      "id": "achieve-o_016",
+      "name": "コンテストでグレード1に到達"
+    },
+    {
+      "id": "achieve-o_017",
+      "name": "コンテストでグレード2に到達"
+    },
+    {
+      "id": "achieve-o_018",
+      "name": "コンテストでグレード3に到達"
+    },
+    {
+      "id": "achieve-o_019",
+      "name": "コンテストでグレード4に到達"
+    },
+    {
+      "id": "achieve-o_020",
+      "name": "コンテストでグレード5に到達"
+    },
+    {
+      "id": "achieve-o_021",
+      "name": "コンテストでグレード6に到達"
+    },
+    {
+      "id": "achieve-o_022",
+      "name": "コンテストでグレード7に到達"
+    },
+    {
+      "id": "achieve-o_023",
+      "name": "コンテストでスコアを{threshold}以上獲得"
+    },
+    {
+      "id": "achieve-o_024",
+      "name": "コンテストでスコアを{threshold}以上獲得"
+    },
+    {
+      "id": "achieve-o_025",
+      "name": "コンテストでスコアを{threshold}以上獲得"
+    },
+    {
+      "id": "achieve-o_026",
+      "name": "コンテストのグレード7で1位になる"
+    },
+    {
+      "id": "achieve-o_027",
+      "name": "コンテストのグレード7で100位以内に入る"
+    },
+    {
+      "id": "achieve-p_common-001",
+      "name": "Pポイントを合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_common-002",
+      "name": "アチーブメントを{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_common-003",
+      "name": "スキルカードを合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_common-004",
+      "name": "Pアイテムを合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_common-005",
+      "name": "Pドリンクを合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_common-006",
+      "name": "スキルカードを{threshold}種類獲得"
+    },
+    {
+      "id": "achieve-p_common-007",
+      "name": "Pアイテムを{threshold}種類獲得"
+    },
+    {
+      "id": "achieve-p_common-008",
+      "name": "Pドリンクを{threshold}種類獲得"
+    },
+    {
+      "id": "achieve-p_common-009",
+      "name": "プロデュースでVoレッスンを{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_common-010",
+      "name": "プロデュースでDaレッスンを{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_common-011",
+      "name": "プロデュースでViレッスンを{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_common-012",
+      "name": "プロデュースで活動支給を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_common-013",
+      "name": "プロデュースで授業/おでかけを{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_common-014",
+      "name": "プロデュースでスキルカードを{threshold}回強化"
+    },
+    {
+      "id": "achieve-p_common-015",
+      "name": "相談で{threshold}回交換"
+    },
+    {
+      "id": "achieve-p_common-016",
+      "name": "レッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_common-017",
+      "name": "SPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_common-018",
+      "name": "プロデュースで体力を合計{threshold}消費"
+    },
+    {
+      "id": "achieve-p_common-019",
+      "name": "最終試験をスコアB以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-020",
+      "name": "最終試験をスコアA以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-021",
+      "name": "最終試験をスコアA+以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-022",
+      "name": "最終試験をスコアS以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-023",
+      "name": "最終試験をスコアS+以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-024",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "achieve-p_common-025",
+      "name": "プロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_common-026",
+      "name": "最終試験をスコアSS以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_common-027",
+      "name": "最終試験をスコアSS+以上で{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-amao-000",
+      "name": "有村 麻央でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-amao-000-1",
+      "name": "有村 麻央でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-amao-001",
+      "name": "有村 麻央のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-amao-002",
+      "name": "有村 麻央でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-amao-003",
+      "name": "有村 麻央でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-amao-004",
+      "name": "有村 麻央で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-005",
+      "name": "有村 麻央で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-006",
+      "name": "有村 麻央で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-007",
+      "name": "有村 麻央のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-amao-008",
+      "name": "有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-amao-009",
+      "name": "有村 麻央のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-amao-010",
+      "name": "有村 麻央のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-011",
+      "name": "有村 麻央の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-amao-012",
+      "name": "有村 麻央でPドリンクを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-amao-013",
+      "name": "有村 麻央のプロデュースで体力を合計{threshold}消費"
+    },
+    {
+      "id": "achieve-p_idol-amao-014",
+      "name": "有村 麻央のビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-amao-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-016",
+      "name": "有村 麻央で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-017",
+      "name": "有村 麻央の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-amao-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-amao-020",
+      "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-1",
+      "name": "【はじまりはカッコよく】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-2",
+      "name": "【はじまりはカッコよく】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-002-3",
+      "name": "【はじまりはカッコよく】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-1",
+      "name": "【Fluorite】有村 麻央のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-2",
+      "name": "【Fluorite】有村 麻央の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-amao-003-3",
+      "name": "【Fluorite】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-1",
+      "name": "【カワイイ♡はじめました】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-2",
+      "name": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-002-3",
+      "name": "【カワイイ♡はじめました】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-1",
+      "name": "【世界一可愛い私】藤田 ことねのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-2",
+      "name": "【世界一可愛い私】藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-fktn-003-3",
+      "name": "【世界一可愛い私】藤田 ことねのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-1",
+      "name": "【『私らしさ』のはじまり】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-2",
+      "name": "【『私らしさ』のはじまり】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-002-3",
+      "name": "【『私らしさ』のはじまり】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-1",
+      "name": "【clumsy trick】姫崎 莉波のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-2",
+      "name": "【clumsy trick】姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-hrnm-003-3",
+      "name": "【clumsy trick】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-1",
+      "name": "【わたしが一番！】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-2",
+      "name": "【わたしが一番！】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-002-3",
+      "name": "【わたしが一番！】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-1",
+      "name": "【Fighting My Way】花海 咲季のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-2",
+      "name": "【Fighting My Way】花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-hski-003-3",
+      "name": "【Fighting My Way】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-1",
+      "name": "【胸を張って一歩ずつ】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-2",
+      "name": "【胸を張って一歩ずつ】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-002-3",
+      "name": "【胸を張って一歩ずつ】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-1",
+      "name": "【Wonder Scale】倉本 千奈のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-2",
+      "name": "【Wonder Scale】倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-kcna-003-3",
+      "name": "【Wonder Scale】倉本 千奈のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-1",
+      "name": "【一つ踏み出した先に】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-2",
+      "name": "【一つ踏み出した先に】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-002-3",
+      "name": "【一つ踏み出した先に】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-1",
+      "name": "【白線】葛城 リーリヤのプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-2",
+      "name": "【白線】葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-kllj-003-3",
+      "name": "【白線】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-1",
+      "name": "【一番向いてないこと】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-2",
+      "name": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-002-3",
+      "name": "【一番向いてないこと】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-1",
+      "name": "【光景】篠澤 広のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-2",
+      "name": "【光景】篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-shro-003-3",
+      "name": "【光景】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-1",
+      "name": "【夢へのリスタート】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-2",
+      "name": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-002-3",
+      "name": "【夢へのリスタート】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-1",
+      "name": "【Tame-Lie-One-Step】紫雲 清夏のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-2",
+      "name": "【Tame-Lie-One-Step】紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-ssmk-003-3",
+      "name": "【Tame-Lie-One-Step】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-1",
+      "name": "【一匹狼】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-2",
+      "name": "【一匹狼】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-002-3",
+      "name": "【一匹狼】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-1",
+      "name": "【Luna say maybe】月村 手毬のプロデュースで最終試験に合格"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-2",
+      "name": "【Luna say maybe】月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-card-ttmr-003-3",
+      "name": "【Luna say maybe】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-000",
+      "name": "藤田 ことねでTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-fktn-000-1",
+      "name": "藤田 ことねでTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-fktn-001",
+      "name": "藤田 ことねのプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-fktn-002",
+      "name": "藤田 ことねでレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-fktn-003",
+      "name": "藤田 ことねでSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-fktn-004",
+      "name": "藤田 ことねで最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-005",
+      "name": "藤田 ことねで最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-006",
+      "name": "藤田 ことねで最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-007",
+      "name": "藤田 ことねのプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-fktn-008",
+      "name": "藤田 ことねの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-fktn-009",
+      "name": "藤田 ことねのプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-fktn-010",
+      "name": "藤田 ことねのファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-011",
+      "name": "藤田 ことねの親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-fktn-012",
+      "name": "藤田 ことねでプロデュース評価を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-013",
+      "name": "藤田 ことねのプロデュースの相談で{threshold}回交換"
+    },
+    {
+      "id": "achieve-p_idol-fktn-014",
+      "name": "藤田 ことねのダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-fktn-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-016",
+      "name": "藤田 ことねで最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-017",
+      "name": "藤田 ことねの難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-fktn-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-fktn-020",
+      "name": "藤田 ことねで最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000",
+      "name": "姫崎 莉波でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-000-1",
+      "name": "姫崎 莉波でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-001",
+      "name": "姫崎 莉波のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-002",
+      "name": "姫崎 莉波でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-003",
+      "name": "姫崎 莉波でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-004",
+      "name": "姫崎 莉波で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-005",
+      "name": "姫崎 莉波で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-006",
+      "name": "姫崎 莉波で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-007",
+      "name": "姫崎 莉波のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-008",
+      "name": "姫崎 莉波の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-009",
+      "name": "姫崎 莉波のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-010",
+      "name": "姫崎 莉波のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-011",
+      "name": "姫崎 莉波の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-012",
+      "name": "姫崎 莉波でPドリンクを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-013",
+      "name": "姫崎 莉波のプロデュースで体力を合計{threshold}消費"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-014",
+      "name": "姫崎 莉波のビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-016",
+      "name": "姫崎 莉波で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-017",
+      "name": "姫崎 莉波の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-hrnm-020",
+      "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-000",
+      "name": "花海 咲季でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-hski-000-1",
+      "name": "花海 咲季でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-hski-001",
+      "name": "花海 咲季のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-hski-002",
+      "name": "花海 咲季でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hski-003",
+      "name": "花海 咲季でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hski-004",
+      "name": "花海 咲季で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-005",
+      "name": "花海 咲季で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-006",
+      "name": "花海 咲季で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-007",
+      "name": "花海 咲季のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-hski-008",
+      "name": "花海 咲季の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hski-009",
+      "name": "花海 咲季のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-hski-010",
+      "name": "花海 咲季のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-011",
+      "name": "花海 咲季の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hski-012",
+      "name": "花海 咲季でプロデュース評価を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-013",
+      "name": "花海 咲季のプロデュースでスキルカードを{threshold}回強化"
+    },
+    {
+      "id": "achieve-p_idol-hski-014",
+      "name": "花海 咲季のビジュアルを900以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-hski-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-016",
+      "name": "花海 咲季で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-017",
+      "name": "花海 咲季の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-hski-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-hski-020",
+      "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-000",
+      "name": "花海 佑芽でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-hume-000-1",
+      "name": "花海 佑芽でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-hume-001",
+      "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-hume-002",
+      "name": "花海 佑芽でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hume-003",
+      "name": "花海 佑芽でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-hume-004",
+      "name": "花海 佑芽で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-005",
+      "name": "花海 佑芽で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-006",
+      "name": "花海 佑芽で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-007",
+      "name": "花海 佑芽のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-hume-008",
+      "name": "花海 佑芽の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hume-009",
+      "name": "花海 佑芽のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-hume-010",
+      "name": "花海 佑芽のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-011",
+      "name": "花海 佑芽の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-hume-012",
+      "name": "花海 佑芽でPドリンクを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-hume-013",
+      "name": "花海 佑芽のプロデュースで元気を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-014",
+      "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-hume-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-016",
+      "name": "花海 佑芽で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-017",
+      "name": "花海 佑芽の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-hume-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-hume-020",
+      "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-000",
+      "name": "十王 星南でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-jsna-000-1",
+      "name": "十王 星南でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-jsna-001",
+      "name": "十王 星南のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-jsna-002",
+      "name": "十王 星南でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-jsna-003",
+      "name": "十王 星南でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-jsna-004",
+      "name": "十王 星南で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-005",
+      "name": "十王 星南で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-006",
+      "name": "十王 星南で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-007",
+      "name": "十王 星南のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-jsna-008",
+      "name": "十王 星南の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-jsna-009",
+      "name": "十王 星南のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-jsna-010",
+      "name": "十王 星南のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-011",
+      "name": "十王 星南の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-jsna-012",
+      "name": "十王 星南のプロデュースの相談で{threshold}回交換"
+    },
+    {
+      "id": "achieve-p_idol-jsna-013",
+      "name": "十王 星南のプロデュースで体力を合計{threshold}消費"
+    },
+    {
+      "id": "achieve-p_idol-jsna-014",
+      "name": "十王 星南のビジュアルを900以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-jsna-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-016",
+      "name": "十王 星南で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-017",
+      "name": "十王 星南の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-jsna-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-jsna-020",
+      "name": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-000",
+      "name": "倉本 千奈でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-kcna-000-1",
+      "name": "倉本 千奈でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-kcna-001",
+      "name": "倉本 千奈のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-kcna-002",
+      "name": "倉本 千奈でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-kcna-003",
+      "name": "倉本 千奈でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-kcna-004",
+      "name": "倉本 千奈で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-005",
+      "name": "倉本 千奈で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-006",
+      "name": "倉本 千奈で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-007",
+      "name": "倉本 千奈のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-kcna-008",
+      "name": "倉本 千奈の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-kcna-009",
+      "name": "倉本 千奈のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-kcna-010",
+      "name": "倉本 千奈のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-011",
+      "name": "倉本 千奈の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-kcna-012",
+      "name": "倉本 千奈のプロデュースで元気を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-013",
+      "name": "倉本 千奈のプロデュースの相談で{threshold}回交換"
+    },
+    {
+      "id": "achieve-p_idol-kcna-014",
+      "name": "倉本 千奈のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-kcna-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-016",
+      "name": "倉本 千奈で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-017",
+      "name": "倉本 千奈の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-kcna-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-kcna-020",
+      "name": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-000",
+      "name": "葛城 リーリヤでTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-kllj-000-1",
+      "name": "葛城 リーリヤでTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-kllj-001",
+      "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-kllj-002",
+      "name": "葛城 リーリヤでレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-kllj-003",
+      "name": "葛城 リーリヤでSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-kllj-004",
+      "name": "葛城 リーリヤで最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-005",
+      "name": "葛城 リーリヤで最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-006",
+      "name": "葛城 リーリヤで最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-007",
+      "name": "葛城 リーリヤのプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-kllj-008",
+      "name": "葛城 リーリヤの特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-kllj-009",
+      "name": "葛城 リーリヤのプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-kllj-010",
+      "name": "葛城 リーリヤのファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-011",
+      "name": "葛城 リーリヤの親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-kllj-012",
+      "name": "葛城 リーリヤのプロデュースで元気を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-013",
+      "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回強化"
+    },
+    {
+      "id": "achieve-p_idol-kllj-014",
+      "name": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-kllj-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-016",
+      "name": "葛城 リーリヤで最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-017",
+      "name": "葛城 リーリヤの難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-kllj-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-kllj-020",
+      "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-000",
+      "name": "篠澤 広でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-shro-000-1",
+      "name": "篠澤 広でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-shro-001",
+      "name": "篠澤 広のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-shro-002",
+      "name": "篠澤 広でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-shro-003",
+      "name": "篠澤 広でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-shro-004",
+      "name": "篠澤 広で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-005",
+      "name": "篠澤 広で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-006",
+      "name": "篠澤 広で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-007",
+      "name": "篠澤 広のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-shro-008",
+      "name": "篠澤 広の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-shro-009",
+      "name": "篠澤 広のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-shro-010",
+      "name": "篠澤 広のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-011",
+      "name": "篠澤 広の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-shro-012",
+      "name": "篠澤 広でプロデュース評価を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-013",
+      "name": "篠澤 広のプロデュースで元気を合計{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-014",
+      "name": "篠澤 広のボーカルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-shro-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-016",
+      "name": "篠澤 広で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-017",
+      "name": "篠澤 広の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-shro-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-shro-020",
+      "name": "篠澤 広で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-000",
+      "name": "紫雲 清夏でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-000-1",
+      "name": "紫雲 清夏でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-001",
+      "name": "紫雲 清夏のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-002",
+      "name": "紫雲 清夏でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-003",
+      "name": "紫雲 清夏でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-004",
+      "name": "紫雲 清夏で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-005",
+      "name": "紫雲 清夏で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-006",
+      "name": "紫雲 清夏で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-007",
+      "name": "紫雲 清夏のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-008",
+      "name": "紫雲 清夏の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-009",
+      "name": "紫雲 清夏のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-010",
+      "name": "紫雲 清夏のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-011",
+      "name": "紫雲 清夏の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-012",
+      "name": "紫雲 清夏でPドリンクを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-013",
+      "name": "紫雲 清夏のプロデュースで体力を合計{threshold}消費"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-014",
+      "name": "紫雲 清夏のダンスを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-016",
+      "name": "紫雲 清夏で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-017",
+      "name": "紫雲 清夏の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-ssmk-020",
+      "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000",
+      "name": "月村 手毬でTrue Endをみる"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-000-1",
+      "name": "月村 手毬でTrue End : N.I.Aをみる"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-001",
+      "name": "月村 手毬のプロデュースでスキルカードを{threshold}回使用"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-002",
+      "name": "月村 手毬でレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-003",
+      "name": "月村 手毬でSPレッスンを{threshold}回クリア"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-004",
+      "name": "月村 手毬で最終試験に合格して評価B以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-005",
+      "name": "月村 手毬で最終試験に合格して評価A以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-006",
+      "name": "月村 手毬で最終試験に合格して評価S以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-007",
+      "name": "月村 手毬のプロデュースを{threshold}回完了"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-008",
+      "name": "月村 手毬の特訓段階を{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-009",
+      "name": "月村 手毬のプロデュースで最終試験に{threshold}回合格"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-010",
+      "name": "月村 手毬のファンを{threshold}人獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-011",
+      "name": "月村 手毬の親愛度Lvを{threshold}にする"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-012",
+      "name": "月村 手毬のプロデュースでスキルカードを{threshold}回強化"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-013",
+      "name": "月村 手毬のプロデュースの相談で{threshold}回交換"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-014",
+      "name": "月村 手毬のボーカルを1000以上に育成してプロデュースを完了"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-015",
+      "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-016",
+      "name": "月村 手毬で最終試験に合格して評価S+以上を{threshold}回獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-017",
+      "name": "月村 手毬の難易度「マスター」で最終試験1位を獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-018",
+      "name": "プロデュースで特別指導を{threshold}回選択"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-019",
+      "name": "プロデュースでファン投票数を{threshold}獲得"
+    },
+    {
+      "id": "achieve-p_idol-ttmr-020",
+      "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得"
+    },
+    {
+      "id": "main_task_group-01-01#1",
+      "name": "プロデュースに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-01-01#2",
+      "name": "1章1話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#3",
+      "name": "サポートカードを強化しよう"
+    },
+    {
+      "id": "main_task_group-01-01#4",
+      "name": "名刺を編集しよう"
+    },
+    {
+      "id": "main_task_group-01-01#5",
+      "name": "他のプロデューサーをフォローしよう"
+    },
+    {
+      "id": "main_task_group-01-01#6",
+      "name": "研修を1つクリアしよう"
+    },
+    {
+      "id": "main_task_group-01-01#7",
+      "name": "試験研修を1つクリアしよう"
+    },
+    {
+      "id": "main_task_group-01-01#8",
+      "name": "プロデュースに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-01-01#9",
+      "name": "1章2話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#10",
+      "name": "プロデュースアイドルを特訓しよう"
+    },
+    {
+      "id": "main_task_group-01-01#11",
+      "name": "活動費を回収しよう"
+    },
+    {
+      "id": "main_task_group-01-01#12",
+      "name": "マニー交換所で交換しよう"
+    },
+    {
+      "id": "main_task_group-01-01#13",
+      "name": "プロデュースに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-01-01#14",
+      "name": "1章3話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#15",
+      "name": "お仕事を開始しよう"
+    },
+    {
+      "id": "main_task_group-01-01#16",
+      "name": "プロデュースに挑戦しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#17",
+      "name": "センスガシャを1回引こう"
+    },
+    {
+      "id": "main_task_group-01-01#18",
+      "name": "1章4話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#19",
+      "name": "サポートカード{threshold}枚をLv20にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#20",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-01-01#21",
+      "name": "プロデュースに挑戦しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#22",
+      "name": "ロジックガシャを1回引こう"
+    },
+    {
+      "id": "main_task_group-01-01#23",
+      "name": "1章5話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#24",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-01-01#25",
+      "name": "異なるアイドル{threshold}人のプロデュースを完了しよう"
+    },
+    {
+      "id": "main_task_group-01-01#26",
+      "name": "コンテストで編成しよう"
+    },
+    {
+      "id": "main_task_group-01-01#27",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#28",
+      "name": "1章6話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#29",
+      "name": "サポートカード{threshold}枚をLv20にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#30",
+      "name": "プロデュースに挑戦して評価C+以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-01-01#31",
+      "name": "1章7話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#32",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-01-01#33",
+      "name": "研修の【応用１】プラン：センスをクリアしよう"
+    },
+    {
+      "id": "main_task_group-01-01#34",
+      "name": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#35",
+      "name": "1章8話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#36",
+      "name": "研修の【応用２】プラン：ロジックをクリアしよう"
+    },
+    {
+      "id": "main_task_group-01-01#37",
+      "name": "プロデュースに挑戦して評価C+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#38",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-01-01#39",
+      "name": "1章9話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#40",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を2にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#41",
+      "name": "プロデュースで難易度プロに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-01-01#42",
+      "name": "サポートカード{threshold}枚をLv20にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#43",
+      "name": "1章10話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#44",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#45",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-01-01#46",
+      "name": "プロデュースでいずれかのパラメータを600以上に育成しよう"
+    },
+    {
+      "id": "main_task_group-01-01#47",
+      "name": "1章11話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#48",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#49",
+      "name": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#50",
+      "name": "プロデュースに挑戦して評価B以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-01-01#51",
+      "name": "1章12話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#52",
+      "name": "サポートカードのLvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#53",
+      "name": "最終試験で1位になろう"
+    },
+    {
+      "id": "main_task_group-01-01#54",
+      "name": "1章13話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#55",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-01-01#56",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#57",
+      "name": "プロデュースでいずれかのパラメータを800以上に育成しよう"
+    },
+    {
+      "id": "main_task_group-01-01#58",
+      "name": "1章14話をみよう"
+    },
+    {
+      "id": "main_task_group-01-01#59",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-01-01#60",
+      "name": "TrueEndをみよう"
+    },
+    {
+      "id": "main_task_group-02-01#1",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#2",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#3",
+      "name": "プロデュースでいずれかのパラメータを1000以上に育成しよう"
+    },
+    {
+      "id": "main_task_group-02-01#4",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#5",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#6",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#7",
+      "name": "SPレッスンを{threshold}回クリアしよう"
+    },
+    {
+      "id": "main_task_group-02-01#8",
+      "name": "サポートカード{threshold}枚をLv30にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#9",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#10",
+      "name": "プロデュースに挑戦して評価B+以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#11",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#12",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-02-01#13",
+      "name": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#14",
+      "name": "プロデュースに挑戦して評価B+以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#15",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#16",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を3にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#17",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "main_task_group-02-01#18",
+      "name": "サポートカードのLvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#19",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#20",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#21",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#22",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#23",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#24",
+      "name": "サポートカード{threshold}枚をLv30にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#25",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#26",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#27",
+      "name": "コンテストに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-02-01#28",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "main_task_group-02-01#29",
+      "name": "サポートカード{threshold}枚をLv30にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#30",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：花海 咲季"
+    },
+    {
+      "id": "main_task_group-02-01#31",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#32",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：月村 手毬"
+    },
+    {
+      "id": "main_task_group-02-01#33",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#34",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：藤田 ことね"
+    },
+    {
+      "id": "main_task_group-02-01#35",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#36",
+      "name": "Pドリンクを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#37",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：有村 麻央"
+    },
+    {
+      "id": "main_task_group-02-01#38",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#39",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：姫崎 莉波"
+    },
+    {
+      "id": "main_task_group-02-01#40",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#41",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：葛城 リーリヤ"
+    },
+    {
+      "id": "main_task_group-02-01#42",
+      "name": "コンテストに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-02-01#43",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#44",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：紫雲 清夏"
+    },
+    {
+      "id": "main_task_group-02-01#45",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#46",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：篠澤 広"
+    },
+    {
+      "id": "main_task_group-02-01#47",
+      "name": "サポートカード{threshold}枚をLv40にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#48",
+      "name": "プロデュースで最終試験に合格しよう\n【条件】：倉本 千奈"
+    },
+    {
+      "id": "main_task_group-02-01#49",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#50",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#51",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#52",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-02-01#53",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#54",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#55",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#56",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#57",
+      "name": "コンテストに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-02-01#58",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#59",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#60",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#61",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#62",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#63",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#64",
+      "name": "サポートカード{threshold}枚をLv40にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#65",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#66",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#67",
+      "name": "プロデュースに挑戦して評価A以上を獲得しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-02-01#68",
+      "name": "合計ファン数を{threshold}人にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#69",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#70",
+      "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+    },
+    {
+      "id": "main_task_group-02-01#71",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#72",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#73",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "main_task_group-02-01#74",
+      "name": "サポートカード{threshold}枚をLv40にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#75",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#76",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#77",
+      "name": "篠澤 広で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#78",
+      "name": "倉本 千奈で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#79",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#80",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#81",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#82",
+      "name": "葛城 リーリヤで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#83",
+      "name": "紫雲 清夏で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#84",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を5にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#85",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#86",
+      "name": "プロデュース評価を合計{threshold}獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#87",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#88",
+      "name": "有村 麻央で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#89",
+      "name": "姫崎 莉波で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#90",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#91",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#92",
+      "name": "月村 手毬で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#93",
+      "name": "藤田 ことねで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#94",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#95",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-02-01#96",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+    },
+    {
+      "id": "main_task_group-02-01#97",
+      "name": "花海 咲季で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#98",
+      "name": "花海 佑芽で最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-02-01#99",
+      "name": "TrueEndアチーブメントを{threshold}個達成"
+    },
+    {
+      "id": "main_task_group-02-01#100",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#1",
+      "name": "研修の【基礎７】全力をクリアしよう"
+    },
+    {
+      "id": "main_task_group-03-01#2",
+      "name": "研修の【基礎８】強気をクリアしよう"
+    },
+    {
+      "id": "main_task_group-03-01#3",
+      "name": "プラン：アノマリーのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+    },
+    {
+      "id": "main_task_group-03-01#4",
+      "name": "アノマリーガシャを{threshold}回引こう"
+    },
+    {
+      "id": "main_task_group-03-01#5",
+      "name": "研修の【応用５】プラン：アノマリーをクリアしよう"
+    },
+    {
+      "id": "main_task_group-03-01#6",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を4にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#7",
+      "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#8",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#9",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#10",
+      "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#11",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#12",
+      "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#13",
+      "name": "敏腕P研修のいずれかをクリアしよう"
+    },
+    {
+      "id": "main_task_group-03-01#14",
+      "name": "プロデュースで難易度マスターに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-03-01#15",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#16",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#17",
+      "name": "サポートカード{threshold}枚をLv40にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#18",
+      "name": "プラン：アノマリーのプロデュースアイドルで最終試験に合格して評価A以上を{threshold}回獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#19",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#20",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#21",
+      "name": "APを{threshold}消費しよう"
+    },
+    {
+      "id": "main_task_group-03-01#22",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#23",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#24",
+      "name": "プロデュースでいずれかのパラメータを1500以上に育成しよう"
+    },
+    {
+      "id": "main_task_group-03-01#25",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#26",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#27",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#28",
+      "name": "合計ファン数を{threshold}人にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#29",
+      "name": "難易度マスターで最終試験に{threshold}回合格しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-03-01#30",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#31",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#32",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-03-01#33",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#34",
+      "name": "プロデュースに挑戦して評価A+以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#35",
+      "name": "十王 星南のファンを{threshold}人獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#36",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#37",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#38",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#39",
+      "name": "花海 咲季の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#40",
+      "name": "月村 手毬の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#41",
+      "name": "藤田 ことねの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#42",
+      "name": "有村 麻央の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#43",
+      "name": "葛城 リーリヤの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#44",
+      "name": "倉本 千奈の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#45",
+      "name": "紫雲 清夏の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#46",
+      "name": "篠澤 広の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#47",
+      "name": "花海 佑芽の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#48",
+      "name": "姫崎 莉波の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#49",
+      "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#50",
+      "name": "プロデュースに挑戦して評価S以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#51",
+      "name": "プロデュースでN.I.Aに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-03-01#52",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#53",
+      "name": "プロデュースアイドル{threshold}人の特訓段階を6にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#54",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#55",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#56",
+      "name": "コンテストに挑戦しよう"
+    },
+    {
+      "id": "main_task_group-03-01#57",
+      "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+    },
+    {
+      "id": "main_task_group-03-01#58",
+      "name": "N.I.Aでファン投票数を{threshold}獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#59",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#60",
+      "name": "N.I.Aで最終オーディションに合格しよう"
+    },
+    {
+      "id": "main_task_group-03-01#61",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#62",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#63",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#64",
+      "name": "合計ファン数を{threshold}人にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#65",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-03-01#66",
+      "name": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：センスのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-03-01#67",
+      "name": "プロデュースでいずれかのパラメータを1,700以上に育成しよう"
+    },
+    {
+      "id": "main_task_group-03-01#68",
+      "name": "スキルカードを{threshold}種類獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#69",
+      "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+    },
+    {
+      "id": "main_task_group-03-01#70",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#71",
+      "name": "プロデュースで特別指導を{threshold}回選択しよう"
+    },
+    {
+      "id": "main_task_group-03-01#72",
+      "name": "いずれかのアイドルの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#73",
+      "name": "お仕事を合計{threshold}時間しよう"
+    },
+    {
+      "id": "main_task_group-03-01#74",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#75",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#76",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#77",
+      "name": "N.I.Aでファン投票数を{threshold}獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#78",
+      "name": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：ロジックのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-03-01#79",
+      "name": "合計ファン数を{threshold}人にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#80",
+      "name": "アチーブメントを{threshold}個獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#81",
+      "name": "N.I.Aのプロデュースで評価S以上達成しよう\n【条件】プラン：アノマリーのプロデュースアイドル"
+    },
+    {
+      "id": "main_task_group-03-01#82",
+      "name": "花海 咲季の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#83",
+      "name": "月村 手毬の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#84",
+      "name": "藤田 ことねの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#85",
+      "name": "有村 麻央の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#86",
+      "name": "葛城 リーリヤの親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#87",
+      "name": "倉本 千奈の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#88",
+      "name": "紫雲 清夏の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#89",
+      "name": "篠澤 広の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#90",
+      "name": "十王 星南の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#91",
+      "name": "花海 佑芽の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#92",
+      "name": "姫崎 莉波の親愛度Lvを{threshold}にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#93",
+      "name": "N.I.Aでスキルカードを{threshold}回カスタマイズしよう"
+    },
+    {
+      "id": "main_task_group-03-01#94",
+      "name": "アイドルへの道で★を合計{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#95",
+      "name": "True End : N.I.Aを{threshold}人みよう"
+    },
+    {
+      "id": "main_task_group-03-01#96",
+      "name": "コンテストのユニット総合力を{threshold}以上にしよう"
+    },
+    {
+      "id": "main_task_group-03-01#97",
+      "name": "コンテストでスコアを{threshold}以上獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#98",
+      "name": "プロデューサーLv{threshold}に到達しよう"
+    },
+    {
+      "id": "main_task_group-03-01#99",
+      "name": "プロデュースに挑戦して評価S+以上を獲得しよう"
+    },
+    {
+      "id": "main_task_group-03-01#100",
+      "name": "True End : N.I.Aを{threshold}人みよう"
+    }
+  ]
+}
