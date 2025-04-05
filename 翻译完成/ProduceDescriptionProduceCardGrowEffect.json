@@ -39,27 +39,27 @@
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffReduce",
-      "name": "强化状态消耗值减少"
+      "name": "强化状态cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostBuffAdd",
-      "name": "强化状态消耗值增加"
+      "name": "强化状态cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReduce",
-      "name": "消耗值减少"
+      "name": "cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAdd",
-      "name": "消耗值增加"
+      "name": "cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateReduce",
-      "name": "体力消耗值减少"
+      "name": "体力cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostPenetrateAdd",
-      "name": "体力消耗值增加"
+      "name": "体力cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_ParameterBuffTurnAdd",
@@ -151,7 +151,7 @@
     },
     {
       "type": "ProduceCardGrowEffectType_PlayMovePositionTypeChange",
-      "name": ""
+      "name": "使用后变更移动到的地方"
     },
     {
       "type": "ProduceCardGrowEffectType_InitialAdd",
@@ -159,43 +159,43 @@
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffReduce",
-      "name": "集中消耗值减少"
+      "name": "集中cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostLessonBuffAdd",
-      "name": "集中消耗值增加"
+      "name": "集中cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewReduce",
-      "name": "好印象消耗值减少"
+      "name": "好印象cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostReviewAdd",
-      "name": "好印象消耗值增加"
+      "name": "好印象cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveReduce",
-      "name": "干劲消耗值减少"
+      "name": "干劲cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostAggressiveAdd",
-      "name": "干劲消耗值增加"
+      "name": "干劲cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffReduce",
-      "name": "好调消耗值减少"
+      "name": "好调cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffAdd",
-      "name": "好调消耗值增加"
+      "name": "好调cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointReduce",
-      "name": "全力值消耗值减少"
+      "name": "全力值cost值减少"
     },
     {
       "type": "ProduceCardGrowEffectType_CostFullPowerPointAdd",
-      "name": "全力值消耗值增加"
+      "name": "全力值cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_LessonDependBlockAdd",
@@ -211,11 +211,11 @@
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnAdd",
-      "name": "绝好调消耗值增加"
+      "name": "绝好调cost值增加"
     },
     {
       "type": "ProduceCardGrowEffectType_CostParameterBuffMultiplePerTurnReduce",
-      "name": "绝好调消耗值减少"
+      "name": "绝好调cost值减少"
     }
   ]
 }
