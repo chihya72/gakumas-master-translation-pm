@@ -127,7 +127,7 @@ def merge_todo():
     new_files_dir = "./pretranslate_todo/todo/new"  # 只有新的 jp: cn
     old_trans_dir = "./pretranslate_todo/temp_key_cn"  # 旧版 key: cn
     new_key_jp_dir = "./pretranslate_todo/temp_key_jp"  # 新版 key: jp
-    output_dir = "./pretranslate_todo/mreged"  # 新的 key: cn
+    output_dir = "./pretranslate_todo/merged"  # 新的 key: cn
 
     if not os.path.isdir(output_dir):
         os.makedirs(output_dir)
