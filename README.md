@@ -31,3 +31,9 @@
 
 1. 生成 todo 文件: 运行 `pretranslate_process.py` 选 2。旧的翻译数据在 `data` 内，新的文件使用 `gakumasu_diff_to_json` 生成
 2. 预翻译完成后，将新文件放入 `todo/new` 内，运行 `pretranslate_process.py` 选 4
+
+# pm修改部分
+
+## localization.json翻译
+
+在localization路径下执行`localization.py`。选 1：将 `localization.json` 和 `localization_orig.json` 进行合并，生成 `localization_dual.json`。选 2：将 `localization_dual.json` 中的中文提取出来生成 `localization_cn.json`，可以直接改名为 `localization.json` 进行使用。
