@@ -278,3 +278,7 @@ python scripts/pretranslate_process.py --merge
 ### export_db_json.py
 
 将插件格式的JSON文件导出为key-value格式，用于翻译。处理主键提取和路径规范化。
+
+
+
+ProduceExamGimmickEffectGroup.json文件额外修改部分：温存 でない場合→未处于温存 的时候；好调 状態でない場合→未处于好调状态 的时候。对某几个“温存”、“好调”关键词做额外修改
