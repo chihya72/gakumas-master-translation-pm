@@ -1,16 +1,17 @@
 import os
 import json
+import sys
 
-def fill_translations():
+def fill_translations(main_file_path):
     # 1. 读取主文件
     try:
-        with open('ProduceExamStatusEnchant.json', 'r', encoding='utf-8') as file:
+        with open(main_file_path, 'r', encoding='utf-8') as file:
             main_data = json.load(file)
     except FileNotFoundError:
-        print("错误：未找到 ProduceExamStatusEnchant.json 文件")
+        print(f"错误：未找到 {main_file_path} 文件")
         return
     except json.JSONDecodeError:
-        print("错误：ProduceExamStatusEnchant.json 文件格式不正确")
+        print(f"错误：{main_file_path} 文件格式不正确")
         return
 
     # 获取需要填充翻译的键（值为空的键）
@@ -23,10 +24,11 @@ def fill_translations():
 
     # 2. 遍历 jp_cn 目录下的所有 JSON 文件
     translations_found = 0
-    jp_cn_dir = os.path.join(os.path.dirname('ProduceExamStatusEnchant.json'), 'jp_cn')
+    main_file_dir = os.path.dirname(main_file_path) or '.'
+    jp_cn_dir = os.path.join(main_file_dir, 'jp_cn')
     
     if not os.path.exists(jp_cn_dir):
-        print(f"错误：未找到 jp_cn 目录，请确保它与 ProduceExamStatusEnchant.json 在同一目录下")
+        print(f"错误：未找到 jp_cn 目录，请确保它与 {main_file_path} 在同一目录下")
         return
 
     for filename in os.listdir(jp_cn_dir):
@@ -55,7 +57,7 @@ def fill_translations():
             break
 
     # 4. 保存更新后的主文件
-    with open('ProduceExamStatusEnchant.json', 'w', encoding='utf-8') as file:
+    with open(main_file_path, 'w', encoding='utf-8') as file:
         json.dump(main_data, file, ensure_ascii=False, indent=2)
     
     print(f"完成！已填充 {translations_found} 个翻译")
@@ -63,4 +65,10 @@ def fill_translations():
         print(f"警告：还有 {len(empty_keys)} 个键未找到翻译")
 
 if __name__ == "__main__":
-    fill_translations()
+    if len(sys.argv) < 2:
+        print("使用方法: python full_trans.py <json文件路径>")
+        print("例如: python full_trans.py aaa.json")
+        sys.exit(1)
+    
+    main_file_path = sys.argv[1]
+    fill_translations(main_file_path)
