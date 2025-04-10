@@ -415,10 +415,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "抽卡枚数会增加"
+          "text": "抽卡张数会增加"
         }
       ],
-      "name": "抽卡枚数增加"
+      "name": "抽卡张数增加"
     },
     {
       "id": "Label_CardDrawReduce",
@@ -431,10 +431,10 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "抽卡枚数减少"
+          "text": "抽卡张数会减少"
         }
       ],
-      "name": "抽卡枚数减少"
+      "name": "抽卡张数减少"
     },
     {
       "id": "Label_CardStatusEnchantChange",
@@ -3097,7 +3097,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "枚减少 "
+          "text": "张减少 "
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -3123,7 +3123,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "手牌减少每增加1点，回合开始时抽取的技能卡会有1枚减少"
+          "text": "手牌减少每增加1点，回合开始时抽取的技能卡会有1张减少"
         }
       ],
       "name": "手牌减少"
@@ -7037,7 +7037,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "仅能保存2枚技能卡，超过2枚的按时间顺序送至弃牌"
+          "text": "仅能保存2张技能卡，超过2张的按存入时间顺序送至弃牌"
         }
       ],
       "name": "保留"
