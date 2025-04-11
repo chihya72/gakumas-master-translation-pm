@@ -3,7 +3,8 @@ name: Create Release
 on:
   push:
     tags:
-      - 'v*'
+      - 'v*' # 当推送带有 v 开头的标签时触发，例如 v1.0.0
+  workflow_dispatch: # 添加手动触发选项
 
 jobs:
   build:
@@ -14,14 +15,8 @@ jobs:
 
       - name: Create ZIP archive
         run: |
-          # 确保在仓库根目录下操作
-          cd ${{ github.workspace }}
-          zip -r local-files.zip 1D1O1N1E1/local-files
-
-      - name: Debug ZIP structure (可选)
-        run: |
-          unzip -l local-files.zip | head -n 10  # 查看 ZIP 前10行结构
-
+          zip -r local-files.zip 1D1O1N1E1/local-files/
+      
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v1
