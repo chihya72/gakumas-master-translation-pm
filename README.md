@@ -37,3 +37,7 @@
 ## localization.json翻译
 
 在localization路径下执行`localization.py`。选 1：将 `localization.json` 和 `localization_orig.json` 进行合并，生成 `localization_dual.json`。选 2：将 `localization_dual.json` 中的中文提取出来生成 `localization_cn.json`，可以直接改名为 `localization.json` 进行使用。
+
+## 额外修改
+
+ProduceExamGimmickEffectGroup.json文件额外修改部分：温存 でない場合→未处于温存 的时候；好调 状態でない場合→未处于好调状态 的时候。对某几个“温存”、“好调”关键词做额外修改
