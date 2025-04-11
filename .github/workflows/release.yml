@@ -16,17 +16,17 @@ jobs:
         run: |
           # 确保在仓库根目录下操作
           cd ${{ github.workspace }}
-          zip -r masterTrans.zip masterTrans
+          zip -r local-files.zip 1D1O1N1E1/local-files
 
       - name: Debug ZIP structure (可选)
         run: |
-          unzip -l masterTrans.zip | head -n 10  # 查看 ZIP 前10行结构
+          unzip -l local-files.zip | head -n 10  # 查看 ZIP 前10行结构
 
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          files: masterTrans.zip
+          files: local-files.zip
           name: Release ${{ github.ref_name }}
           draft: false
           prerelease: false
