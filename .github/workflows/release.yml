@@ -3,8 +3,8 @@ name: Create Release
 on:
   push:
     tags:
-      - 'v*' # 当推送带有 v 开头的标签时触发，例如 v1.0.0
-  workflow_dispatch: # 手动触发选项
+      - 'v*'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -13,36 +13,38 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          submodules: recursive  # 确保检出子模块内容
+          submodules: recursive  # 确保检出子模块
 
       - name: Prepare directories
         run: |
-          # 清空目标目录（如果存在）
-          rm -rf gakumas-local/resource/*
-          # 确保目标目录存在
-          mkdir -p gakumas-local/resource
+          # 清理并创建目标目录
+          rm -rf gakumas-local/local-files/resource/*
+          mkdir -p gakumas-local/local-files/resource
+
+          # 验证目录结构
+          tree gakumas-local/local-files -L 2
 
       - name: Copy translation data
         run: |
-          # 复制子模块数据到目标位置
-          cp -R GakumasPreTranslation/data/* gakumas-local/resource/
+          # 复制子模块数据到新位置
+          cp -R GakumasPreTranslation/data/* gakumas-local/local-files/resource/
           
           # 验证复制结果
-          ls -l gakumas-local/resource/
+          ls -l gakumas-local/local-files/resource/
 
       - name: Create ZIP archive
         run: |
           # 压缩整个 gakumas-local 目录
           zip -r gakumas-local.zip gakumas-local/
           
-          # 列出压缩包内容验证
-          unzip -l gakumas-local.zip | head -n 20
+          # 显示压缩包结构（调试用）
+          unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/resource'
 
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          files: gakumas-local.zip  # 修改为新的压缩包名称
+          files: gakumas-local.zip
           name: Release ${{ github.ref_name }}
           draft: false
           prerelease: false
