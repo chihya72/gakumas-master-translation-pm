@@ -4,7 +4,7 @@ on:
   push:
     tags:
       - 'v*' # 当推送带有 v 开头的标签时触发，例如 v1.0.0
-  workflow_dispatch: # 添加手动触发选项
+  workflow_dispatch: # 手动触发选项
 
 jobs:
   build:
@@ -12,16 +12,37 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+        with:
+          submodules: recursive  # 确保检出子模块内容
+
+      - name: Prepare directories
+        run: |
+          # 清空目标目录（如果存在）
+          rm -rf gakumas-local/resource/*
+          # 确保目标目录存在
+          mkdir -p gakumas-local/resource
+
+      - name: Copy translation data
+        run: |
+          # 复制子模块数据到目标位置
+          cp -R GakumasPreTranslation/data/* gakumas-local/resource/
+          
+          # 验证复制结果
+          ls -l gakumas-local/resource/
 
       - name: Create ZIP archive
         run: |
-          zip -r local-files.zip 1D1O1N1E1/local-files/
-      
+          # 压缩整个 gakumas-local 目录
+          zip -r gakumas-local.zip gakumas-local/
+          
+          # 列出压缩包内容验证
+          unzip -l gakumas-local.zip | head -n 20
+
       - name: Create Release
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          files: local-files.zip
+          files: gakumas-local.zip  # 修改为新的压缩包名称
           name: Release ${{ github.ref_name }}
           draft: false
           prerelease: false

@@ -1,0 +1,923 @@
+{
+  "rules": {
+    "primaryKeys": [
+      "characterId",
+      "type",
+      "order"
+    ]
+  },
+  "data": [
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "三年级生"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "157"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "46"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "85/53/85"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "摩羯座"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "七濑紬"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "1月18日"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "兵库县"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "格斗技、手巧"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "照顾他人、观剧"
+    },
+    {
+      "characterId": "amao",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "以帅气偶像为目标的小巧三年级生。被后辈们仰慕为「小小的王子殿下」。\n自幼憧憬歌剧明星，曾作为童星活跃，\n但最近因理想形象与身体成长产生的落差而烦恼。"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "156"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "40"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "75/55/75"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "金牛座"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "饭田光"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "4月29日"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "埼玉县"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "舞蹈、记住人的长相和名字"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "赚钱"
+    },
+    {
+      "characterId": "fktn",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "以「能赚钱的偶像」为目标的氛围制造者。\n中等部直升的內部升学组。拥有丰富的舞蹈才能。\n学园评价与自我评价皆低，但似乎未发挥真正实力。\n因同时兼顾多份打工，总是显得疲惫。"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "三年级生"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "166"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "56"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "90/59/93"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "双鱼座"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "薄井友里"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "3月5日"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "福冈县"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "料理、缝纫・手工艺"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "探访咖啡馆、收集化妆品"
+    },
+    {
+      "characterId": "hrnm",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "散发成熟气质的三年级生。宿舍里备受依赖的姐姐。\n曾加入过偶像团体，但成绩不尽理想。"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "152"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "45"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "84/55/80 "
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "白羊座"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "长月葵"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "16"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "4月2日"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "左"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "爱知县"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "全能运动、全能家务、按摩"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "所有竞争类事物"
+    },
+    {
+      "characterId": "hski",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "入学考试榜首的新生。好胜不服输的前运动员。\n卓越的运动能力位列全校学生前10%。\n虽无经验但悟性极高，成长速度惊人。\n看似已近完成的能力，仿佛难有更大突破，然而……"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "158"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "50"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "91/60/85"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "白羊座"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "松田彩音"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "4月1日"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "爱知县"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "全能运动、按摩"
+    },
+    {
+      "characterId": "hume",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "与姐姐的较量"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "三年级生"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "170"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "54"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "A"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "88/56/86"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "射手座"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "阳高真白"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "17"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "12月7日"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "双手通用"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "东京都"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "看透偶像才能"
+    },
+    {
+      "characterId": "jsna",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "训练、发掘有才能的偶像"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "148"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "43"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "73/56/73"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "狮子座"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "伊藤舞音"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "8月1日"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "神奈川县"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "元气问候、受动物喜爱"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "绘画"
+    },
+    {
+      "characterId": "kcna",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "被宠溺长大的纯正大小姐。天真烂漫的少女。\n怀揣「成为杰出偶像」的梦想考入初星学园。"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "161"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "43"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "B"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "82/53/80"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "狮子座"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "花岩香奈"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "7月24日"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "瑞典"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "烘焙点心、游戏"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "烘焙点心、日本动画"
+    },
+    {
+      "characterId": "kllj",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "海外来的新生。\n无歌舞经验，总因缺乏自信而畏缩。\n看似并不适合当偶像，但……"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "159"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "41"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "72/54/76"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "射手座"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "川村玲奈"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "12月21日"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "左"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "秋田县"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "全能学业、物理、数学、解谜"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "挑战不擅长的领域、培育观叶植物"
+    },
+    {
+      "characterId": "shro",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "14岁大学毕业的天才少女。详细经历另记。\n舍弃备受期待的未来选择成为偶像，原因不明。\n入学考试笔试满分、实操零分。据传学园长面试评价为优等。"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "168"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "54"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "O"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "89/58/85"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "天蝎座"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "凑美夜"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "11月11日"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "左"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "北海道"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "身体柔软"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "卡拉OK、社交媒体"
+    },
+    {
+      "characterId": "ssmk",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "活泼开朗、能与任何人亲近的少女。\n入学前曾有芭蕾舞扬名世界的实绩，备受期待。\n但常逃课旷训，显得毫无干劲。"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Grade",
+      "order": 1,
+      "content": "一年级生"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Height",
+      "order": 2,
+      "content": "162"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Weight",
+      "order": 3,
+      "content": "51"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_BloodType",
+      "order": 4,
+      "content": "AB"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_ThreeSize",
+      "order": 5,
+      "content": "82/58/86"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_ZodiacSign",
+      "order": 6,
+      "content": "双子座"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Cv",
+      "order": 7,
+      "content": "小鹿奈绪"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Age",
+      "order": 8,
+      "content": "15"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Birthday",
+      "order": 9,
+      "content": "6月3日"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_DominantHand",
+      "order": 10,
+      "content": "右"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Birthplace",
+      "order": 11,
+      "content": "京都府"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_SpecialSkill",
+      "order": 12,
+      "content": "歌唱"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Hobby",
+      "order": 13,
+      "content": "享用美食（已封印）"
+    },
+    {
+      "characterId": "ttmr",
+      "type": "CharacterDetailType_Introduction",
+      "order": 14,
+      "content": "中等部第一组合「SyngUp!」前成员。\n虽为一年级生，已具备一线水平的唱功。\n品行存疑。恶评缠身。麻烦制造者。"
+    }
+  ]
+}
