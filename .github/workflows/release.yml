@@ -1,5 +1,3 @@
-name: Create Release
-
 on:
   push:
     tags:
@@ -12,8 +10,7 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-        with:
-          submodules: recursive  # 确保检出子模块
+        # 不需要递归检出子模块，因为我们将使用远程仓库
 
       - name: Prepare directories
         run: |
@@ -23,14 +20,25 @@ jobs:
 
           # 验证目录结构
           tree gakumas-local/local-files -L 2
+      
+      - name: Clone translation data repository
+        run: |
+          # 克隆远程翻译数据仓库
+          git clone https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+          
+          # 验证克隆结果
+          ls -l temp-repo/data/
 
       - name: Copy translation data
         run: |
-          # 复制子模块数据到新位置
-          cp -R GakumasPreTranslation/data/* gakumas-local/local-files/resource/
+          # 从克隆的仓库复制数据到目标位置
+          cp -R temp-repo/data/* gakumas-local/local-files/resource/
           
           # 验证复制结果
           ls -l gakumas-local/local-files/resource/
+          
+          # 清理临时仓库
+          rm -rf temp-repo
 
       - name: Create ZIP archive
         run: |
