@@ -56,27 +56,32 @@ jobs:
           zip -r gakumas-local.zip gakumas-local/
           unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/resource'
 
-      - name: Generate Release Metadata
-        id: set_release_name
-        run: |
-          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            SHORT_SHA="${{ steps.extract_b_info.outputs.b_commit_sha }}"
-            SHORT_SHA=${SHORT_SHA:0:7}
-            RAW_MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
-            
-            # 清理标题
-            CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -50 | sed 's/[“”"*]//g')
-            
-            # 构造带链接的Markdown
-            COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_b_info.outputs.b_commit_sha }}"
-            MD_BODY=$(printf "**Triggered by [Gakumas-Auto-Translate Commit](%s):**\n\n\`\`\`\n%s\n\`\`\`" "${COMMIT_URL}" "${RAW_MSG}")
-
-            echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
-            echo "body=${MD_BODY}" >> $GITHUB_OUTPUT
-          else
-            echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
-            echo "body=Standard versioned release" >> $GITHUB_OUTPUT
-          fi
+          - name: Generate Release Metadata
+          id: set_release_name
+          run: |
+            if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+              SHORT_SHA="${{ steps.extract_b_info.outputs.b_commit_sha }}"
+              SHORT_SHA=${SHORT_SHA:0:7}
+              RAW_MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
+              
+              # 清理标题
+              CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -50 | sed 's/["""*]//g')
+              
+              # 构造带链接的Markdown
+              COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_b_info.outputs.b_commit_sha }}"
+              
+              echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
+              echo "body<<EOF" >> $GITHUB_OUTPUT
+              echo "**Triggered by [Gakumas-Auto-Translate Commit](${COMMIT_URL}):**" >> $GITHUB_OUTPUT
+              echo "" >> $GITHUB_OUTPUT
+              echo '```' >> $GITHUB_OUTPUT
+              echo "$RAW_MSG" >> $GITHUB_OUTPUT
+              echo '```' >> $GITHUB_OUTPUT
+              echo "EOF" >> $GITHUB_OUTPUT
+            else
+              echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
+              echo "body=Standard versioned release" >> $GITHUB_OUTPUT
+            fi
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
