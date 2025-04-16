@@ -21,6 +21,11 @@ jobs:
         with:
           ref: ${{ github.event_name == 'repository_dispatch' && 'main' || github.ref }}
 
+      - name: 复制需要的文件到目标目录
+        run: |
+          mkdir -p gakumas-local/local-files/masterTrans
+          cp -r data/*.json gakumas-local/local-files/masterTrans/
+
       - name: Extract B Commit Info
         if: ${{ github.event_name == 'repository_dispatch' }}
         id: extract_b_info
