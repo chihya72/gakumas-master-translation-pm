@@ -1,13 +1,10 @@
 name: Combined Release Workflow
 
 on:
-  # 原始触发条件
   push:
     tags:
       - 'v*'
   workflow_dispatch:
-
-  # 新增跨仓库触发
   repository_dispatch:
     types: [data-updated]
 
@@ -19,13 +16,11 @@ jobs:
       cancel-in-progress: true
 
     steps:
-      # 代码检出
       - name: Checkout code
         uses: actions/checkout@v4
         with:
           ref: ${{ github.event_name == 'repository_dispatch' && 'main' || github.ref }}
 
-      # B项目commit信息提取
       - name: Extract B Commit Info
         if: ${{ github.event_name == 'repository_dispatch' }}
         id: extract_b_info
@@ -35,59 +30,54 @@ jobs:
           echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
-      # 目录准备
       - name: Prepare directories
         run: |
           rm -rf gakumas-local/local-files/resource/*
           mkdir -p gakumas-local/local-files/resource
           tree gakumas-local/local-files -L 2
 
-      # 数据克隆策略
       - name: Clone translation data
         run: |
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            echo "⬇️ 强制获取最新数据（B项目触发）"
             git clone --depth 1 https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
           else
-            echo "🏷️ 使用标签关联数据（手动/标签触发）"
             git clone --branch ${{ github.ref_name }} https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
           fi
           ls -l temp-repo/data/
 
-      # 数据复制
       - name: Copy translation data
         run: |
           cp -R temp-repo/data/* gakumas-local/local-files/resource/
           ls -l gakumas-local/local-files/resource/
           rm -rf temp-repo
 
-      # 打包操作
       - name: Create ZIP archive
         run: |
           zip -r gakumas-local.zip gakumas-local/
           unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/resource'
 
-      # 动态Release信息
       - name: Generate Release Metadata
         id: set_release_name
         run: |
           if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
             SHORT_SHA="${{ steps.extract_b_info.outputs.b_commit_sha }}"
             SHORT_SHA=${SHORT_SHA:0:7}
-            MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
+            RAW_MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
             
-            # 清理标题格式
-            CLEAN_TITLE=$(echo "$MSG" | tr '\n' ' ' | cut -c -50 | sed 's/["*]//g')
-            CLEAN_BODY=$(echo "$MSG" | sed 's/"/\\"/g')
+            # 清理标题
+            CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -50 | sed 's/[“”"*]//g')
             
-            echo "name=Data Update: ${CLEAN_TITLE} (B@${SHORT_SHA})" >> $GITHUB_OUTPUT
-            echo "body=**Triggered by B Commit:**\n\n\`\`\`\n${CLEAN_BODY}\n\`\`\`" >> $GITHUB_OUTPUT
+            # 构造带链接的Markdown
+            COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_b_info.outputs.b_commit_sha }}"
+            MD_BODY=$(printf "**Triggered by [Gakumas-Auto-Translate Commit](%s):**\n\n\`\`\`\n%s\n\`\`\`" "${COMMIT_URL}" "${RAW_MSG}")
+
+            echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
+            echo "body=${MD_BODY}" >> $GITHUB_OUTPUT
           else
             echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
             echo "body=Standard versioned release" >> $GITHUB_OUTPUT
           fi
 
-      # 创建Release
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
