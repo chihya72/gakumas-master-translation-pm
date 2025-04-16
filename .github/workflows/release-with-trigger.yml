@@ -29,6 +29,9 @@ jobs:
           echo "b_commit_msg<<EOF" >> $GITHUB_OUTPUT
           echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
+          echo "changed_files<<EOF" >> $GITHUB_OUTPUT
+          echo '${{ toJSON(github.event.client_payload.changed_files) }}' >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Prepare directories
         run: |
@@ -36,52 +39,94 @@ jobs:
           mkdir -p gakumas-local/local-files/resource
           tree gakumas-local/local-files -L 2
 
-      - name: Clone translation data
+      - name: Clone repository B
+        if: ${{ github.event_name == 'repository_dispatch' }}
         run: |
-          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-            git clone --depth 1 https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
-          else
-            git clone --branch ${{ github.ref_name }} https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
-          fi
-          ls -l temp-repo/data/
+          git clone --depth 1 https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+          echo "Repository B cloned to temp-repo/"
 
-      - name: Copy translation data
+      - name: Selective file copy
+        if: ${{ github.event_name == 'repository_dispatch' }}
         run: |
+          # 使用jq解析变更文件列表
+          echo '${{ steps.extract_b_info.outputs.changed_files }}' > changed_files.json
+          
+          # 如果changed_files为空数组或不存在，执行完整复制
+          if [ "$(jq 'length' changed_files.json 2>/dev/null || echo '0')" = "0" ]; then
+            echo "No specific files changed or selective sync info missing. Performing full sync."
+            cp -R temp-repo/data/* gakumas-local/local-files/resource/
+          else
+            echo "Performing selective sync of changed files:"
+            # 读取变更文件并逐一复制
+            jq -r '.[]' changed_files.json | while read -r file; do
+              echo "Copying: $file"
+              # 创建目标目录结构
+              mkdir -p "gakumas-local/local-files/resource/$(dirname "${file#data/}")"
+              # 复制文件
+              cp "temp-repo/$file" "gakumas-local/local-files/resource/${file#data/}"
+            done
+          fi
+          
+          # 显示复制的文件数量
+          echo "Files copied to destination:"
+          find gakumas-local/local-files/resource -type f | wc -l
+
+      - name: Tag-based full copy
+        if: ${{ github.event_name != 'repository_dispatch' }}
+        run: |
+          git clone --branch ${{ github.ref_name }} https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
           cp -R temp-repo/data/* gakumas-local/local-files/resource/
+
+      - name: Cleanup temp repository
+        run: |
           ls -l gakumas-local/local-files/resource/
           rm -rf temp-repo
 
       - name: Create ZIP archive
         run: |
-          zip -r gakumas-local.zip gakumas-local/
-          unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/resource'
+          # 确保安装 zip 和 unzip
+          sudo apt-get update
+          sudo apt-get install -y zip unzip
+          
+          # 显示文件统计信息
+          echo "文件数量统计:"
+          find gakumas-local/local-files/resource -type f | wc -l
+          
+          # 使用更高压缩比但减少内存使用的方式
+          zip -r -9 -q gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
+          
+          # 显示ZIP大小
+          du -h gakumas-local.zip
+          
+          # 只列出部分文件内容作为样本验证
+          unzip -l gakumas-local.zip | head -n 20
 
-          - name: Generate Release Metadata
-          id: set_release_name
-          run: |
-            if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
-              SHORT_SHA="${{ steps.extract_b_info.outputs.b_commit_sha }}"
-              SHORT_SHA=${SHORT_SHA:0:7}
-              RAW_MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
-              
-              # 清理标题
-              CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -50 | sed 's/["""*]//g')
-              
-              # 构造带链接的Markdown
-              COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_b_info.outputs.b_commit_sha }}"
-              
-              echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
-              echo "body<<EOF" >> $GITHUB_OUTPUT
-              echo "**Triggered by [Gakumas-Auto-Translate Commit](${COMMIT_URL}):**" >> $GITHUB_OUTPUT
-              echo "" >> $GITHUB_OUTPUT
-              echo '```' >> $GITHUB_OUTPUT
-              echo "$RAW_MSG" >> $GITHUB_OUTPUT
-              echo '```' >> $GITHUB_OUTPUT
-              echo "EOF" >> $GITHUB_OUTPUT
-            else
-              echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
-              echo "body=Standard versioned release" >> $GITHUB_OUTPUT
-            fi
+      - name: Generate Release Metadata
+        id: set_release_name
+        run: |
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            SHORT_SHA="${{ steps.extract_b_info.outputs.b_commit_sha }}"
+            SHORT_SHA=${SHORT_SHA:0:7}
+            RAW_MSG="${{ steps.extract_b_info.outputs.b_commit_msg }}"
+            
+            # 清理标题
+            CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -50 | sed 's/["""*]//g')
+            
+            # 构造带链接的Markdown
+            COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_b_info.outputs.b_commit_sha }}"
+            
+            echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
+            echo "body<<EOF" >> $GITHUB_OUTPUT
+            echo "**Triggered by [Gakumas-Auto-Translate Commit](${COMMIT_URL}):**" >> $GITHUB_OUTPUT
+            echo "" >> $GITHUB_OUTPUT
+            echo '```' >> $GITHUB_OUTPUT
+            echo "$RAW_MSG" >> $GITHUB_OUTPUT
+            echo '```' >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          else
+            echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
+            echo "body=Standard versioned release" >> $GITHUB_OUTPUT
+          fi
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
