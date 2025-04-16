@@ -29,9 +29,6 @@ jobs:
           echo "b_commit_msg<<EOF" >> $GITHUB_OUTPUT
           echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-          echo "changed_files<<EOF" >> $GITHUB_OUTPUT
-          echo '${{ toJSON(github.event.client_payload.changed_files) }}' >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Prepare directories
         run: |
@@ -39,47 +36,39 @@ jobs:
           mkdir -p gakumas-local/local-files/resource
           tree gakumas-local/local-files -L 2
 
-      - name: Clone repository B
-        if: ${{ github.event_name == 'repository_dispatch' }}
+      - name: Clone translation data (optimized)
         run: |
-          git clone --depth 1 https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
-          echo "Repository B cloned to temp-repo/"
-
-      - name: Selective file copy
-        if: ${{ github.event_name == 'repository_dispatch' }}
-        run: |
-          # 使用jq解析变更文件列表
-          echo '${{ steps.extract_b_info.outputs.changed_files }}' > changed_files.json
-          
-          # 如果changed_files为空数组或不存在，执行完整复制
-          if [ "$(jq 'length' changed_files.json 2>/dev/null || echo '0')" = "0" ]; then
-            echo "No specific files changed or selective sync info missing. Performing full sync."
-            cp -R temp-repo/data/* gakumas-local/local-files/resource/
+          # 使用深度为1的克隆以减少下载量
+          if [ "${{ github.event_name }}" = "repository_dispatch" ]; then
+            git clone --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+            cd temp-repo
+            git sparse-checkout init --cone
+            git sparse-checkout set data
+            git checkout HEAD
+            cd ..
           else
-            echo "Performing selective sync of changed files:"
-            # 读取变更文件并逐一复制
-            jq -r '.[]' changed_files.json | while read -r file; do
-              echo "Copying: $file"
-              # 创建目标目录结构
-              mkdir -p "gakumas-local/local-files/resource/$(dirname "${file#data/}")"
-              # 复制文件
-              cp "temp-repo/$file" "gakumas-local/local-files/resource/${file#data/}"
-            done
+            git clone --branch ${{ github.ref_name }} --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+            cd temp-repo
+            git sparse-checkout init --cone
+            git sparse-checkout set data
+            git checkout HEAD
+            cd ..
           fi
           
-          # 显示复制的文件数量
+          # 输出统计信息
+          echo "Data files in repository:"
+          find temp-repo/data -type f | wc -l
+
+      - name: Copy translation data
+        run: |
+          # 复制所有数据文件
+          cp -R temp-repo/data/* gakumas-local/local-files/resource/
+          
+          # 输出统计信息
           echo "Files copied to destination:"
           find gakumas-local/local-files/resource -type f | wc -l
-
-      - name: Tag-based full copy
-        if: ${{ github.event_name != 'repository_dispatch' }}
-        run: |
-          git clone --branch ${{ github.ref_name }} https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
-          cp -R temp-repo/data/* gakumas-local/local-files/resource/
-
-      - name: Cleanup temp repository
-        run: |
-          ls -l gakumas-local/local-files/resource/
+          
+          # 清理临时仓库
           rm -rf temp-repo
 
       - name: Create ZIP archive
@@ -92,14 +81,14 @@ jobs:
           echo "文件数量统计:"
           find gakumas-local/local-files/resource -type f | wc -l
           
-          # 使用更高压缩比但减少内存使用的方式
-          zip -r -9 -q gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
+          # 创建一个优化的ZIP文件
+          zip -r gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
           
           # 显示ZIP大小
           du -h gakumas-local.zip
           
-          # 只列出部分文件内容作为样本验证
-          unzip -l gakumas-local.zip | head -n 20
+          # 验证ZIP内容
+          unzip -l gakumas-local.zip | grep -m 10 'gakumas-local/local-files/resource'
 
       - name: Generate Release Metadata
         id: set_release_name
