@@ -52,11 +52,11 @@ jobs:
             git checkout HEAD
             cd ..
           else
-            git clone --branch ${{ github.ref_name }} --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+            git clone --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
             cd temp-repo
             git sparse-checkout init --cone
             git sparse-checkout set data
-            git checkout HEAD
+            git checkout ${{ github.ref_name }}
             cd ..
           fi
           
