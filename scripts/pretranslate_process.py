@@ -45,6 +45,7 @@ def pretranslated_to_kv_files(
             if not name.endswith("_translated.json"):
                 continue
             translated_file = os.path.join(root, name)
+            print("\n!!! 当前处理文件绝对路径:", os.path.abspath(translated_file))  # 新增此行
             orig_file = os.path.join(root_dir, name[:-16] + ".json")
             save_file = os.path.join(save_dir, name[:-16] + ".json")
 

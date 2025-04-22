@@ -42,6 +42,10 @@
             "name": "授業の消費体力増加"
         },
         {
+            "id": "effect_group-visible-exam_add_grow_effect-000",
+            "name": "成長"
+        },
+        {
             "id": "effect_group-visible-exam_aggressive_reduce-000",
             "name": "やる気減少"
         },
@@ -128,6 +132,10 @@
         {
             "id": "effect_group-visible-exam_lesson-000",
             "name": "パラメータ"
+        },
+        {
+            "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn_reduce-000",
+            "name": "好調減少"
         },
         {
             "id": "effect_group-visible-exam_parameter_buff_multiple_per_turn-000",

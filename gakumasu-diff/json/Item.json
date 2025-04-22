@@ -102,6 +102,12 @@
             "acquisitionRouteDescription": "レンタル、サークル寄付など"
         },
         {
+            "id": "item-gacha-coin-anniversary-001",
+            "name": "はつみちゃんコイン",
+            "description": "1st アニバーサリーコインガシャで使用するコイン",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-gacha-coin-newyear-001",
             "name": "初星ふくびき券 2025",
             "description": "謹賀新年！ふくびきガシャで使用するアイテム",
@@ -129,6 +135,12 @@
             "id": "item-gashaticket-ssr-fix_1",
             "name": "SSR確定ガシャチケット",
             "description": "SSR確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-fix_1_1st-anniversary-001",
+            "name": "1st アニバーサリー記念SSR確定チケット",
+            "description": "1st アニバーサリー記念SSR確定チケットガシャで使用するチケット",
             "acquisitionRouteDescription": ""
         },
         {
@@ -608,6 +620,12 @@
         {
             "id": "item-piece-idol_jsna-3-003",
             "name": "[ハッピーミルフィーユ]十王星南のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_jsna-3-006",
+            "name": "[Our Chant]十王星南のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
