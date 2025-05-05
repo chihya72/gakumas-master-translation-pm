@@ -1,0 +1,101 @@
+# .github/workflows/data-update-release.yml
+name: Data Update Release
+
+on:
+  repository_dispatch:
+    types: [data-updated] # 只在收到 data-updated 事件时触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: release-data-update # 独立的并发组，防止数据更新冲突
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout code (main branch)
+        uses: actions/checkout@v4
+        with:
+          ref: main # 明确签出主分支
+
+      - name: 复制需要的文件到目标目录
+        run: |
+          mkdir -p gakumas-local/local-files/masterTrans
+          cp -r data/*.json gakumas-local/local-files/masterTrans/
+
+      - name: Extract Translation Commit Info
+        id: extract_translation_info # 重命名了 id 更清晰
+        run: |
+          echo "translation_commit_sha=${{ github.event.client_payload.b_commit_sha }}" >> $GITHUB_OUTPUT
+          echo "translation_commit_msg<<EOF" >> $GITHUB_OUTPUT
+          echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Prepare directories
+        run: |
+          rm -rf gakumas-local/local-files/resource/*
+          mkdir -p gakumas-local/local-files/resource
+          tree gakumas-local/local-files -L 2
+
+      - name: Clone latest translation data (optimized)
+        run: |
+          # 克隆翻译仓库，只获取 data 目录的最新内容 (HEAD)
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+          cd temp-repo
+          git sparse-checkout init --cone
+          git sparse-checkout set data
+          git checkout HEAD # 签出最新提交
+          cd ..
+          echo "Data files in translation repository (latest):"
+          find temp-repo/data -type f | wc -l
+
+      - name: Copy translation data
+        run: |
+          cp -R temp-repo/data/* gakumas-local/local-files/resource/
+          echo "Files copied to destination:"
+          find gakumas-local/local-files/resource -type f | wc -l
+          rm -rf temp-repo # 清理
+
+      - name: Create ZIP archive
+        run: |
+          sudo apt-get update && sudo apt-get install -y zip unzip
+          echo "文件数量统计 (打包前):"
+          find gakumas-local/local-files/resource -type f | wc -l
+          zip -r gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
+          du -h gakumas-local.zip
+          echo "验证 ZIP 内容 (部分):"
+          unzip -l gakumas-local.zip | grep -m 10 'gakumas-local/local-files/resource'
+
+      - name: Generate Release Metadata from Translation Commit
+        id: set_release_name
+        run: |
+          SHORT_SHA="${{ steps.extract_translation_info.outputs.translation_commit_sha }}"
+          SHORT_SHA=${SHORT_SHA:0:7}
+          RAW_MSG="${{ steps.extract_translation_info.outputs.translation_commit_msg }}"
+          # 清理标题，限制长度，移除特殊字符
+          CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -60 | sed 's/["""*]//g')
+          COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_translation_info.outputs.translation_commit_sha }}"
+
+          echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
+          echo "body<<EOF" >> $GITHUB_OUTPUT
+          echo "**Triggered by [Gakumas-Auto-Translate Commit](${COMMIT_URL}):**" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo '```' >> $GITHUB_OUTPUT
+          echo "$RAW_MSG" >> $GITHUB_OUTPUT
+          echo '```' >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "This release contains the latest translation data combined with the current \`main\` branch code." >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Create Release (No Tag)
+        uses: softprops/action-gh-release@v1
+        with:
+          files: gakumas-local.zip
+          name: ${{ steps.set_release_name.outputs.name }}
+          body: ${{ steps.set_release_name.outputs.body }}
+          # tag_name: 省略此项，创建不带标签的 Release
+          draft: false
+          prerelease: true # 数据更新通常标记为预发布比较合适
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

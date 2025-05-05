@@ -1,0 +1,82 @@
+# .github/workflows/versioned-release.yml
+name: Versioned Release
+
+on:
+  push:
+    tags:
+      - 'v*' # 只在推送 v* 标签时触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: release-${{ github.ref }} # 基于标签的并发组
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout code (tagged version)
+        uses: actions/checkout@v4
+        # 当由 tag 触发时，默认会 checkout 该 tag，无需指定 ref
+
+      - name: 复制需要的文件到目标目录
+        run: |
+          mkdir -p gakumas-local/local-files/masterTrans
+          cp -r data/*.json gakumas-local/local-files/masterTrans/
+
+      - name: Prepare directories
+        run: |
+          rm -rf gakumas-local/local-files/resource/*
+          mkdir -p gakumas-local/local-files/resource
+          tree gakumas-local/local-files -L 2
+
+      # --- 修改点在这里 ---
+      - name: Clone latest translation data (optimized) # 步骤名称也更新一下以反映变化
+        run: |
+          # 克隆翻译仓库，获取最新的 data 目录内容
+          echo "Fetching latest translation data from Gakumas-Auto-Translate..."
+          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+          cd temp-repo
+          git sparse-checkout init --cone
+          git sparse-checkout set data
+          # 签出默认分支的最新提交 (HEAD)
+          git checkout HEAD
+          cd ..
+          echo "Data files in translation repository (latest):"
+          find temp-repo/data -type f | wc -l
+      # --- 修改结束 ---
+
+      - name: Copy translation data
+        run: |
+          cp -R temp-repo/data/* gakumas-local/local-files/resource/
+          echo "Files copied to destination:"
+          find gakumas-local/local-files/resource -type f | wc -l
+          rm -rf temp-repo # 清理
+
+      - name: Create ZIP archive
+        run: |
+          sudo apt-get update && sudo apt-get install -y zip unzip
+          echo "文件数量统计 (打包前):"
+          find gakumas-local/local-files/resource -type f | wc -l
+          zip -r gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
+          du -h gakumas-local.zip
+          echo "验证 ZIP 内容 (部分):"
+          unzip -l gakumas-local.zip | grep -m 10 'gakumas-local/local-files/resource'
+
+      - name: Generate Release Metadata from Tag
+        id: set_release_name
+        run: |
+          echo "name=Release ${{ github.ref_name }}" >> $GITHUB_OUTPUT
+          # 更新描述以反映包含的是最新翻译数据
+          echo "body=Version ${{ github.ref_name }} release, including the latest translation data available at the time of build." >> $GITHUB_OUTPUT
+
+      - name: Create Tagged Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: gakumas-local.zip
+          name: ${{ steps.set_release_name.outputs.name }}
+          body: ${{ steps.set_release_name.outputs.body }}
+          tag_name: ${{ github.ref_name }} # 明确使用触发的标签作为 Release 的标签
+          draft: false
+          prerelease: false # 正式版本通常不是预发布
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
