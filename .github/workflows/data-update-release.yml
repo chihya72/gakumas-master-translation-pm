@@ -116,18 +116,13 @@ jobs:
           B_REPO_URL="${{ steps.extract_b_info.outputs.B_REPO_URL }}" # 例如 https://github.com/chihya72/Gakumas-Auto-Translate
           B_REPO_NAME=$(basename $B_REPO_URL) # 提取 Gakumas-Auto-Translate
 
-          # 从提交消息中清理标题以用于发布名称
-          CLEAN_TITLE=$(echo "$RAW_B_MSG" | tr '\n' ' ' | cut -c1-50 | sed 's/[^a-zA-Z0-9_ .-]/_/g')
           COMMIT_URL_B="${B_REPO_URL}/commit/${RAW_B_COMMIT_SHA}"
 
-          # 为这些数据更新创建一个唯一的发布标签名称，例如，基于日期和源提交SHA
-          # 这有助于将这些发布与你的 v* 版本化发布区分开来。
-          # 使用UTC以保证时间戳的一致性
           RELEASE_TAG="data-${B_REPO_NAME}-$(date -u +%Y%m%d-%H%M%S)-${SHORT_B_SHA}"
           echo "release_tag_name=${RELEASE_TAG}" >> $GITHUB_OUTPUT
 
-          echo "name=数据更新: ${CLEAN_TITLE} (${B_REPO_NAME}@${SHORT_B_SHA})" >> $GITHUB_OUTPUT
-          # 使用 heredoc 处理多行 body
+          # 修改此行以改变 Release 标题
+          echo "name=数据更新：${B_REPO_NAME}@${SHORT_B_SHA}" >> $GITHUB_OUTPUT
           echo "body<<EOF_BODY" >> $GITHUB_OUTPUT
           echo "**由 [${B_REPO_NAME}](${B_REPO_URL}) 中的提交触发:**" >> $GITHUB_OUTPUT
           echo "- 提交: [${SHORT_B_SHA}](${COMMIT_URL_B})" >> $GITHUB_OUTPUT
