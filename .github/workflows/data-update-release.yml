@@ -113,16 +113,20 @@ jobs:
           RAW_B_COMMIT_SHA="${{ steps.extract_b_info.outputs.B_COMMIT_SHA }}"
           SHORT_B_SHA=${RAW_B_COMMIT_SHA:0:7}
           RAW_B_MSG="${{ steps.extract_b_info.outputs.B_COMMIT_MSG }}"
-          B_REPO_URL="${{ steps.extract_b_info.outputs.B_REPO_URL }}" # 例如 https://github.com/chihya72/Gakumas-Auto-Translate
-          B_REPO_NAME=$(basename $B_REPO_URL) # 提取 Gakumas-Auto-Translate
+          B_REPO_URL="${{ steps.extract_b_info.outputs.B_REPO_URL }}"
+          B_REPO_NAME=$(basename $B_REPO_URL)
 
           COMMIT_URL_B="${B_REPO_URL}/commit/${RAW_B_COMMIT_SHA}"
 
-          RELEASE_TAG="data-${B_REPO_NAME}-$(date -u +%Y%m%d-%H%M%S)-${SHORT_B_SHA}"
-          echo "release_tag_name=${RELEASE_TAG}" >> $GITHUB_OUTPUT
+          # 使用固定的标签名
+          FIXED_PRE_RELEASE_TAG="lastest-Translate-Data-update" # 你可以自定义这个名字
+          echo "release_tag_name=${FIXED_PRE_RELEASE_TAG}" >> $GITHUB_OUTPUT
 
-          # 修改此行以改变 Release 标题
-          echo "name=数据更新：${B_REPO_NAME}@${SHORT_B_SHA}" >> $GITHUB_OUTPUT
+          # Release 的标题仍然可以动态更新，以反映最新的B仓库提交
+          echo "name=${B_REPO_NAME}@${SHORT_B_SHA} (Data Update)" >> $GITHUB_OUTPUT
+          # 或者使用你之前的标题格式：
+          # echo "name=数据更新：${B_REPO_NAME}@${SHORT_B_SHA}" >> $GITHUB_OUTPUT
+          
           echo "body<<EOF_BODY" >> $GITHUB_OUTPUT
           echo "**由 [${B_REPO_NAME}](${B_REPO_URL}) 中的提交触发:**" >> $GITHUB_OUTPUT
           echo "- 提交: [${SHORT_B_SHA}](${COMMIT_URL_B})" >> $GITHUB_OUTPUT
@@ -132,7 +136,7 @@ jobs:
           echo "${RAW_B_MSG}" >> $GITHUB_OUTPUT
           echo "\`\`\`" >> $GITHUB_OUTPUT
           echo "" >> $GITHUB_OUTPUT
-          echo "*此发布包含来自源仓库指定提交的数据。*" >> $GITHUB_OUTPUT
+          echo "*此预发布包含来自源仓库的最新数据。它会随着源仓库的更新而被覆盖。*" >> $GITHUB_OUTPUT
           echo "EOF_BODY" >> $GITHUB_OUTPUT
 
       - name: 创建数据更新发布
