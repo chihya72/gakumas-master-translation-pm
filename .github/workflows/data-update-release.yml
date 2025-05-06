@@ -1,101 +1,158 @@
 # .github/workflows/data-update-release.yml
-name: Data Update Release
+name: 数据更新发布 (Data Update Release)
 
 on:
   repository_dispatch:
-    types: [data-updated] # 只在收到 data-updated 事件时触发
+    types: [data-updated] # 由类型为 data-updated 的外部事件触发
 
 jobs:
   build:
     runs-on: ubuntu-latest
     concurrency:
-      group: release-data-update # 独立的并发组，防止数据更新冲突
+      # 基于 'data-update' 和传入的提交SHA（如果可用）组合并发组
+      # 或者如果SHA缺失，则回退到 run_id 以确保唯一的组名。
+      group: release-data-update-${{ github.event.client_payload.b_commit_sha || github.run_id }}
       cancel-in-progress: true
 
     steps:
-      - name: Checkout code (main branch)
+      - name: Checkout 本仓库代码 (main分支)
         uses: actions/checkout@v4
         with:
-          ref: main # 明确签出主分支
+          # 对于数据更新，通常希望将它们应用到你的主/最新代码库
+          ref: 'main'
 
-      - name: 复制需要的文件到目标目录
+      - name: 复制主仓库的JSON文件到目标目录 (masterTrans)
         run: |
           mkdir -p gakumas-local/local-files/masterTrans
-          cp -r data/*.json gakumas-local/local-files/masterTrans/
+          # 假设 'data/*.json' 是你仓库数据目录中的文件
+          if ls data/*.json 1> /dev/null 2>&1; then
+            cp -r data/*.json gakumas-local/local-files/masterTrans/
+            echo "已从本地 data/ 目录复制JSON文件到 gakumas-local/local-files/masterTrans/"
+          else
+            echo "本地 data/ 目录中未找到可复制的JSON文件。"
+          fi
+          tree gakumas-local -L 3
 
-      - name: Extract Translation Commit Info
-        id: extract_translation_info # 重命名了 id 更清晰
+      - name: 从Dispatch Payload中提取B仓库提交信息
+        id: extract_b_info
+        # 此步骤仅在事件为 repository_dispatch 时运行，这对于此工作流将是如此
         run: |
-          echo "translation_commit_sha=${{ github.event.client_payload.b_commit_sha }}" >> $GITHUB_OUTPUT
-          echo "translation_commit_msg<<EOF" >> $GITHUB_OUTPUT
-          echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          echo "正在从 client_payload 中提取信息..."
+          echo "Payload b_commit_sha: ${{ github.event.client_payload.b_commit_sha }}"
+          echo "Payload b_commit_msg: ${{ github.event.client_payload.b_commit_msg }}"
 
-      - name: Prepare directories
+          if [ -z "${{ github.event.client_payload.b_commit_sha }}" ]; then
+            echo "错误：client_payload 中缺少 b_commit_sha。"
+            # exit 1 # 如果缺少基本信息，可以选择使作业失败
+          fi
+          if [ -z "${{ github.event.client_payload.b_commit_msg }}" ]; then
+            echo "警告：client_payload 中缺少 b_commit_msg。"
+            # 在没有消息的情况下继续可能是可以接受的，或者你也可以让它失败
+          fi
+
+          echo "B_COMMIT_SHA=${{ github.event.client_payload.b_commit_sha }}" >> $GITHUB_OUTPUT
+          # 使用更稳健的方式处理多行提交消息
+          echo "B_COMMIT_MSG<<EOF_MSG" >> $GITHUB_OUTPUT
+          echo "${{ github.event.client_payload.b_commit_msg }}" >> $GITHUB_OUTPUT
+          echo "EOF_MSG" >> $GITHUB_OUTPUT
+          # 假设此工作流的源仓库始终是 Gakumas-Auto-Translate
+          echo "B_REPO_URL=https://github.com/chihya72/Gakumas-Auto-Translate" >> $GITHUB_OUTPUT
+
+      - name: 准备资源目录 (resource)
         run: |
           rm -rf gakumas-local/local-files/resource/*
           mkdir -p gakumas-local/local-files/resource
+          echo "准备后的资源目录结构:"
           tree gakumas-local/local-files -L 2
 
-      - name: Clone latest translation data (optimized)
+      - name: 从Gakumas-Auto-Translate克隆指定提交的翻译数据
+        # 仅当 B_COMMIT_SHA 成功提取时运行
+        if: ${{ steps.extract_b_info.outputs.B_COMMIT_SHA != '' }}
         run: |
-          # 克隆翻译仓库，只获取 data 目录的最新内容 (HEAD)
-          git clone --depth 1 --filter=blob:none --no-checkout https://github.com/chihya72/Gakumas-Auto-Translate.git temp-repo
+          echo "正在从 ${{ steps.extract_b_info.outputs.B_REPO_URL }} 的提交 ${{ steps.extract_b_info.outputs.B_COMMIT_SHA }} 获取翻译数据"
+          # 即使稍后通过稀疏检出特定SHA，使用 depth 1 仍然有益
+          git clone --filter=blob:none --no-checkout ${{ steps.extract_b_info.outputs.B_REPO_URL }}.git temp-repo
           cd temp-repo
           git sparse-checkout init --cone
-          git sparse-checkout set data
-          git checkout HEAD # 签出最新提交
+          git sparse-checkout set data # 只对 'data' 目录感兴趣
+          # 检出 dispatch payload 中提供的特定提交 SHA
+          git checkout ${{ steps.extract_b_info.outputs.B_COMMIT_SHA }}
           cd ..
-          echo "Data files in translation repository (latest):"
-          find temp-repo/data -type f | wc -l
+          echo "克隆的 temp-repo/data 中的数据文件 (来自特定提交):"
+          find temp-repo/data -type f -print -quit | grep . && find temp-repo/data -type f | wc -l || echo "在 temp-repo/data 中未找到文件"
 
-      - name: Copy translation data
+      - name: 复制翻译数据到resource目录
         run: |
-          cp -R temp-repo/data/* gakumas-local/local-files/resource/
-          echo "Files copied to destination:"
-          find gakumas-local/local-files/resource -type f | wc -l
-          rm -rf temp-repo # 清理
+          if [ -d "temp-repo/data" ] && [ "$(ls -A temp-repo/data)" ]; then
+            cp -R temp-repo/data/* gakumas-local/local-files/resource/
+            echo "已从 temp-repo/data 复制文件到 gakumas-local/local-files/resource/:"
+            find gakumas-local/local-files/resource -type f | wc -l
+          else
+            echo "在 temp-repo/data 中未找到可复制的数据文件。Resource 目录可能为空。"
+          fi
+          rm -rf temp-repo # 清理临时克隆
 
-      - name: Create ZIP archive
+      - name: 创建ZIP压缩包
         run: |
           sudo apt-get update && sudo apt-get install -y zip unzip
-          echo "文件数量统计 (打包前):"
-          find gakumas-local/local-files/resource -type f | wc -l
+          echo "文件数量统计 (打包前 resource):"
+          find gakumas-local/local-files/resource -type f -print -quit | grep . && find gakumas-local/local-files/resource -type f | wc -l || echo "0 个文件"
+          echo "文件数量统计 (打包前 masterTrans):"
+          find gakumas-local/local-files/masterTrans -type f -print -quit | grep . && find gakumas-local/local-files/masterTrans -type f | wc -l || echo "0 个文件"
+
           zip -r gakumas-local.zip gakumas-local/ -x "*.git*" "*.github*"
           du -h gakumas-local.zip
-          echo "验证 ZIP 内容 (部分):"
-          unzip -l gakumas-local.zip | grep -m 10 'gakumas-local/local-files/resource'
+          echo "验证 ZIP 内容 (部分 resource):"
+          unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/resource/' | head -n 10 || echo "zip包中无resource文件"
+          echo "验证 ZIP 内容 (部分 masterTrans):"
+          unzip -l gakumas-local.zip | grep 'gakumas-local/local-files/masterTrans/' | head -n 10 || echo "zip包中无masterTrans文件"
 
-      - name: Generate Release Metadata from Translation Commit
+      - name: 为数据更新生成发布元数据
         id: set_release_name
         run: |
-          SHORT_SHA="${{ steps.extract_translation_info.outputs.translation_commit_sha }}"
-          SHORT_SHA=${SHORT_SHA:0:7}
-          RAW_MSG="${{ steps.extract_translation_info.outputs.translation_commit_msg }}"
-          # 清理标题，限制长度，移除特殊字符
-          CLEAN_TITLE=$(echo "$RAW_MSG" | tr '\n' ' ' | cut -c -60 | sed 's/["""*]//g')
-          COMMIT_URL="https://github.com/chihya72/Gakumas-Auto-Translate/commit/${{ steps.extract_translation_info.outputs.translation_commit_sha }}"
+          RAW_B_COMMIT_SHA="${{ steps.extract_b_info.outputs.B_COMMIT_SHA }}"
+          SHORT_B_SHA=${RAW_B_COMMIT_SHA:0:7}
+          RAW_B_MSG="${{ steps.extract_b_info.outputs.B_COMMIT_MSG }}"
+          B_REPO_URL="${{ steps.extract_b_info.outputs.B_REPO_URL }}" # 例如 https://github.com/chihya72/Gakumas-Auto-Translate
+          B_REPO_NAME=$(basename $B_REPO_URL) # 提取 Gakumas-Auto-Translate
 
-          echo "name=Data Update: ${CLEAN_TITLE} (Gakumas-Auto-Translate@${SHORT_SHA})" >> $GITHUB_OUTPUT
-          echo "body<<EOF" >> $GITHUB_OUTPUT
-          echo "**Triggered by [Gakumas-Auto-Translate Commit](${COMMIT_URL}):**" >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo '```' >> $GITHUB_OUTPUT
-          echo "$RAW_MSG" >> $GITHUB_OUTPUT
-          echo '```' >> $GITHUB_OUTPUT
-          echo "" >> $GITHUB_OUTPUT
-          echo "This release contains the latest translation data combined with the current \`main\` branch code." >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          # 从提交消息中清理标题以用于发布名称
+          CLEAN_TITLE=$(echo "$RAW_B_MSG" | tr '\n' ' ' | cut -c1-50 | sed 's/[^a-zA-Z0-9_ .-]/_/g')
+          COMMIT_URL_B="${B_REPO_URL}/commit/${RAW_B_COMMIT_SHA}"
 
-      - name: Create Release (No Tag)
+          # 为这些数据更新创建一个唯一的发布标签名称，例如，基于日期和源提交SHA
+          # 这有助于将这些发布与你的 v* 版本化发布区分开来。
+          # 使用UTC以保证时间戳的一致性
+          RELEASE_TAG="data-${B_REPO_NAME}-$(date -u +%Y%m%d-%H%M%S)-${SHORT_B_SHA}"
+          echo "release_tag_name=${RELEASE_TAG}" >> $GITHUB_OUTPUT
+
+          echo "name=数据更新: ${CLEAN_TITLE} (${B_REPO_NAME}@${SHORT_B_SHA})" >> $GITHUB_OUTPUT
+          # 使用 heredoc 处理多行 body
+          echo "body<<EOF_BODY" >> $GITHUB_OUTPUT
+          echo "**由 [${B_REPO_NAME}](${B_REPO_URL}) 中的提交触发:**" >> $GITHUB_OUTPUT
+          echo "- 提交: [${SHORT_B_SHA}](${COMMIT_URL_B})" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "**来自源 (${B_REPO_NAME}) 的完整提交信息:**" >> $GITHUB_OUTPUT
+          echo "\`\`\`" >> $GITHUB_OUTPUT
+          echo "${RAW_B_MSG}" >> $GITHUB_OUTPUT
+          echo "\`\`\`" >> $GITHUB_OUTPUT
+          echo "" >> $GITHUB_OUTPUT
+          echo "*此发布包含来自源仓库指定提交的数据。*" >> $GITHUB_OUTPUT
+          echo "EOF_BODY" >> $GITHUB_OUTPUT
+
+      - name: 创建数据更新发布
         uses: softprops/action-gh-release@v1
         with:
           files: gakumas-local.zip
           name: ${{ steps.set_release_name.outputs.name }}
           body: ${{ steps.set_release_name.outputs.body }}
-          # tag_name: 省略此项，创建不带标签的 Release
+          # 为这些数据更新使用动态生成的标签。
+          # 这会在你的仓库中为每次数据更新创建一个Git标签。
+          # 如果你希望这些是“未标记的”GitHub发布（不在你的仓库中创建Git标签），
+          # 你可以将 tag_name 设置为 '' 或省略它。但是，拥有标签对于跟踪可能很有用。
+          tag_name: ${{ steps.set_release_name.outputs.release_tag_name }}
           draft: false
-          prerelease: true # 数据更新通常标记为预发布比较合适
+          # 如果这些是频繁且自动化的，请考虑它们是否应该是预发布
+          prerelease: true # 通常适用于自动化的数据触发发布
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
