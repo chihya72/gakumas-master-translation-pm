@@ -306,6 +306,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-main-story-event-010",
+            "name": "初星の栞",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "なかよしポッパー",
             "description": "イベント交換所で様々な報酬と交換できる",
@@ -938,6 +944,12 @@
         {
             "id": "item-selection-ticket-001",
             "name": "半周年セレクションチケット",
+            "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
+            "acquisitionRouteDescription": "ショップなど"
+        },
+        {
+            "id": "item-selection-ticket-002",
+            "name": "1st アニバーサリーセレクションチケット",
             "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
             "acquisitionRouteDescription": "ショップなど"
         },
