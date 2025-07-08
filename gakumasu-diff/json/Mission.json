@@ -3534,6 +3534,30 @@
             "name": "SPレッスンを{threshold}回クリアしよう"
         },
         {
+            "id": "mission-story-event-007-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-story-event-007-mission_2",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-story-event-007-mission_3",
+            "name": "プロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-story-event-007-mission_4",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-story-event-007-mission_5",
+            "name": "Pドリンクを{threshold}回使おう"
+        },
+        {
+            "id": "mission-story-event-007-mission_6",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
             "id": "mission-story-event-013-mission_1",
             "name": "{threshold}日ログインしよう"
         },
@@ -6170,6 +6194,10 @@
             "name": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-fktn-022",
+            "name": "藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "秦谷 美鈴でTrue Endをみる"
         },
@@ -6448,6 +6476,10 @@
         {
             "id": "achieve-p_idol-hski-021",
             "name": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-022",
+            "name": "花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -7096,6 +7128,10 @@
         {
             "id": "achieve-p_idol-ttmr-021",
             "name": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-022",
+            "name": "月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "main_task_group-01-01#1",

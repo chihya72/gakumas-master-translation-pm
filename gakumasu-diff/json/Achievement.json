@@ -2876,6 +2876,11 @@
             "description": "藤田 ことねで最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-fktn-022",
+            "name": "秘めた才能",
+            "description": "藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "人生最高の日",
             "description": "秦谷 美鈴でTrue Endをみる"
@@ -3224,6 +3229,11 @@
             "id": "achieve-p_idol-hski-021",
             "name": "逃がさないんだからねっ！",
             "description": "花海 咲季で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-022",
+            "name": "限界はまだ",
+            "description": "花海 咲季の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-hume-000",
@@ -4034,6 +4044,11 @@
             "id": "achieve-p_idol-ttmr-021",
             "name": "証明してみせます",
             "description": "月村 手毬で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-022",
+            "name": "どこまでも高く",
+            "description": "月村 手毬の特訓段階を{threshold}にする"
         }
     ]
 }
