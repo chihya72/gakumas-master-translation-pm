@@ -206,7 +206,7 @@ python scripts/incremental_merge.py
 ### 常见问题
 
 **Q: make update报错括号问题**  
-A: 在错误提示的第32万行附近找到"text: （"，删除括号前的异常全角空格
+A: 在错误提示的第32万行附近找到"text: 	（"，删除括号前的异常全角空格
 
 **Q: 变化检测功能无法使用**  
 A: 确保先执行 `make backup` 创建备份目录
