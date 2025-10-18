@@ -4343,7 +4343,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "技能卡使用时，在5回合以后的时候，"
+          "text": "在第6回合以后的时候，技能卡使用时，"
         }
       ]
     },
@@ -10524,6 +10524,21 @@
       ]
     },
     {
+      "id": "e_trigger-exam_start_turn-turn_progress_up-2",
+      "produceDescriptions": [
+        {
+          "produceDescriptionType": "ProduceDescriptionType_PlainText",
+          "examDescriptionType": "ExamDescriptionType_Unknown",
+          "examEffectType": "ProduceExamEffectType_Unknown",
+          "produceCardCategory": "ProduceCardCategory_Unknown",
+          "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+          "produceStepType": "ProduceStepType_Unknown",
+          "targetId": "",
+          "text": "在第3回合以后的时候，回合开始时，"
+        }
+      ]
+    },
+    {
       "id": "e_trigger-exam_start_turn-turn_progress_up-3",
       "produceDescriptions": [
         {
@@ -10534,7 +10549,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "在第3回合以后的回合开始时，"
+          "text": "在第4回合以后的时候，回合开始时，"
         }
       ]
     },

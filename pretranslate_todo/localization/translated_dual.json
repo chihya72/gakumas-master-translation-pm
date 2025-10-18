@@ -217,7 +217,7 @@
   },
   "conversion.top.label.lock_level": {
     "japanese": "PLv{0}で解放",
-    "chinese": "PLv{0}解锁"
+    "chinese": "在PLv{0}解锁"
   },
   "picturebook.produce_collection.conversion": {
     "japanese": "スイッチで入手",
@@ -233,7 +233,7 @@
   },
   "conversion.top.toast.unlock_level": {
     "japanese": "PLv{0}で解放",
-    "chinese": "PLv{0}解锁"
+    "chinese": "在PLv{0}解锁"
   },
   "conversion.detail_sheet.toast.produce_in_progress": {
     "japanese": "プロデュース中は設定を変更できません",
@@ -1408,8 +1408,8 @@
     "chinese": "解锁亲密度交流"
   },
   "produce.audition.dearness_lock": {
-    "japanese": "親愛度{0}で開放",
-    "chinese": "亲密度达到{0}解锁"
+    "japanese": "親愛度{0}で解放",
+    "chinese": "在亲密度{0}解锁"
   },
   "produce.customize.execute_button.text": {
     "japanese": "実行する",
@@ -1441,7 +1441,7 @@
   },
   "produce.shop.lock_level": {
     "japanese": "PLv{0}で解放",
-    "chinese": "PLv{0}解锁"
+    "chinese": "在PLv{0}解锁"
   },
   "produce_prepare.button.growth_info": {
     "japanese": "育成情報",
@@ -1728,8 +1728,8 @@
     "chinese": "竞技场"
   },
   "title.menu.delete_local_data.description": {
-    "japanese": "保存されているローカルデータを削除しますか？\n\n■注意事項（※必ずお読みください）\nローカルデータ削除をおこなうとユーザーデータは削除されませんが、ゲームプレイ中の中断データや一部の保存状態は削除されます。",
-    "chinese": "是否删除已保存的本地数据？\n\n■注意事项（※请务必阅读）\n删除本地数据不会清除用户账号数据，但会删除游戏过程中的中断数据。"
+    "japanese": "保存されているローカルデータを削除しますか？\n\n■注意事項（※必ずお読みください）\nローカルデータ削除をおこなうとユーザーデータは削除されませんが、ゲームプレイ中の中断データや一部の保存状態は削除されます。\n※保存して中断したプロデュース中断データは削除されません",
+    "chinese": "是否删除已保存的本地数据？\n\n■注意事项（※请务必阅读）\n删除本地数据不会清除用户账号数据，但会删除游戏过程中的中断数据。\n※保存并中断的培育中断数据不会被删除"
   },
   "produce.skip_refresh.title": {
     "japanese": "スケジュール選択不可",
@@ -1844,8 +1844,8 @@
     "chinese": "外出"
   },
   "title.cache_clear.description": {
-    "japanese": "キャッシュデータを削除すると動作が軽くなることが\nあります。\nプレイ中のゲームデータは削除されません。\nキャッシュデータをクリアしてもよろしいですか？",
-    "chinese": "删除缓存数据可能会使运行变得更流畅。\n游戏中的数据不会被删除。\n确定要清除缓存数据吗？"
+    "japanese": "全キャッシュデータ：{0}\n\nすべてのキャッシュデータを削除します。\nキャッシュデータを削除すると動作が軽くなることがあります。\n※プレイ中のゲームデータは削除されません\n※使用中の一部キャッシュデータは削除されないため、表示容量が0にならないことがあります\nキャッシュデータを削除してもよろしいですか？",
+    "chinese": "全部缓存数据：{0}\n\n将清除全部缓存数据。\n清除缓存数据后，可能会使操作变得更快速。\n※正在游玩中的游戏数据不会被清除\n※正在使用中的部分缓存数据可能不会被清除，因此显示的容量可能不会变为0\n确定要清除缓存数据吗？"
   },
   "limit.less": {
     "japanese": "あと0分",
@@ -2108,8 +2108,8 @@
     "chinese": "此处显示当前排名可获得的最豪华的报酬\n※存在其他报酬的时候，将发送至礼物箱"
   },
   "home.character_random_select_sheet.precaution": {
-    "japanese": "※選択した対象はホームに移動するとランダムに選ばれます",
-    "chinese": "※选择的目标在移动到主页时会随机选择"
+    "japanese": "※選択した対象はホームに移動するとランダムに選ばれます\n※「アイドルのみ」を選択した場合、各アイドルの「ホーム」に\n　設定した衣装を表示します",
+    "chinese": "※选中的对象将在每次移动到主页时进行随机选择\n※当选择「仅偶像」时，将显示各偶像在「主页」中设置的服装"
   },
   "title.menu.customer_support": {
     "japanese": "お問い合わせ",
@@ -2180,8 +2180,8 @@
     "chinese": "剩余{0}张"
   },
   "title.menu.cache_clear": {
-    "japanese": "キャッシュクリア",
-    "chinese": "清除缓存"
+    "japanese": "全キャッシュクリア",
+    "chinese": "清除全部缓存"
   },
   "produce.common.visual": {
     "japanese": "ビジュアル",
@@ -4723,10 +4723,6 @@
     "japanese": "プロデュースデータの破棄",
     "chinese": "废弃培育数据"
   },
-  "produce.multi_device.confirm.description2": {
-    "japanese": "他の端末でプレイ中のプロデュースデータが存在します。プレイ中のプロデュースデータを破棄してプロデュースを開始しますか？\n\n<color=#u:Negative>プロデュースデータを破棄するともとの端末の中断データも破棄されます</color>\n\n※端末のキャッシュクリアをおこなった場合にも進行中のプロデュースデータは破棄されるためこのメッセージが表示されることがあります",
-    "chinese": "在其他设备中存在正在游玩中的培育数据。废弃正在游玩中的培育数据并重新开始培育吗？\n\n<color=#u:Negative>若废弃培育数据，原始设备中的中断数据也将被一并废弃。</color>\n\n※假如执行了设备的缓存数据清理操作，也会使正在进行中的培育数据被清理，从而可能显示此消息"
-  },
   "produce.filter.common.produce_card_name.button": {
     "japanese": "スキルカード名検索",
     "chinese": "搜索技能卡名称"
@@ -6469,7 +6465,7 @@
   },
   "produce.nia.audition.ranking.text": {
     "japanese": "{0}位",
-    "chinese": "{0}名"
+    "chinese": " {0} "
   },
   "produce.nia.audition.finale_condition": {
     "japanese": "「FINALE」オーディション解放条件",
@@ -7401,7 +7397,7 @@
   },
   "home.event.portal.lock_description": {
     "japanese": "{0}で解放",
-    "chinese": "{0}解锁"
+    "chinese": "通过{0}解锁"
   },
   "home.event.portal.can_get_play_item_label": {
     "japanese": "受取可能",
@@ -11088,7 +11084,7 @@
     "chinese": "加成对象偶像"
   },
   "producer.level.lock_toast": {
-    "japanese": "PLv{0}で解放されます",
+    "japanese": "PLv{0}で解放",
     "chinese": "在PLv{0}解锁"
   },
   "card.idol_card.upgrade.another_costume.receive": {
@@ -11217,7 +11213,7 @@
   },
   "memory.detail.ability.lock": {
     "japanese": "(Lv{0}で解放)",
-    "chinese": "(Lv{0}解锁)"
+    "chinese": "(在Lv{0}解锁)"
   },
   "produce.prepare.challenge.item_select_cancel.description": {
     "japanese": "チャレンジPアイテムの選択状態を保存せずに戻りますか？",
@@ -11797,7 +11793,7 @@
   },
   "card.idol_card.list.another_lock_label": {
     "japanese": "{0}獲得で解放",
-    "chinese": "获得{0}后解锁"
+    "chinese": "在获得{0}后解锁"
   },
   "card.sort.rarity": {
     "japanese": "レアリティ",
@@ -12009,7 +12005,7 @@
   },
   "card.upgrade_status_list.lock": {
     "japanese": "{0}段階{1}で解放",
-    "chinese": "{0}阶段{1}解锁"
+    "chinese": "在{0}阶段{1}解锁"
   },
   "card.upgrade_status_list.parameter": {
     "japanese": "パラメータ・パラメータボーナスアップ",
@@ -13781,7 +13777,7 @@
   },
   "story.story_event.section.unlockable_condition_lock_text": {
     "japanese": "記録の鍵で解放",
-    "chinese": "使用解锁钥匙解锁"
+    "chinese": "使用记录之钥解锁"
   },
   "achievement.cell.master.header": {
     "japanese": "Master",
@@ -14501,7 +14497,7 @@
   },
   "main_task.detail.group.lock": {
     "japanese": "{0}クリアで解放",
-    "chinese": "通过{0}解锁"
+    "chinese": "完成{0}后解锁"
   },
   "main_task.detail_sheet.list_button": {
     "japanese": "課題一覧",
@@ -15213,7 +15209,7 @@
   },
   "mission.pass.lock": {
     "japanese": "パス購入で解放されます",
-    "chinese": "购买通行证解锁"
+    "chinese": "购买通行证后解锁"
   },
   "mission.pass.receive.to_present.toast": {
     "japanese": "※所持上限に達しているアイテムはプレゼントに送られます",
@@ -17171,10 +17167,6 @@
     "japanese": "お気に入り設定がありません",
     "chinese": "没有已设置为收藏"
   },
-  "tower.stage.ranking.button": {
-    "japanese": "ステージ別\nランキング",
-    "chinese": "分舞台\n排行榜"
-  },
   "startup.gasha_point_expire_sheet.item_label.point": {
     "japanese": "所持交換Pt",
     "chinese": "持有兑换Pt"
@@ -17620,8 +17612,8 @@
     "chinese": "追加"
   },
   "tower.sub_memory_select.no_memory": {
-    "japanese": "編成可能なメモリーがありません",
-    "chinese": "没有可编成的回忆。"
+    "japanese": "このステージに編成可能なメモリーがありません",
+    "chinese": "此舞台没有可编成的回忆"
   },
   "upload_photo_error_sheet.cancel": {
     "japanese": "キャンセル",
@@ -21623,10 +21615,6 @@
     "japanese": "遊び方",
     "chinese": "玩法说明"
   },
-  "tower.ranking.error.profile.delete_user": {
-    "japanese": "削除されたユーザーです",
-    "chinese": "已删除的用户"
-  },
   "tower.ranking.character.title.current": {
     "japanese": "総合ランキング",
     "chinese": "综合排行榜"
@@ -22009,7 +21997,7 @@
   },
   "idol_dearness.top.mission_unlock_description": {
     "japanese": "{0}で解放",
-    "chinese": "{0}解锁"
+    "chinese": "通过{0}解锁"
   },
   "idol_dearness.step.title": {
     "japanese": "STEP{0}",

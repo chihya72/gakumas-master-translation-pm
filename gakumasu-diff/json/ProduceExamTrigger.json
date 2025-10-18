@@ -4343,7 +4343,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "スキルカード使用時、5ターン目以降の場合、"
+                    "text": "スキルカード使用時、6ターン目以降の場合、"
                 }
             ]
         },
@@ -10522,7 +10522,7 @@
             ]
         },
         {
-            "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+            "id": "e_trigger-exam_start_turn-turn_progress_up-2",
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -10533,6 +10533,21 @@
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
                     "text": "ターン開始時、3ターン目以降の場合、"
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_start_turn-turn_progress_up-3",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ターン開始時、4ターン目以降の場合、"
                 }
             ]
         },

@@ -3,10 +3,14 @@ import json
 import shutil
 
 def convert_files():
+    # 获取脚本所在目录的父目录（项目根目录）
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    
     # 定义源文件夹和目标文件夹
-    jp_folder = 'temp_key_jp'
-    cn_folder = 'temp_key_cn'
-    output_folder = 'jp_cn'
+    jp_folder = os.path.join(project_root, 'pretranslate_todo', 'temp_key_jp')
+    cn_folder = os.path.join(project_root, 'pretranslate_todo', 'temp_key_cn')
+    output_folder = os.path.join(project_root, 'pretranslate_todo', 'jp_cn')
     
     # 创建输出文件夹，如果已存在则先删除
     if os.path.exists(output_folder):
