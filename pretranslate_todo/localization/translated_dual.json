@@ -6477,11 +6477,11 @@
   },
   "produce.audition.clear": {
     "japanese": "{0}で{1}突破",
-    "chinese": "排名在第{0}名以上通过{1}"
+    "chinese": "排名在第{0}以上通过{1}"
   },
   "produce.audition.force_clear": {
     "japanese": "{0}またはスコア{1}以上で{2}突破",
-    "chinese": "排名在第{0}名以上或分数在{1}以上通过{2}"
+    "chinese": "排名在第{0}以上或分数在{1}以上通过{2}"
   },
   "produce.tower.clear": {
     "japanese": "{0}で合格",
@@ -7693,7 +7693,7 @@
   },
   "produce_prepare.select_info.tab_button_3": {
     "japanese": "イベント",
-    "chinese": "事件"
+    "chinese": "活动"
   },
   "produce_prepare.select_info.resource_list.initial": {
     "japanese": "プロデュース開始時から所持",
@@ -7813,7 +7813,7 @@
   },
   "produce_prepare.effect_confirm_overlay.tab.button.event": {
     "japanese": "イベント",
-    "chinese": "事件"
+    "chinese": "活动"
   },
   "produce_prepare.effect_confirm_overlay.playing_produce_resource": {
     "japanese": "プロデュース中獲得",
