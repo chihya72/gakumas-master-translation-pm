@@ -6,6 +6,38 @@
     },
     "data": [
         {
+            "id": "dearness_event_amao-001",
+            "name": "有村 麻央のボーカルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_amao-002",
+            "name": "有村 麻央のプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_amao-003",
+            "name": "有村 麻央のプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_amao-004",
+            "name": "有村 麻央のプロデュースで営業を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_amao-005",
+            "name": "有村 麻央のプロデュースで差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_amao-006",
+            "name": "有村 麻央でボーカルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_amao-007",
+            "name": "有村 麻央のプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_amao-008",
+            "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_fktn-001",
             "name": "藤田 ことねのダンスを1800以上に育成してプロデュースをクリア"
         },
@@ -164,6 +196,26 @@
         {
             "id": "dearness_event_ssmk-008",
             "name": "紫雲清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_amao-001",
+            "name": "有村 麻央のボーカルを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_amao-002",
+            "name": "有村 麻央のプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_amao-003",
+            "name": "有村 麻央のプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_amao-004",
+            "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_amao-005",
+            "name": "有村 麻央のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_fktn-001",
@@ -2255,6 +2307,106 @@
         },
         {
             "id": "mission-highscorerush-event-006-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_12",
+            "name": "有村 麻央のボーカルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_13",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_14",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_22",
+            "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_23",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_24",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_32",
+            "name": "有村 麻央または花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_33",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_34",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_42",
+            "name": "有村 麻央または花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_43",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_44",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_52",
+            "name": "有村 麻央または花海 佑芽のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_53",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_54",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-007-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -4788,6 +4940,30 @@
         {
             "id": "achieve-i_card-amao-3-013-06",
             "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-01",
+            "name": "【見て】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-02",
+            "name": "【見て】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-03",
+            "name": "【見て】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-04",
+            "name": "【見て】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-05",
+            "name": "【見て】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-015-06",
+            "name": "【見て】有村 麻央の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",

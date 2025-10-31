@@ -1149,6 +1149,22 @@
             "name": "ごきげんような挨拶♪"
         },
         {
+            "id": "s_card-2-0065",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率中"
+                }
+            ],
+            "name": "眠れる森の王子様"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -2379,6 +2395,22 @@
                 }
             ],
             "name": "クールダウンが大切よ！"
+        },
+        {
+            "id": "s_card-3-0078",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "レディ・セット、ゴー！"
         },
         {
             "id": "s_card-3-0098",
