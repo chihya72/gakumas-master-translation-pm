@@ -144,6 +144,12 @@
             "acquisitionRouteDescription": "マニー交換所など"
         },
         {
+            "id": "item-dearness-unlock-amao",
+            "name": "麻央との記録の鍵",
+            "description": "有村麻央のSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-fktn",
             "name": "ことねとの記録の鍵",
             "description": "藤田ことねのSTEP3の親愛度コミュを解放するアイテム",
@@ -446,6 +452,12 @@
         {
             "id": "item-medal-story-event-008",
             "name": "3年1組メモリアル",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-story-event-009",
+            "name": "ピクニックの思い出",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
             "acquisitionRouteDescription": "プロデュースなど"
         },
@@ -1244,6 +1256,12 @@
         {
             "id": "item-selection-ticket-003",
             "name": "300万DL記念セレクションチケット",
+            "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
+            "acquisitionRouteDescription": "ショップなど"
+        },
+        {
+            "id": "item-selection-ticket-004",
+            "name": "1.5th アニバーサリーセレクションチケット",
             "description": "チケット交換所でプロデュースアイドルやサポートカードを交換できるチケット",
             "acquisitionRouteDescription": "ショップなど"
         },
