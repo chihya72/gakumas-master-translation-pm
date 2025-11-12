@@ -1,0 +1,277 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "id"
+        ]
+    },
+    "data": [
+        {
+            "id": "CardPlayAggressive_group_20_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_20_CardPlayAggressive_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_20_exam_block",
+            "label": "元気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_20_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_35_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_35_CardPlayAggressive_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_35_exam_block",
+            "label": "元気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_group_35_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20_CardPlayAggressive_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20_exam_block",
+            "label": "元気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_20_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35_CardPlayAggressive_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35_exam_block",
+            "label": "元気を増加するスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "CardPlayAggressive_Review_group_35_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "Concentration_group_20_anomaly_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Concentration_group_20_anomaly_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Concentration_group_20_Concentration",
+            "label": "強気に変更するスキルカード"
+        },
+        {
+            "id": "Concentration_group_20_Preservation\n",
+            "label": "温存に変更するスキルカード"
+        },
+        {
+            "id": "Concentration_group_35_anomaly_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Concentration_group_35_anomaly_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Concentration_group_35_Concentration",
+            "label": "強気に変更するスキルカード"
+        },
+        {
+            "id": "Concentration_group_35_Preservation\n",
+            "label": "温存に変更するスキルカード"
+        },
+        {
+            "id": "FullPower_group_20_anomaly_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "FullPower_group_20_anomaly_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "FullPower_group_20_FullPower",
+            "label": "全力値を増加するスキルカード"
+        },
+        {
+            "id": "FullPower_group_20_Preservation",
+            "label": "温存に変更するスキルカード"
+        },
+        {
+            "id": "FullPower_group_35_anomaly_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "FullPower_group_35_anomaly_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "FullPower_group_35_FullPower",
+            "label": "全力値を増加するスキルカード"
+        },
+        {
+            "id": "FullPower_group_35_Preservation",
+            "label": "温存に変更するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_20_LessonBuff",
+            "label": "集中を増加するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_20_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_20_ParameterBuff",
+            "label": "好調を増加するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_20_sense_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_35_LessonBuff",
+            "label": "集中を増加するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_35_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_35_parameter_buff_multiple",
+            "label": "絶好調を増加するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_35_ParameterBuff",
+            "label": "好調を増加するスキルカード"
+        },
+        {
+            "id": "LessonBuff_group_35_sense_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_20_LessonBuff",
+            "label": "集中を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_20_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_20_parameter_buff_multiple",
+            "label": "絶好調を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_20_ParameterBuff",
+            "label": "好調を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_20_sense_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_35_LessonBuff",
+            "label": "集中を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_35_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_35_parameter_buff_multiple",
+            "label": "絶好調を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_35_ParameterBuff",
+            "label": "好調を増加するスキルカード"
+        },
+        {
+            "id": "ParameterBuff_group_35_sense_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_20_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_20_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_20_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_20_Review_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_35_CardPlayAggressive",
+            "label": "やる気を増加するスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_35_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_35_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "Review_CardPlayAggressive_group_35_Review_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Review_group_20_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Review_group_20_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "Review_group_20_Review_score",
+            "label": "スコアを上昇させるスキルカード"
+        },
+        {
+            "id": "Review_group_35_logic_other",
+            "label": "その他のスキルカード"
+        },
+        {
+            "id": "Review_group_35_Review",
+            "label": "好印象を増加するスキルカード"
+        },
+        {
+            "id": "Review_group_35_Review_score",
+            "label": "スコアを上昇させるスキルカード"
+        }
+    ]
+}

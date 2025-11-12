@@ -10841,7 +10841,7 @@
   },
   "photobackground.unlock_condition.invalid": {
     "japanese": "このロケーションで撮影できる条件を満たしていません",
-    "chinese": "未满足在此地点拍摄的条件"
+    "chinese": "未满足在此场景拍摄的条件"
   },
   "memory.inherit.confirm.warning": {
     "japanese": "※合成に使用したメモリーは無くなります",
@@ -14165,7 +14165,7 @@
   },
   "photobackground.costume_condition.invalid": {
     "japanese": "ロケーションで撮影できる衣装を所持していません",
-    "chinese": "没有可以在此地点拍摄的服装"
+    "chinese": "未持有可以在此场景拍摄的服装"
   },
   "story_event.filter.story_event_type": {
     "japanese": "イベント種別",
@@ -16633,7 +16633,7 @@
   },
   "photobackground.filter.sheet.title": {
     "japanese": "ロケーションソート・フィルタ",
-    "chinese": "场景排序与筛选"
+    "chinese": "场景排序・筛选"
   },
   "photobackground.filter.category.around": {
     "japanese": "学園付近",
@@ -16657,11 +16657,11 @@
   },
   "photopose.filter.background.title": {
     "japanese": "ロケーション",
-    "chinese": "地点"
+    "chinese": "场景"
   },
   "photography.photo_background.reward.name": {
     "japanese": "アイドル撮影ロケーション「{0}」",
-    "chinese": "偶像拍摄地点「{0}」"
+    "chinese": "偶像拍摄场景「{0}」"
   },
   "photography.photo_pose.reward.name": {
     "japanese": "アイドル撮影ポーズ「{0}（{1}）」",
@@ -16669,7 +16669,7 @@
   },
   "photography.photo_pose.reward.description": {
     "japanese": "アイドル撮影のアイドルポーズとして使用できる\n指定撮影ロケーション：{0}",
-    "chinese": "可以作为偶像拍摄时的偶像姿势使用"
+    "chinese": "可以作为偶像拍摄时的偶像姿势使用\n指定拍摄场景：{0}"
   },
   "photography.photo_background_time_type.morning": {
     "japanese": "朝",
@@ -16861,7 +16861,7 @@
   },
   "photography.setting.dress.head.disabled.background": {
     "japanese": "現在のロケーションではこの髪型にできません",
-    "chinese": "当前的场景无法使用此发型"
+    "chinese": "当前场景无法使用此发型"
   },
   "tour.battle_confirm.auto_no_slot.toast": {
     "japanese": "編成可能なメモリーを所持していません",
@@ -19993,7 +19993,7 @@
   },
   "invite.progress.invited_friend.label": {
     "japanese": "PLv5達成",
-    "chinese": "邀请好友数"
+    "chinese": "PLv5达成"
   },
   "setting.live_quality_sheet.description": {
     "japanese": "品質を選択してください",

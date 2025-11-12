@@ -2,6 +2,32 @@ import json
 import sys
 import os
 
+# 特殊规则，用于处理某些字段的特殊情况
+# 格式为：{"文件名": {"字段名": {"规则"} }}，可以在此添加更多特殊处理的规则
+special_rules = {
+    "ProduceStory.json": {
+        "produceEventHintProduceConditionDescriptions": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "Tutorial.json": {
+        "texts": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "ConditionSet..json": {
+        "description": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    "IdolCardSkin.json": {
+        "name": {
+            "is_empty": True,  # 如果该字段为单一空字符串数组，将其替换为空数组
+        }
+    },
+    # 以后可以继续在这里添加其他文件和字段的特殊规则
+}
+
 def fill_back_translations(data_obj, primary_keys, trans_map, filename=None):
     """
     data_obj 是原本地化数据的一条记录；
@@ -49,11 +75,11 @@ def fill_back_translations(data_obj, primary_keys, trans_map, filename=None):
                                 obj[k] = []
                             else:
                                 list_data = remaining.split("[LA_N_F]")
-                                # 特殊处理：ProduceStory.json 的 produceEventHintProduceConditionDescriptions 字段
-                                if (filename == "ProduceStory.json" and 
-                                    k == "produceEventHintProduceConditionDescriptions" and 
-                                    len(list_data) == 1 and list_data[0] == ""):
-                                    obj[k] = []
+                                # 特殊处理：检查是否需要处理空数组的情况
+                                if filename in special_rules and k in special_rules[filename]:
+                                    rule = special_rules[filename][k]
+                                    if "is_empty" in rule and len(list_data) == 1 and list_data[0] == "":
+                                        obj[k] = []  # 根据规则清空数组
                                 else:
                                     obj[k] = list_data
                         else:

@@ -2,6 +2,7 @@
     "rules": {
         "primaryKeys": [
             "tutorialType",
+            "idolCardId",
             "step",
             "subStep"
         ]
@@ -9,24 +10,28 @@
     "data": [
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 2,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 3,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 6,
             "subStep": 1,
             "texts": [
@@ -35,6 +40,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 6,
             "subStep": 2,
             "texts": [
@@ -43,12 +49,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 6,
             "subStep": 3,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 6,
             "subStep": 4,
             "texts": [
@@ -57,12 +65,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 9,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 10,
             "subStep": 1,
             "texts": [
@@ -71,6 +81,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 10,
             "subStep": 2,
             "texts": [
@@ -79,6 +90,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 10,
             "subStep": 3,
             "texts": [
@@ -87,12 +99,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 10,
             "subStep": 4,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 11,
             "subStep": 1,
             "texts": [
@@ -101,6 +115,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 1,
             "texts": [
@@ -109,6 +124,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 2,
             "texts": [
@@ -117,6 +133,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 3,
             "texts": [
@@ -125,6 +142,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 4,
             "texts": [
@@ -133,6 +151,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 5,
             "texts": [
@@ -141,6 +160,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 6,
             "texts": [
@@ -149,6 +169,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 7,
             "texts": [
@@ -157,6 +178,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 8,
             "texts": [
@@ -165,24 +187,28 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 12,
             "subStep": 9,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 13,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 14,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 15,
             "subStep": 1,
             "texts": [
@@ -191,6 +217,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 16,
             "subStep": 1,
             "texts": [
@@ -199,6 +226,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 16,
             "subStep": 2,
             "texts": [
@@ -207,6 +235,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 16,
             "subStep": 3,
             "texts": [
@@ -215,6 +244,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 16,
             "subStep": 4,
             "texts": [
@@ -223,12 +253,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 17,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "",
             "step": 17,
             "subStep": 2,
             "texts": [
@@ -237,6 +269,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 4,
             "subStep": 1,
             "texts": [
@@ -245,6 +278,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 4,
             "subStep": 2,
             "texts": [
@@ -255,6 +289,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 4,
             "subStep": 3,
             "texts": [
@@ -263,6 +298,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 4,
             "subStep": 4,
             "texts": [
@@ -271,12 +307,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 2,
             "texts": [
@@ -285,6 +323,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 3,
             "texts": [
@@ -293,6 +332,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 4,
             "texts": [
@@ -301,6 +341,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 5,
             "texts": [
@@ -309,6 +350,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 6,
             "texts": [
@@ -317,6 +359,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 7,
             "texts": [
@@ -325,6 +368,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 8,
             "texts": [
@@ -333,6 +377,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 9,
             "texts": [
@@ -341,6 +386,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 10,
             "texts": [
@@ -350,6 +396,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 5,
             "subStep": 11,
             "texts": [
@@ -358,6 +405,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 7,
             "subStep": 1,
             "texts": [
@@ -366,12 +414,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 2,
             "texts": [
@@ -380,6 +430,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 3,
             "texts": [
@@ -388,6 +439,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 4,
             "texts": [
@@ -396,6 +448,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 5,
             "texts": [
@@ -404,6 +457,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 6,
             "texts": [
@@ -412,6 +466,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 7,
             "texts": [
@@ -420,6 +475,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 8,
             "texts": [
@@ -428,6 +484,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 9,
             "texts": [
@@ -436,6 +493,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 10,
             "texts": [
@@ -444,6 +502,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 11,
             "texts": [
@@ -452,6 +511,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 12,
             "texts": [
@@ -461,6 +521,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 13,
             "texts": [
@@ -469,6 +530,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 14,
             "texts": [
@@ -477,12 +539,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-fktn-1-000",
             "step": 8,
             "subStep": 15,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 4,
             "subStep": 1,
             "texts": [
@@ -491,6 +555,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 4,
             "subStep": 2,
             "texts": [
@@ -501,6 +566,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 4,
             "subStep": 3,
             "texts": [
@@ -509,6 +575,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 4,
             "subStep": 4,
             "texts": [
@@ -517,12 +584,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 2,
             "texts": [
@@ -531,6 +600,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 3,
             "texts": [
@@ -539,6 +609,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 4,
             "texts": [
@@ -547,6 +618,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 5,
             "texts": [
@@ -555,6 +627,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 6,
             "texts": [
@@ -563,6 +636,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 7,
             "texts": [
@@ -571,6 +645,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 8,
             "texts": [
@@ -579,6 +654,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 9,
             "texts": [
@@ -587,6 +663,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 10,
             "texts": [
@@ -596,6 +673,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 5,
             "subStep": 11,
             "texts": [
@@ -604,6 +682,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 7,
             "subStep": 1,
             "texts": [
@@ -612,12 +691,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 2,
             "texts": [
@@ -626,6 +707,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 3,
             "texts": [
@@ -634,6 +716,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 4,
             "texts": [
@@ -642,6 +725,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 5,
             "texts": [
@@ -650,6 +734,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 6,
             "texts": [
@@ -658,6 +743,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 7,
             "texts": [
@@ -666,6 +752,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 8,
             "texts": [
@@ -674,6 +761,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 9,
             "texts": [
@@ -682,6 +770,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 10,
             "texts": [
@@ -690,6 +779,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 11,
             "texts": [
@@ -699,6 +789,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 12,
             "texts": [
@@ -707,6 +798,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 13,
             "texts": [
@@ -715,12 +807,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-hski-1-000",
             "step": 8,
             "subStep": 14,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 4,
             "subStep": 1,
             "texts": [
@@ -729,6 +823,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 4,
             "subStep": 2,
             "texts": [
@@ -739,6 +834,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 4,
             "subStep": 3,
             "texts": [
@@ -747,6 +843,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 4,
             "subStep": 4,
             "texts": [
@@ -755,12 +852,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 2,
             "texts": [
@@ -769,6 +868,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 3,
             "texts": [
@@ -777,6 +877,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 4,
             "texts": [
@@ -785,6 +886,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 5,
             "texts": [
@@ -793,6 +895,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 6,
             "texts": [
@@ -801,6 +904,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 7,
             "texts": [
@@ -809,6 +913,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 8,
             "texts": [
@@ -817,6 +922,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 9,
             "texts": [
@@ -825,6 +931,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 10,
             "texts": [
@@ -834,6 +941,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 5,
             "subStep": 11,
             "texts": [
@@ -842,6 +950,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 7,
             "subStep": 1,
             "texts": [
@@ -850,12 +959,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 2,
             "texts": [
@@ -864,6 +975,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 3,
             "texts": [
@@ -872,6 +984,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 4,
             "texts": [
@@ -880,6 +993,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 5,
             "texts": [
@@ -888,6 +1002,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 6,
             "texts": [
@@ -896,6 +1011,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 7,
             "texts": [
@@ -904,6 +1020,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 8,
             "texts": [
@@ -912,6 +1029,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 9,
             "texts": [
@@ -920,6 +1038,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 10,
             "texts": [
@@ -928,6 +1047,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 11,
             "texts": [
@@ -937,6 +1057,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 12,
             "texts": [
@@ -945,6 +1066,7 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 13,
             "texts": [
@@ -953,12 +1075,14 @@
         },
         {
             "tutorialType": "TutorialType_GameStart",
+            "idolCardId": "i_card-ttmr-1-000",
             "step": 8,
             "subStep": 14,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_MainTask",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -967,6 +1091,7 @@
         },
         {
             "tutorialType": "TutorialType_Work",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -976,6 +1101,7 @@
         },
         {
             "tutorialType": "TutorialType_IdolCard",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -984,12 +1110,14 @@
         },
         {
             "tutorialType": "TutorialType_IdolCardSkin",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1001,6 +1129,7 @@
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 2,
             "texts": [
@@ -1009,6 +1138,7 @@
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 3,
             "texts": [
@@ -1017,6 +1147,7 @@
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 4,
             "texts": [
@@ -1025,12 +1156,14 @@
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 5,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 6,
             "texts": [
@@ -1041,6 +1174,7 @@
         },
         {
             "tutorialType": "TutorialType_PvpRate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 7,
             "texts": [
@@ -1049,6 +1183,7 @@
         },
         {
             "tutorialType": "TutorialType_CoinGasha",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1057,6 +1192,7 @@
         },
         {
             "tutorialType": "TutorialType_MoneyReceive",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1065,6 +1201,7 @@
         },
         {
             "tutorialType": "TutorialType_MissionPass",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1073,6 +1210,7 @@
         },
         {
             "tutorialType": "TutorialType_Profile",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1081,6 +1219,7 @@
         },
         {
             "tutorialType": "TutorialType_Meishi",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1089,6 +1228,7 @@
         },
         {
             "tutorialType": "TutorialType_Friend",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1097,6 +1237,7 @@
         },
         {
             "tutorialType": "TutorialType_Achievement",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1107,6 +1248,7 @@
         },
         {
             "tutorialType": "TutorialType_IdolCardLevelLimitRankUpdate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1115,6 +1257,7 @@
         },
         {
             "tutorialType": "TutorialType_SupportCardLevelUpdate",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1124,12 +1267,14 @@
         },
         {
             "tutorialType": "TutorialType_Tower",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_Guild",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1139,36 +1284,42 @@
         },
         {
             "tutorialType": "TutorialType_TutorialReceiveIdolCard",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_PhotoTop",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_PhotoIdol",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_PhotoPrepare",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_Photo",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_MeishiEditCustom",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1182,30 +1333,35 @@
         },
         {
             "tutorialType": "TutorialType_MeishiEditCustomManual",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_IdolCardSkinUnit",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_DearnessTop",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_DearnessPoint",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceIdolCardSelect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1215,6 +1371,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceSupportCardSelect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1224,6 +1381,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceMemorySelect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1232,6 +1390,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceSchedule",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1243,6 +1402,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceEvent",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1251,6 +1411,7 @@
         },
         {
             "tutorialType": "TutorialType_ProducePresentStep",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1259,6 +1420,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceShopStep",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1268,6 +1430,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceExamGimmick",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1276,6 +1439,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceExamGimmick",
+            "idolCardId": "",
             "step": 1,
             "subStep": 2,
             "texts": [
@@ -1284,6 +1448,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceExamGimmick",
+            "idolCardId": "",
             "step": 1,
             "subStep": 3,
             "texts": [
@@ -1292,6 +1457,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceExamPerfect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1300,6 +1466,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceBeforeLiveEvaluation",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1309,6 +1476,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceDifficultySelect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1317,6 +1485,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceCardUpgrade",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1325,6 +1494,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceCardDelete",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1333,6 +1503,7 @@
         },
         {
             "tutorialType": "TutorialType_ProduceChallenge",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1343,96 +1514,112 @@
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionTop",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionSchedule",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionSelect",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionStepAuditionStart",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionResult",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceStepBusiness",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceStepCustomize",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceStepFanPresent",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_MissionPanel",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceHighScore",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_StoryEvent",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_StoryEventMainStroy",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_StoryEventBoxGasha",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_StoryEventGuildMission",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_GvgRaid",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionMaster",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": [
@@ -1442,24 +1629,28 @@
         },
         {
             "tutorialType": "TutorialType_ProduceNextIdolAuditionMasterRanking",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_Tour",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_Research",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
         },
         {
             "tutorialType": "TutorialType_ProducerRanking",
+            "idolCardId": "",
             "step": 1,
             "subStep": 1,
             "texts": []
