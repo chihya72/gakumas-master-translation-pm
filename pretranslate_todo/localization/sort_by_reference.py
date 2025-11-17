@@ -3,6 +3,7 @@
 """
 按照参考JSON文件的键顺序排列脚本
 根据参考JSON文件中的键顺序，对目标JSON文件进行重新排列
+python sort_by_reference.py A.json B.json   把A.json按B.json的键顺序排列
 """
 
 import json

@@ -2352,7 +2352,7 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "上昇量を200%増加\nターン終了時に"
+                    "text": "上昇量を200%増加\n次のターン開始時に"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -3868,26 +3868,6 @@
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
                     "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_ExamLesson",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "パラメータ"
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
-                    "examEffectType": "ProduceExamEffectType_Unknown",
-                    "produceCardCategory": "ProduceCardCategory_Unknown",
-                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
-                    "produceStepType": "ProduceStepType_Unknown",
-                    "targetId": "",
-                    "text": "上昇量を"
-                },
-                {
-                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
-                    "examDescriptionType": "ExamDescriptionType_Unknown",
                     "examEffectType": "ProduceExamEffectType_ExamCardPlayAggressive",
                     "produceCardCategory": "ProduceCardCategory_Unknown",
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
@@ -3923,7 +3903,27 @@
                     "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
                     "produceStepType": "ProduceStepType_Unknown",
                     "targetId": "",
-                    "text": "の最小値に応じて、1につき10%増加"
+                    "text": "の最小値に応じて、1ごとに、"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_ExamLesson",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "パラメータ"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "上昇量を2%増加（最大50%）"
                 },
                 {
                     "produceDescriptionType": "ProduceDescriptionType_Exam",

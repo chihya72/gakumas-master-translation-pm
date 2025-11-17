@@ -216,6 +216,66 @@
             "description": "【見て】有村 麻央の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-atbm-2-000-01",
+            "name": "紫電一閃",
+            "description": "【初志貫徹】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-02",
+            "name": "初志貫徹",
+            "description": "【初志貫徹】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-03",
+            "name": "貴様の担当アイドルだからな！",
+            "description": "【初志貫徹】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-04",
+            "name": "初志貫徹 +",
+            "description": "【初志貫徹】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-05",
+            "name": "初志貫徹 ++",
+            "description": "【初志貫徹】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-2-000-06",
+            "name": "初志貫徹 +++",
+            "description": "【初志貫徹】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-01",
+            "name": "私は、決して",
+            "description": "【理論武装して】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-02",
+            "name": "理論武装して",
+            "description": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-03",
+            "name": "私が、そうしたいのだ",
+            "description": "【理論武装して】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-04",
+            "name": "理論武装して +",
+            "description": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-05",
+            "name": "理論武装して ++",
+            "description": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-000-06",
+            "name": "理論武装して +++",
+            "description": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "カワイイ♡はじめました +",
             "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
@@ -2471,6 +2531,11 @@
             "description": "有村 麻央のアチーブメントの★を{threshold}個獲得"
         },
         {
+            "id": "achieve-m_atbm-001",
+            "name": "マスターアチーブメント",
+            "description": "雨夜 燕のアチーブメントの★を{threshold}個獲得"
+        },
+        {
             "id": "achieve-m_fktn-001",
             "name": "マスターアチーブメント",
             "description": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
@@ -2628,17 +2693,17 @@
         {
             "id": "achieve-o_023",
             "name": "期待の新人",
-            "description": "コンテストでスコアを{threshold}以上獲得"
+            "description": "コンテストでスコアを10,000以上獲得"
         },
         {
             "id": "achieve-o_024",
             "name": "ダークホース",
-            "description": "コンテストでスコアを{threshold}以上獲得"
+            "description": "コンテストでスコアを30,000以上獲得"
         },
         {
             "id": "achieve-o_025",
             "name": "本命候補",
-            "description": "コンテストでスコアを{threshold}以上獲得"
+            "description": "コンテストでスコアを60,000以上獲得"
         },
         {
             "id": "achieve-o_026",
@@ -2909,6 +2974,106 @@
             "id": "achieve-p_idol-amao-022",
             "name": "理想と現実",
             "description": "有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-atbm-000",
+            "name": "価値の証明",
+            "description": "雨夜 燕でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-atbm-000-1",
+            "name": "貴様がいなければ、私は",
+            "description": "雨夜 燕でTrue End : N.I.Aをみる"
+        },
+        {
+            "id": "achieve-p_idol-atbm-001",
+            "name": "現状把握",
+            "description": "雨夜 燕のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-atbm-002",
+            "name": "学園No.2の実力",
+            "description": "雨夜 燕でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-atbm-003",
+            "name": "生来の才能",
+            "description": "雨夜 燕でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-atbm-004",
+            "name": "高すぎるプライド",
+            "description": "雨夜 燕で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-005",
+            "name": "超えるための道筋",
+            "description": "雨夜 燕で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-006",
+            "name": "頂点を喰らう覚悟",
+            "description": "雨夜 燕で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-007",
+            "name": "反逆の狼煙",
+            "description": "雨夜 燕のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-atbm-008",
+            "name": "殻を破った先に",
+            "description": "雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-atbm-009",
+            "name": "絶えない炎",
+            "description": "雨夜 燕のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-atbm-010",
+            "name": "悪役系アイドル",
+            "description": "雨夜 燕のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-011",
+            "name": "貴様は私を支えろ",
+            "description": "雨夜 燕の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-atbm-012",
+            "name": "滋養強壮",
+            "description": "雨夜 燕でPドリンクを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-atbm-013",
+            "name": "打ち負かすために",
+            "description": "雨夜 燕のプロデュースで元気を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-014",
+            "name": "すべて一級品",
+            "description": "雨夜 燕のダンスを1000以上に育成してプロデュースを完了 "
+        },
+        {
+            "id": "achieve-p_idol-atbm-015",
+            "name": "「アイドルへの道」雨夜燕",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-016",
+            "name": "至上の喜び",
+            "description": "雨夜 燕で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-017",
+            "name": "雨夜燕マスター",
+            "description": "雨夜 燕の定期公演『初』難易度：マスターで最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-020",
+            "name": "進むべき道",
+            "description": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",

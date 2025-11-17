@@ -134,6 +134,72 @@
             "name": "イベントコミュ"
         },
         {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition",
+            "order": 1,
+            "name": "リンクコンテスト"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-competition-ranking",
+            "order": 10,
+            "name": "リンクコンテストランキング"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-grade",
+            "order": 8,
+            "name": "グレード"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-preparation-period",
+            "order": 7,
+            "name": "開催準備期間"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rate-pt",
+            "order": 9,
+            "name": "マイユニット"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rehearsal",
+            "order": 11,
+            "name": "リハーサル"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-rule",
+            "order": 2,
+            "name": "リンクコンテストのルール"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-season",
+            "order": 6,
+            "name": "シーズン"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-squad",
+            "order": 3,
+            "name": "編成"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-stage",
+            "order": 4,
+            "name": "ステージ"
+        },
+        {
+            "helpCategoryId": "help-competition",
+            "id": "competition-total",
+            "order": 5,
+            "name": "総合力"
+        },
+        {
             "helpCategoryId": "help-contest",
             "id": "contest-contest",
             "order": 1,
@@ -1038,12 +1104,6 @@
             "id": "produce-produce-2",
             "order": 38,
             "name": "NEXT IDOL AUDITION"
-        },
-        {
-            "helpCategoryId": "help-produce",
-            "id": "produce-produce-2-master-ranking",
-            "order": 48,
-            "name": "N.I.Aマスターランキング"
         },
         {
             "helpCategoryId": "help-produce",

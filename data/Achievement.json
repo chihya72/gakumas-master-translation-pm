@@ -216,6 +216,66 @@
       "description": "【看着我】有村麻央的特训阶段提升至{threshold}级"
     },
     {
+      "id": "achieve-i_card-atbm-2-000-01",
+      "name": "紫电一闪",
+      "description": "【贯彻初志】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-02",
+      "name": "贯彻初志",
+      "description": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-03",
+      "name": "毕竟我是你负责的偶像嘛！",
+      "description": "【贯彻初志】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-04",
+      "name": "贯彻初志 +",
+      "description": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-05",
+      "name": "贯彻初志 ++",
+      "description": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-2-000-06",
+      "name": "贯彻初志 +++",
+      "description": "【贯彻初志】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-01",
+      "name": "我、绝不",
+      "description": "【用理论武装】雨夜燕的培育中通过最终考试"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-02",
+      "name": "用理论武装",
+      "description": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-03",
+      "name": "因为我就是想这么做",
+      "description": "【用理论武装】雨夜燕的培育中获得了{threshold}次A+以上的评价"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-04",
+      "name": "用理论武装 +",
+      "description": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-05",
+      "name": "用理论武装 ++",
+      "description": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-i_card-atbm-3-000-06",
+      "name": "用理论武装 +++",
+      "description": "【用理论武装】雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
       "id": "achieve-i_card-fktn-2-000-04",
       "name": "可爱♡开始啦 +",
       "description": "【可爱♡开始啦】藤田琴音的特训阶段提升至{threshold}级"
@@ -2471,6 +2531,11 @@
       "description": "获得了{threshold}个有村麻央的成就之★"
     },
     {
+      "id": "achieve-m_atbm-001",
+      "name": "大师成就",
+      "description": "获得了{threshold}个雨夜燕的成就之★"
+    },
+    {
       "id": "achieve-m_fktn-001",
       "name": "大师成就",
       "description": "获得了{threshold}个藤田琴音的成就之★"
@@ -2628,17 +2693,17 @@
     {
       "id": "achieve-o_023",
       "name": "备受期待的新人",
-      "description": "在竞技场中获得{threshold}分以上"
+      "description": "在竞技场中获得10,000以上的分数"
     },
     {
       "id": "achieve-o_024",
       "name": "黑马",
-      "description": "在竞技场中获得{threshold}分以上"
+      "description": "在竞技场中获得30,000以上的分数"
     },
     {
       "id": "achieve-o_025",
       "name": "热门候选",
-      "description": "在竞技场中获得{threshold}分以上"
+      "description": "在竞技场中获得60,000以上的分数"
     },
     {
       "id": "achieve-o_026",
@@ -2909,6 +2974,106 @@
       "id": "achieve-p_idol-amao-022",
       "name": "理想与现实",
       "description": "有村麻央的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000",
+      "name": "价值的证明",
+      "description": "观看雨夜燕的True End"
+    },
+    {
+      "id": "achieve-p_idol-atbm-000-1",
+      "name": "如果没有你，我将",
+      "description": "观看雨夜燕的True End : N.I.A"
+    },
+    {
+      "id": "achieve-p_idol-atbm-001",
+      "name": "把握现状",
+      "description": "在雨夜燕的培育中使用技能卡{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-002",
+      "name": "学园No.2的实力",
+      "description": "使用雨夜燕完成{threshold}次课程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-003",
+      "name": "天生的才能",
+      "description": "使用雨夜燕完成{threshold}次SP课程"
+    },
+    {
+      "id": "achieve-p_idol-atbm-004",
+      "name": "过高的自尊",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次B以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-005",
+      "name": "超越之路",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次A以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-006",
+      "name": "准备攀登顶峰",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次S以上评价"
+    },
+    {
+      "id": "achieve-p_idol-atbm-007",
+      "name": "反逆的狼烟",
+      "description": "完成雨夜燕的培育{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-008",
+      "name": "突破禁锢之后",
+      "description": "雨夜燕的特训阶段提升至{threshold}级"
+    },
+    {
+      "id": "achieve-p_idol-atbm-009",
+      "name": "不灭的火焰",
+      "description": "在雨夜燕的培育中通过{threshold}次最终考试"
+    },
+    {
+      "id": "achieve-p_idol-atbm-010",
+      "name": "反派系偶像",
+      "description": "雨夜燕获得{threshold}粉丝"
+    },
+    {
+      "id": "achieve-p_idol-atbm-011",
+      "name": "你要支持我到底",
+      "description": "将雨夜燕的亲密度提升至Lv{threshold}"
+    },
+    {
+      "id": "achieve-p_idol-atbm-012",
+      "name": "滋养强壮",
+      "description": "在雨夜燕的培育中使用P饮料{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-013",
+      "name": "为了打败对手",
+      "description": "在雨夜燕的培育中累计获得{threshold}点元气"
+    },
+    {
+      "id": "achieve-p_idol-atbm-014",
+      "name": "一切都是顶级",
+      "description": "将雨夜燕的舞蹈能力值培养至1000以上并完成培育"
+    },
+    {
+      "id": "achieve-p_idol-atbm-015",
+      "name": "「偶像之路」雨夜燕",
+      "description": "在「偶像之路」中获得{threshold}个★的完成条件"
+    },
+    {
+      "id": "achieve-p_idol-atbm-016",
+      "name": "至高的喜悦",
+      "description": "使用雨夜燕通过最终考试并获得S+以上评价{threshold}次"
+    },
+    {
+      "id": "achieve-p_idol-atbm-017",
+      "name": "雨夜燕大师",
+      "description": "在雨夜燕的定期公演『初』难易度：Master下获得最终考试第一名"
+    },
+    {
+      "id": "achieve-p_idol-atbm-020",
+      "name": "应当前进的道路",
+      "description": "使用雨夜燕通过最终考试并获得{threshold}次SS以上评价"
     },
     {
       "id": "achieve-p_idol-card-amao-002-1",

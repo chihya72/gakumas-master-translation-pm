@@ -69,6 +69,61 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story_002_atbm_after-audition-a-normal-02",
+            "title": "まだまだここから！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-a-normal-03",
+            "title": "まだまだこれから",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-b-normal-02",
+            "title": "もっともっと先へ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-b-normal-03",
+            "title": "もっと先へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-final-failure-01",
+            "title": "もう一度一緒に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-final-normal-01",
+            "title": "さらなる高みへ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_after-audition-mid-failure-01",
+            "title": "次こそは絶対に",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_before-audition-a-normal-01",
+            "title": "気合は十分？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_before-audition-b-normal-01",
+            "title": "準備は万端？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_ending-normal-02",
+            "title": "Normal End",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story_002_atbm_opening-normal-02",
+            "title": "めざせ『N.I.A』制覇！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story_002_fktn_after-audition-a-normal-02",
             "title": "まだまだここから！",
             "produceEventHintProduceConditionDescriptions": [
@@ -990,6 +1045,237 @@
             "title": "もっと夢へ近づくために",
             "produceEventHintProduceConditionDescriptions": [
                 "有村麻央のTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-failure-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で不合格"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-02",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-03",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-final-normal-04",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-failure-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-01",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-02",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-03",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "中間試験を3位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-audition-mid-normal-04",
+            "title": "試験の結果は…",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-01",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-02",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-1-normal-03",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-01",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度7以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の80%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-02",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "プロデュースの試験前に全パラメータを審査基準の50%以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-after-step-2-normal-03",
+            "title": "気になる様子",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-before-audition-final-normal-01",
+            "title": "いざ！ 最終試験へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-before-audition-mid-normal-01",
+            "title": "いざ！ 中間試験へ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-01",
+            "title": "【A End】ごく自然な欲求",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を1位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-02",
+            "title": "【B End】重すぎる期待",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする",
+                "最終試験を2位で合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-03",
+            "title": "【C End】命運を委ねる覚悟",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験に合格する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-04",
+            "title": "【D End】逃がしはしない",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で4位または5位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-normal-05",
+            "title": "【E End】命を懸けた約束",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験で6位になる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-ending-true-01",
+            "title": "True End",
+            "produceEventHintProduceConditionDescriptions": [
+                "最終試験を1位で合格する",
+                "アチーブメント「すべて一級品」を獲得する",
+                "アチーブメント「貴様は私を支えろ」を獲得する",
+                "アチーブメント「学園No.2の実力」を獲得する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-fb-01",
+            "title": "研鑽向上",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-fb-02",
+            "title": "盤石堅固",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-fb-03",
+            "title": "臨戦態勢",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-01",
+            "title": "プロデュース開始！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-02",
+            "title": "雨夜燕始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-03",
+            "title": "雨夜燕始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "プロデュースを開始する"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-04",
+            "title": "雨夜燕始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-normal-05",
+            "title": "雨夜燕始動！",
+            "produceEventHintProduceConditionDescriptions": [
+                "親愛度4以上にする"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-true-01",
+            "title": "もっと夢へ近づくために",
+            "produceEventHintProduceConditionDescriptions": [
+                "雨夜燕のTrue Endをみる"
+            ]
+        },
+        {
+            "id": "p_story-001-atbm-opening-true-02",
+            "title": "もっと夢へ近づくために",
+            "produceEventHintProduceConditionDescriptions": [
+                "雨夜燕のTrue Endをみる"
             ]
         },
         {
@@ -3696,6 +3982,171 @@
         {
             "id": "p_story-event-001_amao_school_011",
             "title": "麻央のレッスン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_001",
+            "title": "ビジネス燕",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_002",
+            "title": "今日の題目は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_003",
+            "title": "ニンジャはダレジャ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_004",
+            "title": "甘味の誘惑",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_005",
+            "title": "おすすめの店は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_006",
+            "title": "君子『虫』に近寄らず",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_007",
+            "title": "ご注文は蕎麦ですか？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_008",
+            "title": "観るべき映画は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_009",
+            "title": "我が相棒の名は……！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_010",
+            "title": "寝不足の理由は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_011",
+            "title": "突撃、メイドカフェ！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_012",
+            "title": "着せ替え雨夜さん",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_013",
+            "title": "河川敷はお気に入り？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_014",
+            "title": "書道を修めし者",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_015",
+            "title": "披露されるファン魂",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_016",
+            "title": "雨夜燕の日常",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_017-01",
+            "title": "Fighting Game！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_017-02",
+            "title": "Fighting Game！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_018-01",
+            "title": "挑め、くじ百番！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_018-02",
+            "title": "挑め、くじ百番！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_019",
+            "title": "身だしなみ注意！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_activity_020",
+            "title": "お握りはなに味？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_001",
+            "title": "燕と勉強",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_002",
+            "title": "燕は何アイドル？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_003",
+            "title": "信頼関係はバッチリ？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_004",
+            "title": "手綱はしっかりと",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_005",
+            "title": "3つの『白』城",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_006",
+            "title": "価値の移ろい",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_007",
+            "title": "筆の達人の名は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_008",
+            "title": "正でも負でもない数字",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_009",
+            "title": "敏腕秘書、雨夜燕",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_010",
+            "title": "宿命の戦い！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-001_atbm_school_011",
+            "title": "レッスンは何に？",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -9939,6 +10390,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-atbm-3-000-01",
+            "title": "理論武装して 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-000-02",
+            "title": "理論武装して 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-000-03",
+            "title": "理論武装して 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "世界一可愛い私 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -11139,6 +11605,16 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-1-0012-01",
+            "title": "期待の1年生",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-1-0012-02",
+            "title": "試験結果、発表！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-2-0000-01",
             "title": "親愛のハグ……？",
             "produceEventHintProduceConditionDescriptions": []
@@ -11736,6 +12212,16 @@
         {
             "id": "p_story-s_card-2-0065-02",
             "title": "王子様の意外な一面",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0066-01",
+            "title": "金ピカのドラゴン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-2-0066-02",
+            "title": "今はアイドルを全力で",
             "produceEventHintProduceConditionDescriptions": []
         },
         {
@@ -12909,6 +13395,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-s_card-3-0079-01",
+            "title": "厄介で有能な後輩",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0079-02",
+            "title": "お昼寝ときどきレッスン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0079-03",
+            "title": "副会長の頼み事",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-s_card-3-0080-01",
             "title": "クレーン名人、清夏",
             "produceEventHintProduceConditionDescriptions": []
@@ -12991,6 +13492,56 @@
         {
             "id": "story-dearness-amao-010-1",
             "title": "第10.5話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-001",
+            "title": "1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-002",
+            "title": "2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-003",
+            "title": "3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-004",
+            "title": "4話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-005",
+            "title": "5話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-006",
+            "title": "6話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-007",
+            "title": "7話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-008",
+            "title": "8話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-009",
+            "title": "9話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "story-dearness-atbm-010",
+            "title": "10話",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

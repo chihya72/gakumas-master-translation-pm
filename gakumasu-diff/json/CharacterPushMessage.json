@@ -54,7 +54,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "有村 麻央",
-            "message": "まだコンテストに挑戦できますね。\nいろんなボクの姿を、\nファンのみんなに見てもらいたいです"
+            "message": "コンテスト、今日はまだ参加して\nいないよね？　ボクの実力、\nぜひ見てほしいな"
         },
         {
             "characterId": "amao",
@@ -97,6 +97,97 @@
             "number": 3,
             "title": "有村 麻央",
             "message": "配信のお仕事終わりました。\n試行錯誤しながらですけど、\n楽しめたと思います"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_ApFull",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "体調は万全だ。\nどんなレッスンでも、\n完璧にこなしてみせる"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_ApFull",
+            "number": 2,
+            "title": "雨夜 燕",
+            "message": "ゆっくり休めたようだな。\nさあ、早くレッスンに行くぞ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_MoneyFull",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "マニーの受け取りを忘れているぞ。\n一緒に取りに行ってやるから、\n早く来い"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_MoneyFull",
+            "number": 2,
+            "title": "雨夜 燕",
+            "message": "マニーがたまっているぞ。\n早めに受け取りに来い"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_DailyMission",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "今日のミッションが残っているな。\n私も手伝ってやるから、\n早く終わらせるぞ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_Login",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "…………早く戻ってこい"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_PvpRateRemainingPlayCount",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "今日のコンテストが未参加だぞ！\nゆっくりしている暇などない。\nいくぞ！"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "ミニライブの仕事、完了だ。\n報酬の確認を頼む"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 2,
+            "title": "雨夜 燕",
+            "message": "学びのあるミニライブだった。\n忘れないうちに振り返っておきたい。\n貴様も参加するだろう？"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkMiniLiveFinish",
+            "number": 3,
+            "title": "雨夜 燕",
+            "message": "今回のミニライブ、\nなかなか手応えがあったぞ。\nあとで、貴様の意見も聞かせてくれ"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 1,
+            "title": "雨夜 燕",
+            "message": "配信の仕事、完了だ。\n報酬の受け取りを頼む"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 2,
+            "title": "雨夜 燕",
+            "message": "配信を通じて、しっかりと\nファンの声を感じられた。\n……フッ、やはり支えられているな"
+        },
+        {
+            "characterId": "atbm",
+            "type": "PushType_WorkLiveStreamingFinish",
+            "number": 3,
+            "title": "雨夜 燕",
+            "message": "今日の配信、見ていたか？\n内容について意見を聞きたいから、\n反省会に来てくれ"
         },
         {
             "characterId": "fktn",
@@ -145,7 +236,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "藤田 ことね",
-            "message": "コンテスト、まだまだ挑戦\nできますよ～？　超可愛いあたしを、\n見せちゃいまぁすッ♡"
+            "message": "今日のコンテスト、参加しないん\nですかぁ～？　ことねちゃんは、\nいつでもOKですよ～♪"
         },
         {
             "characterId": "fktn",
@@ -236,7 +327,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "秦谷 美鈴",
-            "message": "まだ、コンテストに挑戦できる\nみたいですね。それでは、\nゆるりと参りましょう"
+            "message": "今日はまだ、コンテストに\n参加していませんね。\nさぁ、どうしましょうか"
         },
         {
             "characterId": "hmsz",
@@ -327,7 +418,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "姫崎 莉波",
-            "message": "コンテスト、挑戦できるみたい。\n頑張る私の姿、きみにも見て欲しいな"
+            "message": "今日はコンテスト、参加しないの\nかな？　挑戦してみようよ。\nね？　私、頑張るから"
         },
         {
             "characterId": "hrnm",
@@ -418,7 +509,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "花海 咲季",
-            "message": "まだ、コンテストに挑戦できるわ。\nプロデューサー！\n一緒に勝ちにいきましょ！"
+            "message": "今日はコンテスト、参加しないの\nかしら？　わたしが最高の結果を\n届けてあげるわよ！"
         },
         {
             "characterId": "hski",
@@ -509,7 +600,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "花海 佑芽",
-            "message": "あたし、コンテストに挑戦できます！\nどーんとやっちゃいましょう、\nプロデューサーさんっ！"
+            "message": "コンテスト、参加したいです！\nあたし、思いっきり\nぶちかましちゃいますよ～！"
         },
         {
             "characterId": "hume",
@@ -600,7 +691,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "十王 星南",
-            "message": "まだコンテストに挑戦できるわね。\n調整は完璧。十王星南の新たな\n可能性、見せつけにいきましょう！"
+            "message": "今日のコンテストへの参加がまだよ。\nほら、早くいきましょう"
         },
         {
             "characterId": "jsna",
@@ -691,7 +782,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "倉本 千奈",
-            "message": "まだコンテストに\n挑戦できるそうです。先生！\n一緒にまいりましょう！"
+            "message": "先生、本日のコンテスト参加がまだ\nですわ。わたくし、やる気満々\nですの。参加いたしましょう！"
         },
         {
             "characterId": "kcna",
@@ -782,7 +873,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "葛城 リーリヤ",
-            "message": "まだコンテストに挑戦できる、\nみたいです。わたし……\nセンパイと一緒に、勝ちたいです……！"
+            "message": "今日、コンテストって参加、\nしないんでしょうか……？\nわたし、まだ頑張れます！"
         },
         {
             "characterId": "kllj",
@@ -873,7 +964,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "篠澤 広",
-            "message": "コンテスト、まだ挑戦できる、よ。\n当たって、こなごなに砕けにいこう"
+            "message": "今日はコンテスト参加してない。\nわたしの体力なら……多分大丈夫。\nいける、よ"
         },
         {
             "characterId": "shro",
@@ -964,7 +1055,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "紫雲 清夏",
-            "message": "まだコンテストに挑戦できるよ？\nこれはもう、やるしかないよねっ♪"
+            "message": "Ｐっち、今日はコンテスト\nまだ参加してないよね？\nせっかくだし、やっちゃおー！"
         },
         {
             "characterId": "ssmk",
@@ -1055,7 +1146,7 @@
             "type": "PushType_PvpRateRemainingPlayCount",
             "number": 1,
             "title": "月村 手毬",
-            "message": "まだコンテストに挑戦できます。\nほら、プロデューサー。\n一緒にいきますよ"
+            "message": "コンテスト、今日はまだ参加してない\nですよね？　いかないんですか。\n私は準備、できてますけど"
         },
         {
             "characterId": "ttmr",
