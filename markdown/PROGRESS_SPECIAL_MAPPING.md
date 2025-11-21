@@ -5,8 +5,8 @@
 ### 问题描述
 在gakumas翻译项目中遇到了上下文相关的翻译歧义问题：
 - 日文助词"を"在不同语境下需要不同的中文翻译
-- 大多数情况下："を" → "会"
-- 特定语境下："を" → "向"（如`pitem_01-2-096-0`中的"干扰卡を消除"应译为"干扰卡向消除"）
+- 大多数情况下："を" → "向"
+- 特定语境下："を" → "会"（如`pitem_01-2-096-0`中的"トラブルカードを削除"应译为"干扰卡会删除"）
 
 ### 现有merge流程的问题
 原有的增量合并优先级：`todo/new > jp_cn > temp_key_cn(data)`
@@ -54,8 +54,8 @@ special_mapping/
   "pitem_01-2-096-0|...|produceDescriptions[0].text": "集中",
   "pitem_01-2-096-0|...|produceDescriptions[1].text": "效果的技能卡获得时，视觉能力值在700以上的时候，随机",
   "pitem_01-2-096-0|...|produceDescriptions[2].text": "干扰卡",
-  "pitem_01-2-096-0|...|produceDescriptions[3].text": "向",
-  "pitem_01-2-096-0|...|produceDescriptions[4].text": "消除",
+  "pitem_01-2-096-0|...|produceDescriptions[3].text": "会",
+  "pitem_01-2-096-0|...|produceDescriptions[4].text": "删除",
   "pitem_01-2-096-0|...|produceDescriptions[5].text": "\n视觉能力值上升+",
   "pitem_01-2-096-0|...|produceDescriptions[6].text": "30",
   "pitem_01-2-096-0|...|produceDescriptions[7].text": "\n（课程中1次）",
@@ -117,8 +117,8 @@ if (len(available_translations) >= 2 and
 
 #### 测试方法
 1. 创建测试用的`ProduceItem_translated.json`
-2. 包含"を": "TEST-会"的映射
-3. 验证pitem_01-2-096-0使用special mapping中的"向"
+2. 包含"を": "TEST-向"的映射
+3. 验证pitem_01-2-096-0使用special mapping中的"会"
 4. 验证其他键使用智能解决的"向"（来自jp_cn/data一致性）
 
 #### 测试结果
