@@ -58,7 +58,7 @@ special_mapping/
   "pitem_01-2-096-0|...|produceDescriptions[4].text": "删除",
   "pitem_01-2-096-0|...|produceDescriptions[5].text": "\n视觉能力值上升+",
   "pitem_01-2-096-0|...|produceDescriptions[6].text": "30",
-  "pitem_01-2-096-0|...|produceDescriptions[7].text": "\n（课程中1次）",
+  "pitem_01-2-096-0|...|produceDescriptions[7].text": "\n（培育中1次）",
   "pitem_01-2-096-0|...|name": "复活琴音的棒冰"
 }
 ```
