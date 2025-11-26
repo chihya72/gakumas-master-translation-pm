@@ -1,0 +1,98 @@
+# Asset映射配置文件
+# 格式: assetId=本地文件路径
+# 注意: 路径使用正斜杠/，支持相对路径和绝对路径
+
+# 一格漫画映射
+img_general_comic_0001=comic/1ko/img_general_comic_0001.png
+img_general_comic_0002=comic/1ko/img_general_comic_0002.png
+img_general_comic_0003=comic/1ko/img_general_comic_0003.png
+img_general_comic_0004=comic/1ko/img_general_comic_0004.png
+img_general_comic_0005=comic/1ko/img_general_comic_0005.png
+img_general_comic_0006=comic/1ko/img_general_comic_0006.png
+
+
+# 四格漫画映射
+img_general_comic4_0000=comic/4ko/img_general_comic4_0000.png
+img_general_comic4_0001=comic/4ko/img_general_comic4_0001.png
+img_general_comic4_0002=comic/4ko/img_general_comic4_0002.png
+img_general_comic4_0003=comic/4ko/img_general_comic4_0003.png
+img_general_comic4_0004=comic/4ko/img_general_comic4_0004.png
+img_general_comic4_0005=comic/4ko/img_general_comic4_0005.png
+img_general_comic4_0006=comic/4ko/img_general_comic4_0006.png
+img_general_comic4_0007=comic/4ko/img_general_comic4_0007.png
+img_general_comic4_0008=comic/4ko/img_general_comic4_0008.png
+img_general_comic4_0009=comic/4ko/img_general_comic4_0009.png
+img_general_comic4_0010=comic/4ko/img_general_comic4_0010.png
+img_general_comic4_0011=comic/4ko/img_general_comic4_0011.png
+img_general_comic4_0012=comic/4ko/img_general_comic4_0012.png
+img_general_comic4_0013=comic/4ko/img_general_comic4_0013.png
+img_general_comic4_0014=comic/4ko/img_general_comic4_0014.png
+img_general_comic4_0015=comic/4ko/img_general_comic4_0015.png
+
+img_general_comic4_0000-thumb=comic/4ko/img_general_comic4_0000-thumb.png
+img_general_comic4_0001-thumb=comic/4ko/img_general_comic4_0001-thumb.png
+img_general_comic4_0002-thumb=comic/4ko/img_general_comic4_0002-thumb.png
+img_general_comic4_0003-thumb=comic/4ko/img_general_comic4_0003-thumb.png
+img_general_comic4_0004-thumb=comic/4ko/img_general_comic4_0004-thumb.png
+img_general_comic4_0005-thumb=comic/4ko/img_general_comic4_0005-thumb.png
+img_general_comic4_0006-thumb=comic/4ko/img_general_comic4_0006-thumb.png
+img_general_comic4_0007-thumb=comic/4ko/img_general_comic4_0007-thumb.png
+img_general_comic4_0008-thumb=comic/4ko/img_general_comic4_0008-thumb.png
+img_general_comic4_0009-thumb=comic/4ko/img_general_comic4_0009-thumb.png
+img_general_comic4_0010-thumb=comic/4ko/img_general_comic4_0010-thumb.png
+img_general_comic4_0011-thumb=comic/4ko/img_general_comic4_0011-thumb.png
+img_general_comic4_0012-thumb=comic/4ko/img_general_comic4_0012-thumb.png
+img_general_comic4_0013-thumb=comic/4ko/img_general_comic4_0013-thumb.png
+img_general_comic4_0014-thumb=comic/4ko/img_general_comic4_0014-thumb.png
+img_general_comic4_0015-thumb=comic/4ko/img_general_comic4_0015-thumb.png
+
+
+# 好感度偶像档案映射
+
+# 雨姐
+img_general_report_akapen_atbm-001=general_report/atbm/img_general_report_akapen_atbm-001.png
+img_general_report_akapen_atbm-002=general_report/atbm/img_general_report_akapen_atbm-002.png
+img_general_report_akapen_atbm-003=general_report/atbm/img_general_report_akapen_atbm-003.png
+img_general_report_akapen_atbm-004=general_report/atbm/img_general_report_akapen_atbm-004.png
+img_general_report_bg_graph_atbm-001=general_report/atbm/img_general_report_bg_graph_atbm-001.png
+img_general_report_bg_graph_atbm-002=general_report/atbm/img_general_report_bg_graph_atbm-002.png
+img_general_report_text_atbm-001=general_report/atbm/img_general_report_text_atbm-001.png
+img_general_report_text_atbm-002=general_report/atbm/img_general_report_text_atbm-002.png
+img_general_report_text_atbm-003=general_report/atbm/img_general_report_text_atbm-003.png
+img_general_report_text_atbm-004=general_report/atbm/img_general_report_text_atbm-004.png
+img_general_report_text_atbm-005=general_report/atbm/img_general_report_text_atbm-005.png
+
+#麻央
+img_general_report_akapen_amao-001=general_report/amao/img_general_report_akapen_amao-001.png
+
+# 美铃
+img_general_report_akapen_hmsz-001=general_report/hmsz/img_general_report_akapen_hmsz-001.png
+img_general_report_akapen_hmsz-002=general_report/hmsz/img_general_report_akapen_hmsz-002.png
+img_general_report_akapen_hmsz-003=general_report/hmsz/img_general_report_akapen_hmsz-003.png
+img_general_report_akapen_hmsz-004=general_report/hmsz/img_general_report_akapen_hmsz-004.png
+img_general_report_akapen_hmsz-005=general_report/hmsz/img_general_report_akapen_hmsz-005.png
+img_general_report_akapen_hmsz-006=general_report/hmsz/img_general_report_akapen_hmsz-006.png
+img_general_report_bg_graph_hmsz-001=general_report/hmsz/img_general_report_bg_graph_hmsz-001.png
+img_general_report_text_hmsz-001=general_report/hmsz/img_general_report_text_hmsz-001.png
+img_general_report_text_hmsz-002=general_report/hmsz/img_general_report_text_hmsz-002.png
+img_general_report_text_hmsz-003=general_report/hmsz/img_general_report_text_hmsz-003.png
+
+
+# 主页Produce按钮映射
+img_general_ui_produce-1_btn=ui/button/img_general_ui_produce-1_btn.png
+img_general_ui_produce-1_btn-small=ui/button/img_general_ui_produce-1_btn-small.png
+img_general_ui_produce-2_btn=ui/button/img_general_ui_produce-2_btn.png
+img_general_ui_produce-2_btn-small=ui/button/img_general_ui_produce-2_btn-small.png
+img_general_ui_produce-3_btn-small=ui/button/img_general_ui_produce-3_btn-small.png
+img_general_ui_produce-nia_btn=ui/button/img_general_ui_produce-nia_btn.png
+img_general_ui_produce-nia-2_btn=ui/button/img_general_ui_produce-nia-2_btn.png
+img_general_event_research_research-event-ingame_button=ui/button/img_general_event_research_research-event-ingame_button.png
+
+
+# 教程页面映射
+img_tutorial_produce_01_first-001=tutorial/img_tutorial_produce_01_first-001.png
+
+
+# 添加更多您需要替换的assetId
+produce_button_text=sprites/produce_button_text.png 
+img_login_bg_event2d-002=img_login_bg_event2d-002.png
