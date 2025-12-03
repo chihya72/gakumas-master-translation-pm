@@ -318,6 +318,70 @@
             "name": "紫雲 清夏のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
+            "id": "hidden_mission-achieve-o_014_001",
+            "name": "リンクコンテストで1位以内に入ろう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_014_002",
+            "name": "コンテストで1位以内に入ろう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_016_001",
+            "name": "リンクコンテストでグレード1に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_016_002",
+            "name": "コンテストでグレード1に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_017_001",
+            "name": "リンクコンテストでグレード2に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_017_002",
+            "name": "コンテストでグレード2に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_018_001",
+            "name": "リンクコンテストでグレード3に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_018_002",
+            "name": "コンテストでグレード3に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_019_001",
+            "name": "リンクコンテストでグレード4に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_019_002",
+            "name": "コンテストでグレード4に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_020_001",
+            "name": "リンクコンテストでグレード5に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_020_002",
+            "name": "コンテストでグレード5に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_021_001",
+            "name": "リンクコンテストでグレード6に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_021_002",
+            "name": "コンテストでグレード6に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_022_001",
+            "name": "リンクコンテストでグレード7に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_022_002",
+            "name": "コンテストでグレード7に到達しよう"
+        },
+        {
             "id": "hidden_mission-app-review-main-task-clear",
             "name": "課題14クリアしていない"
         },
@@ -788,6 +852,10 @@
         {
             "id": "hidden_mission-view-gasha-00540-free-10-005",
             "name": "あさり先生からのプレゼント！最大100連無料！10連無料ガシャを{threshold}回引こう"
+        },
+        {
+            "id": "hidden_mission-view-gasha-00640-pickup-002",
+            "name": "1.5th記念 シーズン限定&Re;IRIS登場！SSR15%ガシャを{threshold}回引こう"
         },
         {
             "id": "mission-box-gasha-event-001-mission_1",
@@ -1343,7 +1411,7 @@
         },
         {
             "id": "mission-daily-incrementpvpratewincount-1",
-            "name": "リンクコンテストに{threshold}回挑戦しよう"
+            "name": "コンテストに{threshold}回挑戦しよう"
         },
         {
             "id": "mission-daily-incrementreceivemoney-1",
@@ -3659,31 +3727,31 @@
         },
         {
             "id": "mission-normal-absolutepvprategrade-2",
-            "name": "リンクコンテストでグレード2に到達しよう"
+            "name": "コンテストでグレード2に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprategrade-3",
-            "name": "リンクコンテストでグレード3に到達しよう"
+            "name": "コンテストでグレード3に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprategrade-4",
-            "name": "リンクコンテストでグレード4に到達しよう"
+            "name": "コンテストでグレード4に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprategrade-5",
-            "name": "リンクコンテストでグレード5に到達しよう"
+            "name": "コンテストでグレード5に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprategrade-6",
-            "name": "リンクコンテストでグレード6に到達しよう"
+            "name": "コンテストでグレード6に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprategrade-7",
-            "name": "リンクコンテストでグレード7に到達しよう"
+            "name": "コンテストでグレード7に到達しよう"
         },
         {
             "id": "mission-normal-absolutepvprateunitoverallpower-1",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "mission-normal-absolutesupportcardcount-1",
@@ -3767,11 +3835,11 @@
         },
         {
             "id": "mission-normal-incrementpvpratelivebattlescorecount-01",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "mission-normal-incrementpvpratewincount-1",
-            "name": "リンクコンテストで{threshold}回勝利しよう"
+            "name": "コンテストで{threshold}回勝利しよう"
         },
         {
             "id": "mission-normal-incrementreceivemoney-1",
@@ -4111,7 +4179,7 @@
         },
         {
             "id": "mission-release_mission-3-3",
-            "name": "リンクコンテストでスキルカードを{threshold}回使用しよう"
+            "name": "コンテストに{threshold}回挑戦しよう"
         },
         {
             "id": "mission-release_mission-3-4",
@@ -4855,7 +4923,7 @@
         },
         {
             "id": "panel_mission-event-niv-mission_4",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "panel_mission-event-niv-mission_5",
@@ -8719,7 +8787,7 @@
         },
         {
             "id": "main_task_group-01-01#26",
-            "name": "リンクコンテストで編成しよう"
+            "name": "コンテストで編成しよう"
         },
         {
             "id": "main_task_group-01-01#27",
@@ -8807,7 +8875,7 @@
         },
         {
             "id": "main_task_group-01-01#48",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-01-01#49",
@@ -8859,7 +8927,7 @@
         },
         {
             "id": "main_task_group-02-01#1",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#2",
@@ -8871,7 +8939,7 @@
         },
         {
             "id": "main_task_group-02-01#4",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#5",
@@ -8939,11 +9007,11 @@
         },
         {
             "id": "main_task_group-02-01#21",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#22",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#23",
@@ -8963,7 +9031,7 @@
         },
         {
             "id": "main_task_group-02-01#27",
-            "name": "リンクコンテストでスキルカードを{threshold}回使用しよう"
+            "name": "コンテストに挑戦しよう"
         },
         {
             "id": "main_task_group-02-01#28",
@@ -8979,7 +9047,7 @@
         },
         {
             "id": "main_task_group-02-01#31",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#32",
@@ -9007,7 +9075,7 @@
         },
         {
             "id": "main_task_group-02-01#38",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#39",
@@ -9023,7 +9091,7 @@
         },
         {
             "id": "main_task_group-02-01#42",
-            "name": "リンクコンテストでスキルカードを{threshold}回使用しよう"
+            "name": "コンテストに挑戦しよう"
         },
         {
             "id": "main_task_group-02-01#43",
@@ -9051,7 +9119,7 @@
         },
         {
             "id": "main_task_group-02-01#49",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#50",
@@ -9079,11 +9147,11 @@
         },
         {
             "id": "main_task_group-02-01#56",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#57",
-            "name": "リンクコンテストでスキルカードを{threshold}回使用しよう"
+            "name": "コンテストに挑戦しよう"
         },
         {
             "id": "main_task_group-02-01#58",
@@ -9107,7 +9175,7 @@
         },
         {
             "id": "main_task_group-02-01#63",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#64",
@@ -9143,7 +9211,7 @@
         },
         {
             "id": "main_task_group-02-01#72",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#73",
@@ -9159,7 +9227,7 @@
         },
         {
             "id": "main_task_group-02-01#76",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#77",
@@ -9175,7 +9243,7 @@
         },
         {
             "id": "main_task_group-02-01#80",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-02-01#81",
@@ -9203,7 +9271,7 @@
         },
         {
             "id": "main_task_group-02-01#87",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-02-01#88",
@@ -9315,7 +9383,7 @@
         },
         {
             "id": "main_task_group-03-01#15",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#16",
@@ -9335,7 +9403,7 @@
         },
         {
             "id": "main_task_group-03-01#20",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#21",
@@ -9355,7 +9423,7 @@
         },
         {
             "id": "main_task_group-03-01#25",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#26",
@@ -9379,7 +9447,7 @@
         },
         {
             "id": "main_task_group-03-01#31",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#32",
@@ -9399,7 +9467,7 @@
         },
         {
             "id": "main_task_group-03-01#36",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#37",
@@ -9471,15 +9539,15 @@
         },
         {
             "id": "main_task_group-03-01#54",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#55",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#56",
-            "name": "リンクコンテストでスキルカードを{threshold}回使用しよう"
+            "name": "コンテストに挑戦しよう"
         },
         {
             "id": "main_task_group-03-01#57",
@@ -9503,11 +9571,11 @@
         },
         {
             "id": "main_task_group-03-01#62",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#63",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#64",
@@ -9555,11 +9623,11 @@
         },
         {
             "id": "main_task_group-03-01#75",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#76",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#77",
@@ -9639,11 +9707,11 @@
         },
         {
             "id": "main_task_group-03-01#96",
-            "name": "リンクコンテストのユニット総合力を{threshold}以上にしよう"
+            "name": "コンテストのユニット総合力を{threshold}以上にしよう"
         },
         {
             "id": "main_task_group-03-01#97",
-            "name": "リンクコンテストのステージ合計ハイスコアで{threshold}以上を獲得しよう"
+            "name": "コンテストでスコアを{threshold}以上獲得しよう"
         },
         {
             "id": "main_task_group-03-01#98",
