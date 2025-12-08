@@ -134,6 +134,38 @@
             "name": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_kllj-001",
+            "name": "葛城 リーリヤのビジュアルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_kllj-002",
+            "name": "葛城 リーリヤのプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_kllj-003",
+            "name": "葛城 リーリヤのプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_kllj-004",
+            "name": "葛城 リーリヤのプロデュースで営業を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_kllj-005",
+            "name": "葛城 リーリヤのプロデュースで差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_kllj-006",
+            "name": "葛城 リーリヤでビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_kllj-007",
+            "name": "葛城 リーリヤのプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_kllj-008",
+            "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_shro-001",
             "name": "篠澤 広のボーカルを1800以上に育成してプロデュースをクリア"
         },
@@ -276,6 +308,26 @@
         {
             "id": "dearness_normal-mission_kcna-005",
             "name": "倉本 千奈のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-001",
+            "name": "葛城 リーリヤのビジュアルを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-002",
+            "name": "葛城 リーリヤのプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-003",
+            "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-004",
+            "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_kllj-005",
+            "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_shro-001",
@@ -2495,6 +2547,106 @@
         },
         {
             "id": "mission-highscorerush-event-007-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_12",
+            "name": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_13",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_14",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_22",
+            "name": "十王 星南のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_23",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_24",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_32",
+            "name": "葛城 リーリヤまたは十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_33",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_34",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_42",
+            "name": "葛城 リーリヤまたは十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_43",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_44",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_52",
+            "name": "葛城 リーリヤまたは十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_53",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_54",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-008-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -6480,6 +6632,30 @@
         {
             "id": "achieve-i_card-kllj-3-012-06",
             "name": "【Howling over the World】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-01",
+            "name": "【Atmosphere】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-02",
+            "name": "【Atmosphere】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-03",
+            "name": "【Atmosphere】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-04",
+            "name": "【Atmosphere】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-05",
+            "name": "【Atmosphere】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-015-06",
+            "name": "【Atmosphere】葛城 リーリヤの特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-shro-2-000-04",
