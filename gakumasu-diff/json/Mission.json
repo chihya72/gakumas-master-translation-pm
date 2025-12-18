@@ -199,35 +199,35 @@
         },
         {
             "id": "dearness_event_ssmk-001",
-            "name": "紫雲清夏のダンスを1800以上に育成してプロデュースをクリア"
+            "name": "紫雲 清夏のダンスを1800以上に育成してプロデュースをクリア"
         },
         {
             "id": "dearness_event_ssmk-002",
-            "name": "紫雲清夏のプロデュースで相談を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで相談を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-003",
-            "name": "紫雲清夏のプロデュースでおでかけを{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースでおでかけを{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-004",
-            "name": "紫雲清夏のプロデュースで営業を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで営業を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-005",
-            "name": "紫雲清夏のプロデュースで差し入れを{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで差し入れを{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-006",
-            "name": "紫雲清夏でダンスレッスンを{threshold}回クリアしよう"
+            "name": "紫雲 清夏でダンスレッスンを{threshold}回クリアしよう"
         },
         {
             "id": "dearness_event_ssmk-007",
-            "name": "紫雲清夏のプロデュースで特別指導を{threshold}回選択しよう"
+            "name": "紫雲 清夏のプロデュースで特別指導を{threshold}回選択しよう"
         },
         {
             "id": "dearness_event_ssmk-008",
-            "name": "紫雲清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+            "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
             "id": "dearness_normal-mission_amao-001",
@@ -378,6 +378,14 @@
             "name": "コンテストで1位以内に入ろう"
         },
         {
+            "id": "hidden_mission-achieve-o_015_001",
+            "name": "リンクコンテストで100位以内に入ろう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_015_002",
+            "name": "コンテストで100位以内に入ろう"
+        },
+        {
             "id": "hidden_mission-achieve-o_016_001",
             "name": "リンクコンテストでグレード1に到達しよう"
         },
@@ -432,6 +440,22 @@
         {
             "id": "hidden_mission-achieve-o_022_002",
             "name": "コンテストでグレード7に到達しよう"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_001",
+            "name": "hidden_mission-achieve-o_026_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_026_002",
+            "name": "hidden_mission-achieve-o_026_002"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_001",
+            "name": "hidden_mission-achieve-o_027_001"
+        },
+        {
+            "id": "hidden_mission-achieve-o_027_002",
+            "name": "hidden_mission-achieve-o_027_002"
         },
         {
             "id": "hidden_mission-app-review-main-task-clear",
@@ -4508,6 +4532,38 @@
         {
             "id": "mission-research-event-002-mission_9",
             "name": "スキルカード「心・技・体」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_10",
+            "name": "スキルカード「星屑センセーション」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_11",
+            "name": "スキルカード「ノートの端の決意」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_12",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_2",
+            "name": "プラン：センスのプロデュースアイドルで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_3",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_8",
+            "name": "スキルカード「私がスター」を所持してプロデュースをクリアしよう"
+        },
+        {
+            "id": "mission-research-event-003-mission_9",
+            "name": "スキルカード「虹色ドリーマー」を所持してプロデュースをクリアしよう"
         },
         {
             "id": "mission-story-event-001-mission_1",
@@ -8848,6 +8904,10 @@
         {
             "id": "achieve-p_idol-ttmr-022",
             "name": "月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achievement_char_hume-024",
+            "name": "花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achievement_char_kcna-024",

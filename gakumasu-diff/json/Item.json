@@ -174,6 +174,12 @@
             "acquisitionRouteDescription": "交換所など"
         },
         {
+            "id": "item-dearness-unlock-kllj",
+            "name": "リーリヤとの記録の鍵",
+            "description": "葛城リーリヤのSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-shro",
             "name": "広との記録の鍵",
             "description": "篠澤広のSTEP3の親愛度コミュを解放するアイテム",
@@ -234,6 +240,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-christmas-001",
+            "name": "クリスマスガシャ10連チケット",
+            "description": "クリスマスログインボーナスチケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-fix_1",
             "name": "SSR確定ガシャチケット",
             "description": "SSR確定チケットガシャで使用するチケット",
@@ -267,6 +279,12 @@
             "id": "item-gashaticket-ssr-idol-fix_2",
             "name": "The 1st Period公演記念 SSR Pアイドル確定チケット",
             "description": "The 1st Period公演記念 SSR Pアイドル確定チケットガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
+            "id": "item-gashaticket-ssr-idol-fix_3",
+            "name": "MOIW2025記念 SSR Pアイドル確定ガシャチケット",
+            "description": "MOIW2025記念 SSR Pアイドル確定チケットガシャで使用するチケット",
             "acquisitionRouteDescription": ""
         },
         {
@@ -1297,6 +1315,12 @@
         },
         {
             "id": "item-research-event-002",
+            "name": "あさり先生シール",
+            "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-research-event-003",
             "name": "あさり先生シール",
             "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
             "acquisitionRouteDescription": "プロデュースなど"

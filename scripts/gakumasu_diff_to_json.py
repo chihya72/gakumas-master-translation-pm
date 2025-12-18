@@ -561,8 +561,12 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                     # 预处理文件：替换制表符为 4 个空格
                     with open(file_path, 'r', encoding='utf-8') as f:
                         content = f.read()
-                    # content = content.replace('\t', '    ')  # 替换制表符
-                    content = content.replace(": \t", ": \"\t\"")  # 替换制表符
+                        
+                    content = content.replace("text:\t（", 'text: "（"')
+                    content = content.replace("text: \t（", 'text: "（"')
+                    # 修复：text: <TAB> → text: ""
+                    content = content.replace("text:\t\n", 'text: ""\n')
+                    content = content.replace("text: \t\n", 'text: ""\n')
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
