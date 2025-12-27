@@ -13,6 +13,12 @@
             "description": "10回ガシャ"
         },
         {
+            "id": "gasha_200limit_button_001-10",
+            "order": 3,
+            "name": "10回ガシャ",
+            "description": "10回ガシャ"
+        },
+        {
             "id": "gasha_button_animate-ssr-00630",
             "order": 1,
             "name": "有償10回ガシャ",
@@ -83,6 +89,12 @@
             "order": 1,
             "name": "5回ガシャ",
             "description": "5回ガシャ"
+        },
+        {
+            "id": "gasha_button-continuous-001",
+            "order": 2,
+            "name": "アイテムで引く",
+            "description": "引き放題ガシャ"
         },
         {
             "id": "gasha_button-free-10-01",
@@ -233,6 +245,18 @@
             "order": 1,
             "name": "MOIW2025記念 SSR Pアイドル確定ガシャチケットで引く",
             "description": "SSRアイドル確定1連"
+        },
+        {
+            "id": "gasha-ticket-ssr-idol-seasons_button-01",
+            "order": 1,
+            "name": "シーズン限定 SSR Pアイドル確定ガシャチケットで引く",
+            "description": "シーズン限定SSRアイドル確定1連"
+        },
+        {
+            "id": "gasha-ticket-ssr-support-seasons_button-01",
+            "order": 1,
+            "name": "シーズン限定 SSR サポートカード確定ガシャチケットで引く",
+            "description": "シーズン限定SSRサポートカード確定1連"
         }
     ]
 }

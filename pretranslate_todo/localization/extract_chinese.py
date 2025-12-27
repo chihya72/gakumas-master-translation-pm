@@ -80,15 +80,15 @@ def main():
             print("操作已取消")
             return
     
-    # 执行转换
+    # 执行替换
     success = extract_chinese_from_dual(input_file, output_file)
     
     if success:
         print("-" * 50)
-        print("转换成功完成!")
+        print("替换成功完成!")
     else:
         print("-" * 50)
-        print("转换失败!")
+        print("替换失败!")
 
 
 if __name__ == "__main__":

@@ -71,7 +71,9 @@
         {
             "id": "p_story_002_atbm_after-audition-a-normal-02",
             "title": "まだまだここから！",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "１次オーディションで「メロBang!」を選択し合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_after-audition-a-normal-03",
@@ -81,7 +83,9 @@
         {
             "id": "p_story_002_atbm_after-audition-b-normal-02",
             "title": "もっともっと先へ！",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "２次オーディションで「GALAXYミュージック」を選択し合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_after-audition-b-normal-03",
@@ -101,7 +105,9 @@
         {
             "id": "p_story_002_atbm_after-audition-mid-failure-01",
             "title": "次こそは絶対に",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "１次/２次オーディションで不合格になる"
+            ]
         },
         {
             "id": "p_story_002_atbm_before-audition-a-normal-01",
@@ -116,7 +122,9 @@
         {
             "id": "p_story_002_atbm_ending-normal-02",
             "title": "Normal End",
-            "produceEventHintProduceConditionDescriptions": []
+            "produceEventHintProduceConditionDescriptions": [
+                "最終オーディションに合格する"
+            ]
         },
         {
             "id": "p_story_002_atbm_opening-normal-02",
@@ -2206,7 +2214,7 @@
             "id": "p_story-001-hume-after-audition-final-failure-01",
             "title": "試験の結果は…",
             "produceEventHintProduceConditionDescriptions": [
-                "最終試験に挑戦する"
+                "最終試験で不合格"
             ]
         },
         {
@@ -6325,6 +6333,366 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-event-002_atbm_business-1-1",
+            "title": "街頭キャンペーン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-1-1",
+            "title": "街頭キャンペーン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-1-2",
+            "title": "街頭キャンペーン",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2",
+            "title": "イベントカフェPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2-1",
+            "title": "イベントカフェPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-2-2",
+            "title": "イベントカフェPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3",
+            "title": "インタビュアー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3-1",
+            "title": "インタビュアー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-3-2",
+            "title": "インタビュアー",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4",
+            "title": "ヒーローショーの司会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4-1",
+            "title": "ヒーローショーの司会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-4-2",
+            "title": "ヒーローショーの司会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5",
+            "title": "試飲販売",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5-1",
+            "title": "試飲販売",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-5-2",
+            "title": "試飲販売",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6",
+            "title": "脱出ゲームPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6-1",
+            "title": "脱出ゲームPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-1-6-2",
+            "title": "脱出ゲームPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1",
+            "title": "清掃ボランティア",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1-1",
+            "title": "清掃ボランティア",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-1-2",
+            "title": "清掃ボランティア",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2",
+            "title": "商店街イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2-1",
+            "title": "商店街イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-2-2",
+            "title": "商店街イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3",
+            "title": "天川観光大使",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3-1",
+            "title": "天川観光大使",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-3-2",
+            "title": "天川観光大使",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4",
+            "title": "ラジオの公開収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4-1",
+            "title": "ラジオの公開収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-4-2",
+            "title": "ラジオの公開収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5",
+            "title": "ちびっこ体操教室",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5-1",
+            "title": "ちびっこ体操教室",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-5-2",
+            "title": "ちびっこ体操教室",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6",
+            "title": "天川イベントガール",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6-1",
+            "title": "天川イベントガール",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-2-6-2",
+            "title": "天川イベントガール",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1",
+            "title": "森林浴スポット撮影",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1-1",
+            "title": "森林浴スポット撮影",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-1-2",
+            "title": "森林浴スポット撮影",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2",
+            "title": "スパリゾートPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2-1",
+            "title": "スパリゾートPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-2-2",
+            "title": "スパリゾートPR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3",
+            "title": "水族館のナビ収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3-1",
+            "title": "水族館のナビ収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-3-2",
+            "title": "水族館のナビ収録",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4",
+            "title": "ヨガ体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4-1",
+            "title": "ヨガ体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-4-2",
+            "title": "ヨガ体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5",
+            "title": "温泉PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5-1",
+            "title": "温泉PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-5-2",
+            "title": "温泉PR",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6",
+            "title": "キャンプ場体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6-1",
+            "title": "キャンプ場体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-3-6-2",
+            "title": "キャンプ場体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1",
+            "title": "ミニライブ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1-1",
+            "title": "ミニライブ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-1-2",
+            "title": "ミニライブ",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2",
+            "title": "トークイベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2-1",
+            "title": "トークイベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-2-2",
+            "title": "トークイベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3",
+            "title": "握手会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3-1",
+            "title": "握手会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-3-2",
+            "title": "握手会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4",
+            "title": "映画上映イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4-1",
+            "title": "映画上映イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-4-2",
+            "title": "映画上映イベント",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5",
+            "title": "ゲーム体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5-1",
+            "title": "ゲーム体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-5-2",
+            "title": "ゲーム体験",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6",
+            "title": "サイン会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6-1",
+            "title": "サイン会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-event-002_atbm_business-4-6-2",
+            "title": "サイン会",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-event-002_fktn_business-1-1",
             "title": "街頭キャンペーン",
             "produceEventHintProduceConditionDescriptions": []
@@ -10405,6 +10773,21 @@
             "produceEventHintProduceConditionDescriptions": []
         },
         {
+            "id": "p_story-i_card-atbm-3-012-01",
+            "title": "Campus mode!! 1話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-012-02",
+            "title": "Campus mode!! 2話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-i_card-atbm-3-012-03",
+            "title": "Campus mode!! 3話",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
             "id": "p_story-i_card-fktn-3-000-01",
             "title": "世界一可愛い私 1話",
             "produceEventHintProduceConditionDescriptions": []
@@ -13502,6 +13885,21 @@
         {
             "id": "p_story-s_card-3-0082-03",
             "title": "ふと思い立ったんです！",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-01",
+            "title": "理想的な先輩後輩",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-02",
+            "title": "座右の銘は？",
+            "produceEventHintProduceConditionDescriptions": []
+        },
+        {
+            "id": "p_story-s_card-3-0085-03",
+            "title": "相手が誰だろうと",
             "produceEventHintProduceConditionDescriptions": []
         },
         {

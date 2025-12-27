@@ -78,6 +78,38 @@
             ]
         },
         {
+            "id": "event-detail-001-p_story-001-after-audition-final-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-audition-mid-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-1-normal-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-after-step-2-normal-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-001-p_story-001-amao-after-audition-final-failure-01",
             "produceDescriptions": []
         },
@@ -1728,6 +1760,38 @@
         },
         {
             "id": "event-detail-001-p_story-001-atbm-opening-true-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-before-audition-final-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-before-audition-mid-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-normal-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-normal-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-normal-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-ending-true-01",
             "produceDescriptions": []
         },
         {
@@ -8603,6 +8667,34 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-001-p_story-001-opening-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-normal-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-normal-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-normal-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-true-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-001-p_story-001-opening-true-02",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-001-p_story-001-shro-after-audition-final-failure-01",
             "produceDescriptions": []
         },
@@ -11609,6 +11701,350 @@
         },
         {
             "id": "event-detail-002-p_story_002_amao_opening-normal-02-produce_005",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_00-3-096-0",
+                    "text": "N.I.Aキーホルダー"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-a-normal-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "100"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-a-normal-02-produce_005",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "100"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-a-normal-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "100"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-a-normal-03-produce_005",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "100"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-b-normal-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "150"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-b-normal-02-produce_005",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "150"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-b-normal-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "150"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-b-normal-03-produce_005",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "Pポイント+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "150"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-final-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-final-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_after-audition-mid-failure-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_before-audition-a-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_before-audition-b-normal-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_ending-normal-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_opening-normal-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "特定のPドリンクを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story_002_atbm_opening-normal-02-produce_005",
             "produceDescriptions": [
                 {
                     "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
@@ -15305,6 +15741,434 @@
                     "text": "を獲得"
                 }
             ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-final-normal-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "120"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "120"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "120"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-final-normal-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "60"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "60"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "60"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-final-normal-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "30"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "30"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "30"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-final-normal-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-mid-normal-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "80"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "80"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "80"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-mid-normal-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "40"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "40"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "40"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-mid-normal-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ボーカル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nビジュアル上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "\nを選択して獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-002-p_story-001-after-audition-mid-normal-04",
+            "produceDescriptions": []
         },
         {
             "id": "event-detail-002-p_story-001-amao-after-audition-final-normal-01",
@@ -23257,6 +24121,10 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-activity-001-002",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-activity-001-amao-001",
             "produceDescriptions": []
         },
@@ -24134,6 +25002,222 @@
         },
         {
             "id": "event-detail-activity-001-kllj-020",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan1-final-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan2-final-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-activity-001-produce_006-plan3-final-09",
             "produceDescriptions": []
         },
         {
@@ -111669,6 +112753,18 @@
             "produceDescriptions": []
         },
         {
+            "id": "event-detail-p_story-i_card-atbm-3-012-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-atbm-3-012-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-p_story-i_card-atbm-3-012-03",
+            "produceDescriptions": []
+        },
+        {
             "id": "event-detail-p_story-i_card-fktn-3-001-01",
             "produceDescriptions": []
         },
@@ -122463,6 +123559,81 @@
             ]
         },
         {
+            "id": "event-detail-s_card-3-0085-01",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceItem",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "pitem_01-3-304-0",
+                    "text": "無我の境地"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "を獲得"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0085-02",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ダンス上昇+"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_DiffText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "20"
+                }
+            ]
+        },
+        {
+            "id": "event-detail-s_card-3-0085-03",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "",
+                    "text": "ランダムなスキルカードを"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "targetId": "Label_ProduceCardUpgrade",
+                    "text": "強化"
+                }
+            ]
+        },
+        {
             "id": "event-detail-s_card-3-0086-01",
             "produceDescriptions": [
                 {
@@ -122611,6 +123782,10 @@
                     "text": "チェンジ"
                 }
             ]
+        },
+        {
+            "id": "event-detail-school-001-001",
+            "produceDescriptions": []
         },
         {
             "id": "event-detail-school-001-amao-001",
@@ -126182,6 +127357,438 @@
         },
         {
             "id": "event-detail-school-001-produce_003-ttmr-5-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-early-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-final-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan1-middle-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-early-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-final-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan2-middle-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-early-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-final-12",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-01",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-02",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-03",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-04",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-05",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-06",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-07",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-08",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-09",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-10",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-11",
+            "produceDescriptions": []
+        },
+        {
+            "id": "event-detail-school-001-produce_006-plan3-middle-12",
             "produceDescriptions": []
         },
         {

@@ -70,6 +70,12 @@
             "name": "プロデューサーランキング",
             "description": "「プロデューサーランキング」機能解放",
             "routeDescription": "コンテストのPランキングから確認できます"
+        },
+        {
+            "tutorialType": "TutorialType_ProduceCardConvert",
+            "name": "スキルカードスイッチ",
+            "description": "「スキルカードスイッチ」機能開放",
+            "routeDescription": "プロデュースから確認できます"
         }
     ]
 }

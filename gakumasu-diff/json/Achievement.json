@@ -276,6 +276,36 @@
             "description": "【理論武装して】雨夜 燕の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-atbm-3-012-01",
+            "name": "ダークヒーローの誕生",
+            "description": "【Campus mode!!】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-02",
+            "name": "Campus mode!!",
+            "description": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-03",
+            "name": "みんなの世界を変えてやる！",
+            "description": "【Campus mode!!】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-04",
+            "name": "Campus mode!! +",
+            "description": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-05",
+            "name": "Campus mode!! ++",
+            "description": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-012-06",
+            "name": "Campus mode!! +++",
+            "description": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-fktn-2-000-04",
             "name": "カワイイ♡はじめました +",
             "description": "【カワイイ♡はじめました】藤田 ことねの特訓段階を{threshold}にする"
@@ -2916,6 +2946,11 @@
             "description": "最終試験をスコアSSS以上で{threshold}回合格"
         },
         {
+            "id": "achieve-p_common-029",
+            "name": "道を照らす者",
+            "description": "最終試験をスコアSSS+以上で{threshold}回合格"
+        },
+        {
             "id": "achieve-p_idol-amao-000",
             "name": "本当のボク",
             "description": "有村 麻央でTrue Endをみる"
@@ -3036,6 +3071,16 @@
             "description": "有村 麻央の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-amao-023",
+            "name": "可愛くてカッコイイ王子様",
+            "description": "有村 麻央で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-amao-024",
+            "name": "同じ夢に翔ける",
+            "description": "有村 麻央で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "価値の証明",
             "description": "雨夜 燕でTrue Endをみる"
@@ -3131,9 +3176,34 @@
             "description": "雨夜 燕の定期公演『初』難易度：マスターで最終試験1位を獲得"
         },
         {
+            "id": "achieve-p_idol-atbm-018",
+            "name": "果たし状",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-atbm-019",
+            "name": "救うべき者たち",
+            "description": "プロデュースでファン投票数を{threshold}獲得"
+        },
+        {
             "id": "achieve-p_idol-atbm-020",
             "name": "進むべき道",
             "description": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-021",
+            "name": "獲りに行くぞ",
+            "description": "雨夜 燕で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-023",
+            "name": "一番星のライバル",
+            "description": "雨夜 燕で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-024",
+            "name": "心に火を灯して",
+            "description": "雨夜 燕で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -3526,6 +3596,16 @@
             "description": "藤田 ことねの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-fktn-023",
+            "name": "黄金世代筆頭",
+            "description": "藤田 ことねで最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-024",
+            "name": "やれることぜぇーんぶ",
+            "description": "藤田 ことねで最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "人生最高の日",
             "description": "秦谷 美鈴でTrue Endをみる"
@@ -3639,6 +3719,16 @@
             "id": "achieve-p_idol-hmsz-021",
             "name": "あなたにきっと、捧げてみせます",
             "description": "秦谷 美鈴で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-023",
+            "name": "魔性のアイドル",
+            "description": "秦谷 美鈴で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-024",
+            "name": "約束を果たすために",
+            "description": "秦谷 美鈴で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -3761,6 +3851,16 @@
             "description": "姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-hrnm-023",
+            "name": "優しいみんなのお姉さん",
+            "description": "姫崎 莉波で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-024",
+            "name": "原点を見つめなおして",
+            "description": "姫崎 莉波で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "無敵のトップアイドル",
             "description": "花海 咲季でTrue Endをみる"
@@ -3881,6 +3981,16 @@
             "description": "花海 咲季の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-hski-023",
+            "name": "勝ち気で負けず嫌いな優等生",
+            "description": "花海 咲季で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hski-024",
+            "name": "正解にしてみせる",
+            "description": "花海 咲季で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "人生最高のファインプレー",
             "description": "花海 佑芽でTrue Endをみる"
@@ -3994,6 +4104,16 @@
             "id": "achieve-p_idol-hume-021",
             "name": "ちゃんとアイドルになりたいです",
             "description": "花海 佑芽で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-023",
+            "name": "初星学園の怪物",
+            "description": "花海 佑芽で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-024",
+            "name": "お姉ちゃんの目標に",
+            "description": "花海 佑芽で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -4111,6 +4231,16 @@
             "description": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-jsna-023",
+            "name": "一番星のトップアイドル",
+            "description": "十王 星南で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-024",
+            "name": "私たちのふたつの夢",
+            "description": "十王 星南で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "レベル1の駆け出しアイドル",
             "description": "倉本 千奈でTrue Endをみる"
@@ -4226,6 +4356,16 @@
             "description": "倉本 千奈で最終試験に合格して評価SS+以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-kcna-023",
+            "name": "立派な一流アイドル",
+            "description": "倉本 千奈で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-024",
+            "name": "立候補いたしますわ！",
+            "description": "倉本 千奈で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "光",
             "description": "葛城 リーリヤでTrue Endをみる"
@@ -4339,6 +4479,16 @@
             "id": "achieve-p_idol-kllj-021",
             "name": "最後に笑う、その日まで",
             "description": "葛城 リーリヤで最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-023",
+            "name": "応援したくなるアイドル",
+            "description": "葛城 リーリヤで最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-024",
+            "name": "燃えるシチュエーション",
+            "description": "葛城 リーリヤで最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -4461,6 +4611,16 @@
             "description": "篠澤 広の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-p_idol-shro-023",
+            "name": "雰囲気トップアイドル",
+            "description": "篠澤 広で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-024",
+            "name": "何度目かの奇跡を",
+            "description": "篠澤 広で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "踏み出した一歩",
             "description": "紫雲 清夏でTrue Endをみる"
@@ -4574,6 +4734,16 @@
             "id": "achieve-p_idol-ssmk-021",
             "name": "軽やかに、羽ばたいて",
             "description": "紫雲 清夏で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-023",
+            "name": "類稀なる才能の持ち主",
+            "description": "紫雲 清夏で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-024",
+            "name": "なりたいあたしに",
+            "description": "紫雲 清夏で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -4694,6 +4864,16 @@
             "id": "achieve-p_idol-ttmr-022",
             "name": "どこまでも高く",
             "description": "月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-023",
+            "name": "不安定な実力者",
+            "description": "月村 手毬で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-024",
+            "name": "追いすがってやる！",
+            "description": "月村 手毬で最終試験に合格して評価SSS+以上を{threshold}回獲得"
         },
         {
             "id": "achievement_char_hume-024",
