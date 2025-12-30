@@ -145,7 +145,7 @@ primary_key_rules = {
                                  "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                                  "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"], 
                                 ["name", "produceDescriptions.text"]],
-    "ProduceDescriptionProduceCardGrowEffect": [["type"], ["name"]],
+    "ProduceDescriptionProduceCardGrowEffect": [["type", "produceDescriptionLabelId"], ["name", "produceCardCustomizeDescription"]],
     "ProduceDescriptionProduceCardGrowEffectType": [["type"], ["name", "produceCardCustomizeTemplate"]],
     # "ProduceDescriptionProduceCardMovePosition": [[], []],
     "ProduceDescriptionProduceEffect": [["type"], ["name"]],
@@ -173,9 +173,14 @@ primary_key_rules = {
     # "ProduceExamBattleNpcGroup": [[], []],
     "ProduceExamBattleNpcMob": [["id"], ["name"]],
     # "ProduceExamBattleScoreConfig": [[], []],
-    "ProduceExamEffect": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                          "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
-                          ["produceDescriptions.text"]],  # 嵌套List Obj
+    "ProduceExamEffect": [["id", 
+                          "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
+                          "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType",
+                          "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId",
+                          "customizeProduceDescriptions.produceDescriptionType", "customizeProduceDescriptions.examDescriptionType", "customizeProduceDescriptions.examEffectType",
+                          "customizeProduceDescriptions.produceCardGrowEffectType", "customizeProduceDescriptions.produceCardCategory", "customizeProduceDescriptions.produceCardMovePositionType",
+                          "customizeProduceDescriptions.produceStepType", "customizeProduceDescriptions.produceStepBusinessType", "customizeProduceDescriptions.targetId",],
+                          ["produceDescriptions.text", "customizeProduceDescriptions.text"]],  # 嵌套List Obj
     "ProduceExamGimmickEffectGroup": [["id", "priority", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
                                       "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
                                       ["produceDescriptions.text"]],  # 嵌套List Obj
@@ -183,9 +188,15 @@ primary_key_rules = {
                                   "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId"],
                                  ["produceDescriptions.text"]],  # 嵌套List Obj
     "ProduceExamTrigger": [["id", "produceDescriptions.produceDescriptionType", "produceDescriptions.examDescriptionType", "produceDescriptions.examEffectType",
-                            "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType", "produceDescriptions.produceStepType", "produceDescriptions.targetId",
-                            ],
-                           ["produceDescriptions.text"]],  # 嵌套List Obj
+                            "produceDescriptions.produceCardGrowEffectType", "produceDescriptions.produceCardCategory", "produceDescriptions.produceCardMovePositionType",
+                            "produceDescriptions.produceStepType", "produceDescriptions.produceStepBusinessType", "produceDescriptions.targetId",
+                            "playProduceDescriptions.produceDescriptionType", "playProduceDescriptions.examDescriptionType", "playProduceDescriptions.examEffectType",
+                            "playProduceDescriptions.produceCardGrowEffectType", "playProduceDescriptions.produceCardCategory", "playProduceDescriptions.produceCardMovePositionType",
+                            "playProduceDescriptions.produceStepType", "playProduceDescriptions.produceStepBusinessType", "playProduceDescriptions.targetId",
+                            "playEffectProduceDescriptions.produceDescriptionType", "playEffectProduceDescriptions.examDescriptionType", "playEffectProduceDescriptions.examEffectType",
+                            "playEffectProduceDescriptions.produceCardGrowEffectType", "playEffectProduceDescriptions.produceCardCategory", "playEffectProduceDescriptions.produceCardMovePositionType",
+                            "playEffectProduceDescriptions.produceStepType", "playEffectProduceDescriptions.produceStepBusinessType", "playEffectProduceDescriptions.targetId"],
+                           ["produceDescriptions.text", "playProduceDescriptions.text", "playEffectProduceDescriptions.text"]],  # 嵌套List Obj
     "ProduceGroup": [["id"], ["name", "description"]],
     # "ProduceGroupLiveCommon": [[], []],
     "ProduceGuideProduceCardCategory": [["id"], ["label"]],
