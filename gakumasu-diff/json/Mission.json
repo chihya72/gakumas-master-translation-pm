@@ -230,6 +230,38 @@
             "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_ttmr-001",
+            "name": "月村 手毬のボーカルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_ttmr-002",
+            "name": "月村 手毬のプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_ttmr-003",
+            "name": "月村 手毬のプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_ttmr-004",
+            "name": "月村 手毬のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_ttmr-005",
+            "name": "月村 手毬のプロデュースで活動支給・差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_ttmr-006",
+            "name": "月村 手毬でボーカルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_ttmr-007",
+            "name": "月村 手毬のプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_ttmr-008",
+            "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_normal-mission_amao-001",
             "name": "有村 麻央のボーカルを2000以上に育成してプロデュースをクリア"
         },
@@ -368,6 +400,26 @@
         {
             "id": "dearness_normal-mission_ssmk-005",
             "name": "紫雲 清夏のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-001",
+            "name": "月村 手毬のボーカルを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-002",
+            "name": "月村 手毬のプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-003",
+            "name": "月村 手毬のプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-004",
+            "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_ttmr-005",
+            "name": "月村 手毬のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "hidden_mission-achieve-o_014_001",
@@ -2699,6 +2751,106 @@
         },
         {
             "id": "mission-highscorerush-event-008-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_12",
+            "name": "月村 手毬のボーカルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_13",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_14",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_22",
+            "name": "花海 咲季のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_23",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_24",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_32",
+            "name": "月村 手毬または花海 咲季のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_33",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_34",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_42",
+            "name": "月村 手毬または花海 咲季のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_43",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_44",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_52",
+            "name": "月村 手毬または花海 咲季のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_53",
+            "name": "月村 手毬でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_54",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-009-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -7460,6 +7612,30 @@
         {
             "id": "achieve-i_card-ttmr-3-015-06",
             "name": "【がむしゃらに行こう！】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-01",
+            "name": "【一体いつから】月村 手毬のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-02",
+            "name": "【一体いつから】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-03",
+            "name": "【一体いつから】月村 手毬のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-04",
+            "name": "【一体いつから】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-05",
+            "name": "【一体いつから】月村 手毬の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ttmr-3-016-06",
+            "name": "【一体いつから】月村 手毬の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-m_amao-001",
