@@ -74,6 +74,10 @@
             "description": "{0}に解放"
         },
         {
+            "id": "mission.mission_list.max_point_text.event",
+            "description": "獲得できるウィークリーPtが最大に達しました"
+        },
+        {
             "id": "produce_prepare.edit.warning",
             "description": "編成はプロデュースごとに設定可能です。異なるプロデュースで設定する場合、他のプロデュースには適用されません"
         },
@@ -120,14 +124,6 @@
         {
             "id": "research_event.target_idol_sheet.description",
             "description": "イベントモード対象のPアイドルのみイベントモードのプロデュースへの挑戦が可能です"
-        },
-        {
-            "id": "setting.produce.legend_card_get_confirm",
-            "description": "準備中"
-        },
-        {
-            "id": "setting.produce.legend_card_get_confirm.description",
-            "description": "今後のアップデートで追加予定です。"
         },
         {
             "id": "shop.web_store.confirm.description",
