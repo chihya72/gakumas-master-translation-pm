@@ -594,6 +594,12 @@
             "acquisitionRouteDescription": "ライブツアーイベント"
         },
         {
+            "id": "item-medal-tour-event-002",
+            "name": "渋谷ツアーメダル",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "ライブツアーイベント、プロデュース"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "センスコイン",
             "description": "センスガシャで使用するコイン",
@@ -816,6 +822,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_hmsz-3-015",
+            "name": "[ENDLESS DANCE]秦谷美鈴のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "イベント交換所など"
+        },
+        {
             "id": "item-piece-idol_hrnm-1-000",
             "name": "[学園生活]姫崎莉波のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -992,6 +1004,12 @@
         {
             "id": "item-piece-idol_hume-3-012",
             "name": "[Star-mine]花海佑芽のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_hume-3-016",
+            "name": "[ENDLESS DANCE]花海佑芽のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -1382,6 +1400,12 @@
         {
             "id": "item-play-ticket_tour-event-001",
             "name": "ライブ挑戦券（大阪）",
+            "description": "ライブツアーイベントでステージに挑戦できるアイテム",
+            "acquisitionRouteDescription": "ライブツアーイベント"
+        },
+        {
+            "id": "item-play-ticket_tour-event-002",
+            "name": "ライブ挑戦券（渋谷）",
             "description": "ライブツアーイベントでステージに挑戦できるアイテム",
             "acquisitionRouteDescription": "ライブツアーイベント"
         },

@@ -639,8 +639,14 @@
         },
         {
             "helpCategoryId": "help-livetour-event",
+            "id": "tour-event-bonus",
+            "order": 2,
+            "name": "イベントボーナス"
+        },
+        {
+            "helpCategoryId": "help-livetour-event",
             "id": "tour-exchange",
-            "order": 7,
+            "order": 8,
             "name": "イベント交換所用アイテム"
         },
         {
@@ -652,31 +658,31 @@
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-idol",
-            "order": 4,
+            "order": 5,
             "name": "イベント報酬プロデュースアイドル"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-play-ticket",
-            "order": 3,
+            "order": 4,
             "name": "ライブ挑戦券"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-reward",
-            "order": 6,
+            "order": 7,
             "name": "イベント報酬"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-stage",
-            "order": 2,
+            "order": 3,
             "name": "イベントステージ"
         },
         {
             "helpCategoryId": "help-livetour-event",
             "id": "tour-story",
-            "order": 5,
+            "order": 6,
             "name": "イベントコミュ"
         },
         {
