@@ -85,7 +85,7 @@
   },
   "tour.event_bonus.support_card_bonus.description": {
     "japanese": "対象のサポートカードを所持しているとイベントボーナスがつき、イベントステージから獲得するイベントPtの獲得数が増えます。\nまた解放段階が上がるほどボーナスの値が大きくなります。",
-    "chinese": "持有目标支援卡时会获得活动加成，从活动舞台中获得的活动Pt获得数量会增加。\n此外，支援卡的解放阶段越高，加成的值越大。"
+    "chinese": "持有目标支援卡时会获得活动加成，从活动舞台中获得的活动Pt获得数量会增加。\n此外，支援卡的解锁阶段越高，加成的值越大。"
   },
   "meishi_block.button.block": {
     "japanese": "名刺ブロック",
@@ -5445,7 +5445,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.button.execute": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.idol_card.detail.button.costume": {
     "japanese": "衣装",
@@ -6309,7 +6309,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description_with_common_resource": {
     "japanese": "サポートカードを{0}枚と{1}を{2}消費して上限解放を行います",
-    "chinese": "消耗{0}张支援卡和{1}共计{2}进行上限解放"
+    "chinese": "消耗{0}张支援卡和{2}张{1}来解锁上限"
   },
   "home.gasha.result.continuous.draw_suffix": {
     "japanese": "連引く",
@@ -7517,7 +7517,7 @@
   },
   "card.support_card.detail.level_limit.execute_already_max": {
     "japanese": "最大まで上限解放されています",
-    "chinese": "上限已解锁到最大"
+    "chinese": "已解锁上限到最大"
   },
   "produce.support_select.button.enter": {
     "japanese": "次へ",
@@ -9621,7 +9621,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.description": {
     "japanese": "サポートカードを{0}枚消費して上限解放を行います",
-    "chinese": "消耗{0}张支援卡进行上限解放"
+    "chinese": "消耗{0}张支援卡来解锁上限"
   },
   "produce_prepare.ap_less_sheet.description_1": {
     "japanese": "APが<color=#u:Negative>{0:N0}</color>不足しています",
@@ -10121,7 +10121,7 @@
   },
   "card.sort.support_card_level_limit_rank": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.sort.support_card_type": {
     "japanese": "タイプ",
@@ -10273,7 +10273,7 @@
   },
   "card.info.support_card.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "memory.detail.title": {
     "japanese": "メモリー詳細",
@@ -10617,7 +10617,7 @@
   },
   "card.support_card.list.label.upgradable_level_limit_rank": {
     "japanese": "上限解放可能",
-    "chinese": "可上限解放"
+    "chinese": "可解锁上限"
   },
   "main_task.detail.button.execute": {
     "japanese": "課題挑戦",
@@ -10625,11 +10625,11 @@
   },
   "card.support_card.detail.button.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "card.support_card.detail.button.preview_max": {
     "japanese": "Lv/上限解放が最大の時",
-    "chinese": "Lv/上限解放最大时"
+    "chinese": "Lv/解锁上限最大时"
   },
   "card.support_card.detail.lesson_support_vo": {
     "japanese": "ボーカルレッスン",
@@ -10685,11 +10685,11 @@
   },
   "card.support_card.upgrade.level_limit.message.max": {
     "japanese": "最大まで上限解放しました",
-    "chinese": "已上限解放到最大"
+    "chinese": "已解锁上限到最大"
   },
   "card.support_card.exchange_select.button.ignore_require": {
     "japanese": "上限解放分を含まない",
-    "chinese": "不含上限解放"
+    "chinese": "不显示可解锁上限"
   },
   "card.support_card.exchange_select.button.execute": {
     "japanese": "変換する",
@@ -10713,7 +10713,7 @@
   },
   "card.support_card.exchange.confirm.sheet.alert.level_limit": {
     "japanese": "は上限解放分が含まれているサポートカードです",
-    "chinese": "包含已上限解放的支援卡"
+    "chinese": "包含已解锁上限的支援卡"
   },
   "card.support_card.exchange.level_limit.confirm.sheet.title": {
     "japanese": "変換確認",
@@ -10721,7 +10721,7 @@
   },
   "card.support_card.exchange.level_limit.confirm.sheet.message": {
     "japanese": "上限解放分（　）のサポートカードが含まれています。本当に変換しますか？",
-    "chinese": "包含上限解放（　）的支援卡，确定要变换吗？"
+    "chinese": "包含已解锁上限（　）的支援卡，确定要变换吗？"
   },
   "card.support_card.enhance.used_point_text": {
     "japanese": "-{0:N0}",
@@ -10753,7 +10753,7 @@
   },
   "card.support_card.upgrade_level_limit_rank_overlay.title": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "item.sheet.detail.quantity": {
     "japanese": "所持数",
@@ -10777,7 +10777,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.title": {
     "japanese": "上限解放確認",
-    "chinese": "上限解放确认"
+    "chinese": "解锁上限确认"
   },
   "pvp.rate.slot.unlock.condition": {
     "japanese": "グレード{0}以降解放",
@@ -10785,7 +10785,7 @@
   },
   "card.support_card.upgrade_level_limit_confirm_sheet.message": {
     "japanese": "アイテムを消費して指定段階まで上限解放を行いますか？",
-    "chinese": "消耗道具进行上限解放，确定吗？"
+    "chinese": "消耗道具解锁上限到指定阶段，确定吗？"
   },
   "card.support_card.event.produce_card.upgrade_ability": {
     "japanese": "このスキルカードは、獲得後すぐに強化されます",
@@ -14925,7 +14925,7 @@
   },
   "exchange.ticket_list.support_card.level_limit": {
     "japanese": "上限解放",
-    "chinese": "上限解放"
+    "chinese": "解锁上限"
   },
   "profile.top.tab.activity": {
     "japanese": "活動履歴",
