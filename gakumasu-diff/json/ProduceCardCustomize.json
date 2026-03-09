@@ -522,6 +522,11 @@
             "description": ""
         },
         {
+            "id": "p_card_custom-040-g_effect-cost_parameter_buff_multiple_per_turn_reduce-1",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
             "id": "p_card_custom-040-g_effect-cost_parameter_buff_reduce-1",
             "customizeCount": 1,
             "description": ""
@@ -727,6 +732,11 @@
             "description": ""
         },
         {
+            "id": "p_card_custom-070-g_effect-p_card-02-act-3_187-enc_1",
+            "customizeCount": 1,
+            "description": "持続効果+"
+        },
+        {
             "id": "p_card_custom-070-g_effect-parameter_buff_multiple_per_turn_add-2",
             "customizeCount": 1,
             "description": ""
@@ -763,6 +773,11 @@
         },
         {
             "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-preservation_change_count_up-2-e_trigger-none-preservation_change_count_up-1",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-070-g_effect-play_trigger_change-e_trigger-none-review_up-10-e_trigger-none-review_up-6",
             "customizeCount": 1,
             "description": ""
         },
@@ -1052,6 +1067,16 @@
             "description": "好調追加"
         },
         {
+            "id": "p_card_custom-wrapper-p_card-01-act-3_184-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-01-act-3_184-b-01",
+            "customizeCount": 1,
+            "description": "レッスン中1回\\nの制限削除"
+        },
+        {
             "id": "p_card_custom-wrapper-p_card-01-act-3_185-a-01",
             "customizeCount": 1,
             "description": ""
@@ -1205,6 +1230,26 @@
             "id": "p_card_custom-wrapper-p_card-02-act-1_071-c-01",
             "customizeCount": 3,
             "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-3_186-a-01",
+            "customizeCount": 1,
+            "description": "元気追加"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-3_186-b-01",
+            "customizeCount": 1,
+            "description": "やる気追加"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-3_187-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-02-act-3_187-b-01",
+            "customizeCount": 1,
+            "description": "持続効果+"
         },
         {
             "id": "p_card_custom-wrapper-p_card-02-men-1_076-a-01",
@@ -1427,6 +1472,26 @@
             "description": "レッスン中1回\\nの制限削除"
         },
         {
+            "id": "p_card_custom-wrapper-p_card-03-act-3_188-a-01",
+            "customizeCount": 1,
+            "description": "元気追加"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-3_188-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-3_189-a-01",
+            "customizeCount": 1,
+            "description": "元気追加"
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-act-3_189-b-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
             "id": "p_card_custom-wrapper-p_card-03-men-1_050-a-01",
             "customizeCount": 1,
             "description": ""
@@ -1510,6 +1575,16 @@
             "id": "p_card_custom-wrapper-p_card-03-sup-3_179-b-01",
             "customizeCount": 1,
             "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-sup-3_183-a-01",
+            "customizeCount": 1,
+            "description": ""
+        },
+        {
+            "id": "p_card_custom-wrapper-p_card-03-sup-3_183-b-01",
+            "customizeCount": 1,
+            "description": "強気+"
         }
     ]
 }
