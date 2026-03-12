@@ -344,6 +344,10 @@
         {
             "type": "ProduceEffectType_ProduceCardExcludeCountUp",
             "name": "スキルカード除去"
+        },
+        {
+            "type": 128,
+            "name": "ライバルのスコア"
         }
     ]
 }
