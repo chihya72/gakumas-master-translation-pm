@@ -102,6 +102,38 @@
             "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_hski-001",
+            "name": "花海 咲季のビジュアルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_hski-002",
+            "name": "花海 咲季のプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hski-003",
+            "name": "花海 咲季のプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hski-004",
+            "name": "花海 咲季のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_hski-005",
+            "name": "花海 咲季のプロデュースで活動支給・差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hski-006",
+            "name": "花海 咲季でビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_hski-007",
+            "name": "花海 咲季のプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hski-008",
+            "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_jsna-001",
             "name": "十王 星南のビジュアルを1800以上に育成してプロデュースをクリア"
         },
@@ -448,6 +480,26 @@
         {
             "id": "dearness_normal-mission_hrnm-005",
             "name": "姫崎 莉波のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_normal-mission_hski-001",
+            "name": "花海 咲季のビジュアルを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_hski-002",
+            "name": "花海 咲季のプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hski-003",
+            "name": "花海 咲季のプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hski-004",
+            "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hski-005",
+            "name": "花海 咲季のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_jsna-001",
@@ -3275,6 +3327,106 @@
         },
         {
             "id": "mission-highscorerush-event-010-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_12",
+            "name": "花海 咲季のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_13",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_14",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_22",
+            "name": "葛城 リーリヤのビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_23",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_24",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_32",
+            "name": "花海 咲季または葛城 リーリヤのプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_33",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_34",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_42",
+            "name": "花海 咲季または葛城 リーリヤのプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_43",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_44",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_52",
+            "name": "花海 咲季または葛城 リーリヤのプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_53",
+            "name": "花海 咲季でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_54",
+            "name": "葛城 リーリヤでプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-011-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -7006,6 +7158,30 @@
             "name": "【がむしゃらに行こう！】花海 咲季の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-hski-3-017-01",
+            "name": "【Wildest Flower】花海 咲季のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-02",
+            "name": "【Wildest Flower】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-03",
+            "name": "【Wildest Flower】花海 咲季のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-04",
+            "name": "【Wildest Flower】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-05",
+            "name": "【Wildest Flower】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hski-3-017-06",
+            "name": "【Wildest Flower】花海 咲季の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hume-2-000-01",
             "name": "【アイドル、はじめっ！】花海 佑芽のプロデュースで最終試験に合格"
         },
@@ -9616,6 +9792,10 @@
         {
             "id": "achieve-p_idol-jsna-021",
             "name": "十王 星南で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-022",
+            "name": "十王 星南の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-p_idol-jsna-023",
