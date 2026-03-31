@@ -278,6 +278,38 @@
             "name": "姫崎 莉波で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_relaunch_hski-001",
+            "name": "花海 咲季のビジュアルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-002",
+            "name": "花海 咲季のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-003",
+            "name": "花海 咲季でビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_hski-004",
+            "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-001",
+            "name": "十王 星南のビジュアルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-002",
+            "name": "十王 星南のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-003",
+            "name": "十王 星南でビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_jsna-004",
+            "name": "十王 星南で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_relaunch_kcna-001",
             "name": "倉本 千奈のダンスを1800以上に育成してプロデュースをクリア"
         },
@@ -292,6 +324,22 @@
         {
             "id": "dearness_event_relaunch_kcna-004",
             "name": "倉本 千奈で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-001",
+            "name": "葛城 リーリヤのビジュアルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-002",
+            "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-003",
+            "name": "葛城 リーリヤでビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_kllj-004",
+            "name": "葛城 リーリヤで最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
             "id": "dearness_event_relaunch_shro-001",
@@ -324,6 +372,22 @@
         {
             "id": "dearness_event_relaunch_ssmk-004",
             "name": "紫雲 清夏で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-001",
+            "name": "月村 手毬のボーカルを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-002",
+            "name": "月村 手毬のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-003",
+            "name": "月村 手毬でボーカルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_ttmr-004",
+            "name": "月村 手毬で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
             "id": "dearness_event_shro-001",
@@ -1204,6 +1268,14 @@
         {
             "id": "hidden_mission-view-gasha-200limit-select-pickup-001",
             "name": "Story of Re;IRIS放映記念SSR1.5倍セレクトピックアップガシャを{threshold}回引こう"
+        },
+        {
+            "id": "mission-april-event-001-mission_1",
+            "name": "スペシャルイベントでステージに{threshold}回挑戦してクリアしよう"
+        },
+        {
+            "id": "mission-april-event-001-mission_2",
+            "name": "スペシャルイベントでイベントコミュをすべて解放しよう"
         },
         {
             "id": "mission-box-gasha-event-001-mission_1",
@@ -5674,6 +5746,30 @@
             "name": "SPレッスンを{threshold}回クリアしよう"
         },
         {
+            "id": "mission-story-event-014-mission_1",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "mission-story-event-014-mission_2",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-story-event-014-mission_3",
+            "name": "プロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-story-event-014-mission_4",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "mission-story-event-014-mission_5",
+            "name": "Pドリンクを{threshold}回使おう"
+        },
+        {
+            "id": "mission-story-event-014-mission_6",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
             "id": "mission-tour-event-001-mission_1",
             "name": "{threshold}日ログインしよう"
         },
@@ -7950,6 +8046,30 @@
             "name": "【Atmosphere】葛城 リーリヤの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-kllj-3-017-01",
+            "name": "【ときめきエモーション】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-02",
+            "name": "【ときめきエモーション】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-03",
+            "name": "【ときめきエモーション】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-04",
+            "name": "【ときめきエモーション】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-05",
+            "name": "【ときめきエモーション】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-017-06",
+            "name": "【ときめきエモーション】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
         },
@@ -8308,6 +8428,30 @@
         {
             "id": "achieve-i_card-ssmk-3-014-06",
             "name": "【ミラクルナナウ(ﾟ∀ﾟ)！】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-01",
+            "name": "【ときめきエモーション】紫雲 清夏のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-02",
+            "name": "【ときめきエモーション】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-03",
+            "name": "【ときめきエモーション】紫雲 清夏のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-04",
+            "name": "【ときめきエモーション】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-05",
+            "name": "【ときめきエモーション】紫雲 清夏の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-ssmk-3-017-06",
+            "name": "【ときめきエモーション】紫雲 清夏の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-ttmr-2-000-04",

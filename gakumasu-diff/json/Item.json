@@ -192,6 +192,12 @@
             "acquisitionRouteDescription": "交換所など"
         },
         {
+            "id": "item-dearness-unlock-hski",
+            "name": "咲季との記録の鍵",
+            "description": "花海咲季のSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-jsna",
             "name": "星南との記録の鍵",
             "description": "十王星南のSTEP3の親愛度コミュを解放するアイテム",
@@ -602,6 +608,12 @@
         {
             "id": "item-medal-story-event-013",
             "name": "修学旅行のお土産",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-story-event-014",
+            "name": "てづくり輪っかかざり",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
             "acquisitionRouteDescription": "プロデュースなど"
         },
@@ -1236,6 +1248,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_kllj-3-017",
+            "name": "[ときめきエモーション]葛城リーリヤのピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_shro-1-000",
             "name": "[学園生活]篠澤広のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -1362,6 +1380,12 @@
             "acquisitionRouteDescription": "イベント交換所など"
         },
         {
+            "id": "item-piece-idol_ssmk-3-017",
+            "name": "[ときめきエモーション]紫雲清夏のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_ttmr-1-000",
             "name": "[学園生活]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -1426,6 +1450,12 @@
             "name": "[一体いつから]月村手毬のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-play-ticket_april-001",
+            "name": "ライブ挑戦券",
+            "description": "スペシャルイベントでステージに挑戦できるアイテム",
+            "acquisitionRouteDescription": "スペシャルイベント"
         },
         {
             "id": "item-play-ticket_tour-event-001",
