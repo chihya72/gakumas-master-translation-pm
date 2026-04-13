@@ -134,6 +134,38 @@
             "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_hume-001",
+            "name": "花海 佑芽のダンスを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_hume-002",
+            "name": "花海 佑芽のプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hume-003",
+            "name": "花海 佑芽のプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hume-004",
+            "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_hume-005",
+            "name": "花海 佑芽のプロデュースで活動支給・差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hume-006",
+            "name": "花海 佑芽でダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_hume-007",
+            "name": "花海 佑芽のプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_hume-008",
+            "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_jsna-001",
             "name": "十王 星南のビジュアルを1800以上に育成してプロデュースをクリア"
         },
@@ -564,6 +596,26 @@
         {
             "id": "dearness_normal-mission_hski-005",
             "name": "花海 咲季のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_normal-mission_hume-001",
+            "name": "花海 佑芽のダンスを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_hume-002",
+            "name": "花海 佑芽のプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hume-003",
+            "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hume-004",
+            "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_hume-005",
+            "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_jsna-001",
@@ -3499,6 +3551,106 @@
         },
         {
             "id": "mission-highscorerush-event-011-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_12",
+            "name": "花海 佑芽のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_13",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_14",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_22",
+            "name": "姫崎 莉波のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_23",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_24",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_32",
+            "name": "花海 佑芽または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_33",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_34",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_42",
+            "name": "花海 佑芽または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_43",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_44",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_52",
+            "name": "花海 佑芽または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_53",
+            "name": "花海 佑芽でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_54",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-012-mission_56",
             "name": "5日目のミッションを全てクリア"
         },
         {
@@ -7444,6 +7596,30 @@
         {
             "id": "achieve-i_card-hume-3-016-06",
             "name": "【ENDLESS DANCE】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-01",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-02",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-03",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-04",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-05",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-017-06",
+            "name": "【真っ白いページと水彩の主人公】花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",
