@@ -1263,6 +1263,24 @@
         },
         {
             "helpCategoryId": "help-research-event",
+            "id": "research-event-bonus",
+            "order": 6,
+            "name": "イベントボーナス"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-coin",
+            "order": 5,
+            "name": "イベント交換所用アイテム"
+        },
+        {
+            "helpCategoryId": "help-research-event",
+            "id": "research-event-event-point",
+            "order": 4,
+            "name": "累計イベントPt報酬"
+        },
+        {
+            "helpCategoryId": "help-research-event",
             "id": "research-event-event-produce",
             "order": 2,
             "name": "イベントモードのプロデュース"

@@ -204,6 +204,12 @@
             "acquisitionRouteDescription": "交換所など"
         },
         {
+            "id": "item-dearness-unlock-hume",
+            "name": "佑芽との記録の鍵",
+            "description": "花海佑芽のSTEP3の親愛度コミュを解放するアイテム",
+            "acquisitionRouteDescription": "交換所など"
+        },
+        {
             "id": "item-dearness-unlock-jsna",
             "name": "星南との記録の鍵",
             "description": "十王星南のSTEP3の親愛度コミュを解放するアイテム",
@@ -650,6 +656,12 @@
         {
             "id": "item-medal-main-story-event-010",
             "name": "初星の栞",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-medal-research-event-006",
+            "name": "ゼミたぬき",
             "description": "イベント交換所で様々な報酬と交換できるアイテム",
             "acquisitionRouteDescription": "プロデュースなど"
         },
@@ -1645,6 +1657,12 @@
         },
         {
             "id": "item-research-event-005",
+            "name": "あさり先生シール",
+            "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-research-event-006",
             "name": "あさり先生シール",
             "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
             "acquisitionRouteDescription": "プロデュースなど"

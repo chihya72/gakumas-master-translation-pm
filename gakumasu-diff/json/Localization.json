@@ -22,6 +22,10 @@
             "description": "※カスタマイズは特別指導でおこなえます"
         },
         {
+            "id": "common.story_event_point",
+            "description": "あさり先生のプロデュースゼミ"
+        },
+        {
             "id": "competition.rehearsal_battle_confirm.label.description",
             "description": "※挑戦回数は消費しません / レートPtは獲得できません"
         },
@@ -120,6 +124,10 @@
         {
             "id": "produce_prepare.top.event_icon.high_score_rush.title",
             "description": "十王邦夫のアイドル強化月間"
+        },
+        {
+            "id": "produce_prepare.top.event_icon.research.description",
+            "description": "プロデュース報酬であさり先生シールとゼミたぬきとイベントPtが獲得できるようになります。"
         },
         {
             "id": "produce.card.move_position.deckall",
