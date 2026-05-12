@@ -66,6 +66,10 @@
             "description": "所持数が不足しています"
         },
         {
+            "id": "home.produce.tutorial_reward",
+            "description": "SSRプロデュースアイドル\\nもらえる！"
+        },
+        {
             "id": "home.pvp.contest.out_of_term_toast",
             "description": "開催期間外です"
         },
@@ -170,6 +174,26 @@
             "description": "イベントモード対象のPアイドルのみイベントモードのプロデュースへの挑戦が可能です"
         },
         {
+            "id": "setting.preference.other.produce_growth_panel.level_up_confirm.description",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.preference.other.produce_growth_panel.level_up_confirm.title",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.preference.other.produce_growth_panel.title",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.custom_item_customize_confirm",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.custom_item_customize_confirm.description",
+            "description": "準備中"
+        },
+        {
             "id": "setting.produce.easy_mode_confirm",
             "description": "アシストモード表示"
         },
@@ -188,6 +212,30 @@
         {
             "id": "setting.produce.easy_mode.title",
             "description": "【プロデュース】アシストモード"
+        },
+        {
+            "id": "setting.produce.exit_interval_confirm",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.exit_interval_confirm.description",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.reroll_interval_confirm",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.reroll_interval_confirm.description",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.select_change_card_confirm",
+            "description": "準備中"
+        },
+        {
+            "id": "setting.produce.select_change_card_confirm.description",
+            "description": "準備中"
         },
         {
             "id": "shop.web_store.confirm.description",

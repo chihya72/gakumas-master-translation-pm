@@ -219,6 +219,12 @@
         },
         {
             "helpCategoryId": "help-contest",
+            "id": "contest-myunit",
+            "order": 6,
+            "name": "マイユニット"
+        },
+        {
+            "helpCategoryId": "help-contest",
             "id": "contest-preparation-period",
             "order": 7,
             "name": "開催準備期間"
