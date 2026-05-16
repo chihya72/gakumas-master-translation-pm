@@ -299119,7 +299119,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "<nobr>+"
+          "text": "打分"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299129,7 +299129,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "50"
+          "text": "<nobr>+"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -299139,7 +299139,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "</nobr>（累计"
+          "text": "50"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299149,7 +299149,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "全力值"
+          "text": "</nobr>（累计"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -299159,7 +299159,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamFullPowerPoint",
-          "text": "的"
+          "text": "全力值"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299169,7 +299169,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "350"
+          "text": "的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -299179,7 +299179,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "%数值，变为"
+          "text": "350"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299189,7 +299189,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "打分"
+          "text": "%数值，变为"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceExamEffectType",
@@ -299199,7 +299199,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ExamLesson",
-          "text": "上升量增加）"
+          "text": "打分"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299249,7 +299249,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "%</nobr>数值变为"
+          "text": "最大体力的<nobr>"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_Exam",
@@ -299259,7 +299259,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "体力消耗"
+          "text": "100"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299309,7 +299309,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_MoveEffectTrigger",
-          "text": "中移入本卡时，\n"
+          "text": "移动时效果"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299319,7 +299319,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "保留"
+          "text": "："
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescription",
@@ -299329,7 +299329,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_ProduceCardPositionType_Hold",
-          "text": "中的技能卡的"
+          "text": "保留"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299339,7 +299339,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "打分上升次数增加"
+          "text": "中移入本卡时，\n"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceDescriptionName",
@@ -299369,7 +299369,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": "<nobr>"
+          "text": "中的技能卡的"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_ProduceCardGrowEffectType",
@@ -299379,7 +299379,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "Label_LessonCountAdd",
-          "text": "不可重复"
+          "text": "打分上升次数增加"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
@@ -299389,7 +299389,7 @@
           "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
           "produceStepType": "ProduceStepType_Unknown",
           "targetId": "",
-          "text": " </nobr>"
+          "text": "+1"
         },
         {
           "produceDescriptionType": "ProduceDescriptionType_PlainText",
