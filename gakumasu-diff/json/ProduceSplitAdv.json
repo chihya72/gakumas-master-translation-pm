@@ -1,0 +1,152 @@
+{
+    "rules": {
+        "primaryKeys": [
+            "produceType",
+            "type",
+            "produceSplitTypes",
+            "targetCharacterId"
+        ]
+    },
+    "data": [
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "第3回『選抜試験』前"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeFinalAuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『本戦』ラウンド2前"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "第1回『選抜試験』前"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid1AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "決戦の舞台へ！"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_BeforeMid2AuditionRefresh",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "第2回『選抜試験』前"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "H.I.F選抜試験"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_Opening",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "H.I.F本戦"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultTrueEnd",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultA",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultA",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultB",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultB",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultC",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultC",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedFinal",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid1",
+            "produceSplitTypes": "ProduceSplitType_Final",
+            "targetCharacterId": "",
+            "title": "『H.I.F』本戦の結果は……"
+        },
+        {
+            "produceType": "ProduceType_HatsuboshiIdolFestival",
+            "type": "ProduceAdvType_ProduceResultFailedMid2",
+            "produceSplitTypes": "ProduceSplitType_Selection",
+            "targetCharacterId": "",
+            "title": "『選抜試験』の結果は……"
+        }
+    ]
+}

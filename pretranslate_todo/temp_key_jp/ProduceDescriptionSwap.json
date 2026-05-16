@@ -51,6 +51,8 @@
   "Swap_Label_LessonCountReduce|ProduceDescriptionSwapType_Audition|text": "スコア上昇回数減少",
   "Swap_Label_LessonReduce|ProduceDescriptionSwapType_Lesson|text": "パラメータ値減少",
   "Swap_Label_LessonReduce|ProduceDescriptionSwapType_Audition|text": "スコア値減少",
+  "Swap_Label_MemoryAbilityIsUniqueActivation|ProduceDescriptionSwapType_Lesson|text": "重複発動不可",
+  "Swap_Label_MemoryAbilityIsUniqueActivation|ProduceDescriptionSwapType_Audition|text": "重複発動不可",
   "Swap_Label_ProduceCardMovePositionType_Lost|ProduceDescriptionSwapType_Lesson|text": "レッスン中1回",
   "Swap_Label_ProduceCardMovePositionType_Lost|ProduceDescriptionSwapType_Audition|text": "試験・ステージ中1回",
   "Swap_Label_ProduceCardPositionType_DeckFirst|ProduceDescriptionSwapType_Lesson|text": "山札の一番上",
@@ -64,5 +66,15 @@
   "Swap_Label_ProduceCardPositionType_Hand|ProduceDescriptionSwapType_Lesson|text": "手札",
   "Swap_Label_ProduceCardPositionType_Hand|ProduceDescriptionSwapType_Audition|text": "手札",
   "Swap_Label_ProduceCardPositionType_Lost|ProduceDescriptionSwapType_Lesson|text": "除外",
-  "Swap_Label_ProduceCardPositionType_Lost|ProduceDescriptionSwapType_Audition|text": "除外"
+  "Swap_Label_ProduceCardPositionType_Lost|ProduceDescriptionSwapType_Audition|text": "除外",
+  "Swap_Label_ProduceType_FirstStar|ProduceDescriptionSwapType_Lesson|text": "初専用　",
+  "Swap_Label_ProduceType_FirstStar|ProduceDescriptionSwapType_Audition|text": "初専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival|ProduceDescriptionSwapType_Lesson|text": "H.I.F専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival|ProduceDescriptionSwapType_Audition|text": "H.I.F専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final|ProduceDescriptionSwapType_Lesson|text": "H.I.F本戦専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival_Final|ProduceDescriptionSwapType_Audition|text": "H.I.F本戦専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection|ProduceDescriptionSwapType_Lesson|text": "H.I.F選抜試験専用　",
+  "Swap_Label_ProduceType_HatsuboshiIdolFestival_Selection|ProduceDescriptionSwapType_Audition|text": "H.I.F選抜試験専用　",
+  "Swap_Label_ProduceType_NextIdolAudition|ProduceDescriptionSwapType_Lesson|text": "N.I.A専用　",
+  "Swap_Label_ProduceType_NextIdolAudition|ProduceDescriptionSwapType_Audition|text": "N.I.A専用　"
 }
