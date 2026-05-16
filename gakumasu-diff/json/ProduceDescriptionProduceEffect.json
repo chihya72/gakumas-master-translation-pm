@@ -31,27 +31,27 @@
         },
         {
             "type": "ProduceEffectType_VocalGrowthRateAddition",
-            "name": "ボーカルレッスンボーナス+"
+            "name": "ボーカルパラメータボーナス+"
         },
         {
             "type": "ProduceEffectType_DanceGrowthRateAddition",
-            "name": "ダンスレッスンボーナス+"
+            "name": "ダンスパラメータボーナス+"
         },
         {
             "type": "ProduceEffectType_VisualGrowthRateAddition",
-            "name": "ビジュアルレッスンボーナス+"
+            "name": "ビジュアルパラメータボーナス+"
         },
         {
             "type": "ProduceEffectType_VocalGrowthRateDown",
-            "name": "ボーカルレッスンボーナス-"
+            "name": "ボーカルパラメータボーナス-"
         },
         {
             "type": "ProduceEffectType_DanceGrowthRateDown",
-            "name": "ダンスレッスンボーナス-"
+            "name": "ダンスパラメータボーナス-"
         },
         {
             "type": "ProduceEffectType_VisualGrowthRateDown",
-            "name": "ビジュアルレッスンボーナス-"
+            "name": "ビジュアルパラメータボーナス-"
         },
         {
             "type": "ProduceEffectType_StaminaRecoverFix",
@@ -286,6 +286,10 @@
             "name": "初期Pポイント増加"
         },
         {
+            "type": "ProduceEffectType_ParameterLimitUp",
+            "name": "パラメータ上限増加"
+        },
+        {
             "type": "ProduceEffectType_ExamTurnUp",
             "name": "ターン数増加"
         },
@@ -348,6 +352,26 @@
         {
             "type": "ProduceEffectType_AuditionNpcWeaken",
             "name": "ライバルのスコア"
+        },
+        {
+            "type": "ProduceEffectType_StarPermilUp",
+            "name": "スター性獲得量増加"
+        },
+        {
+            "type": "ProduceEffectType_StarAddition",
+            "name": "スター性獲得"
+        },
+        {
+            "type": "ProduceEffectType_ProduceCardChangeSelect",
+            "name": "セレクトチェンジ"
+        },
+        {
+            "type": "ProduceEffectType_ProduceDrinkPossessLimitUp",
+            "name": "Pドリンク所持上限増加"
+        },
+        {
+            "type": "ProduceEffectType_ShopProduceCardPriceDiscountMultiplePermanent",
+            "name": "相談のスキルカードを割引"
         }
     ]
 }
