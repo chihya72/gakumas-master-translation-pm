@@ -128,7 +128,7 @@ def ex_main(input_json, output_json):
         row_dict = collect_translatable_text(row, primary_keys)
         export_dict.update(row_dict)
 
-    with open(output_json, "w", encoding="utf-8") as out:
+    with open(output_json, "w", encoding="utf-8", newline="\n") as out:
         json.dump(export_dict, out, ensure_ascii=False, indent=2)
 
     print(f"导出完成: {output_json} (共 {len(export_dict)} 条)")

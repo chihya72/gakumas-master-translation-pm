@@ -130,7 +130,7 @@ def import_main(base_json, translated_json, output_json):
         fill_back_translations(row, primary_keys, trans_map, filename)
 
     # 写出新的 json
-    with open(output_json, "w", encoding="utf-8") as out:
+    with open(output_json, "w", encoding="utf-8", newline="\n") as out:
         json.dump(root, out, ensure_ascii=False, indent=2)
 
     print(f"合并完成: {output_json}")

@@ -27,7 +27,7 @@ def values_to_keys():
             for _, v in orig_data.items():
                 data[v] = ""
 
-            with open(os.path.join(output_dir, name), 'w', encoding='utf-8') as f:
+            with open(os.path.join(output_dir, name), 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
 
             print("save file", name)
@@ -59,7 +59,7 @@ def pretranslated_to_kv_files(
             for k, orig_jp in orig_data.items():
                 orig_data[k] = translated_data.get(orig_jp, orig_jp)
 
-            with open(save_file, 'w', encoding='utf-8') as f:
+            with open(save_file, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(orig_data, f, ensure_ascii=False, indent=4)
 
             print("合并文件", name)
@@ -203,14 +203,14 @@ def gen_todo(new_files_dir: str):
 
             if out_data:
                 todo_file = os.path.join(todo_out_dir, file)
-                with open(todo_file, 'w', encoding='utf-8') as f:
+                with open(todo_file, 'w', encoding='utf-8', newline='\n') as f:
                     json.dump(out_data, f, ensure_ascii=False, indent=4)
                 print("TODO File", todo_file)
     
     # 保存变化的文件到 changed 目录（CSV格式）
     for file_name, changes in changed_files.items():
         changed_file_path = os.path.join(changed_out_dir, file_name.replace('.json', '.csv'))
-        with open(changed_file_path, 'w', encoding='utf-8', newline='') as f:
+        with open(changed_file_path, 'w', encoding='utf-8', newline='\n') as f:
             # 手动写入CSV格式，完全保持原样
             f.write('旧值,新值,旧翻译,新翻译\n')
             for (old_value, new_value), old_translation in changes.items():
@@ -221,7 +221,7 @@ def gen_todo(new_files_dir: str):
     
     # 保存变化日志
     if changes_log:
-        with open(log_file, 'w', encoding='utf-8') as f:
+        with open(log_file, 'w', encoding='utf-8', newline='\n') as f:
             f.write(f"日文值变化检测报告\n")
             f.write(f"生成时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
             f.write(f"检测到 {len(changes_log)} 处变化\n")
@@ -274,7 +274,7 @@ def merge_todo():
                 for k, v in old_key_cn_data.items():
                     new_key_jp_data[k] = v
 
-                with open(new_key_jp_file, 'w', encoding='utf-8') as f:
+                with open(new_key_jp_file, 'w', encoding='utf-8', newline='\n') as f:
                     json.dump(new_key_jp_data, f, ensure_ascii=False, indent=4)
 
     pretranslated_to_kv_files(output_dir, new_files_dir, output_dir)
@@ -425,10 +425,10 @@ def apply_changed_translations():
         
         # 保存更新后的文件
         if file_updated_count > 0:
-            with open(temp_key_cn_file, 'w', encoding='utf-8') as f:
+            with open(temp_key_cn_file, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(temp_key_cn_data, f, ensure_ascii=False, indent=2)
             
-            with open(jp_cn_file, 'w', encoding='utf-8') as f:
+            with open(jp_cn_file, 'w', encoding='utf-8', newline='\n') as f:
                 json.dump(jp_cn_data, f, ensure_ascii=False, indent=2)
             
             print(f"💾 已保存 {file_updated_count} 个翻译更新到 {json_filename}")

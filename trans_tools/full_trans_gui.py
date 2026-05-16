@@ -313,7 +313,7 @@ class FullTransGUI:
         
         # 保存更新后的主文件
         try:
-            with open(main_file_path, 'w', encoding='utf-8') as file:
+            with open(main_file_path, 'w', encoding='utf-8', newline='\n') as file:
                 json.dump(main_data, file, ensure_ascii=False, indent=2)
             self.log_message("💾 主文件已保存")
         except Exception as e:
@@ -355,7 +355,7 @@ class FullTransGUI:
         
         if filename:
             try:
-                with open(filename, 'w', encoding='utf-8') as f:
+                with open(filename, 'w', encoding='utf-8', newline='\n') as f:
                     f.write(self.result_text.get(1.0, tk.END))
                 messagebox.showinfo("成功", f"日志已保存到: {filename}")
             except Exception as e:

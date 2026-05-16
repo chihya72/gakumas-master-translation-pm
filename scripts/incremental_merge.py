@@ -150,7 +150,7 @@ def save_smart_resolved_exceptions(json_filename, smart_exceptions):
             
         # 保存special mapping文件
         special_file = os.path.join(category_dir, f"{item_id}.json")
-        with open(special_file, 'w', encoding='utf-8') as f:
+        with open(special_file, 'w', encoding='utf-8', newline='\n') as f:
             json.dump(complete_mappings, f, ensure_ascii=False, indent=2)
         
         print(f"    💾 已创建特例映射: {item_id}.json ({len(complete_mappings)} 条完整映射)")
@@ -360,7 +360,7 @@ def incremental_merge():
                     conflict_count += 1
         
         # 保存合并后的文件
-        with open(output_file, 'w', encoding='utf-8') as f:
+        with open(output_file, 'w', encoding='utf-8', newline='\n') as f:
             json.dump(final_key_cn_data, f, ensure_ascii=False, indent=4)
         
         print(f"    📊 翻译统计: special={special_count}, todo/new={todo_new_count}, jp_cn={jp_cn_count}, data={old_count}, 未翻译={untranslated_count}")
@@ -385,7 +385,7 @@ def incremental_merge():
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         conflicts_csv = os.path.join(conflicts_dir, f"incremental_conflicts_{timestamp}.csv")
         
-        with open(conflicts_csv, 'w', encoding='utf-8-sig', newline='') as csvfile:
+        with open(conflicts_csv, 'w', encoding='utf-8-sig', newline='\n') as csvfile:
             fieldnames = ["文件名", "键名", "日文原文", "当前使用", "使用来源", "todo/new_翻译", "jp_cn_翻译", "data_翻译"]
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()

@@ -239,7 +239,7 @@ class JSONComparerGUI:
         
         if filename:
             try:
-                with open(filename, 'w', encoding='utf-8') as f:
+                with open(filename, 'w', encoding='utf-8', newline='\n') as f:
                     f.write(self.result_text.get(1.0, tk.END))
                 messagebox.showinfo("成功", f"结果已保存到: {filename}")
             except Exception as e:

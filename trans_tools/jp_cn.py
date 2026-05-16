@@ -43,7 +43,7 @@ def convert_files():
                 print(f"警告：在 {file_name} 中未找到ID {key} 的中文翻译，跳过")
         
         # 保存新文件
-        with open(os.path.join(output_folder, file_name), 'w', encoding='utf-8') as output_file:
+        with open(os.path.join(output_folder, file_name), 'w', encoding='utf-8', newline='\n') as output_file:
             json.dump(new_data, output_file, ensure_ascii=False, indent=4)
         
         print(f"已处理文件: {file_name}")
