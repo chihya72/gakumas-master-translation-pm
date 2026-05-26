@@ -2556,6 +2556,36 @@
             "description": "【みちなるひろがる】篠澤 広の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-shro-3-018-01",
+            "name": "わたしだけの思い出",
+            "description": "【ガラクタロード】篠澤 広のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-02",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-03",
+            "name": "一番素敵なプロデュース",
+            "description": "【ガラクタロード】篠澤 広のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-04",
+            "name": "ガラクタロード +",
+            "description": "【ガラクタロード】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-05",
+            "name": "ガラクタロード ++",
+            "description": "【ガラクタロード】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-shro-3-018-06",
+            "name": "ガラクタロード +++",
+            "description": "【ガラクタロード】篠澤 広の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-ssmk-2-000-04",
             "name": "夢へのリスタート +",
             "description": "【夢へのリスタート】紫雲 清夏の特訓段階を{threshold}にする"
@@ -4811,6 +4841,11 @@
             "description": "倉本 千奈でTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-kcna-000-2",
+            "name": "わたくしのトッププロデューサー",
+            "description": "倉本 千奈でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-kcna-001",
             "name": "練習、練習、また練習",
             "description": "倉本 千奈のプロデュースでスキルカードを{threshold}回使用"
@@ -4924,6 +4959,16 @@
             "id": "achieve-p_idol-kcna-024",
             "name": "立候補いたしますわ！",
             "description": "倉本 千奈で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-025",
+            "name": "大きくなった夢 ",
+            "description": "倉本 千奈でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-kcna-026",
+            "name": "背を押されながらの歩み",
+            "description": "倉本 千奈でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-kcna-027",
@@ -5071,6 +5116,11 @@
             "description": "篠澤 広でTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-shro-000-2",
+            "name": "最後まで、一緒だよ",
+            "description": "篠澤 広でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-shro-001",
             "name": "課題達成",
             "description": "篠澤 広のプロデュースでスキルカードを{threshold}回使用"
@@ -5189,6 +5239,16 @@
             "id": "achieve-p_idol-shro-024",
             "name": "何度目かの奇跡を",
             "description": "篠澤 広で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-025",
+            "name": "一夜限りの奇跡",
+            "description": "篠澤 広でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-shro-026",
+            "name": "辛くて、幸せで、楽しい毎日",
+            "description": "篠澤 広でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-shro-027",
