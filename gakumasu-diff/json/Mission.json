@@ -1142,8 +1142,16 @@
             "name": "千奈でA-End達成"
         },
         {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-kllj",
+            "name": "リーリヤでA-End達成"
+        },
+        {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-shro",
             "name": "広でA-End達成"
+        },
+        {
+            "id": "hidden_mission-view-ending-final-a-produce_group-003-ssmk",
+            "name": "清夏でA-End達成"
         },
         {
             "id": "hidden_mission-view-ending-final-a-produce_group-003-ttmr",
@@ -2038,8 +2046,16 @@
             "name": "倉本 千奈のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
         },
         {
+            "id": "mission-daily_mission_HIF_clear-mission_21",
+            "name": "葛城 リーリヤのプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+        },
+        {
             "id": "mission-daily_mission_HIF_clear-mission_22",
             "name": "篠澤 広のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_23",
+            "name": "紫雲 清夏のプロデュースで「H.I.F」：本戦を{threshold}回完了しよう"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_24",
@@ -2062,8 +2078,16 @@
             "name": "倉本 千奈の親愛度Lvを{threshold}にしよう"
         },
         {
+            "id": "mission-daily_mission_HIF_clear-mission_34",
+            "name": "葛城 リーリヤの親愛度Lvを{threshold}にしよう"
+        },
+        {
             "id": "mission-daily_mission_HIF_clear-mission_35",
             "name": "篠澤 広の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "mission-daily_mission_HIF_clear-mission_36",
+            "name": "紫雲 清夏の親愛度Lvを{threshold}にしよう"
         },
         {
             "id": "mission-daily_mission_HIF_clear-mission_37",
@@ -8682,6 +8706,30 @@
             "name": "【ときめきエモーション】葛城 リーリヤの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-kllj-3-018-01",
+            "name": "【ガラクタロード】葛城 リーリヤのプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-02",
+            "name": "【ガラクタロード】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-03",
+            "name": "【ガラクタロード】葛城 リーリヤのプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-04",
+            "name": "【ガラクタロード】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-05",
+            "name": "【ガラクタロード】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-kllj-3-018-06",
+            "name": "【ガラクタロード】葛城 リーリヤの特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-shro-2-000-04",
             "name": "【一番向いてないこと】篠澤 広の特訓段階を{threshold}にする"
         },
@@ -10818,6 +10866,10 @@
             "name": "葛城 リーリヤでTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-kllj-000-2",
+            "name": "葛城 リーリヤでTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-kllj-001",
             "name": "葛城 リーリヤのプロデュースでスキルカードを{threshold}回使用"
         },
@@ -10908,6 +10960,14 @@
         {
             "id": "achieve-p_idol-kllj-024",
             "name": "葛城 リーリヤで最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-025",
+            "name": "葛城 リーリヤでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-026",
+            "name": "葛城 リーリヤでH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-kllj-027",
@@ -11042,6 +11102,10 @@
             "name": "紫雲 清夏でTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-ssmk-000-2",
+            "name": "紫雲 清夏でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-ssmk-001",
             "name": "紫雲 清夏のプロデュースでスキルカードを{threshold}回使用"
         },
@@ -11132,6 +11196,14 @@
         {
             "id": "achieve-p_idol-ssmk-024",
             "name": "紫雲 清夏で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-025",
+            "name": "紫雲 清夏でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-026",
+            "name": "紫雲 清夏でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-ssmk-027",
