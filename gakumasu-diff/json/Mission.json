@@ -374,6 +374,22 @@
             "name": "花海 咲季で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_relaunch_hume-001",
+            "name": "花海 佑芽のダンスを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_relaunch_hume-002",
+            "name": "花海 佑芽のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_hume-003",
+            "name": "花海 佑芽でダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_relaunch_hume-004",
+            "name": "花海 佑芽で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_relaunch_jsna-001",
             "name": "十王 星南のビジュアルを1800以上に育成してプロデュースをクリア"
         },
@@ -3962,6 +3978,106 @@
             "name": "5日目のミッションを全てクリア"
         },
         {
+            "id": "mission-highscorerush-event-014-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_12",
+            "name": "有村 麻央のボーカルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_13",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_14",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_22",
+            "name": "姫崎 莉波のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_23",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_24",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_32",
+            "name": "有村 麻央または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_33",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_34",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_42",
+            "name": "有村 麻央または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_43",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_44",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_52",
+            "name": "有村 麻央または姫崎 莉波のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_53",
+            "name": "有村 麻央でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_54",
+            "name": "姫崎 莉波でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-014-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
             "id": "mission-main-story-event-001-mission_11",
             "name": "APを{threshold}消費しよう"
         },
@@ -7026,6 +7142,30 @@
             "name": "【見て】有村 麻央の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-amao-3-017-01",
+            "name": "【SUGAR FLAVOR】有村 麻央のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-02",
+            "name": "【SUGAR FLAVOR】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-03",
+            "name": "【SUGAR FLAVOR】有村 麻央のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-04",
+            "name": "【SUGAR FLAVOR】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-05",
+            "name": "【SUGAR FLAVOR】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-amao-3-017-06",
+            "name": "【SUGAR FLAVOR】有村 麻央の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-atbm-2-000-01",
             "name": "【初志貫徹】雨夜 燕のプロデュースで最終試験に合格"
         },
@@ -7672,6 +7812,30 @@
         {
             "id": "achieve-i_card-hrnm-3-017-06",
             "name": "【ガラクタロード】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-01",
+            "name": "【SUGAR FLAVOR】姫崎 莉波のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-02",
+            "name": "【SUGAR FLAVOR】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-03",
+            "name": "【SUGAR FLAVOR】姫崎 莉波のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-04",
+            "name": "【SUGAR FLAVOR】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-05",
+            "name": "【SUGAR FLAVOR】姫崎 莉波の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hrnm-3-018-06",
+            "name": "【SUGAR FLAVOR】姫崎 莉波の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hski-2-000-04",

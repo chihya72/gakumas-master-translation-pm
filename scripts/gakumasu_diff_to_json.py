@@ -3,6 +3,7 @@ import yaml
 import json
 from typing import List
 from yaml.reader import Reader
+import re
 
 
 primary_key_rules = {
@@ -588,6 +589,17 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                     # 修复：text: <TAB> → text: ""
                     content = content.replace("text:\t\n", 'text: ""\n')
                     content = content.replace("text: \t\n", 'text: ""\n')
+
+                    # 修复上游 Localization.yaml 中非法的 block scalar 缩进：
+                    # - id: setting.produce.exit_interval_confirm
+                    #   description: |
+                    #   インターバル終了確認
+                    if file == "Localization.yaml":
+                        content = re.sub(
+                            r"(?m)^- id: setting\.produce\.exit_interval_confirm\r?\n  description: \|\r?\n  インターバル終了確認$",
+                            "- id: setting.produce.exit_interval_confirm\n  description: インターバル終了確認",
+                            content
+                        )
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
