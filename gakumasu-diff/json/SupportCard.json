@@ -1405,6 +1405,22 @@
             "name": "ゆずれないもの"
         },
         {
+            "id": "s_card-2-0076",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率中"
+                }
+            ],
+            "name": "ゆるるんあくび顔"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -3019,6 +3035,22 @@
                 }
             ],
             "name": "どーなっちゃうの～？"
+        },
+        {
+            "id": "s_card-3-0102",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "おでん、通りま～すッ！"
         },
         {
             "id": "s_card-3-0105",
