@@ -5679,7 +5679,7 @@
         },
         {
             "id": "mission-panel-mission-1-8",
-            "name": "プロデュースで活動支給を{threshold}回選択しよう"
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択しよう"
         },
         {
             "id": "mission-panel-mission-1-9",
@@ -6555,7 +6555,7 @@
         },
         {
             "id": "panel_mission-event-002-mission_8",
-            "name": "プロデュースで活動支給を{threshold}回選択しよう"
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-002-mission_9",
@@ -6663,7 +6663,7 @@
         },
         {
             "id": "panel_mission-event-004-mission_8",
-            "name": "プロデュースで活動支給を{threshold}回選択しよう"
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-004-mission_9",
@@ -6735,7 +6735,7 @@
         },
         {
             "id": "panel_mission-event-006-mission_8",
-            "name": "プロデュースで活動支給を{threshold}回選択しよう"
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択しよう"
         },
         {
             "id": "panel_mission-event-006-mission_9",
@@ -6956,6 +6956,78 @@
         {
             "id": "panel_mission-event-009-mission_9",
             "name": "篠澤 広の親愛度Lvを{threshold}にしよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_1",
+            "name": "ボーカルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_11",
+            "name": "プラン：センスのプロデュースアイドルのプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_12",
+            "name": "プラン：ロジックのプロデュースアイドルのプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_13",
+            "name": "プラン：アノマリーのプロデュースアイドルのプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_14",
+            "name": "プロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_15",
+            "name": "プロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_16",
+            "name": "Pドリンクを合計{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_17",
+            "name": "スキルカードを合計{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_18",
+            "name": "プロデュースで体力を合計{threshold}消費しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_19",
+            "name": "Pポイントを合計{threshold}獲得しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_2",
+            "name": "ダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_3",
+            "name": "ビジュアルレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_4",
+            "name": "SPレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_5",
+            "name": "プロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_6",
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_7",
+            "name": "プロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_8",
+            "name": "プロデュースの相談で{threshold}回交換しよう"
+        },
+        {
+            "id": "panel_mission-event-010-mission_9",
+            "name": "Pドリンクを{threshold}回使おう"
         },
         {
             "id": "panel_mission-event-niv-mission_1",
@@ -8312,6 +8384,30 @@
         {
             "id": "achieve-i_card-hume-3-017-06",
             "name": "【真っ白いページと水彩の主人公】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-01",
+            "name": "【GO MY WAY!!】花海 佑芽のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-02",
+            "name": "【GO MY WAY!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-03",
+            "name": "【GO MY WAY!!】花海 佑芽のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-04",
+            "name": "【GO MY WAY!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-05",
+            "name": "【GO MY WAY!!】花海 佑芽の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hume-3-018-06",
+            "name": "【GO MY WAY!!】花海 佑芽の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-jsna-2-000-01",
@@ -9787,7 +9883,7 @@
         },
         {
             "id": "achieve-p_common-012",
-            "name": "プロデュースで活動支給を{threshold}回選択"
+            "name": "プロデュースで活動支給・差し入れを{threshold}回選択"
         },
         {
             "id": "achieve-p_common-013",
