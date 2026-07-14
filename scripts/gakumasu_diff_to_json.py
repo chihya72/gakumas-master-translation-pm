@@ -288,7 +288,7 @@ primary_key_rules = {
     # "SupportCardProduceSkillLevelVocal": [[], []],
     # "SupportCardSimulation": [[], []],
     # "SupportCardSimulationGroup": [[], []],
-    "Terms": [["type"], ["name"]],
+    "Terms": [["type"], ["name", "url"]],
     "Tips": [["id"], ["title", "description"]],
     # "TitleAsset": [[], []],
     # "TitleVoice": [[], []],
