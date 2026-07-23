@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-从translated_dual1.json中提取中文翻译，生成仅包含中文的localization1.json文件
+从translated_dual.json中提取中文翻译，生成仅包含中文的localization1.json文件
 """
 
 import json
