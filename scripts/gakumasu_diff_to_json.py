@@ -590,6 +590,10 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
                     content = content.replace("text:\t\n", 'text: ""\n')
                     content = content.replace("text: \t\n", 'text: ""\n')
 
+                    # 上游数据里偶尔有行尾残留的制表符（如 Mission.yaml 的 name），
+                    # 非引号标量后面跟 \t 会让 PyYAML 报 "found character '\t'"
+                    content = re.sub(r"[ \t]+$", "", content, flags=re.M)
+
                     # 修复上游 Localization.yaml 中非法的 block scalar 缩进：
                     # - id: setting.produce.exit_interval_confirm
                     #   description: |

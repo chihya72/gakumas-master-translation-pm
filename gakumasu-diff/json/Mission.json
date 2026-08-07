@@ -38,6 +38,38 @@
             "name": "有村 麻央で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
         },
         {
+            "id": "dearness_event_atbm-001",
+            "name": "雨夜 燕のダンスを1800以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_event_atbm-002",
+            "name": "雨夜 燕のプロデュースでおでかけを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_atbm-003",
+            "name": "雨夜 燕のプロデュースで相談を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_atbm-004",
+            "name": "雨夜 燕のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_event_atbm-005",
+            "name": "雨夜 燕のプロデュースで活動支給・差し入れを{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_atbm-006",
+            "name": "雨夜 燕でダンスレッスンを{threshold}回クリアしよう"
+        },
+        {
+            "id": "dearness_event_atbm-007",
+            "name": "雨夜 燕のプロデュースで特別指導を{threshold}回選択しよう"
+        },
+        {
+            "id": "dearness_event_atbm-008",
+            "name": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
             "id": "dearness_event_fktn-001",
             "name": "藤田 ことねのダンスを1800以上に育成してプロデュースをクリア"
         },
@@ -600,6 +632,26 @@
         {
             "id": "dearness_normal-mission_amao-005",
             "name": "有村 麻央のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
+        },
+        {
+            "id": "dearness_normal-mission_atbm-001",
+            "name": "雨夜 燕のダンスを2000以上に育成してプロデュースをクリア"
+        },
+        {
+            "id": "dearness_normal-mission_atbm-002",
+            "name": "雨夜 燕のプロデュースでスキルカードを合計{threshold}回使用しよう"
+        },
+        {
+            "id": "dearness_normal-mission_atbm-003",
+            "name": "雨夜 燕のプロデュースでスキルカードを{threshold}回強化しよう"
+        },
+        {
+            "id": "dearness_normal-mission_atbm-004",
+            "name": "雨夜 燕で最終試験に合格して評価SS以上を{threshold}回獲得しよう"
+        },
+        {
+            "id": "dearness_normal-mission_atbm-005",
+            "name": "雨夜 燕のプロデュースでスキルカードを{threshold}回カスタマイズしよう"
         },
         {
             "id": "dearness_normal-mission_fktn-001",
@@ -4170,6 +4222,106 @@
             "name": "5日目のミッションを全てクリア"
         },
         {
+            "id": "mission-highscorerush-event-015-mission_11",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_12",
+            "name": "雨夜 燕のダンスを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_13",
+            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_14",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_16",
+            "name": "1日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_21",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_22",
+            "name": "十王 星南のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_23",
+            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_24",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_26",
+            "name": "2日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_31",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_32",
+            "name": "雨夜 燕または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_33",
+            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_34",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_36",
+            "name": "3日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_41",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_42",
+            "name": "雨夜 燕または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_43",
+            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_44",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_46",
+            "name": "4日目のミッションを全てクリア"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_51",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_52",
+            "name": "雨夜 燕または十王 星南のプロデュースで最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_53",
+            "name": "雨夜 燕でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_54",
+            "name": "十王 星南でプロデュース評価を合計{threshold}獲得しよう"
+        },
+        {
+            "id": "mission-highscorerush-event-015-mission_56",
+            "name": "5日目のミッションを全てクリア"
+        },
+        {
             "id": "mission-main-story-event-001-mission_11",
             "name": "APを{threshold}消費しよう"
         },
@@ -7102,6 +7254,42 @@
             "name": "Pドリンクを{threshold}回使おう"
         },
         {
+            "id": "panel_mission-event-011-mission_1",
+            "name": "マニーを回収しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_2",
+            "name": "お仕事を{threshold}回開始しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_3",
+            "name": "コインガシャを{threshold}回引こう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_4",
+            "name": "マニー交換所で{threshold}回交換しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_5",
+            "name": "コンテストに{threshold}回挑戦しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_6",
+            "name": "{threshold}日ログインしよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_7",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_8",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
+            "id": "panel_mission-event-011-mission_9",
+            "name": "最終試験に{threshold}回合格しよう"
+        },
+        {
             "id": "panel_mission-event-niv-mission_1",
             "name": "最終試験をスコアB+以上で{threshold}回合格しよう"
         },
@@ -7400,6 +7588,30 @@
         {
             "id": "achieve-i_card-atbm-3-012-06",
             "name": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-01",
+            "name": "【クライアイ】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-02",
+            "name": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-03",
+            "name": "【クライアイ】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-04",
+            "name": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-05",
+            "name": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-018-06",
+            "name": "【クライアイ】雨夜 燕の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-fktn-2-000-04",
