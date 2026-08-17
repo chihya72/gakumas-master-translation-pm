@@ -35,7 +35,7 @@
             "helpCategoryId": "help-box-gasha-event",
             "id": "box-gasha-event",
             "order": 1,
-            "name": "ライブツアーイベント"
+            "name": "ストーリーイベント"
         },
         {
             "helpCategoryId": "help-box-gasha-event",
@@ -1254,6 +1254,12 @@
             "id": "produce-refresh",
             "order": 15,
             "name": "休む"
+        },
+        {
+            "helpCategoryId": "help-produce",
+            "id": "produce-replay",
+            "order": 65,
+            "name": "リプレイ"
         },
         {
             "helpCategoryId": "help-produce",
