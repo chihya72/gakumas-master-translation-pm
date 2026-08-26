@@ -262,20 +262,8 @@
             "description": "イベントモード対象のPアイドルのみイベントモードのプロデュースへの挑戦が可能です"
         },
         {
-            "id": "setting.preference.live.camera.angle_horizontal",
-            "description": "準備中"
-        },
-        {
-            "id": "setting.preference.live.camera.angle_vertical",
-            "description": "準備中"
-        },
-        {
             "id": "setting.preference.live.camera.description",
             "description": "この項目をONにすると、ライブ撮影でジェスチャー操作がある場合にカメラの動きが反転するようになります"
-        },
-        {
-            "id": "setting.preference.live.camera.description_panorama",
-            "description": ""
         },
         {
             "id": "setting.preference.live.camera.position_depth",
@@ -344,6 +332,10 @@
         {
             "id": "setting.produce.select_change_card_confirm.description",
             "description": "スキルカードを選んでチェンジをする時に確認メッセージを表示します。"
+        },
+        {
+            "id": "setting.produce.support_event_produce_card_upgrade",
+            "description": "スキルカードを強化済みで獲得"
         },
         {
             "id": "shop.need_init.description",
