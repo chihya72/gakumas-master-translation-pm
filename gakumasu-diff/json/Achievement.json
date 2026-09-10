@@ -2046,6 +2046,36 @@
             "description": "【ENDLESS DANCE】十王 星南の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-jsna-3-017-01",
+            "name": "光り輝く道しるべ",
+            "description": "【ガラクタロード】十王 星南のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-02",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-03",
+            "name": "彼女の先を進む、私の姿を！",
+            "description": "【ガラクタロード】十王 星南のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-04",
+            "name": "ガラクタロード +",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-05",
+            "name": "ガラクタロード ++",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-jsna-3-017-06",
+            "name": "ガラクタロード +++",
+            "description": "【ガラクタロード】十王 星南の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-jsna-3-020-01",
             "name": "見惚れる横顔",
             "description": "【「ねえ、言っちゃうよ。」】十王 星南のプロデュースで最終試験に合格"
@@ -4431,6 +4461,11 @@
             "description": "藤田 ことねでTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-fktn-000-2",
+            "name": "あなたを幸せにします",
+            "description": "藤田 ことねでTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-fktn-001",
             "name": "QOL",
             "description": "藤田 ことねのプロデュースでスキルカードを{threshold}回使用"
@@ -4549,6 +4584,16 @@
             "id": "achieve-p_idol-fktn-024",
             "name": "やれることぜぇーんぶ",
             "description": "藤田 ことねで最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-025",
+            "name": "夢の中で見ていた光景",
+            "description": "藤田 ことねでH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-fktn-026",
+            "name": "積み上げてきた成果",
+            "description": "藤田 ことねでH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-fktn-027",
@@ -5156,6 +5201,11 @@
             "description": "十王 星南でTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-jsna-000-2",
+            "name": "私のモノになりなさい",
+            "description": "十王 星南でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-jsna-001",
             "name": "新しい一面",
             "description": "十王 星南のプロデュースでスキルカードを{threshold}回使用"
@@ -5274,6 +5324,16 @@
             "id": "achieve-p_idol-jsna-024",
             "name": "私たちのふたつの夢",
             "description": "十王 星南で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-025",
+            "name": "十王星南の遺産",
+            "description": "十王 星南でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-jsna-026",
+            "name": "私たちの物語",
+            "description": "十王 星南でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-jsna-027",

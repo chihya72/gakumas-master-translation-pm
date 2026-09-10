@@ -57,6 +57,11 @@
             "title": "スキルカードチェンジ時パラメータ上昇"
         },
         {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-change_produce_card-p_card_search-deck_all-starter",
+            "order": 38,
+            "title": "名前に「基本」を含むスキルカードチェンジ時パラメータ上昇"
+        },
+        {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-customize_produce_card",
             "order": 32,
             "title": "スキルカードカスタマイズ時パラメータ上昇"
@@ -80,6 +85,11 @@
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition",
             "order": 25,
             "title": "試験・オーディション終了時パラメータ上昇"
+        },
+        {
+            "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_audition-produce_card_search_count-p_card_search-deck_all-0015_0000",
+            "order": 39,
+            "title": "試験・オーディション終了時所持スキルカードが15枚以上の場合パラメータ上昇"
         },
         {
             "id": "s_card_p_skill_filter-vocaladdition-p_trigger-end_lesson-lesson_sp-produce_card_count-0020_0000",
