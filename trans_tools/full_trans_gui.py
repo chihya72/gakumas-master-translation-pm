@@ -9,6 +9,7 @@ import json
 import tkinter as tk
 from tkinter import filedialog, messagebox, scrolledtext, ttk
 import os
+from pathlib import Path
 from typing import Dict
 
 
@@ -43,11 +44,11 @@ class FullTransGUI:
         ttk.Entry(file_frame, textvariable=self.main_file_var, width=60).grid(row=0, column=1, padx=(5, 5), pady=2)
         ttk.Button(file_frame, text="浏览", command=self.select_main_file).grid(row=0, column=2, pady=2)
         
-        # JP-CN目录选择
-        ttk.Label(file_frame, text="JP-CN目录:").grid(row=1, column=0, sticky=tk.W, pady=2)
-        self.jp_cn_dir_var = tk.StringVar()
-        ttk.Entry(file_frame, textvariable=self.jp_cn_dir_var, width=60).grid(row=1, column=1, padx=(5, 5), pady=2)
-        ttk.Button(file_frame, text="浏览", command=self.select_jp_cn_dir).grid(row=1, column=2, pady=2)
+        # 翻译目录根目录选择
+        ttk.Label(file_frame, text="翻译目录根目录:").grid(row=1, column=0, sticky=tk.W, pady=2)
+        self.translation_root_var = tk.StringVar()
+        ttk.Entry(file_frame, textvariable=self.translation_root_var, width=60).grid(row=1, column=1, padx=(5, 5), pady=2)
+        ttk.Button(file_frame, text="浏览", command=self.select_translation_root).grid(row=1, column=2, pady=2)
         
         # 操作按钮框架
         button_frame = ttk.Frame(file_frame)
@@ -103,19 +104,49 @@ class FullTransGUI:
         )
         if filename:
             self.main_file_var.set(filename)
-            # 自动设置jp_cn目录为主文件所在目录下的jp_cn文件夹
+            # 如果主文件路径位于 _todo 目录下，自动设置翻译目录根目录。
             main_dir = os.path.dirname(filename)
-            jp_cn_path = os.path.join(main_dir, 'jp_cn')
-            if os.path.exists(jp_cn_path):
-                self.jp_cn_dir_var.set(jp_cn_path)
+            current_dir = main_dir
+            while current_dir:
+                if os.path.basename(current_dir).lower() == '_todo':
+                    self.translation_root_var.set(current_dir)
+                    break
+                parent_dir = os.path.dirname(current_dir)
+                if parent_dir == current_dir:
+                    break
+                current_dir = parent_dir
     
-    def select_jp_cn_dir(self):
-        """选择JP-CN目录"""
+    def select_translation_root(self):
+        """选择翻译目录根目录（_todo）"""
         dirname = filedialog.askdirectory(
-            title="选择JP-CN目录"
+            title="选择翻译目录根目录（_todo）"
         )
         if dirname:
-            self.jp_cn_dir_var.set(dirname)
+            self.translation_root_var.set(dirname)
+
+    def get_translation_dirs(self):
+        """获取需要检索的翻译目录。"""
+        translation_root = self.translation_root_var.get().strip().strip('\\/')
+        if not translation_root:
+            return []
+
+        root_path = Path(translation_root)
+        return [
+            str(root_path / 'jp_cn'),
+            str(root_path / 'todo' / 'new'),
+        ]
+
+    def get_translation_files(self):
+        """获取两个翻译目录中的所有 JSON 文件。"""
+        translation_dirs = self.get_translation_dirs()
+        json_files = []
+        for translation_dir in translation_dirs:
+            if not os.path.isdir(translation_dir):
+                continue
+            for filename in os.listdir(translation_dir):
+                if filename.lower().endswith('.json'):
+                    json_files.append((translation_dir, filename))
+        return translation_dirs, json_files
     
     def load_json(self, file_path: str) -> Dict:
         """加载JSON文件"""
@@ -141,10 +172,10 @@ class FullTransGUI:
     def preview_translations(self):
         """预览可以找到的翻译"""
         main_file_path = self.main_file_var.get()
-        jp_cn_dir = self.jp_cn_dir_var.get()
+        translation_root = self.translation_root_var.get().strip()
         
-        if not main_file_path or not jp_cn_dir:
-            messagebox.showwarning("警告", "请选择主JSON文件和JP-CN目录")
+        if not main_file_path or not translation_root:
+            messagebox.showwarning("警告", "请选择主JSON文件和翻译目录根目录")
             return
         
         self.clear_log()
@@ -169,20 +200,21 @@ class FullTransGUI:
         self.log_message(f"   空值键数: {len(empty_keys)}")
         self.log_message("")
         
-        # 检查JP-CN目录
-        if not os.path.exists(jp_cn_dir):
-            self.log_message(f"❌ 错误：未找到JP-CN目录 '{jp_cn_dir}'")
+        # 检查并检索两个翻译目录
+        translation_dirs, json_files = self.get_translation_files()
+        missing_dirs = [path for path in translation_dirs if not os.path.isdir(path)]
+        if missing_dirs:
+            for path in missing_dirs:
+                self.log_message(f"⚠️ 未找到翻译目录：'{path}'")
+        if not json_files:
+            self.log_message("❌ 错误：两个翻译目录中都没有JSON文件")
             return
-        
-        # 预览可找到的翻译
+
         translations_found = 0
         translation_files = []
         
-        for filename in os.listdir(jp_cn_dir):
-            if not filename.endswith('.json'):
-                continue
-                
-            file_path = os.path.join(jp_cn_dir, filename)
+        for translation_dir, filename in json_files:
+            file_path = os.path.join(translation_dir, filename)
             translation_data = self.load_json(file_path)
             if translation_data is None:
                 continue
@@ -193,18 +225,20 @@ class FullTransGUI:
                     file_translations += 1
             
             if file_translations > 0:
-                translation_files.append((filename, file_translations))
+                translation_files.append((file_path, file_translations))
                 translations_found += file_translations
-        
-        self.log_message(f"📁 JP-CN目录分析:")
-        self.log_message(f"   目录路径: {jp_cn_dir}")
-        self.log_message(f"   JSON文件数: {len([f for f in os.listdir(jp_cn_dir) if f.endswith('.json')])}")
+            
+        self.log_message("📁 翻译目录分析:")
+        self.log_message(f"   根目录: {translation_root}")
+        for translation_dir in translation_dirs:
+            dir_file_count = sum(1 for path, _ in json_files if path == translation_dir)
+            self.log_message(f"   {translation_dir}: {dir_file_count} 个JSON文件")
         self.log_message("")
         
         if translation_files:
             self.log_message(f"✅ 可找到翻译的文件:")
-            for filename, count in translation_files:
-                self.log_message(f"   📄 {filename}: {count} 个翻译")
+            for file_path, count in translation_files:
+                self.log_message(f"   📄 {file_path}: {count} 个翻译")
             self.log_message("")
             
             self.log_message(f"📈 预览结果:")
@@ -220,10 +254,10 @@ class FullTransGUI:
     def fill_translations(self):
         """执行翻译填充"""
         main_file_path = self.main_file_var.get()
-        jp_cn_dir = self.jp_cn_dir_var.get()
+        translation_root = self.translation_root_var.get().strip()
         
-        if not main_file_path or not jp_cn_dir:
-            messagebox.showwarning("警告", "请选择主JSON文件和JP-CN目录")
+        if not main_file_path or not translation_root:
+            messagebox.showwarning("警告", "请选择主JSON文件和翻译目录根目录")
             return
         
         # 确认操作
@@ -259,18 +293,15 @@ class FullTransGUI:
         self.log_message(f"📊 找到 {len(empty_keys)} 个需要填充翻译的键")
         self.log_message("")
         
-        # 检查JP-CN目录
-        if not os.path.exists(jp_cn_dir):
-            self.log_message(f"❌ 错误：未找到JP-CN目录 '{jp_cn_dir}'")
-            self.status_var.set("处理失败")
-            return
-        
-        # 获取所有JSON文件
-        json_files = [f for f in os.listdir(jp_cn_dir) if f.endswith('.json')]
+        # 检查并获取两个翻译目录中的所有JSON文件
+        translation_dirs, json_files = self.get_translation_files()
+        missing_dirs = [path for path in translation_dirs if not os.path.isdir(path)]
+        for path in missing_dirs:
+            self.log_message(f"⚠️ 未找到翻译目录：'{path}'")
         total_files = len(json_files)
         
         if total_files == 0:
-            self.log_message("❌ 错误：JP-CN目录中没有JSON文件")
+            self.log_message("❌ 错误：两个翻译目录中都没有JSON文件")
             self.status_var.set("处理失败")
             return
         
@@ -278,13 +309,13 @@ class FullTransGUI:
         translations_found = 0
         processed_files = 0
         
-        for filename in json_files:
+        for translation_dir, filename in json_files:
             processed_files += 1
             progress = (processed_files / total_files) * 100
             self.progress_var.set(progress)
             self.status_var.set(f"处理文件 {processed_files}/{total_files}")
             
-            file_path = os.path.join(jp_cn_dir, filename)
+            file_path = os.path.join(translation_dir, filename)
             translation_data = self.load_json(file_path)
             if translation_data is None:
                 continue

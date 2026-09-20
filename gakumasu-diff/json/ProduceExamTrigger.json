@@ -20985,6 +20985,63 @@
             ]
         },
         {
+            "id": "e_trigger-exam_card_play-stamina_up_multiple-800-p_card_search-active_skill-playing-0_1",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_ActiveSkill",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_ActiveSkillCard",
+                    "text": "アクティブスキルカード"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "使用時、体力が<nobr>80%以上</nobr>の場合、"
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "体力が<nobr>80%以上</nobr>の場合、使用可"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "体力が<nobr>80%以上</nobr>の場合、"
+                }
+            ]
+        },
+        {
             "id": "e_trigger-exam_card_play-turn_progress_up-5",
             "produceDescriptions": [
                 {
@@ -34228,6 +34285,123 @@
                     "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
                     "targetId": "",
                     "text": "が<nobr>8以上</nobr>の場合、"
+                }
+            ]
+        },
+        {
+            "id": "e_trigger-exam_start_turn-card_search_count_up-2-p_card_search-trouble-not_lost",
+            "produceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "ターン開始時、除外以外にある"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Trouble",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_TroubleSkillCard",
+                    "text": "トラブルカード"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "が<nobr>2枚以上</nobr>の場合、"
+                }
+            ],
+            "playProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "除外以外にある"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Trouble",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_TroubleSkillCard",
+                    "text": "トラブルカード"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "が<nobr>2枚以上</nobr>の場合、使用可"
+                }
+            ],
+            "playEffectProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "除外以外にある"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_ProduceCardCategory",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Trouble",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "Label_TroubleSkillCard",
+                    "text": "トラブルカード"
+                },
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "produceStepBusinessType": "ProduceStepBusinessType_Unknown",
+                    "targetId": "",
+                    "text": "が<nobr>2枚以上</nobr>の場合、"
                 }
             ]
         },
