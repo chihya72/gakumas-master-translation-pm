@@ -405,6 +405,51 @@
   startTime: "1789696800000"
   endTime: "0"
   order: 25
+- id: comic_0026
+  name: 朝の4時よ！
+  mediaType: MediaType_Comic
+  assetId: img_general_comic_0026
+  thumbnailAssetId: img_general_comic_0026
+  viewConditionSetId: cd-view-comic_0026
+  characterIds: []
+  externalUrl: ""
+  fourPanelComicEpisode: 0
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1791486000000"
+  endTime: "0"
+  order: 26
+- id: comic_0027
+  name: 青春っぽい......！
+  mediaType: MediaType_Comic
+  assetId: img_general_comic_0027
+  thumbnailAssetId: img_general_comic_0027
+  viewConditionSetId: cd-view-comic_0027
+  characterIds: []
+  externalUrl: ""
+  fourPanelComicEpisode: 0
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1791486000000"
+  endTime: "0"
+  order: 27
+- id: comic_0028
+  name: 早朝ランニングでびゅー
+  mediaType: MediaType_Comic
+  assetId: img_general_comic_0028
+  thumbnailAssetId: img_general_comic_0028
+  viewConditionSetId: cd-view-comic_0028
+  characterIds: []
+  externalUrl: ""
+  fourPanelComicEpisode: 0
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1791486000000"
+  endTime: "0"
+  order: 28
 - id: comic_0048
   name: あなたと一緒に
   mediaType: MediaType_FourPanelComic
@@ -3312,6 +3357,23 @@
   startTime: "1789869600000"
   endTime: "0"
   order: 168
+- id: comic4_0168
+  name: 大切な思い出に
+  mediaType: MediaType_FourPanelComic
+  assetId: img_general_comic4_0168
+  thumbnailAssetId: img_general_comic4_0168-thumb
+  viewConditionSetId: cd_time_26_0930-1100
+  characterIds:
+  - atbm
+  - hrnm
+  externalUrl: ""
+  fourPanelComicEpisode: 168
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1790733600000"
+  endTime: "0"
+  order: 169
 - id: comic4_radio-0000
   name: 第0話
   mediaType: MediaType_FourPanelComicOther
@@ -3542,7 +3604,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 12
@@ -3557,7 +3619,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 13
@@ -3572,7 +3634,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 14
@@ -3587,7 +3649,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 15
@@ -3602,7 +3664,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 16
@@ -3617,7 +3679,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 17
@@ -3632,7 +3694,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 18
@@ -3647,7 +3709,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 19
@@ -3662,7 +3724,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 20
@@ -3677,7 +3739,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 21
@@ -3692,7 +3754,7 @@
   fourPanelComicEpisode: 0
   caption: ""
   fourPanelComicSeries: FourPanelComicSeries_Unknown
-  mediaMovieType: 3
+  mediaMovieType: MediaMovieType_Story
   startTime: "1772157600000"
   endTime: "0"
   order: 22

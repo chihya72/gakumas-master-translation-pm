@@ -2244,7 +2244,7 @@
   - img_tutorial_perimastella_01
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
-- tutorialType: 32
+- tutorialType: TutorialType_GradeMission
   idolCardId: ""
   step: 1
   subStep: 1
@@ -2256,7 +2256,7 @@
   - img_tutorial_grade-mission_001
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
-- tutorialType: 33
+- tutorialType: TutorialType_Panorama
   idolCardId: ""
   step: 1
   subStep: 1
@@ -2268,7 +2268,7 @@
   - img_tutorial_360-live_001
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
-- tutorialType: 34
+- tutorialType: TutorialType_PanoramaLive
   idolCardId: ""
   step: 1
   subStep: 1
@@ -2964,9 +2964,9 @@
   title: ""
   texts: []
   assetIds:
-  - img_tutorial_event_box-gasha-event-021_001
-  - img_tutorial_event_box-gasha-event-021_002
-  - img_tutorial_event_box-gasha-event-021_003
+  - img_tutorial_event_box-gasha-event-022_001
+  - img_tutorial_event_box-gasha-event-022_002
+  - img_tutorial_event_box-gasha-event-022_003
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
 - tutorialType: TutorialType_StoryEventGuildMission
@@ -3106,7 +3106,7 @@
     ステージを1つ選択してパフォーマンスを行います。
     ステージには最大3人のアイドルがリレー形式で参加し
     最終的に獲得したスコアでハイスコアを競い合います。
-
+  
     ※グレードにより参加できるアイドルの人数が変化します
   assetIds:
   - img_tutorial_competition_001-01
@@ -3126,7 +3126,7 @@
   - img_tutorial_profile_002
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
-- tutorialType: 216
+- tutorialType: TutorialType_Trail
   idolCardId: ""
   step: 1
   subStep: 1

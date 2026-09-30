@@ -18,9 +18,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50400
@@ -45,9 +48,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1776045600000"
   endTime: "1776736799000"
   order: 9001
@@ -71,9 +77,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60400
@@ -97,9 +106,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9004
@@ -123,9 +135,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10004
@@ -149,9 +164,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10004
@@ -175,9 +193,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8989
@@ -201,9 +222,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8992
@@ -227,9 +251,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8990
@@ -253,9 +280,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8991
@@ -279,9 +309,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748743200000"
   endTime: "0"
   order: 100350
@@ -305,9 +338,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1756692000000"
   endTime: "0"
   order: 110400
@@ -331,9 +367,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767232800000"
   endTime: "0"
   order: 121500
@@ -357,9 +396,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1775008800000"
   endTime: "0"
   order: 131400
@@ -383,12 +425,44 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1782871200000"
   endTime: "0"
   order: 141400
+- id: shop_costume_costume_head_amao-hair-0008
+  shopId: shop_costume
+  name: イヌミミ（有村麻央）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_amao-hair-0008
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_amao-hair-0008
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1790820000000"
+  endTime: "0"
+  order: 142600
 - id: shop_costume_costume_head_atbm-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（雨夜燕）
@@ -409,9 +483,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8993
@@ -435,9 +512,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8994
@@ -461,9 +541,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8995
@@ -487,9 +570,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8996
@@ -513,9 +599,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8997
@@ -539,9 +628,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1764554399000"
   order: 8998
@@ -565,9 +657,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 100300
@@ -591,9 +686,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1759284000000"
   endTime: "0"
   order: 110300
@@ -617,9 +715,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761962400000"
   endTime: "0"
   order: 121300
@@ -643,9 +744,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1769911200000"
   endTime: "0"
   order: 131300
@@ -669,9 +773,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777600800000"
   endTime: "0"
   order: 141300
@@ -695,9 +802,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1785549600000"
   endTime: "0"
   order: 142500
@@ -721,9 +831,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10210
@@ -747,9 +860,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10220
@@ -773,9 +889,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10230
@@ -799,9 +918,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10240
@@ -825,9 +947,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1780279200000"
   endTime: "0"
   order: 142000
@@ -851,12 +976,15 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1788228000000"
   endTime: "0"
-  order: 143000
+  order: 143200
 - id: shop_costume_costume_head_hrnm-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（姫崎莉波）
@@ -877,9 +1005,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1751335200000"
   endTime: "0"
   order: 101200
@@ -903,9 +1034,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1759284000000"
   endTime: "0"
   order: 111200
@@ -929,9 +1063,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767232800000"
   endTime: "0"
   order: 122300
@@ -955,9 +1092,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1775008800000"
   endTime: "0"
   order: 132100
@@ -981,12 +1121,44 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1782871200000"
   endTime: "0"
   order: 142200
+- id: shop_costume_costume_head_hrnm-hair-0008
+  shopId: shop_costume
+  name: イヌミミ（姫崎莉波）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_hrnm-hair-0008
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_hrnm-hair-0008
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1790820000000"
+  endTime: "0"
+  order: 143400
 - id: shop_costume_costume_head_hski-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（花海咲季）
@@ -1007,9 +1179,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 100100
@@ -1033,9 +1208,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1754013600000"
   endTime: "0"
   order: 110100
@@ -1059,9 +1237,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761962400000"
   endTime: "0"
   order: 121100
@@ -1085,9 +1266,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1769911200000"
   endTime: "0"
   order: 131100
@@ -1111,9 +1295,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777600800000"
   endTime: "0"
   order: 141100
@@ -1137,9 +1324,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1785549600000"
   endTime: "0"
   order: 142300
@@ -1163,9 +1353,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10170
@@ -1189,9 +1382,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1759284000000"
   endTime: "0"
   order: 111100
@@ -1215,9 +1411,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1764554400000"
   endTime: "0"
   order: 122200
@@ -1241,9 +1440,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1772330400000"
   endTime: "0"
   order: 132000
@@ -1267,9 +1469,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1780279200000"
   endTime: "0"
   order: 142100
@@ -1293,12 +1498,15 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1788228000000"
   endTime: "0"
-  order: 142700
+  order: 143300
 - id: shop_costume_costume_head_jsna-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（十王星南）
@@ -1319,9 +1527,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10160
@@ -1345,9 +1556,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10150
@@ -1371,9 +1585,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1764554400000"
   endTime: "0"
   order: 122000
@@ -1397,9 +1614,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1772330400000"
   endTime: "0"
   order: 131900
@@ -1423,9 +1643,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777600800000"
   endTime: "0"
   order: 141900
@@ -1449,12 +1672,15 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1785549600000"
   endTime: "0"
-  order: 142600
+  order: 143100
 - id: shop_costume_costume_head_kcna-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（倉本千奈）
@@ -1475,9 +1701,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1751335200000"
   endTime: "0"
   order: 100500
@@ -1501,9 +1730,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1759284000000"
   endTime: "0"
   order: 110600
@@ -1527,9 +1759,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1764554400000"
   endTime: "0"
   order: 121700
@@ -1553,9 +1788,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1772330400000"
   endTime: "0"
   order: 131600
@@ -1579,9 +1817,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1780279200000"
   endTime: "0"
   order: 141600
@@ -1605,12 +1846,15 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1788228000000"
   endTime: "0"
-  order: 142900
+  order: 142800
 - id: shop_costume_costume_head_kllj-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（葛城リーリヤ）
@@ -1631,9 +1875,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1751335200000"
   endTime: "0"
   order: 100400
@@ -1657,9 +1904,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1756692000000"
   endTime: "0"
   order: 110500
@@ -1683,9 +1933,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767232800000"
   endTime: "0"
   order: 121600
@@ -1709,9 +1962,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1775008800000"
   endTime: "0"
   order: 131500
@@ -1735,12 +1991,44 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1782871200000"
   endTime: "0"
   order: 141500
+- id: shop_costume_costume_head_kllj-hair-0008
+  shopId: shop_costume
+  name: イヌミミ（葛城リーリヤ）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_kllj-hair-0008
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_kllj-hair-0008
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1790820000000"
+  endTime: "0"
+  order: 142700
 - id: shop_costume_costume_head_nasr-hair-0004
   shopId: shop_costume
   name: ネコミミ（根緒亜紗里）
@@ -1762,9 +2050,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10001
@@ -1789,9 +2080,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10005
@@ -1816,9 +2110,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10002
@@ -1842,9 +2139,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748743200000"
   endTime: "0"
   order: 100700
@@ -1868,9 +2168,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1754013600000"
   endTime: "0"
   order: 110800
@@ -1894,9 +2197,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1764554400000"
   endTime: "0"
   order: 121900
@@ -1920,9 +2226,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1772330400000"
   endTime: "0"
   order: 131800
@@ -1946,9 +2255,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1780279200000"
   endTime: "0"
   order: 141800
@@ -1972,12 +2284,15 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1788228000000"
   endTime: "0"
-  order: 142800
+  order: 143000
 - id: shop_costume_costume_head_ssmk-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（紫雲清夏）
@@ -1998,9 +2313,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748743200000"
   endTime: "0"
   order: 100600
@@ -2024,9 +2342,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1754013600000"
   endTime: "0"
   order: 110700
@@ -2050,9 +2371,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767232800000"
   endTime: "0"
   order: 121800
@@ -2076,9 +2400,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1775008800000"
   endTime: "0"
   order: 131700
@@ -2102,12 +2429,44 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1782871200000"
   endTime: "0"
   order: 141700
+- id: shop_costume_costume_head_ssmk-hair-0008
+  shopId: shop_costume
+  name: イヌミミ（紫雲清夏）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_ssmk-hair-0008
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_ssmk-hair-0008
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1790820000000"
+  endTime: "0"
+  order: 142900
 - id: shop_costume_costume_head_ttmr-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（月村手毬）
@@ -2128,9 +2487,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 100200
@@ -2154,9 +2516,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1756692000000"
   endTime: "0"
   order: 110200
@@ -2180,9 +2545,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761962400000"
   endTime: "0"
   order: 121200
@@ -2206,9 +2574,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1769911200000"
   endTime: "0"
   order: 131200
@@ -2232,9 +2603,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777600800000"
   endTime: "0"
   order: 141200
@@ -2258,9 +2632,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1785549600000"
   endTime: "0"
   order: 142400
@@ -2288,9 +2665,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1755828000000"
   endTime: "1756691999000"
   order: 59000
@@ -2314,9 +2694,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50300
@@ -2340,9 +2723,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60300
@@ -2366,9 +2752,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9003
@@ -2392,9 +2781,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10003
@@ -2418,9 +2810,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10003
@@ -2444,9 +2839,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10180
@@ -2470,9 +2868,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 61000
@@ -2496,9 +2897,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10190
@@ -2522,9 +2926,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9009
@@ -2548,9 +2955,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 10200
@@ -2574,9 +2984,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10010
@@ -2601,9 +3014,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1752458400000"
   endTime: "1754013599000"
   order: 50900
@@ -2627,9 +3043,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50900
@@ -2654,9 +3073,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1771034400000"
   endTime: "1772330399000"
   order: 9002
@@ -2680,9 +3102,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 61200
@@ -2706,9 +3131,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10010
@@ -2732,9 +3160,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10012
@@ -2758,9 +3189,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50100
@@ -2785,9 +3219,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1776736800000"
   endTime: "1777427999000"
   order: 9001
@@ -2811,9 +3248,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60100
@@ -2837,9 +3277,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9001
@@ -2863,9 +3306,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10001
@@ -2889,9 +3335,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10001
@@ -2916,9 +3365,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1766023200000"
   endTime: "1767232799000"
   order: 9002
@@ -2942,9 +3394,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10140
@@ -2968,9 +3423,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 51000
@@ -2994,9 +3452,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 61100
@@ -3020,9 +3481,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10009
@@ -3046,9 +3510,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10011
@@ -3072,9 +3539,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10130
@@ -3098,9 +3568,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 51100
@@ -3125,9 +3598,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1771034400000"
   endTime: "1772330399000"
   order: 9001
@@ -3151,9 +3627,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60900
@@ -3177,9 +3656,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10120
@@ -3203,9 +3685,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9008
@@ -3229,9 +3714,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 10090
@@ -3255,9 +3743,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10009
@@ -3281,9 +3772,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50600
@@ -3308,9 +3802,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1776045600000"
   endTime: "1776736799000"
   order: 9002
@@ -3334,9 +3831,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60600
@@ -3361,9 +3861,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1784080800000"
   endTime: "1784599199000"
   order: 9002
@@ -3387,9 +3890,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10006
@@ -3413,9 +3919,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10006
@@ -3443,9 +3952,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1755828000000"
   endTime: "1756691999000"
   order: 60000
@@ -3470,9 +3982,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1766023200000"
   endTime: "1767232799000"
   order: 9001
@@ -3496,9 +4011,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50500
@@ -3522,9 +4040,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60500
@@ -3549,9 +4070,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1784080800000"
   endTime: "1784599199000"
   order: 9001
@@ -3575,9 +4099,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9005
@@ -3601,9 +4128,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10005
@@ -3627,9 +4157,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10005
@@ -3654,9 +4187,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1743433200000"
   endTime: "1743519600000"
   order: 10000
@@ -3681,9 +4217,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10003
@@ -3708,9 +4247,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10000
@@ -3735,9 +4277,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1743433200000"
   endTime: "1743519600000"
   order: 10001
@@ -3762,9 +4307,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774971000000"
   endTime: "1775055599000"
   order: 10004
@@ -3789,9 +4337,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1743433200000"
   endTime: "1743519600000"
   order: 10002
@@ -3819,9 +4370,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1762480800000"
   endTime: "1764554399000"
   order: 9000
@@ -3845,9 +4399,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50800
@@ -3871,9 +4428,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60800
@@ -3897,9 +4457,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9007
@@ -3923,9 +4486,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10008
@@ -3949,9 +4515,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10008
@@ -3976,9 +4545,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1752458400000"
   endTime: "1754013599000"
   order: 50700
@@ -4002,9 +4574,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50700
@@ -4029,9 +4604,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1776736800000"
   endTime: "1777427999000"
   order: 9002
@@ -4055,9 +4633,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60700
@@ -4081,9 +4662,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9006
@@ -4107,9 +4691,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10007
@@ -4133,9 +4720,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10007
@@ -4163,9 +4753,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1762480800000"
   endTime: "1764554399000"
   order: 8999
@@ -4189,9 +4782,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747360800000"
   endTime: "1750294799000"
   order: 50200
@@ -4215,9 +4811,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 60200
@@ -4241,9 +4840,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761012000000"
   endTime: "1763254799000"
   order: 9002
@@ -4267,9 +4869,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 10002
@@ -4293,9 +4898,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 10002
@@ -4316,9 +4924,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 100
@@ -4339,9 +4950,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 101
@@ -4362,9 +4976,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 102
@@ -4385,9 +5002,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 103
@@ -4408,9 +5028,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 104
@@ -4431,9 +5054,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 105
@@ -4454,9 +5080,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 0
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 106
@@ -4478,9 +5107,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1715824800000"
   endTime: "1719539999000"
   order: 3
@@ -4502,9 +5134,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1715824800000"
   endTime: "1719539999000"
   order: 1
@@ -4526,9 +5161,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1717207200000"
   endTime: "1719536399000"
   order: 2
@@ -4550,9 +5188,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1723284000000"
   endTime: "1725152399000"
   order: 2
@@ -4574,9 +5215,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 3
@@ -4598,9 +5242,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1731718800000"
   endTime: "1733018399000"
   order: 3
@@ -4622,9 +5269,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1735657200000"
   endTime: "1738375199000"
   order: 2
@@ -4646,9 +5296,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1735657200000"
   endTime: "1738375199000"
   order: 1
@@ -4670,9 +5323,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 1
@@ -4694,9 +5350,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1747357200000"
   endTime: "1750294799000"
   order: 2
@@ -4718,9 +5377,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1746064800000"
   endTime: "1747357199000"
   order: 2
@@ -4742,9 +5404,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1746064800000"
   endTime: "1747357199000"
   order: 3
@@ -4766,9 +5431,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1751248800000"
   endTime: "1754013599000"
   order: 2
@@ -4790,9 +5458,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753927200000"
   endTime: "1756691999000"
   order: 2
@@ -4814,9 +5485,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1766023199000"
   order: 2
@@ -4838,9 +5512,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763258400000"
   endTime: "1766023199000"
   order: 3
@@ -4862,9 +5539,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777428000000"
   endTime: "1778893199000"
   order: 1
@@ -4886,9 +5566,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778896800000"
   endTime: "1781488799000"
   order: 1
@@ -4910,9 +5593,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 2
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778896800000"
   endTime: "1781488799000"
   order: 2
@@ -4934,9 +5620,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1784599200000"
   endTime: "1786327199000"
   order: 1
@@ -4958,9 +5647,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1786932000000"
   endTime: "1788487199000"
   order: 1
@@ -4994,9 +5686,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 510
@@ -5030,9 +5725,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 1020
@@ -5066,9 +5764,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 1030
@@ -5102,9 +5803,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 201
@@ -5135,9 +5839,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 200
@@ -5167,9 +5874,12 @@
   resetWeekday: Weekday_Monday
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 100
@@ -5202,9 +5912,12 @@
   resetWeekday: Weekday_Monday
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "1725220799000"
   order: 1300
@@ -5255,9 +5968,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 1
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "1725134399000"
   order: 1400
@@ -5291,9 +6007,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 300
@@ -5327,9 +6046,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 400
@@ -5363,9 +6085,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 500
@@ -5399,9 +6124,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 600
@@ -5435,9 +6163,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 700
@@ -5471,9 +6202,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 800
@@ -5507,9 +6241,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 900
@@ -5543,9 +6280,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 1000
@@ -5579,9 +6319,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 1100
@@ -5615,9 +6358,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1758367800000"
   endTime: "1761962399000"
   order: 1
@@ -5651,9 +6397,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763690400000"
   endTime: "1764554399000"
   order: 3
@@ -5687,9 +6436,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763690400000"
   endTime: "1764554399000"
   order: 3
@@ -5723,9 +6475,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1763690400000"
   endTime: "1764554399000"
   order: 3
@@ -5762,9 +6517,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1765625400000"
   endTime: "1769911199000"
   order: 5
@@ -5798,9 +6556,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1766714400000"
   endTime: "1769957999000"
   order: 3
@@ -5834,9 +6595,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1766714400000"
   endTime: "1769957999000"
   order: 4
@@ -5864,9 +6628,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778896800000"
   endTime: "1780279199000"
   order: 3
@@ -5894,9 +6661,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778896800000"
   endTime: "1780279199000"
   order: 4
@@ -5924,9 +6694,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778896800000"
   endTime: "1780279199000"
   order: 5
@@ -5963,9 +6736,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778932800000"
   endTime: "1782871199000"
   order: 6
@@ -5998,9 +6774,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1716948000000"
   endTime: "1719536399000"
   order: 240
@@ -6037,9 +6816,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748484000000"
   endTime: "1751335199000"
   order: 2
@@ -6076,9 +6858,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748088000000"
   endTime: "1751335199000"
   order: 2
@@ -6106,9 +6891,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753408800000"
   endTime: "1756691999000"
   order: 1
@@ -6136,9 +6924,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1778205600000"
   endTime: "1780279199000"
   order: 7
@@ -6166,9 +6957,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1746756000000"
   endTime: "1750294799000"
   order: 3
@@ -6199,9 +6993,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1716948000000"
   endTime: "1719536399000"
   order: 250
@@ -6232,9 +7029,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1716948000000"
   endTime: "1719536399000"
   order: 251
@@ -6265,9 +7065,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1716948000000"
   endTime: "1719536399000"
   order: 252
@@ -6297,9 +7100,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1726797600000"
   endTime: "0"
   order: 1300
@@ -6336,9 +7142,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1723284000000"
   endTime: "1725152399000"
   order: 2
@@ -6375,9 +7184,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725696000000"
   endTime: "1727747999000"
   order: 2
@@ -6414,9 +7226,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1728892800000"
   endTime: "1730426399000"
   order: 2
@@ -6480,9 +7295,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1773885600000"
   endTime: "1777561199000"
   order: 1
@@ -6510,9 +7328,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730858400000"
   endTime: "1733018399000"
   order: 1
@@ -6569,9 +7390,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 1
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1715803200000"
   endTime: "1732996799000"
   order: 1400
@@ -6637,9 +7461,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 1
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1732996800000"
   endTime: "0"
   order: 1400
@@ -6670,9 +7497,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1735657200000"
   endTime: "1738375199000"
   order: 4
@@ -6706,9 +7536,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767193200000"
   endTime: "1769889599000"
   order: 2
@@ -6739,9 +7572,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1735657200000"
   endTime: "1738375199000"
   order: 3
@@ -6778,9 +7614,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767193200000"
   endTime: "1769889599000"
   order: 1
@@ -6805,9 +7644,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10004
@@ -6832,9 +7674,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10003
@@ -6859,9 +7704,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10001
@@ -6886,9 +7734,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10005
@@ -6913,9 +7764,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10007
@@ -6940,9 +7794,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10006
@@ -6967,9 +7824,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725152400000"
   endTime: "1727830799000"
   order: 10002
@@ -6997,9 +7857,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1762480800000"
   endTime: "1764554399000"
   order: 3
@@ -7035,9 +7898,12 @@
   resetWeekday: Weekday_Monday
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725220800000"
   endTime: "0"
   order: 1300
@@ -7071,9 +7937,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "0"
   endTime: "0"
   order: 1010
@@ -7098,9 +7967,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1711915200000"
   endTime: "1717358399000"
   order: 100000
@@ -7125,9 +7997,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1717358400000"
   endTime: "1719777599000"
   order: 100000
@@ -7152,9 +8027,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1719777600000"
   endTime: "1722455999000"
   order: 100000
@@ -7179,9 +8057,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1722456000000"
   endTime: "1725134399000"
   order: 100000
@@ -7206,9 +8087,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1725134400000"
   endTime: "1727726399000"
   order: 1000
@@ -7233,9 +8117,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1727726400000"
   endTime: "1730404799000"
   order: 100000
@@ -7260,9 +8147,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1730404800000"
   endTime: "1732996799000"
   order: 100000
@@ -7287,9 +8177,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1732996800000"
   endTime: "1735675199000"
   order: 100000
@@ -7314,9 +8207,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1735675200000"
   endTime: "1738353599000"
   order: 100000
@@ -7341,9 +8237,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1738353600000"
   endTime: "1740772799000"
   order: 100000
@@ -7368,9 +8267,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1740772800000"
   endTime: "1743451199000"
   order: 100000
@@ -7395,9 +8297,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1743451200000"
   endTime: "1746043199000"
   order: 100000
@@ -7422,9 +8327,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1746043200000"
   endTime: "1748721599000"
   order: 100000
@@ -7449,9 +8357,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1748721600000"
   endTime: "1751313599000"
   order: 100000
@@ -7476,9 +8387,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1751313600000"
   endTime: "1753991999000"
   order: 100000
@@ -7503,9 +8417,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1753992000000"
   endTime: "1756670399000"
   order: 100000
@@ -7530,9 +8447,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1756670400000"
   endTime: "1759262399000"
   order: 100000
@@ -7557,9 +8477,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1759262400000"
   endTime: "1761940799000"
   order: 100000
@@ -7584,9 +8507,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1761940800000"
   endTime: "1764532799000"
   order: 100000
@@ -7611,9 +8537,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1764532800000"
   endTime: "1767211199000"
   order: 100000
@@ -7638,9 +8567,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1767211200000"
   endTime: "1769889599000"
   order: 100000
@@ -7665,9 +8597,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1769889600000"
   endTime: "1772308799000"
   order: 100000
@@ -7692,9 +8627,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1772308800000"
   endTime: "1774987199000"
   order: 100000
@@ -7719,9 +8657,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1774987200000"
   endTime: "1777579199000"
   order: 100000
@@ -7746,9 +8687,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1777579200000"
   endTime: "1780257599000"
   order: 100000
@@ -7773,9 +8717,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1780257600000"
   endTime: "1782849599000"
   order: 100000
@@ -7800,9 +8747,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1782849600000"
   endTime: "1785527999000"
   order: 100000
@@ -7827,9 +8777,12 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1785528000000"
   endTime: "1788206399000"
   order: 100000
@@ -7854,9 +8807,42 @@
   resetWeekday: Weekday_Unknown
   resetDay: 0
   purchaseLimit: 1
+  isHideRecommend: false
   consumptionResourceType: ResourceType_Unknown
   consumptionResourceId: ""
   consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
   startTime: "1788206400000"
   endTime: "1790798399000"
+  order: 100000
+- id: shop_pass_item-0030
+  shopId: shop_pass
+  name: プレミアムミッションパス 2026年10月
+  labelTypes:
+  - ShopItemLabelType_Recommend
+  assetId: "0030"
+  shopProductId: pass_0001
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 0
+  rewards:
+  - resourceType: ResourceType_MissionPassPremiumPass
+    resourceId: mission_pass-2026-10
+    quantity: 1
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1790798400000"
+  endTime: "1793476799000"
   order: 100000

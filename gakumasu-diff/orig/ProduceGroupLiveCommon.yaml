@@ -14,6 +14,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -30,6 +32,8 @@
   afterAdvAssetId: adv_live_amao_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -45,6 +49,8 @@
   afterAdvAssetId: adv_live_amao_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -60,6 +66,8 @@
   afterAdvAssetId: adv_live_amao_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -75,6 +83,8 @@
   afterAdvAssetId: adv_live_amao_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -91,6 +101,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -107,6 +119,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: amao
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -123,6 +137,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -139,6 +155,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -155,6 +173,8 @@
   afterAdvAssetId: adv_live_atbm_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -170,6 +190,8 @@
   afterAdvAssetId: adv_live_atbm_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -185,6 +207,8 @@
   afterAdvAssetId: adv_live_atbm_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -200,6 +224,8 @@
   afterAdvAssetId: adv_live_atbm_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -216,6 +242,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: atbm
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -232,6 +260,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -248,6 +278,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -264,6 +296,8 @@
   afterAdvAssetId: adv_live_fktn_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -279,6 +313,8 @@
   afterAdvAssetId: adv_live_fktn_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -294,6 +330,8 @@
   afterAdvAssetId: adv_live_fktn_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -309,6 +347,8 @@
   afterAdvAssetId: adv_live_fktn_001_end-04-02
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -325,6 +365,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -341,6 +383,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: fktn
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -357,6 +401,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -373,6 +419,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -389,6 +437,8 @@
   afterAdvAssetId: adv_live_hmsz_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -404,6 +454,8 @@
   afterAdvAssetId: adv_live_hmsz_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -419,6 +471,8 @@
   afterAdvAssetId: adv_live_hmsz_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -434,6 +488,8 @@
   afterAdvAssetId: adv_live_hmsz_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -450,6 +506,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -466,6 +524,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hmsz
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -482,6 +542,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -498,6 +560,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -514,6 +578,8 @@
   afterAdvAssetId: adv_live_hrnm_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -529,6 +595,8 @@
   afterAdvAssetId: adv_live_hrnm_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -544,6 +612,8 @@
   afterAdvAssetId: adv_live_hrnm_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -559,6 +629,8 @@
   afterAdvAssetId: adv_live_hrnm_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -575,6 +647,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -591,6 +665,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hrnm
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -607,6 +683,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -623,6 +701,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -639,6 +719,8 @@
   afterAdvAssetId: adv_live_hski_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -654,6 +736,8 @@
   afterAdvAssetId: adv_live_hski_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -669,6 +753,8 @@
   afterAdvAssetId: adv_live_hski_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -684,6 +770,8 @@
   afterAdvAssetId: adv_live_hski_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -700,6 +788,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -716,6 +806,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hski
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -732,6 +824,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -748,6 +842,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -764,6 +860,8 @@
   afterAdvAssetId: adv_live_hume_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -779,6 +877,8 @@
   afterAdvAssetId: adv_live_hume_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -794,6 +894,8 @@
   afterAdvAssetId: adv_live_hume_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -809,6 +911,8 @@
   afterAdvAssetId: adv_live_hume_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -825,6 +929,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -841,6 +947,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: hume
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -857,6 +965,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -873,6 +983,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -889,6 +1001,8 @@
   afterAdvAssetId: adv_live_jsna_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -904,6 +1018,8 @@
   afterAdvAssetId: adv_live_jsna_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -919,6 +1035,8 @@
   afterAdvAssetId: adv_live_jsna_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -934,6 +1052,8 @@
   afterAdvAssetId: adv_live_jsna_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -950,6 +1070,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -966,6 +1088,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: jsna
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -982,6 +1106,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -998,6 +1124,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -1014,6 +1142,8 @@
   afterAdvAssetId: adv_live_kcna_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -1029,6 +1159,8 @@
   afterAdvAssetId: adv_live_kcna_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -1044,6 +1176,8 @@
   afterAdvAssetId: adv_live_kcna_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -1059,6 +1193,8 @@
   afterAdvAssetId: adv_live_kcna_001_end-04-02
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -1075,6 +1211,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -1091,6 +1229,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kcna
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -1107,6 +1247,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -1123,6 +1265,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -1139,6 +1283,8 @@
   afterAdvAssetId: adv_live_kllj_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -1154,6 +1300,8 @@
   afterAdvAssetId: adv_live_kllj_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -1169,6 +1317,8 @@
   afterAdvAssetId: adv_live_kllj_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -1184,6 +1334,8 @@
   afterAdvAssetId: adv_live_kllj_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -1200,6 +1352,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -1216,6 +1370,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: kllj
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -1232,6 +1388,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -1248,6 +1406,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -1264,6 +1424,8 @@
   afterAdvAssetId: adv_live_shro_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -1279,6 +1441,8 @@
   afterAdvAssetId: adv_live_shro_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -1294,6 +1458,8 @@
   afterAdvAssetId: adv_live_shro_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -1309,6 +1475,8 @@
   afterAdvAssetId: adv_live_shro_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -1325,6 +1493,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -1341,6 +1511,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: shro
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -1357,6 +1529,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -1373,6 +1547,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -1389,6 +1565,8 @@
   afterAdvAssetId: adv_live_ssmk_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -1404,6 +1582,8 @@
   afterAdvAssetId: adv_live_ssmk_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -1419,6 +1599,8 @@
   afterAdvAssetId: adv_live_ssmk_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -1434,6 +1616,8 @@
   afterAdvAssetId: adv_live_ssmk_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -1450,6 +1634,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -1466,6 +1652,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ssmk
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -1482,6 +1670,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-001
   type: ProduceLiveType_TrueEnd
@@ -1498,6 +1688,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-001
   type: ProduceLiveType_A
@@ -1514,6 +1706,8 @@
   afterAdvAssetId: adv_live_ttmr_001_end-01-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-001
   type: ProduceLiveType_B
@@ -1529,6 +1723,8 @@
   afterAdvAssetId: adv_live_ttmr_001_end-02-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-001
   type: ProduceLiveType_C
@@ -1544,6 +1740,8 @@
   afterAdvAssetId: adv_live_ttmr_001_end-03-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-001
   type: ProduceLiveType_D
@@ -1559,6 +1757,8 @@
   afterAdvAssetId: adv_live_ttmr_001_end-04-01
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-002
   type: ProduceLiveType_TrueEnd
@@ -1575,6 +1775,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-002
   type: ProduceLiveType_A
@@ -1591,6 +1793,8 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - characterId: ttmr
   produceGroupId: produce_group-003
   type: ProduceLiveType_A
@@ -1607,3 +1811,5 @@
   afterAdvAssetId: ""
   liveOverrideAssetId: ""
   additionalActorAssetIds: []
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
