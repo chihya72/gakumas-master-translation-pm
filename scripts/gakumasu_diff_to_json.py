@@ -51,7 +51,7 @@ primary_key_rules = {
     # "ForceAppVersion": [[], []],
     # "GashaAnimation": [[], []],
     # "GashaAnimationStep": [[], []],
-    "GashaButton": [["id", "order"], ["name", "description", "appealText", "highappealText"]],
+    "GashaButton": [["id", "order"], ["name", "description", "appealText", "highAppealText"]],
     # "GuildDonationItem": [[], []],
     # "GuildReaction": [[], []],
     "GvgRaid": [["id", "order"], ["name"]],
