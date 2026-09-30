@@ -77,16 +77,16 @@ make backup
 ```
 
 ### make update  
-**功能**：复制远端最新 YAML 到本地 orig，再调用现有脚本转换 JSON
+**功能**：拉取本仓库最新 YAML，再调用现有脚本转换 JSON
 **说明**：游戏 YAML 由本仓库 `Independent master data update` Actions 每小时独立检测、下载和解密，
 不再依赖远端 gakumasu-diff 推送。启用方法见 [独立同步说明](tools/campus/README.md)。
-更新逻辑在 `scripts/update_master_data.py` 中：下载 origin 仓库 main 的快照，
-只复制 `gakumasu-diff/orig/*.yaml` 和版本文件到本地，再运行现有
-`scripts/gakumasu_diff_to_json.py --strict`，输出 `gakumasu-diff/json`。
-它不拉取、合并或覆盖整仓库代码和翻译文件。下载或转换失败时返回非零退出码。
+Actions 将原始 YAML 直接提交到本仓库的 `gakumasu-diff/orig`，
+无需额外下载或复制。`scripts/update_master_data.py` 先执行本仓库的
+`git pull --ff-only`，成功后运行现有 `scripts/gakumasu_diff_to_json.py --strict`，
+输出 `gakumasu-diff/json`。拉取或转换失败时返回非零退出码。
 日常可直接运行更新脚本；`make update` 只保留调用入口。
-远端删除的 YAML 也会从本地 orig 移除，使两边表集合一致。
-如已自行复制 YAML，可直接运行原转换脚本，继续使用 `--source`、`--output`、`--strict` 参数。
+如只需取得最新 YAML，执行 `git pull --ff-only` 即可；JSON 转换仍在本机执行。
+如已拉取 YAML，可直接运行原转换脚本，继续使用 `--source`、`--output`、`--strict` 参数。
 ```bash
 make update
 ```

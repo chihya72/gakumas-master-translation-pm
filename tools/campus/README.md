@@ -133,7 +133,8 @@ Firebase Installations 文件中的 `RefreshToken` 属于另一套服务，不�
 
 ## 本机使用
 
-日常执行本地更新脚本，复制 Actions 已生成的 YAML 到本机 orig 后转换 JSON。
+Actions 已把原始 YAML 提交到本仓库 `gakumasu-diff/orig`，本地 git pull 即可取得，
+不需要复制数据。更新脚本负责拉取后调用原有脚本转换 JSON。
 在仓库根目录执行：
 
 ```powershell
@@ -146,11 +147,10 @@ if ($LASTEXITCODE -ne 0) { throw 'Local JSON conversion failed' }
 GitHub Actions 无法直接改写本机的 D 盘目录。
 如果原有目录仍是子模块，应在拉取迁移提交前确认子模块没有本地修改，
 移除其工作目录中的 `.git` 指针文件（保留主仓库 `.git/modules` 中的历史），再拉取。
-`make update` 只调用上述脚本。脚本下载 origin 仓库 main 的快照，仅复制其中的
-`gakumasu-diff/orig/*.yaml` 和版本文件，不对整仓库执行 git pull，不修改其他代码或翻译文件。
-复制时同步移除远端已删除的 YAML；随后调用原有转换脚本的 `--strict` 模式。
-下载或转换失败返回非零退出码。远端需先推送 orig 的子模块迁移和新工作流。
-如已自行复制本地 YAML，可直接运行 `gakumasu_diff_to_json.py`，继续使用 `--strict` 或自定义输入输出路径。
+`make update` 只调用上述脚本。脚本先执行本仓库 `git pull --ff-only`，再调用
+原有转换脚本的 `--strict` 模式。拉取失败不开始转换，转换失败返回非零退出码。
+如只需最新 YAML，直接 git pull 即可；如已拉取，可直接运行 `gakumasu_diff_to_json.py`，
+继续使用 `--strict` 或自定义输入输出路径。脚本不自动暂存、合并或提交本地修改。
 
 本地手动下载 YAML 需要 Go 1.25+ 和 64 位 GCC：
 
