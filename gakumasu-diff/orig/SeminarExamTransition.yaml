@@ -1,0 +1,194 @@
+- examEffectType: ProduceExamEffectType_ExamParameterBuff
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。好調は、パラメ
+    ータの上昇量をあげる効果があります。試験研修で
+    上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_01
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修１】好調
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamParameterBuff
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。好調は、パラメ
+    ータの上昇量をあげる効果があります。研修で上手
+    に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_01
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎１】好調
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamLessonBuff
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。集中は、値の分
+    だけパラメータの上昇値をあげる効果があります。
+    試験研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_02
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修２】集中
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamLessonBuff
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。集中は、値の分
+    だけパラメータの上昇値をあげる効果があります。
+    研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_02
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎２】集中
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamReview
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。好印象は、ター
+    ン終了時にパラメータをあげる効果があります。試
+    験研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_03
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修３】好印象
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamReview
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。好印象は、ター
+    ン終了時にパラメータをあげる効果があります。研
+    修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_03
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎３】好印象
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamCardPlayAggressive
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。やる気は、値の
+    分だけ元気の増加値をあげる効果があります。試験
+    研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_04
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修４】やる気
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamCardPlayAggressive
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。やる気は、値の
+    分だけ元気の増加値をあげる効果があります。研修
+    で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_04
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎４】やる気
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamConcentration
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。強気は、パラメ
+    ータ上昇量と消費体力を増加させる効果があります。
+    試験研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_05
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修６】強気
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamConcentration
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。強気は、パラメ
+    ータ上昇量と消費体力を増加させる効果があります。
+    研修で上手に使うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_07
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎８】強気
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamFullPower
+  isLessonInt: 0
+  description: |-
+    目標値に少し届きませんでしたね。全力は、パラメ
+    ータの上昇量をあげるほか、スキルカード使用数を
+    1回追加する効果があります。試験研修で上手に使
+    うコツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-03
+  seminarExamId: seminar_gruop-03_06
+  seminarExamGroupName: 試験研修
+  seminarExamName: 【試験研修５】全力
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- examEffectType: ProduceExamEffectType_ExamFullPower
+  isLessonInt: 1
+  description: |-
+    目標値に少し届きませんでしたね。全力は、パラメ
+    ータの上昇量をあげるほか、スキルカード使用数を
+    1回追加する効果があります。研修で上手に使うコ
+    ツを学んでみましょう！
+  seminarExamGroupId: seminar_gruop-01
+  seminarExamId: seminar_gruop-01_08
+  seminarExamGroupName: 基礎研修
+  seminarExamName: 【基礎７】全力
+  produceIds:
+  - produce-001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50

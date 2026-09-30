@@ -1,0 +1,697 @@
+- characterId: amao
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_amao_idle-001_pose
+  voiceAssetId: ""
+- characterId: amao
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_amao_cmmn_clothe-01
+- characterId: amao
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: amao
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_amao_glad-002_in
+  voiceAssetId: sud_vo_general_part_amao_021
+- characterId: amao
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_amao_yes-001_in
+  voiceAssetId: sud_vo_general_part_amao_021
+- characterId: amao
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-c-001_in
+  voiceAssetId: sud_vo_general_part_amao_001
+- characterId: amao
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds:
+  - mot_all_chr_amao_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-013_in
+  voiceAssetId: sud_vo_general_part_amao_001
+- characterId: atbm
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_atbm_idle-001_pose
+  voiceAssetId: ""
+- characterId: atbm
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_atbm_cmmn_clothe-01
+- characterId: atbm
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: atbm
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yaruki-c-001_in
+  voiceAssetId: sud_vo_general_part_atbm_028
+- characterId: atbm
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds:
+  - mot_all_chr_atbm_facial-all-unique-egao1_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-016_in
+  voiceAssetId: sud_vo_general_part_atbm_028
+- characterId: atbm
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-c-001_in
+  voiceAssetId: sud_vo_general_part_atbm_031
+- characterId: atbm
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds:
+  - mot_all_chr_atbm_facial-all-unique-egao1_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-009_in
+  voiceAssetId: sud_vo_general_part_atbm_031
+- characterId: fktn
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_fktn_idle-001_pose
+  voiceAssetId: ""
+- characterId: fktn
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-b-001_in
+  voiceAssetId: sud_vo_system_fktn_cmmn_clothe-01
+- characterId: fktn
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-001_in
+  voiceAssetId: ""
+- characterId: fktn
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_fktn_kime-002_in
+  voiceAssetId: sud_vo_general_part_fktn_004
+- characterId: fktn
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_fktn_kime-001_in
+  voiceAssetId: sud_vo_general_part_fktn_004
+- characterId: fktn
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-b-001_in
+  voiceAssetId: sud_vo_general_part_fktn_021
+- characterId: fktn
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_fktn_glad-001_in
+  voiceAssetId: sud_vo_general_part_fktn_021
+- characterId: hmsz
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hmsz_idle-001_pose
+  voiceAssetId: ""
+- characterId: hmsz
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-d-001_in
+  voiceAssetId: sud_vo_system_hmsz_cmmn_clothe-01
+- characterId: hmsz
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: hmsz
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds:
+  - mot_all_chr_cmmn_facial-all-jiai1-egao1_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-011_in
+  voiceAssetId: sud_vo_general_part_jsna_021
+- characterId: hmsz
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hmsz_glad-001_in
+  voiceAssetId: sud_vo_general_part_jsna_021
+- characterId: hmsz
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds:
+  - mot_all_chr_hmsz_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-006_in
+  voiceAssetId: sud_vo_general_part_jsna_001
+- characterId: hmsz
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-006_in
+  voiceAssetId: sud_vo_general_part_jsna_001
+- characterId: hrnm
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hrnm_idle-001_pose
+  voiceAssetId: ""
+- characterId: hrnm
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-d-001_in
+  voiceAssetId: sud_vo_system_hrnm_cmmn_clothe-01
+- characterId: hrnm
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: hrnm
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-d-001_in
+  voiceAssetId: sud_vo_general_part_hrnm_019
+- characterId: hrnm
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hrnm_glad-002_in
+  voiceAssetId: sud_vo_general_part_hrnm_019
+- characterId: hrnm
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-d-002_in
+  voiceAssetId: sud_vo_general_part_hrnm_025
+- characterId: hrnm
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-d-001_in
+  voiceAssetId: sud_vo_general_part_hrnm_025
+- characterId: hski
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hski_idle-001_pose
+  voiceAssetId: ""
+- characterId: hski
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_hski_cmmn_clothe-01
+- characterId: hski
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: hski
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-a-001_in
+  voiceAssetId: sud_vo_general_part_hski_001
+- characterId: hski
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hski_doya-002_in
+  voiceAssetId: sud_vo_general_part_hski_001
+- characterId: hski
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yaruki-a-001_in
+  voiceAssetId: sud_vo_general_part_hski_014
+- characterId: hski
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-006_in
+  voiceAssetId: sud_vo_general_part_hski_014
+- characterId: hume
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hume_idle-001_pose
+  voiceAssetId: ""
+- characterId: hume
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-b-001_in
+  voiceAssetId: sud_vo_system_hume_cmmn_clothe-01
+- characterId: hume
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-001_in
+  voiceAssetId: ""
+- characterId: hume
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hume_glad-002_in
+  voiceAssetId: sud_vo_general_part_hume_041
+- characterId: hume
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_hume_doya-001_in
+  voiceAssetId: sud_vo_general_part_hume_042
+- characterId: hume
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yaruki-b-001_in
+  voiceAssetId: sud_vo_general_part_hume_053
+- characterId: hume
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-b-001_in
+  voiceAssetId: sud_vo_general_part_hume_054
+- characterId: jsna
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_jsna_idle-001_pose
+  voiceAssetId: ""
+- characterId: jsna
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_jsna_cmmn_clothe-01
+- characterId: jsna
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: jsna
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds:
+  - mot_all_chr_jsna_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-013_in
+  voiceAssetId: sud_vo_general_part_jsna_021
+- characterId: jsna
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_jsna_doya-001_in
+  voiceAssetId: sud_vo_general_part_jsna_021
+- characterId: jsna
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-c-001_in
+  voiceAssetId: sud_vo_general_part_jsna_001
+- characterId: jsna
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-002_in
+  voiceAssetId: sud_vo_general_part_jsna_001
+- characterId: kcna
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_kcna_idle-001_pose
+  voiceAssetId: ""
+- characterId: kcna
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-b-001_in
+  voiceAssetId: sud_vo_system_kcna_cmmn_clothe-01
+- characterId: kcna
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-001_in
+  voiceAssetId: ""
+- characterId: kcna
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-b-001_in
+  voiceAssetId: sud_vo_general_part_kcna_028
+- characterId: kcna
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-002_in
+  voiceAssetId: sud_vo_general_part_kcna_031
+- characterId: kcna
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_kcna_glad-001_in
+  voiceAssetId: sud_vo_general_part_kcna_031
+- characterId: kcna
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-b-003_in
+  voiceAssetId: sud_vo_general_part_kcna_028
+- characterId: kllj
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_kllj_idle-001_pose
+  voiceAssetId: ""
+- characterId: kllj
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-d-001_in
+  voiceAssetId: sud_vo_system_kllj_cmmn_clothe-01
+- characterId: kllj
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: kllj
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_kllj_glad-001_in
+  voiceAssetId: sud_vo_general_part_kllj_023
+- characterId: kllj
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-d-001_in
+  voiceAssetId: sud_vo_general_part_kllj_030
+- characterId: kllj
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-002_in
+  voiceAssetId: sud_vo_general_part_kllj_023
+- characterId: kllj
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-d-002_in
+  voiceAssetId: sud_vo_general_part_kllj_030
+- characterId: nasr
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds:
+  - mot_all_chr_nasr_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-011_pose
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-d-001_in
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds:
+  - mot_all_chr_cmmn_facial-all-jiai1-egao1_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-027_in
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds:
+  - mot_all_chr_cmmn_facial-all-yowaki1-egao2_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-010_in
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-d-002_in
+  voiceAssetId: ""
+- characterId: nasr
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_glad-d-001_in
+  voiceAssetId: ""
+- characterId: shro
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_shro_idle-001_pose
+  voiceAssetId: ""
+- characterId: shro
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-d-001_in
+  voiceAssetId: sud_vo_system_shro_cmmn_clothe-01
+- characterId: shro
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: shro
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_shro_yes-001_in
+  voiceAssetId: sud_vo_general_part_shro_002
+- characterId: shro
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-004_in
+  voiceAssetId: sud_vo_general_part_shro_049
+- characterId: shro
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds:
+  - mot_all_chr_shro_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-004_in
+  voiceAssetId: sud_vo_general_part_shro_049
+- characterId: shro
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds:
+  - mot_all_chr_shro_facial-all-default_in
+  bodyAssetIds:
+  - mot_all_chr_cmmn_talk-007_in
+  voiceAssetId: sud_vo_general_part_shro_002
+- characterId: ssmk
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ssmk_idle-001_pose
+  voiceAssetId: ""
+- characterId: ssmk
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_ssmk_cmmn_clothe-01
+- characterId: ssmk
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: ssmk
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ssmk_yes-001_in
+  voiceAssetId: sud_vo_general_part_ssmk_003
+- characterId: ssmk
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ssmk_yes-002_in
+  voiceAssetId: sud_vo_general_part_ssmk_022
+- characterId: ssmk
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ssmk_yaruki-001_in
+  voiceAssetId: sud_vo_general_part_ssmk_003
+- characterId: ssmk
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ssmk_kime-001_in
+  voiceAssetId: sud_vo_general_part_ssmk_022
+- characterId: ttmr
+  motionType: CostumeMotionType_Wait
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ttmr_idle-001_pose
+  voiceAssetId: ""
+- characterId: ttmr
+  motionType: CostumeMotionType_Start
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_change-ac-001_in
+  voiceAssetId: sud_vo_system_ttmr_cmmn_clothe-01
+- characterId: ttmr
+  motionType: CostumeMotionType_Finish
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_dress_chr_cmmn_changefinish-002_in
+  voiceAssetId: ""
+- characterId: ttmr
+  motionType: CostumeMotionType_TapReaction
+  number: 1
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_ttmr_glad-001_in
+  voiceAssetId: sud_vo_general_part_ttmr_001
+- characterId: ttmr
+  motionType: CostumeMotionType_TapReaction
+  number: 2
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-006_in
+  voiceAssetId: sud_vo_general_part_ttmr_001
+- characterId: ttmr
+  motionType: CostumeMotionType_TapReaction
+  number: 3
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-002_in
+  voiceAssetId: sud_vo_general_part_ttmr_023
+- characterId: ttmr
+  motionType: CostumeMotionType_TapReaction
+  number: 4
+  facialAssetIds: []
+  bodyAssetIds:
+  - mot_all_chr_cmmn_yes-c-001_in
+  voiceAssetId: sud_vo_general_part_ttmr_023

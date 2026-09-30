@@ -1,6 +1,8 @@
+SHELL := pwsh.exe
+.SHELLFLAGS := -NoLogo -NoProfile -Command
+
 update:
-	cd gakumasu-diff/orig && git fetch && git checkout origin/main
-	python scripts/gakumasu_diff_to_json.py
+	[string[]]$$arguments = @('scripts\update_master_data.py'); & python @arguments; if ($$LASTEXITCODE -ne 0) { exit $$LASTEXITCODE }
 
 backup:
 	python scripts/pretranslate_process.py --backup

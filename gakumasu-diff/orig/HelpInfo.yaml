@@ -1,0 +1,1482 @@
+- type: Schedule
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-schedule-select
+- type: ScheduleShop
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-shop
+- type: ScheduleEvent
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-shool-actibity
+- type: SchedulePresent
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-present
+- type: ScheduleRefresh
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: ScheduleStoryPlayer
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ScheduleStepTransition
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: RemainActivateEffect
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: Exam
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ExamResult
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: AuditionBattleResult
+  helpCategoryIds:
+  - help-produce
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: AuditionBattleStart
+  helpCategoryIds:
+  - help-produce
+  - help-lesson
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: ProduceBeforeLiveEvaluate
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-live
+- type: ProduceEvaluate
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-result
+- type: ProduceResult
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-result
+- type: ProduceSupportCardDetail
+  helpCategoryIds:
+  - help-support
+  openHelpCategoryId: help-support
+  openHelpContentId: support-support-card
+- type: ProduceMemoryDetail
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: ""
+- type: ProduceResultPhotoSave
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-live
+- type: ProduceResultPhotoSaveOverSelect
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-live
+- type: ProduceSelectInfoDetail
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: ProduceResultLast
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-result
+- type: ProduceResultStoryEvent
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-result
+- type: HomeTop
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: ""
+- type: HomeGashaResult
+  helpCategoryIds:
+  - help-gasha
+  openHelpCategoryId: help-gasha
+  openHelpContentId: ""
+- type: HomeGashaAnimation
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: CardIdolCardList
+  helpCategoryIds:
+  - help-idol
+  openHelpCategoryId: help-idol
+  openHelpContentId: idol-idol-card
+- type: CardIdolCardDetail
+  helpCategoryIds:
+  - help-idol
+  openHelpCategoryId: help-idol
+  openHelpContentId: idol-idol-card
+- type: CardSupportCardList
+  helpCategoryIds:
+  - help-support
+  openHelpCategoryId: help-support
+  openHelpContentId: support-support-card
+- type: CardSupportCardDetail
+  helpCategoryIds:
+  - help-support
+  openHelpCategoryId: help-support
+  openHelpContentId: support-support-card
+- type: CardIdolCardPreview
+  helpCategoryIds:
+  - help-idol
+  openHelpCategoryId: help-idol
+  openHelpContentId: idol-idol-card
+- type: CardSupportCardExchangeSelect
+  helpCategoryIds:
+  - help-support
+  openHelpCategoryId: help-support
+  openHelpContentId: support-support-card-exchange
+- type: ProduceTop
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: ProduceIdolSelect
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-idol-card-select
+- type: ProduceStart
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-confirm
+- type: ProduceSupportCardSelect
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-support-card-deck-edit
+- type: ProduceMemorySelect
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-memory-deck-edit
+- type: ProduceRankingTop
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-produce-ranking
+- type: ProduceRankingList
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-produce-ranking
+- type: ProduceSupportCardDeckEdit
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-support-card-deck-edit
+- type: ProduceMemoryDeckEdit
+  helpCategoryIds:
+  - help-produce
+  - help-idol
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-memory-deck-edit
+- type: ProduceSupportCardSelectList
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-support-card-deck-edit
+- type: ProduceMemorySelectList
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-memory-deck-edit
+- type: ProduceSelectInfo
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: ""
+- type: ProduceDeckTemplateEdit
+  helpCategoryIds:
+  - help-produce
+  - help-support
+  - help-memory
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryList
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: memory-memory
+- type: MemoryDetail
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: ""
+- type: MemorySell
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: memory-memory-convert
+- type: ShopTop
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: ""
+- type: CoinGashaTop
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-coingasha
+- type: CoinGashaResult
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ShopList
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-itemshop
+- type: ShopJewel
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-jewel
+- type: ShopPass
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-mission-pass
+- type: ExchangeTicketSelect
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-exchange-ticket
+- type: ExchangeTicketList
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-exchange-ticket
+- type: ExchangeDailyList
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-exchange-daily
+- type: ExchangeItemList
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-exchange
+- type: ExchangeItemSelect
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-exchange
+- type: ItemTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-item
+- type: ItemSell
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-item
+- type: ItemExchange
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: ""
+- type: PresentTop
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: ""
+- type: RosterTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: RosterIdolDetail
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: RosterIdolCardList
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: RosterVoiceTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: RosterCommonVoice
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: RosterIdolCardVoice
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-roster
+- type: MissionTop
+  helpCategoryIds:
+  - help-mission
+  openHelpCategoryId: help-mission
+  openHelpContentId: ""
+- type: MissionPass
+  helpCategoryIds:
+  - help-mission
+  openHelpCategoryId: help-mission
+  openHelpContentId: mission-pass
+- type: MissionSpecial
+  helpCategoryIds:
+  - help-mission
+  openHelpCategoryId: help-mission
+  openHelpContentId: mission-special
+- type: MissionDailyRelease
+  helpCategoryIds:
+  - help-event-mission
+  openHelpCategoryId: help-event-mission
+  openHelpContentId: event-mission-rookie
+- type: PanelMission
+  helpCategoryIds:
+  - help-panel-mission
+  openHelpCategoryId: help-panel-mission
+  openHelpContentId: panel-mission-panel-mission
+- type: WorkTop
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: home-work
+- type: WorkSelect
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: home-work
+- type: StoryIdol
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-idol
+- type: StoryPlayer
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: ""
+- type: StoryMainPart
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-main
+- type: StoryMainChapter
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-main
+- type: StoryMainSection
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-main
+- type: StoryEventSelect
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: ""
+- type: StoryEventSection
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: ""
+- type: StoryIdolList
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-idol
+- type: StoryIdolSupportCard
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-support-card
+- type: StoryIdolSupportCardDetail
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-support-card
+- type: StoryEventList
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-event-story
+- type: MainTaskTop
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: home-main-task
+- type: MainTaskDetail
+  helpCategoryIds:
+  - help-home
+  openHelpCategoryId: help-home
+  openHelpContentId: home-main-task
+- type: AchievementTop
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-achievement
+- type: AchievementIdol
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-idol
+- type: AchievementList
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-achievement
+- type: AchievementIdolList
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-idol
+- type: ProfileTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-profile
+- type: ProfileOthers
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-profile
+- type: ProfileMemorySelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-profile
+- type: ProfileSupportSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-profile
+- type: MusicPlayer
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-music
+- type: MusicSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-music
+- type: PictureBookIdolSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-live-shooting
+- type: PictureBookLiveSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-live-shooting
+- type: PictureBookProduceCollection
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-produce-collection
+- type: GuildTop
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: ""
+- type: GuildList
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: ""
+- type: GuildMember
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: ""
+- type: GuildDonation
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: ""
+- type: GuildEdit
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: ""
+- type: GuildAchievementSelect
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: guild-Guild
+- type: GuildLeaderChange
+  helpCategoryIds:
+  - help-guild
+  openHelpCategoryId: help-guild
+  openHelpContentId: guild-Guild
+- type: FriendTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-friend
+- type: SettingTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-setting
+- type: MediaTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-media
+- type: MediaMovie
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-media
+- type: MediaComic
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-media
+- type: MediaMoviePlay
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-media
+- type: CostumeIdolList
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-costume
+- type: CostumeSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-costume
+- type: PhotoAlbumTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-album-to-live
+- type: PhotoAlbumManage
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-album-to-live
+- type: DailyLoginBonus
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: EventSimpleLoginBonus
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: EventSpecialLoginBonus
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryEventTop
+  helpCategoryIds:
+  - help-story-event
+  openHelpCategoryId: help-story-event
+  openHelpContentId: story-event-event-story
+- type: StoryEventPointReward
+  helpCategoryIds:
+  - help-story-event
+  openHelpCategoryId: help-story-event
+  openHelpContentId: story-event-event-point
+- type: StoryEventMission
+  helpCategoryIds:
+  - help-event_mission
+  openHelpCategoryId: help-event_mission
+  openHelpContentId: event_mission-event_mission
+- type: OthersTop
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ContestOpening
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestPreparation
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestMatchResult
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestTotalResult
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestHistoryResult
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestRehearsalResult
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestLogTop
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestLogDetail
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: ContestSlotDetail
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: InviteCodePublication
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-friend-invite
+- type: InvitedFriendProgressList
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-friend-invite
+- type: PvpRateTop
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: PvpRateBattleConfirm
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: PvpRateUnitEdit
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: PvpRateReward
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: PvpRateSlotEdit
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: PvpRateMainMemorySelect
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: PvpRateSubMemorySelect
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: PvpRateRanking
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-contest-ranking
+- type: PvpRateMatchHistory
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: PvpRateSlotDetail
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-squad
+- type: PvpRatePrepare
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: TutorialIdolSelect
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: TutorialIdolSelectDetail
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: TutorialIdolReceive
+  helpCategoryIds:
+  - help-idol
+  openHelpCategoryId: help-idol
+  openHelpContentId: idol-idol-card
+- type: TutorialIdolReceiveDetail
+  helpCategoryIds:
+  - help-idol
+  openHelpCategoryId: help-idol
+  openHelpContentId: idol-idol-card
+- type: MeishiTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-meishi
+- type: MeishiEdit
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-meishi
+- type: MeishiEditLayout
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-meishi
+- type: SeminarTop
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-seminar
+- type: StartupMoviePlay
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryEventTopMainStory
+  helpCategoryIds:
+  - help-main-story-event
+  openHelpCategoryId: help-main-story-event
+  openHelpContentId: help-main-story-event-story
+- type: StoryEventTopBoxGasha
+  helpCategoryIds:
+  - help-box-gasha-event
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryEventMissionMainStory
+  helpCategoryIds:
+  - help-main-story-event
+  openHelpCategoryId: help-main-story-event
+  openHelpContentId: help-main-story-event-mission
+- type: StoryEventBoxGashaDetail
+  helpCategoryIds:
+  - help-box-gasha-event
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryEventBoxGashaResult
+  helpCategoryIds:
+  - help-box-gasha-event
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: TowerTop
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower
+- type: TowerStage
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower
+- type: GashaAnimation
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: GashaResult
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: AchievementProduceList
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-produce-achievement
+- type: AchievementOtherList
+  helpCategoryIds:
+  - help-achievement
+  openHelpCategoryId: help-achievement
+  openHelpContentId: achievement-others
+- type: CardExchangeAnimation
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MediaFourPanelComic
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-media
+- type: TowerResult
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: PvpRateRehearsal
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: ""
+- type: TowerBattleConfirm
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower
+- type: TowerMainMemorySelect
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: memory-memory-tower
+- type: TowerSubMemorySelect
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: memory-memory-tower
+- type: PhotographyPhotoSave
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: PhotographyPhotoSaveOverSelect
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: HighScoreEventTop
+  helpCategoryIds:
+  - help-highscore
+  openHelpCategoryId: help-highscore
+  openHelpContentId: ""
+- type: HighScoreEventRanking
+  helpCategoryIds:
+  - help-highscore
+  openHelpCategoryId: help-highscore
+  openHelpContentId: ""
+- type: HighScoreEventReward
+  helpCategoryIds:
+  - help-highscore
+  openHelpCategoryId: help-highscore
+  openHelpContentId: ""
+- type: ProduceChallengeItemDeckEdit
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryCampaignList
+  helpCategoryIds:
+  - help-story
+  openHelpCategoryId: help-story
+  openHelpContentId: story-story-event-story
+- type: StoryCampaignSection
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: StoryEventGuildMissionTop
+  helpCategoryIds:
+  - help-story-event-guild-mission
+  openHelpCategoryId: help-story-event-guild-mission
+  openHelpContentId: guild-mission
+- type: MeishiQRCode
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-meishi
+- type: MeishiEditCustom
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-meishi
+- type: PhotographyPrepareTop
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-live-shooting
+- type: PhotographyPrepareStageSelect
+  helpCategoryIds:
+  - help-menu
+  openHelpCategoryId: help-menu
+  openHelpContentId: menu-live-shooting
+- type: PhotographyPrepareMotionList
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: PhotographyPrepareModelList
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryReviewPhotoSelect
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryInheritSelectCard
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryInheritSelectMemory
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryInheritConfirm
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: MemoryInheritResult
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ShopCostume
+  helpCategoryIds:
+  - help-shop
+  openHelpCategoryId: help-shop
+  openHelpContentId: shop-costume
+- type: AngyaResult
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaLogDetail
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaPreparation
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaPointProgress
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaTop
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaStageDetail
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaReward
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaSlotEdit
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaSubMemorySelect
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaMainMemorySelect
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: AngyaBattleConfirm
+  helpCategoryIds:
+  - help-circle-battle-event
+  openHelpCategoryId: help-circle-battle-event
+  openHelpContentId: ""
+- type: ProduceBeforeLiveEvaluateNia
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-true-end-2
+- type: ProduceResultLastNia
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-result
+- type: ProduceAuditionSelect
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-nia_audition
+- type: ScheduleBusiness
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-business
+- type: ScheduleFanPresent
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-fanpresent
+- type: ScheduleSelfLesson
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-self_lesson
+- type: ScheduleCustomize
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-customize
+- type: MemoryInheritDetail
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: memory-memory-inherit
+- type: TowerCharacterRanking
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower-ranking
+- type: TowerStageRankingTop
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower-ranking
+- type: TowerStageRankingList
+  helpCategoryIds:
+  - help-tower
+  openHelpCategoryId: help-tower
+  openHelpContentId: tower-ranking
+- type: HighScoreRushEventTop
+  helpCategoryIds:
+  - help-highscorerush
+  openHelpCategoryId: help-highscorerush
+  openHelpContentId: highscorerush-highscorerush
+- type: ProfileReport
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: IdolDearnessTop
+  helpCategoryIds:
+  - help-dearness-top
+  openHelpCategoryId: help-dearness-top
+  openHelpContentId: help-dearness-top-info
+- type: IdolDearnessLevelList
+  helpCategoryIds:
+  - help-dearness-map
+  openHelpCategoryId: help-dearness-map
+  openHelpContentId: help-dearness-map-info
+- type: IdolDearnessPanelMission
+  helpCategoryIds:
+  - help-dearness-doost-campaign
+  openHelpCategoryId: help-dearness-doost-campaign
+  openHelpContentId: help-dearness-doost-campaign-info
+- type: HighScoreRushEventRanking
+  helpCategoryIds:
+  - help-highscorerush
+  openHelpCategoryId: help-highscorerush
+  openHelpContentId: highscorerush-ranking
+- type: HighScoreRushEventReward
+  helpCategoryIds:
+  - help-highscorerush
+  openHelpCategoryId: help-highscorerush
+  openHelpContentId: highscorerush-score-reward
+- type: HighScoreRushEventGashaDetail
+  helpCategoryIds:
+  - help-highscorerush
+  openHelpCategoryId: help-highscorerush
+  openHelpContentId: highscorerush-event-gasha
+- type: TourResult
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourLogDetail
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourPointProgress
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourTop
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourStageDetail
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourBattleConfirm
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourMainMemorySelect
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourSubMemorySelect
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: TourReward
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: tour-reward
+- type: TourRanking
+  helpCategoryIds:
+  - help-livetour-event
+  openHelpCategoryId: help-livetour-event
+  openHelpContentId: ""
+- type: ResearchEventTop
+  helpCategoryIds:
+  - help-research-event
+  openHelpCategoryId: help-research-event
+  openHelpContentId: ""
+- type: ResearchEventRanking
+  helpCategoryIds:
+  - help-research-event
+  openHelpCategoryId: help-research-event
+  openHelpContentId: ""
+- type: ResearchEventMemorySelect
+  helpCategoryIds:
+  - help-research-event
+  openHelpCategoryId: help-research-event
+  openHelpContentId: ""
+- type: ResearchEventAbilityReroll
+  helpCategoryIds:
+  - help-research-event
+  openHelpCategoryId: help-research-event
+  openHelpContentId: ""
+- type: ProduceDeckTemplateList
+  helpCategoryIds:
+  - help-produce
+  - help-support
+  - help-memory
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ProduceDeckCopyTemplate
+  helpCategoryIds:
+  - help-produce
+  - help-support
+  - help-memory
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ProduceMemoryList
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: memory-memory
+- type: ProducerRankingTop
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingCharacterRanking
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingTotalRanking
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingCharacterReward
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingTotalReward
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingShareSetting
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProducerRankingCharacterDetail
+  helpCategoryIds:
+  - help-producer-ranking
+  openHelpCategoryId: help-producer-ranking
+  openHelpContentId: producer-ranking
+- type: ProduceCardConvertDetail
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: ProduceCardConvert
+- type: ProduceCardConvertTop
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: ProduceCardConvert
+- type: CompetitionResult
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionPreparation
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionResultRehearsal
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionResultLog
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionTop
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionBattleConfirm
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionUnitEdit
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: competition-squad
+- type: CompetitionUnitSlotEdit
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: competition-squad
+- type: CompetitionRanking
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionHistory
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionReward
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionBattleLog
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionUnitTemplate
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: competition-squad
+- type: CompetitionUnitTemplateVertical
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: competition-squad
+- type: CompetitionUnitCopy
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: competition-squad
+- type: CompetitionBattleSummary
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionRehearsalTop
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: CompetitionRehearsalBattleConfirm
+  helpCategoryIds:
+  - help-competition
+  openHelpCategoryId: help-competition
+  openHelpContentId: ""
+- type: ProfileBadgeSelect
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: OthersMeishiBlockList
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: GashaContinuousResult
+  helpCategoryIds: []
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ProduceBeforeLiveEvaluateHif
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ProduceResultLastHif
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ProduceResultLastHifQualify
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: AuditionBattleResultHif
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: ScheduleOpenLesson
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-hif-produce-open-lesson
+- type: ProduceSelectionMemoryList
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-selection-memory
+- type: ProduceSelectionMemoryDetail
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-selection-memory
+- type: ScheduleInterval
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-hif-produce-schedule-interval
+- type: SelectionMemoryList
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: help-selection-memory
+- type: SelectionMemoryDetail
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: help-memory
+  openHelpContentId: help-selection-memory
+- type: SelectionMemorySell
+  helpCategoryIds:
+  - help-memory
+  openHelpCategoryId: ""
+  openHelpContentId: ""
+- type: PvpRateUnitTemplate
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: PvpRateUnitTemplateLoad
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: PvpRateUnitTemplateSave
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: PvpRateUnitTemplateEdit
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: PvpRateUnitTemplateMainMemorySelect
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: PvpRateUnitTemplateSubMemorySelect
+  helpCategoryIds:
+  - help-contest
+  openHelpCategoryId: help-contest
+  openHelpContentId: contest-myunit
+- type: ProduceGrowthPanelList
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-hif-bonus
+- type: ProduceGrowthPanelMission
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: help-hif-bonus
+- type: ResearchEventPointReward
+  helpCategoryIds:
+  - help-research-event
+  openHelpCategoryId: help-research-event
+  openHelpContentId: research-event-event-point
+- type: ProduceCardSkinTop
+  helpCategoryIds:
+  - help-produce_card_skin
+  openHelpCategoryId: help-produce_card_skin
+  openHelpContentId: help-produce_card_skin
+- type: GradeMissionTop
+  helpCategoryIds:
+  - help-grade-mission
+  openHelpCategoryId: help-grade-mission
+  openHelpContentId: grade-mission
+- type: GradeMissionShareSetting
+  helpCategoryIds:
+  - help-grade-mission
+  openHelpCategoryId: help-grade-mission
+  openHelpContentId: grade-mission
+- type: ProducerRankingRecommendReplay
+  helpCategoryIds:
+  - help-produce
+  openHelpCategoryId: help-produce
+  openHelpContentId: produce-replay
+- type: TrailEventTop
+  helpCategoryIds:
+  - help-trail
+  openHelpCategoryId: help-trail
+  openHelpContentId: trail

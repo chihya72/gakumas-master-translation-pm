@@ -1,0 +1,55 @@
+- threshold: 100
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- threshold: 200
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- threshold: 400
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- threshold: 700
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- threshold: 1000
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- threshold: 1300
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 300
+- threshold: 1600
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 300
+- threshold: 2000
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- threshold: 2300
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 300
+- threshold: 2600
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 300
+- threshold: 3000
+  reward:
+    resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400

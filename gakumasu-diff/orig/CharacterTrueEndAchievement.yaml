@@ -1,0 +1,306 @@
+- characterId: amao
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-amao-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-amao-014
+    threshold: 1
+  - id: achieve-p_idol-amao-011
+    threshold: 9
+  - id: achieve-p_idol-amao-001
+    threshold: 250
+- characterId: amao
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-amao-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: amao
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-amao-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: atbm
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-atbm-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-atbm-014
+    threshold: 1
+  - id: achieve-p_idol-atbm-011
+    threshold: 9
+  - id: achieve-p_idol-atbm-002
+    threshold: 10
+- characterId: atbm
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-atbm-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: fktn
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-fktn-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-fktn-014
+    threshold: 1
+  - id: achieve-p_idol-fktn-011
+    threshold: 9
+  - id: achieve-p_idol-fktn-012
+    threshold: 50000
+- characterId: fktn
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-fktn-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: fktn
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-fktn-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: hmsz
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-hmsz-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-hmsz-014
+    threshold: 1
+  - id: achieve-p_idol-hmsz-011
+    threshold: 9
+  - id: achieve-p_idol-hmsz-002
+    threshold: 10
+- characterId: hmsz
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-hmsz-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: hmsz
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-hmsz-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: hrnm
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-hrnm-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-hrnm-014
+    threshold: 1
+  - id: achieve-p_idol-hrnm-011
+    threshold: 9
+  - id: achieve-p_idol-hrnm-003
+    threshold: 15
+- characterId: hrnm
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-hrnm-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: hrnm
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-hrnm-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: hski
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-hski-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-hski-014
+    threshold: 1
+  - id: achieve-p_idol-hski-011
+    threshold: 9
+  - id: achieve-p_idol-hski-009
+    threshold: 5
+- characterId: hski
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-hski-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: hski
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-hski-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: hume
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-hume-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-hume-014
+    threshold: 1
+  - id: achieve-p_idol-hume-011
+    threshold: 9
+  - id: achieve-p_idol-hume-013
+    threshold: 1000
+- characterId: hume
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-hume-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: hume
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-hume-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: jsna
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-jsna-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-jsna-014
+    threshold: 1
+  - id: achieve-p_idol-jsna-011
+    threshold: 9
+  - id: achieve-p_idol-jsna-002
+    threshold: 10
+- characterId: jsna
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-jsna-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: jsna
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-jsna-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: kcna
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-kcna-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-kcna-014
+    threshold: 1
+  - id: achieve-p_idol-kcna-011
+    threshold: 9
+  - id: achieve-p_idol-kcna-003
+    threshold: 15
+- characterId: kcna
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-kcna-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: kcna
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-kcna-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: kllj
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-kllj-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-kllj-014
+    threshold: 1
+  - id: achieve-p_idol-kllj-011
+    threshold: 9
+  - id: achieve-p_idol-kllj-001
+    threshold: 250
+- characterId: kllj
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-kllj-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: kllj
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-kllj-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: shro
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-shro-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-shro-014
+    threshold: 1
+  - id: achieve-p_idol-shro-011
+    threshold: 9
+  - id: achieve-p_idol-shro-012
+    threshold: 50000
+- characterId: shro
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-shro-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: shro
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-shro-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: ssmk
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-ssmk-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-ssmk-014
+    threshold: 1
+  - id: achieve-p_idol-ssmk-011
+    threshold: 9
+  - id: achieve-p_idol-ssmk-009
+    threshold: 5
+- characterId: ssmk
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-ssmk-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: ssmk
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-ssmk-000-2
+    threshold: 1
+  targetAchievements: []
+- characterId: ttmr
+  produceType: ProduceType_FirstStar
+  trueEndAchievement:
+    id: achieve-p_idol-ttmr-000
+    threshold: 1
+  targetAchievements:
+  - id: achieve-p_idol-ttmr-014
+    threshold: 1
+  - id: achieve-p_idol-ttmr-011
+    threshold: 9
+  - id: achieve-p_idol-ttmr-013
+    threshold: 15
+- characterId: ttmr
+  produceType: ProduceType_NextIdolAudition
+  trueEndAchievement:
+    id: achieve-p_idol-ttmr-000-1
+    threshold: 1
+  targetAchievements: []
+- characterId: ttmr
+  produceType: ProduceType_HatsuboshiIdolFestival
+  trueEndAchievement:
+    id: achieve-p_idol-ttmr-000-2
+    threshold: 1
+  targetAchievements: []

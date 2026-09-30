@@ -1,0 +1,81 @@
+name: Independent master data update
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [master-updated]
+  push:
+    branches: [main]
+    paths:
+      - 'tools/campus/**'
+      - 'scripts/sync_master_data.ps1'
+      - '.github/workflows/master-data-update.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: independent-master-data-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: windows-2025
+    timeout-minutes: 45
+    defaults:
+      run:
+        shell: pwsh
+    env:
+      CGO_ENABLED: '1'
+      CC: gcc
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.25.x'
+          cache-dependency-path: tools/campus/go.sum
+      - name: Build master downloader
+        working-directory: tools/campus
+        run: |
+          [string[]]$arguments = @('test', '-mod=readonly', './master')
+          & go @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Testing master schema decoding failed' }
+          [string[]]$arguments = @('build', '-mod=mod', '-o', 'campus.exe', '.')
+          & go @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Building campus failed' }
+      - name: Check game version and generate YAML
+        id: sync
+        env:
+          CAMPUS_REFRESH_TOKEN: ${{ secrets.CAMPUS_REFRESH_TOKEN }}
+          CAMPUS_APP_VERSION: ${{ vars.CAMPUS_APP_VERSION }}
+        run: |
+          $script = Join-Path $env:GITHUB_WORKSPACE 'scripts\sync_master_data.ps1'
+          & $script
+      - name: Commit updated master data
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          [string[]]$arguments = @('config', 'user.name', 'github-actions[bot]')
+          & git @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Setting Git author failed' }
+          [string[]]$arguments = @('config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com')
+          & git @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Setting Git email failed' }
+          [string[]]$arguments = @('add', '--', 'gakumasu-diff/orig', 'gakumasu-diff/master-version.txt')
+          & git @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Staging data failed' }
+          [string[]]$arguments = @('diff', '--cached', '--name-only')
+          $changed = & git @arguments
+          if ($LASTEXITCODE -ne 0) { throw 'Reading staged data failed' }
+          if ($changed) {
+            $version = (Get-Content -LiteralPath (Join-Path $env:GITHUB_WORKSPACE 'gakumasu-diff\master-version.txt') -Raw).Trim()
+            [string[]]$arguments = @('commit', '-m', "Update game master data: $version")
+            & git @arguments
+            if ($LASTEXITCODE -ne 0) { throw 'Committing data failed' }
+            [string[]]$arguments = @('push', 'origin', 'HEAD:main')
+            & git @arguments
+            if ($LASTEXITCODE -ne 0) { throw 'Pushing data failed; main may have advanced, rerun the workflow' }
+          }

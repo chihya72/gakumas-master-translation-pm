@@ -1,0 +1,903 @@
+- missionPointId: comeback_daily_release_mission_001_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-staminaregen-1
+    quantity: 10
+- missionPointId: comeback_daily_release_mission_001_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-staminaregen-1
+    quantity: 10
+- missionPointId: comeback_daily_release_mission_001_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-gashaticket-10
+    quantity: 1
+- missionPointId: comeback_daily_release_mission_003_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-staminaregen-1
+    quantity: 10
+- missionPointId: comeback_daily_release_mission_003_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-staminaregen-1
+    quantity: 10
+- missionPointId: comeback_daily_release_mission_003_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-gashaticket-10
+    quantity: 1
+- missionPointId: daily_mission_NIA_clear_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 500
+- missionPointId: daily_mission_NIA_clear_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 500
+- missionPointId: daily_mission_NIA_clear_point
+  point: 50
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-gashaticket-ssr-support-fix-nia-1
+    quantity: 1
+- missionPointId: highscore-event-001_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-money
+    quantity: 4000
+- missionPointId: highscore-event-001_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-support_card_enhance_point
+    quantity: 2000
+- missionPointId: highscore-event-001_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- missionPointId: highscore-event-002_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-money
+    quantity: 4000
+- missionPointId: highscore-event-002_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-support_card_enhance_point
+    quantity: 2000
+- missionPointId: highscore-event-002_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- missionPointId: highscore-event-003_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 100
+- missionPointId: highscore-event-003_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 100
+- missionPointId: highscore-event-003_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- missionPointId: highscore-event-004_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 100
+- missionPointId: highscore-event-004_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 100
+- missionPointId: highscore-event-004_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200
+- missionPointId: highscorerush-event-001_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-001_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-001_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-002_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-002_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-002_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-003_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-003_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-003_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-004_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-004_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-004_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-005_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-005_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-005_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-006_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-006_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-006_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-007_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-007_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-007_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-008_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-008_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-008_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-009_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-009_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-009_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-010_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-010_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-010_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-011_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-011_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-011_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-012_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-012_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-012_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-013_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-013_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-013_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-014_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-014_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-014_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: highscorerush-event-015_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-015_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-limitovermaterial-3
+    quantity: 1
+- missionPointId: highscorerush-event-015_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 400
+- missionPointId: main-story-event-001_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-01
+    quantity: 1
+- missionPointId: main-story-event-001_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-02
+    quantity: 1
+- missionPointId: main-story-event-001_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-03
+    quantity: 1
+- missionPointId: main-story-event-001_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-04
+    quantity: 1
+- missionPointId: main-story-event-001_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-05
+    quantity: 1
+- missionPointId: main-story-event-002_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-06
+    quantity: 1
+- missionPointId: main-story-event-002_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-07
+    quantity: 1
+- missionPointId: main-story-event-002_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-08
+    quantity: 1
+- missionPointId: main-story-event-002_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-09
+    quantity: 1
+- missionPointId: main-story-event-002_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-10
+    quantity: 1
+- missionPointId: main-story-event-003_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-11
+    quantity: 1
+- missionPointId: main-story-event-003_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-12
+    quantity: 1
+- missionPointId: main-story-event-003_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-13
+    quantity: 1
+- missionPointId: main-story-event-003_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-14
+    quantity: 1
+- missionPointId: main-story-event-003_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-02-15
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-01
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-02
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-03
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-04
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 50
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-05
+    quantity: 1
+- missionPointId: main-story-event-004_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-06
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-07
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-08
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-09
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-10
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 50
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-11
+    quantity: 1
+- missionPointId: main-story-event-005_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-03-12
+    quantity: 1
+- missionPointId: main-story-event-006_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-01
+    quantity: 1
+- missionPointId: main-story-event-006_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-02
+    quantity: 1
+- missionPointId: main-story-event-006_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-03
+    quantity: 1
+- missionPointId: main-story-event-006_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-04
+    quantity: 1
+- missionPointId: main-story-event-006_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-05
+    quantity: 1
+- missionPointId: main-story-event-007_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-06
+    quantity: 1
+- missionPointId: main-story-event-007_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-07
+    quantity: 1
+- missionPointId: main-story-event-007_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-08
+    quantity: 1
+- missionPointId: main-story-event-007_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-09
+    quantity: 1
+- missionPointId: main-story-event-007_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-10
+    quantity: 1
+- missionPointId: main-story-event-008_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-11
+    quantity: 1
+- missionPointId: main-story-event-008_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-12
+    quantity: 1
+- missionPointId: main-story-event-008_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-13
+    quantity: 1
+- missionPointId: main-story-event-008_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-14
+    quantity: 1
+- missionPointId: main-story-event-008_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-15
+    quantity: 1
+- missionPointId: main-story-event-009_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-16
+    quantity: 1
+- missionPointId: main-story-event-009_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-17
+    quantity: 1
+- missionPointId: main-story-event-009_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-18
+    quantity: 1
+- missionPointId: main-story-event-009_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-19
+    quantity: 1
+- missionPointId: main-story-event-009_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-20
+    quantity: 1
+- missionPointId: main-story-event-010_point
+  point: 10
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-21
+    quantity: 1
+- missionPointId: main-story-event-010_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-22
+    quantity: 1
+- missionPointId: main-story-event-010_point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-23
+    quantity: 1
+- missionPointId: main-story-event-010_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-24
+    quantity: 1
+- missionPointId: main-story-event-010_point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_Story
+    resourceId: story-main-01-04-25
+    quantity: 1
+- missionPointId: mission-daily-point
+  point: 30
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 50
+- missionPointId: mission-daily-point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 50
+- missionPointId: mission-daily-point
+  point: 100
+  isFeature: true
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+- missionPointId: mission-release_memorial_point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 500
+- missionPointId: mission-release_memorial_point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 500
+- missionPointId: mission-release_memorial_point
+  point: 60
+  isFeature: true
+  rewards:
+  - resourceType: ResourceType_Item
+    resourceId: item-gashaticket-ssr-idol-fix_1
+    quantity: 1
+- missionPointId: mission-weekly-point
+  point: 20
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 50
+- missionPointId: mission-weekly-point
+  point: 40
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 50
+- missionPointId: mission-weekly-point
+  point: 60
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 100
+- missionPointId: mission-weekly-point
+  point: 80
+  isFeature: false
+  rewards:
+  - resourceType: ResourceType_MissionPassPoint
+    resourceId: mission_pass_point-001
+    quantity: 100
+- missionPointId: mission-weekly-point
+  point: 100
+  isFeature: true
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 200

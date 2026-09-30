@@ -1,0 +1,10 @@
+- type: WorkType_MiniLive
+  name: ミニライブ
+  unlockConditionSetId: ""
+  rewardResourceType: ResourceType_Item
+  rewardResourceId: item-limitovermaterial-2
+- type: WorkType_LiveStreaming
+  name: ライブ配信
+  unlockConditionSetId: ""
+  rewardResourceType: ResourceType_Item
+  rewardResourceId: item-support_card_enhance_point
