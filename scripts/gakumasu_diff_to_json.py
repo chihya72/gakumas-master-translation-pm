@@ -6,6 +6,8 @@ from yaml.reader import Reader
 import re
 import argparse
 from pathlib import Path
+import tempfile
+import time
 
 
 primary_key_rules = {
@@ -346,6 +348,49 @@ def load_yaml_table(content):
     return yaml.load(content, CustomLoader)
 
 
+def write_json_file(destination, result):
+    """Publish complete JSON; avoid truncating files while Windows maps them."""
+    destination = Path(destination)
+    pending = None
+    try:
+        with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', newline='\n',
+                                         dir=destination.parent, prefix=f'.{destination.name}.',
+                                         suffix='.tmp', delete=False) as output:
+            pending = Path(output.name)
+            json.dump(result, output, ensure_ascii=False, indent=4)
+        # Repeated updates of the same game version should not touch files
+        # which an editor, indexer, or diff viewer may currently be mapping.
+        try:
+            with destination.open('rb') as old, pending.open('rb') as new:
+                while True:
+                    old_block, new_block = old.read(65536), new.read(65536)
+                    if old_block != new_block:
+                        break
+                    if not new_block:
+                        return
+        except FileNotFoundError:
+            pass
+        deadline = time.monotonic() + 3
+        waiting_reported = False
+        while True:
+            try:
+                pending.replace(destination)
+                return
+            except OSError as error:
+                # Windows may report access denied, sharing violation, a lock
+                # violation, or a mapped section for this replacement race.
+                if (os.name != 'nt' or getattr(error, 'winerror', None) not in (5, 32, 33, 1224)
+                        or time.monotonic() >= deadline):
+                    raise
+                if not waiting_reported:
+                    print(f'文件 {destination.name} 暂时无法替换，正在等待 Windows 释放。', flush=True)
+                    waiting_reported = True
+                time.sleep(0.1)
+    finally:
+        if pending is not None and pending.exists():
+            pending.unlink()
+
+
 def save_json(data: list, name: str):
     """
     主流程:
@@ -417,8 +462,7 @@ def save_json(data: list, name: str):
 
     # 写入 JSON 文件
     output_folder.mkdir(parents=True, exist_ok=True)
-    with (output_folder / f'{name}.json').open('w', encoding='utf-8', newline='\n') as f:
-        json.dump(result, f, ensure_ascii=False, indent=4)
+    write_json_file(output_folder / f'{name}.json', result)
     return str(output_folder / f'{name}.json')
 
 def sort_records_fields(records: List[dict], field_paths: list):
@@ -641,7 +685,7 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig", strict=False):
                     # print(f"类型: {type(data)}\n")
                 except Exception as e:
                     failures.append(file)
-                    print(f"加载文件 {file_path} 时出错: {e}")
+                    print(f"转换或写入文件 {file_path} 时出错: {e}")
 
     if strict:
         if failures or not generated:
