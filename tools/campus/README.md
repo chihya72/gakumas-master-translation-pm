@@ -71,6 +71,8 @@ Firebase Android Auth 23.2.1 起为本地登录数据增加了加密。
 
 ### 一键读取并更新 GitHub Secret
 
+双击仓库根目录的 `run_tool.pyw`，在“安卓账号 / Token 更新工具”中点击“启动”。
+
 在 Windows 的 PowerShell Core 7 中，从仓库根目录打开工具：
 
 ```powershell

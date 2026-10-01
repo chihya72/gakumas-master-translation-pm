@@ -34,6 +34,13 @@ TOOLS = [
         "console": False,
         "tag": "GUI",
     },
+    {
+        "title": "安卓账号 / Token 更新工具",
+        "desc": "读取模拟器账号凭据，并上传或更新 GitHub Actions Secret。",
+        "script": ROOT / "tools" / "campus" / "campus_token_tool.pyw",
+        "console": False,
+        "tag": "GUI",
+    },
 ]
 
 
