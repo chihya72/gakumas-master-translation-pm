@@ -154,9 +154,9 @@
   "TutorialType_DearnessTop||1|1|texts": "[LA_F]",
   "TutorialType_DearnessPoint||1|1|texts": "[LA_F]",
   "TutorialType_PrimaStella||1|1|texts": "[LA_F]",
-  "32||1|1|texts": "[LA_F]",
-  "33||1|1|texts": "[LA_F]",
-  "34||1|1|texts": "[LA_F]",
+  "TutorialType_GradeMission||1|1|texts": "[LA_F]",
+  "TutorialType_Panorama||1|1|texts": "[LA_F]",
+  "TutorialType_PanoramaLive||1|1|texts": "[LA_F]",
   "TutorialType_ProduceIdolCardSelect||1|1|texts": "[LA_F][LA_N_F]プロデュースアイドルごとに「プラン」が決まっています。\nプランごとにプロデュース中に登場するスキルカードやPアイテムの種類が異なります。",
   "TutorialType_ProduceSupportCardSelect||1|1|texts": "[LA_F]サポートカードはプロデュースで編成できるカードで\nす。編成すると様々な効果が発動し、プロデュースを\nサポートします。[LA_N_F]サポートカードにはタイプがあり、\nタイプによって編成時に上がるパラメータや\n発動する効果が変わります。",
   "TutorialType_ProduceMemorySelect||1|1|texts": "[LA_F]メモリーは４枚のうち１枚まで\nフレンドや他のプロデューサーのメモリーを\nレンタルすることができます。\n１日にできるレンタル回数には限りがあります。",
@@ -215,5 +215,5 @@
   "TutorialType_ProduceCardConvert||1|1|texts": "[LA_F]",
   "TutorialType_CompetitionPreOpen||1|1|texts": "[LA_F][LA_N_F]ステージを1つ選択してパフォーマンスを行います。\nステージには最大3人のアイドルがリレー形式で参加し\n最終的に獲得したスコアでハイスコアを競い合います。\n\n※グレードにより参加できるアイドルの人数が変化します",
   "TutorialType_Badge||1|1|texts": "[LA_F]",
-  "216||1|1|texts": "[LA_F]"
+  "TutorialType_Trail||1|1|texts": "[LA_F]"
 }
