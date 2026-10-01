@@ -82,11 +82,11 @@ make backup
 不再依赖远端 gakumasu-diff 推送。启用方法见 [独立同步说明](tools/campus/README.md)。
 Actions 将原始 YAML 直接提交到本仓库的 `gakumasu-diff/orig`，
 无需额外下载或复制。`scripts/update_master_data.py` 先执行本仓库的
-`git pull --ff-only`，成功后运行现有 `scripts/gakumasu_diff_to_json.py --strict`，
-输出 `gakumasu-diff/json`。拉取或转换失败时返回非零退出码。
+`git pull --ff-only`，成功后运行原有 `scripts/gakumasu_diff_to_json.py`，
+输出 `gakumasu-diff/json`。拉取失败或转换进程返回错误时，更新脚本返回非零退出码。
 日常可直接运行更新脚本；`make update` 只保留调用入口。
 如只需取得最新 YAML，执行 `git pull --ff-only` 即可；JSON 转换仍在本机执行。
-如已拉取 YAML，可直接运行原转换脚本，继续使用 `--source`、`--output`、`--strict` 参数。
+如已拉取 YAML，可直接运行 `python scripts/gakumasu_diff_to_json.py`。
 ```bash
 make update
 ```

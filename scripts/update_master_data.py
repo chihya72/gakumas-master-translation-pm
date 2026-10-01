@@ -11,7 +11,7 @@ def update(root):
         raise RuntimeError('Git pull failed; JSON conversion was not started.')
     print('Running gakumasu_diff_to_json.py...', flush=True)
     result = subprocess.run(
-        [sys.executable, str(root / 'scripts' / 'gakumasu_diff_to_json.py'), '--strict'],
+        [sys.executable, str(root / 'scripts' / 'gakumasu_diff_to_json.py')],
         cwd=root,
     )
     if result.returncode != 0:

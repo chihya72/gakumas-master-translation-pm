@@ -25,7 +25,7 @@ class UpdateTests(unittest.TestCase):
         self.assertEqual(run.call_count, 2)
         self.assertEqual(run.call_args_list[0].args[0], ['git', 'pull', '--ff-only'])
         self.assertEqual(run.call_args_list[1].args[0], [updater.sys.executable,
-                         str(self.root / 'scripts' / 'gakumasu_diff_to_json.py'), '--strict'])
+                         str(self.root / 'scripts' / 'gakumasu_diff_to_json.py')])
         self.assertTrue(all(call.kwargs == {'cwd': self.root} for call in run.call_args_list))
 
     @patch.object(updater.subprocess, 'run', return_value=subprocess.CompletedProcess([], 1))

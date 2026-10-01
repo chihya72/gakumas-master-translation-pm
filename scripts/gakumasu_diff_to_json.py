@@ -4,10 +4,6 @@ import json
 from typing import List
 from yaml.reader import Reader
 import re
-import argparse
-from pathlib import Path
-import tempfile
-import time
 
 
 primary_key_rules = {
@@ -323,7 +319,6 @@ primary_key_rules = {
 }
 
 TestMode = False
-output_folder = Path('gakumasu-diff/json')
 
 class CustomLoader(yaml.SafeLoader):
     def __init__(self, stream):
@@ -342,61 +337,6 @@ class CustomLoader(yaml.SafeLoader):
         return True
 
 
-def load_yaml_table(content):
-    # The C parser uses the same safe constructors and substantially reduces
-    # master conversion time. Preserve the existing control-character support
-    # for tables such as Rule that LibYAML's reader rejects.
-    if hasattr(yaml, 'CSafeLoader'):
-        try:
-            return yaml.load(content, yaml.CSafeLoader)
-        except yaml.reader.ReaderError:
-            pass
-    return yaml.load(content, CustomLoader)
-
-
-def write_json_file(destination, result):
-    """Publish complete JSON; avoid truncating files while Windows maps them."""
-    destination = Path(destination)
-    pending = None
-    try:
-        with tempfile.NamedTemporaryFile(mode='w', encoding='utf-8', newline='\n',
-                                         dir=destination.parent, prefix=f'.{destination.name}.',
-                                         suffix='.tmp', delete=False) as output:
-            pending = Path(output.name)
-            json.dump(result, output, ensure_ascii=False, indent=4)
-        # Repeated updates of the same game version should not touch files
-        # which an editor, indexer, or diff viewer may currently be mapping.
-        try:
-            with destination.open('rb') as old, pending.open('rb') as new:
-                while True:
-                    old_block, new_block = old.read(65536), new.read(65536)
-                    if old_block != new_block:
-                        break
-                    if not new_block:
-                        return
-        except FileNotFoundError:
-            pass
-        deadline = time.monotonic() + 3
-        waiting_reported = False
-        while True:
-            try:
-                pending.replace(destination)
-                return
-            except OSError as error:
-                # Windows may report access denied, sharing violation, a lock
-                # violation, or a mapped section for this replacement race.
-                if (os.name != 'nt' or getattr(error, 'winerror', None) not in (5, 32, 33, 1224)
-                        or time.monotonic() >= deadline):
-                    raise
-                if not waiting_reported:
-                    print(f'文件 {destination.name} 暂时无法替换，正在等待 Windows 释放。', flush=True)
-                    waiting_reported = True
-                time.sleep(0.1)
-    finally:
-        if pending is not None and pending.exists():
-            pending.unlink()
-
-
 def save_json(data: list, name: str):
     """
     主流程:
@@ -404,7 +344,7 @@ def save_json(data: list, name: str):
       2. 仅保留这些字段（拆分 '.' 处理嵌套/数组）。
       3. 如果 TestMode = True，则对「非主键列表」中的字符串或字符串数组，追加 "TEST"。
     """
-    if data is None:
+    if not data:
         return
 
     # 取出该 name 对应的规则
@@ -455,7 +395,7 @@ def save_json(data: list, name: str):
     # This can be removed when app can parse all key(also key type) properly.
     # Currently there is a bug on finding type and find local key from data
     # We must make first data has all key
-    if processed_data and not sort_records_fields(processed_data, all_keys):
+    if not sort_records_fields(processed_data, all_keys):
         print(f"Failed to find super key object from {name}")
 
     # 生成最终的 JSON 结构
@@ -467,9 +407,10 @@ def save_json(data: list, name: str):
     }
 
     # 写入 JSON 文件
-    output_folder.mkdir(parents=True, exist_ok=True)
-    write_json_file(output_folder / f'{name}.json', result)
-    return str(output_folder / f'{name}.json')
+    os.makedirs('./gakumasu-diff/json', exist_ok=True)
+    with open(f'gakumasu-diff/json/{name}.json', 'w', encoding='utf-8', newline='\n') as f:
+        json.dump(result, f, ensure_ascii=False, indent=4)
+    return f'gakumasu-diff/json/{name}.json'
 
 def sort_records_fields(records: List[dict], field_paths: list):
     def hasPaths(record:dict, path:list):
@@ -622,25 +563,19 @@ def transform_value_for_test_mode(value):
 # process_list = ["ProduceStepLesson", "SupportCardFlavor"]
 process_list = None
 
-def convert_yaml_types(folder_path="./gakumasu-diff/orig", strict=False):
+def convert_yaml_types(folder_path="./gakumasu-diff/orig"):
     """
     遍历指定文件夹中的所有 YAML 文件，加载它们的内容，并打印每个文件的类型。
     自动替换 YAML 文件中的制表符为空格。
     """
     if not os.path.isdir(folder_path):
-        if strict:
-            raise FileNotFoundError(folder_path)
         print(f"路径 '{folder_path}' 不是一个有效的文件夹。")
         return
 
-    failures = []
-    generated = set()
     for root, _, files in os.walk(folder_path):
         total = len(files)
         for n, file in enumerate(files):
             if file.endswith('.yaml'):
-                if file[:-5] not in primary_key_rules:
-                    continue
                 if process_list:
                     if file[:-5] not in process_list:
                         continue
@@ -678,35 +613,14 @@ def convert_yaml_types(folder_path="./gakumasu-diff/orig", strict=False):
 
                     # 解析 YAML 内容
                     # data = yaml.safe_load(content)
-                    data = load_yaml_table(content)
-                    if data is None:
-                        data = []
-                    if not isinstance(data, list):
-                        raise ValueError('YAML table must be a list')
-                    saved = save_json(data, file[:-5])
-                    if saved:
-                        generated.add(Path(saved).name)
+                    data = yaml.load(content, CustomLoader)
+                    save_json(data, file[:-5])
 
                     # print(f"文件: {file_path}")
                     # print(f"类型: {type(data)}\n")
                 except Exception as e:
-                    failures.append(file)
-                    print(f"转换或写入文件 {file_path} 时出错: {e}")
-
-    if strict:
-        if failures or not generated:
-            raise RuntimeError(f'Conversion failed: {failures}; generated={len(generated)}')
-        for stale in output_folder.glob('*.json'):
-            if stale.name not in generated:
-                stale.unlink()
-    return generated
+                    print(f"加载文件 {file_path} 时出错: {e}")
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--source', default='gakumasu-diff/orig')
-    parser.add_argument('--output', default='gakumasu-diff/json')
-    parser.add_argument('--strict', action='store_true')
-    args = parser.parse_args()
-    output_folder = Path(args.output)
-    convert_yaml_types(args.source, strict=args.strict)
+    convert_yaml_types()
