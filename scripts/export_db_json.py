@@ -3,6 +3,53 @@ import sys
 import os
 import re
 import string
+import tempfile
+import time
+
+
+def write_text_file(destination, text):
+    """Replace complete output without truncating an existing mapped file."""
+    destination = os.path.abspath(destination)
+    content = text.encode("utf-8")
+    try:
+        with open(destination, "rb") as previous:
+            if previous.read() == content:
+                return
+    except FileNotFoundError:
+        pass
+    except PermissionError:
+        # Reading is optional; directory permissions may still allow replacement.
+        pass
+
+    pending = None
+    try:
+        with tempfile.NamedTemporaryFile(
+                mode="wb", dir=os.path.dirname(destination),
+                prefix="." + os.path.basename(destination) + ".",
+                suffix=".tmp", delete=False) as output:
+            pending = output.name
+            output.write(content)
+
+        deadline = time.monotonic() + 10
+        while True:
+            try:
+                os.replace(pending, destination)
+                return
+            except OSError as error:
+                if (os.name != "nt" or getattr(error, "winerror", None) not in (5, 32, 33, 1224)
+                        or time.monotonic() >= deadline):
+                    raise
+                time.sleep(0.05)
+    finally:
+        if pending is not None:
+            try:
+                os.unlink(pending)
+            except FileNotFoundError:
+                pass
+
+
+def write_json_file(destination, data, indent=2):
+    write_text_file(destination, json.dumps(data, ensure_ascii=False, indent=indent))
 
 def path_normalize_for_pk(path_str: str) -> str:
     """
@@ -128,8 +175,7 @@ def ex_main(input_json, output_json):
         row_dict = collect_translatable_text(row, primary_keys)
         export_dict.update(row_dict)
 
-    with open(output_json, "w", encoding="utf-8", newline="\n") as out:
-        json.dump(export_dict, out, ensure_ascii=False, indent=2)
+    write_json_file(output_json, export_dict)
 
     print(f"导出完成: {output_json} (共 {len(export_dict)} 条)")
 

@@ -1517,6 +1517,22 @@
             "name": "冬のお姫様と王子様"
         },
         {
+            "id": "s_card-2-0082",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率中"
+                }
+            ],
+            "name": "ふたりで衣装作り"
+        },
+        {
             "id": "s_card-3-0000",
             "upgradeProduceCardProduceDescriptions": [
                 {
@@ -3307,6 +3323,22 @@
                 }
             ],
             "name": "小悪魔になっちゃえ♪"
+        },
+        {
+            "id": "s_card-3-0112",
+            "upgradeProduceCardProduceDescriptions": [
+                {
+                    "produceDescriptionType": "ProduceDescriptionType_PlainText",
+                    "examDescriptionType": "ExamDescriptionType_Unknown",
+                    "examEffectType": "ProduceExamEffectType_Unknown",
+                    "produceCardGrowEffectType": "ProduceCardGrowEffectType_Unknown",
+                    "produceCardCategory": "ProduceCardCategory_Unknown",
+                    "produceCardMovePositionType": "ProduceCardMovePositionType_Unknown",
+                    "produceStepType": "ProduceStepType_Unknown",
+                    "text": "/ 確率大"
+                }
+            ],
+            "name": "これがあのかぼちゃ……"
         }
     ]
 }

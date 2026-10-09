@@ -203,30 +203,26 @@ def gen_todo(new_files_dir: str):
 
             if out_data:
                 todo_file = os.path.join(todo_out_dir, file)
-                with open(todo_file, 'w', encoding='utf-8', newline='\n') as f:
-                    json.dump(out_data, f, ensure_ascii=False, indent=4)
+                export_db_json.write_json_file(todo_file, out_data, indent=4)
                 print("TODO File", todo_file)
     
     # 保存变化的文件到 changed 目录（CSV格式）
     for file_name, changes in changed_files.items():
         changed_file_path = os.path.join(changed_out_dir, file_name.replace('.json', '.csv'))
-        with open(changed_file_path, 'w', encoding='utf-8', newline='\n') as f:
-            # 手动写入CSV格式，完全保持原样
-            f.write('旧值,新值,旧翻译,新翻译\n')
-            for (old_value, new_value), old_translation in changes.items():
-                # 直接拼接，完全按原样保存
-                line = f'{old_value},{new_value},{old_translation},\n'
-                f.write(line)
+        # 手动写入CSV格式，完全保持原样
+        lines = ['旧值,新值,旧翻译,新翻译\n']
+        for (old_value, new_value), old_translation in changes.items():
+            lines.append(f'{old_value},{new_value},{old_translation},\n')
+        export_db_json.write_text_file(changed_file_path, ''.join(lines))
         print(f"变化文件已保存: {changed_file_path} (包含 {len(changes)} 个唯一变化)")
     
     # 保存变化日志
     if changes_log:
-        with open(log_file, 'w', encoding='utf-8', newline='\n') as f:
-            f.write(f"日文值变化检测报告\n")
-            f.write(f"生成时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-            f.write(f"检测到 {len(changes_log)} 处变化\n")
-            f.write("="*80 + "\n\n")
-            f.write("\n\n".join(changes_log))
+        report = (f"日文值变化检测报告\n"
+                  f"生成时间: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n"
+                  f"检测到 {len(changes_log)} 处变化\n"
+                  + "="*80 + "\n\n" + "\n\n".join(changes_log))
+        export_db_json.write_text_file(log_file, report)
         print(f"\n变化日志已保存到: {log_file}")
         print(f"共检测到 {len(changes_log)} 处日文值变化")
         print(f"变化文件已保存到: {changed_out_dir}")
