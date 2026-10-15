@@ -63,6 +63,8 @@ func decryptTable(pack *papi.MasterGetResponse_MasterTagPack) {
 		if err := rows.Scan(&data); err != nil {
 			panic(err)
 		}
+		// Server tags can include empty tables omitted from the client schema.
+		// Require a descriptor for every actual row, including an empty blob.
 		message := newTableMessage(pack.Type)
 		if err := proto.Unmarshal(data, message); err != nil {
 			panic(err)

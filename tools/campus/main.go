@@ -37,11 +37,6 @@ func main() {
 	if cfg.MasterVersion == tag.Version {
 		return
 	}
-	for _, pack := range tag.MasterTagPacks {
-		if !master.HasTable(pack.Type) {
-			panic(fmt.Sprintf("unsupported master table %s: update client schema", pack.Type))
-		}
-	}
 	if err := os.MkdirAll("cache", 0755); err != nil {
 		panic(err)
 	}

@@ -4,7 +4,7 @@
 源版本为 `a7f5b047b47594761c9623117f4f8aa159ba38c6`，代码按 AGPL-3.0 发布，见 LICENSE。
 只保留 master 下载、SQLCipher 解密及协议通信功能。
 登录 API 的生成 protobuf 类型通过 go.mod 中的 campus 依赖引用。
-master 定义已从当前 Android 3.4.1 客户端补齐，压缩保存在
+master 定义从当前 Android 3.4.1 客户端提取，压缩保存在
 `master/client_schema.b64`，由 Go 的 dynamicpb 解码；不依赖上游更新表映射。
 这些都是编译时依赖，运行时不访问 campus 或 gakumasu-diff 仓库。
 
@@ -40,8 +40,10 @@ Python/PyYAML，也不修改或提交 `gakumasu-diff/json`。
 `orig` 已改为本仓库管理的普通目录，首次启用时沿用迁移前的 YAML。
 游戏版本文件在首次成功下载后生成。任何下载、解密或字段检查错误都会阻止自动提交，
 仓库保留上次成功的 YAML。
-游戏新增 master 表或字段时，需要从新版客户端更新 master schema，
-工作流会报出缺失的表或解码后无法识别的字段；不会把被 protobuf 默认忽略的字段悄悄丢掉。
+服务端表清单可能包含客户端尚未定义的空表。工具先下载、解密并读取实际数据；
+没有记录的表按现有格式导出空 YAML，无需字段定义。
+未知表只要包含记录（包括空 BLOB），或已有表出现无法识别的字段，工作流仍会失败，
+此时需要从匹配的客户端更新 master schema；不会把被 protobuf 默认忽略的字段悄悄丢掉。
 Git 只能比较已输出的数据，无法识别解码器根本没有输出的字段，因此检查实际解码结果。
 登录 API 的协议变化则需要更新 go.mod 中的 campus 依赖。
 若 Google Play 无法解析 app 版本，可添加 `CAMPUS_APP_VERSION` Repository variable 作为回退值。
