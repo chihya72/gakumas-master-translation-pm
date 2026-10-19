@@ -35,6 +35,13 @@ TOOLS = [
         "tag": "GUI",
     },
     {
+        "title": "JSON Git 历史对比",
+        "desc": "选择历史提交，查看同一 JSON 文件中同键不同值的条目。",
+        "script": ROOT / "trans_tools" / "json_commit_compare_gui.py",
+        "console": False,
+        "tag": "GUI",
+    },
+    {
         "title": "安卓账号 / Token 更新工具",
         "desc": "读取模拟器账号凭据，并上传或更新 GitHub Actions Secret。",
         "script": ROOT / "tools" / "campus" / "campus_token_tool.pyw",
