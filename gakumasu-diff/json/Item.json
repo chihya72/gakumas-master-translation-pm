@@ -618,6 +618,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-wednesday-261104",
+            "name": "学マ水曜日ガシャチケット",
+            "description": "学マ水曜日ガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-wednesday-fainal-26-001-1",
             "name": "咲季の特別チケット",
             "description": "毎日学マ水曜日ファイナルシーズンガシャで使用するチケット",
@@ -906,6 +912,12 @@
             "acquisitionRouteDescription": "プロデュースなど"
         },
         {
+            "id": "item-medal-research-event-010",
+            "name": "ゼミたぬき",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-medal-story-event-001",
             "name": "なかよしポッパー",
             "description": "イベント交換所で様々な報酬と交換できる",
@@ -1124,6 +1136,12 @@
         {
             "id": "item-piece-idol_atbm-3-012",
             "name": "[Campus mode!!]雨夜燕のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-015",
+            "name": "[ガラクタロード]雨夜燕のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -2010,6 +2028,12 @@
             "acquisitionRouteDescription": "アチーブメントなど"
         },
         {
+            "id": "item-primastellamaterial-idol_atbm-001",
+            "name": "燕の一番星の光",
+            "description": "雨夜燕の『一番星』解放で使用するアイテム",
+            "acquisitionRouteDescription": "アチーブメントなど"
+        },
+        {
             "id": "item-primastellamaterial-idol_fktn-001",
             "name": "ことねの一番星の光",
             "description": "藤田ことねの『一番星』解放で使用するアイテム",
@@ -2161,6 +2185,12 @@
         },
         {
             "id": "item-research-event-009",
+            "name": "あさり先生シール",
+            "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
+            "id": "item-research-event-010",
             "name": "あさり先生シール",
             "description": "あさり先生のプロデュースゼミイベントでメモリーのアビリティ再抽選に使用するアイテム",
             "acquisitionRouteDescription": "プロデュースなど"

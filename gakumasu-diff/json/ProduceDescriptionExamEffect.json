@@ -330,6 +330,14 @@
             "name": "好印象強化"
         },
         {
+            "type": "ProduceExamEffectType_ExamEnthusiasticTurnAdd",
+            "name": "熱意延長"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamEffectTimerEndTurn",
+            "name": "発動予約"
+        },
+        {
             "type": "ProduceExamEffectType_ExamReviewCountAdd",
             "name": "好印象追加発動"
         },

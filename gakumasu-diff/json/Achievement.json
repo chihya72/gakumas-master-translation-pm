@@ -366,6 +366,36 @@
             "description": "【Campus mode!!】雨夜 燕の特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-atbm-3-015-01",
+            "name": "結果としての今",
+            "description": "【ガラクタロード】雨夜 燕のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-02",
+            "name": "ガラクタロード",
+            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-03",
+            "name": "楽しんでくるぞ、プロデューサー！",
+            "description": "【ガラクタロード】雨夜 燕のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-04",
+            "name": "ガラクタロード +",
+            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-05",
+            "name": "ガラクタロード ++",
+            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-atbm-3-015-06",
+            "name": "ガラクタロード +++",
+            "description": "【ガラクタロード】雨夜 燕の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-atbm-3-018-01",
             "name": "星を散らせ",
             "description": "【クライアイ】雨夜 燕のプロデュースで最終試験に合格"
@@ -4211,6 +4241,11 @@
             "description": "雨夜 燕でTrue End : N.I.Aをみる"
         },
         {
+            "id": "achieve-p_idol-atbm-000-2",
+            "name": "未来永劫、私のモノだ",
+            "description": "雨夜 燕でTrue End : H.I.Fをみる"
+        },
+        {
             "id": "achieve-p_idol-atbm-001",
             "name": "現状把握",
             "description": "雨夜 燕のプロデュースでスキルカードを{threshold}回使用"
@@ -4324,6 +4359,16 @@
             "id": "achieve-p_idol-atbm-024",
             "name": "心に火を灯して",
             "description": "雨夜 燕で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-025",
+            "name": "望み続けた称号",
+            "description": "雨夜 燕でH.I.Fの最終試験に合格して評価S4+以上を獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-026",
+            "name": "星に届くまでの距離",
+            "description": "雨夜 燕でH.I.Fの最終試験に{threshold}回合格"
         },
         {
             "id": "achieve-p_idol-atbm-027",
