@@ -2,7 +2,8 @@ name: Independent master data update
 
 on:
   schedule:
-    - cron: '17 * * * *'
+    # Every six hours at 04:05, 10:05, 16:05, and 22:05 China Standard Time (UTC+8).
+    - cron: '5 2,8,14,20 * * *'
   workflow_dispatch:
   repository_dispatch:
     types: [master-updated]
