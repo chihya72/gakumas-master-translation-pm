@@ -722,6 +722,18 @@
             "name": "イベント概要"
         },
         {
+            "helpCategoryId": "help-loginbonus",
+            "id": "loginbonus-loginbonus",
+            "order": 1,
+            "name": "ログインボーナス"
+        },
+        {
+            "helpCategoryId": "help-loginbonus",
+            "id": "loginbonus-select-loginbonus",
+            "order": 2,
+            "name": "選べるログインボーナス"
+        },
+        {
             "helpCategoryId": "help-main-story-event",
             "id": "help-main-story-event-bonus",
             "order": 4,
