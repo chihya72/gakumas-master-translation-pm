@@ -30,8 +30,16 @@
             "description": "※カスタマイズは特別指導でおこなえます"
         },
         {
+            "id": "card.sort.research_event_consumption_item_bonus",
+            "description": "あさり先生のプロデュースゼミ イベントボーナス"
+        },
+        {
+            "id": "card.sort.story_event_point_bonus",
+            "description": "氷渡香名江エピソード0 イベントボーナス"
+        },
+        {
             "id": "common.story_event_point",
-            "description": "あさり先生のプロデュースゼミ"
+            "description": "イベントPt"
         },
         {
             "id": "competition.rehearsal_battle_confirm.label.description",
@@ -368,6 +376,10 @@
         {
             "id": "story.idol.others.birthday",
             "description": "その他"
+        },
+        {
+            "id": "story.story_event.section.main_story_condition_lock_text",
+            "description": "ミッションPt獲得で解放"
         },
         {
             "id": "story.story_event.section.normal_condition_lock_text",
