@@ -126,12 +126,14 @@
   idolCardPrimaStellaDearnessLevel: 37
   researchPointLimit: 99999999
   profileReport2026Enable: true
+  memoryInheritSelectAfterCardEnable: false
   iosAppStorageLimitMax: 15
   iosAppStorageLimitMin: 8
   androidAppStorageLimitMax: 15
   androidAppStorageLimitMin: 8
   dmmAppStorageLimitMax: 25
   dmmAppStorageLimitMin: 15
+  plan4ViewConditionSetID: cd_close
   produceDailyMemoryRentalLimit: 3
   produceDailyFreeContinueCount: 1
   produceContinueItemID: item-produce_continue-1
@@ -298,6 +300,14 @@
   competitionGradeUpgradeAnimationThresholdGrade: 7
   competitionGradeStayAnimationThresholdGrade: 7
   competitionBgmAssetID: sud_bgm_general_town-01
+  refineMaxMemoryDeckCount: 15
+  refineMemoryDeckNameLengthLimit: 14
+  refineMaxSubMemoryCount: 9
+  refineRankingDisplayCount: 100
+  refineRankingRankLimit: 10000
+  refineMemoryRecommendProduceCardCoefficientPermil: 6000
+  refineMemoryRecommendProduceItemCoefficientPermil: 8000
+  refineMemoryRecommendDeckBuffCoefficientPermil: 1300
   webStoreLinkURL: https://gakuen.idolmaster-official.jp/
   webStoreShopBannerIOSDisplayEnable: false
   webStoreShopBannerIOSAssetID: img_web-store_home-jewel-shop-banner

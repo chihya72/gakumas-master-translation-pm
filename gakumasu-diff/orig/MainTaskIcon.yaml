@@ -88,6 +88,8 @@
   assetId: img_general_pict-icon_contest
 - missionType: MissionType_IncrementGashaContinuousSnsShareCount
   assetId: img_general_pict-icon_other
+- missionType: MissionType_IncrementCharacterPhotoCount
+  assetId: img_general_pict-icon_idol-photo
 - missionType: MissionType_IncrementProduceSupportCardDeckUpdateCount
   assetId: img_general_pict-icon_support-organization
 - missionType: MissionType_IncrementProduceMemoryDeckUpdateCount
@@ -224,6 +226,16 @@
   assetId: img_general_pict-icon_contest
 - missionType: MissionType_AbsoluteCompetitionStageHighScore
   assetId: img_general_pict-icon_contest
+- missionType: MissionType_AbsoluteCharacterCostumeCount
+  assetId: img_general_pict-icon_produce
+- missionType: MissionType_AbsoluteCharacterCostumeHeadCount
+  assetId: img_general_pict-icon_produce
+- missionType: MissionType_AbsoluteCharacterMusicCount
+  assetId: img_general_pict-icon_idol-photo
+- missionType: MissionType_AbsoluteCharacterProduceLiveTrueEndCount
+  assetId: img_general_pict-icon_idol-photo
+- missionType: MissionType_AbsoluteCharacterProducerRankingRankCount
+  assetId: img_general_pict-icon_contest
 - missionType: MissionType_AbsoluteProduceIdolCardHighScore
   assetId: img_general_pict-icon_produce
 - missionType: MissionType_AbsoluteProducePlanTotalHighScore
@@ -245,6 +257,26 @@
 - missionType: MissionType_AbsoluteProduceGrowthPanelComplete
   assetId: img_general_pict-icon_produce
 - missionType: MissionType_AbsoluteProduceGradeCharacterCount
+  assetId: img_general_pict-icon_produce
+- missionType: MissionType_IncrementRefineClearSectionCount
+  assetId: img_general_pict-icon_produce-audition
+- missionType: MissionType_IncrementRefineGetProduceCardCount
+  assetId: img_general_pict-icon_produce-card
+- missionType: MissionType_IncrementRefineUseProduceCardCount
+  assetId: img_general_pict-icon_produce-card
+- missionType: MissionType_IncrementRefineCustomizeProduceCardCount
+  assetId: img_general_pict-icon_produce-card
+- missionType: MissionType_IncrementRefineGetProduceDrinkCount
+  assetId: img_general_pict-icon_produce-drink
+- missionType: MissionType_IncrementRefineUseProduceDrinkCount
+  assetId: img_general_pict-icon_produce-drink
+- missionType: MissionType_IncrementRefineGetProduceItemCount
+  assetId: img_general_pict-icon_produce-item
+- missionType: MissionType_IncrementRefineUseProducePoint
+  assetId: img_general_pict-icon_produce-point
+- missionType: MissionType_IncrementRefineExamMissionClearCount
+  assetId: img_general_pict-icon_mission
+- missionType: MissionType_AbsoluteRefineGrade
   assetId: img_general_pict-icon_produce
 - missionType: MissionType_ConditionClear
   assetId: img_general_pict-icon_produce

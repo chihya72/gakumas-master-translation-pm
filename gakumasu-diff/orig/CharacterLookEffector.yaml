@@ -16,6 +16,12 @@
 - characterId: fktn
   situationType: CharacterLookEffectorSituationType_Panorama
   lookAtSettingAssetId: lok_panorama_cmmn-00
+- characterId: hkne
+  situationType: CharacterLookEffectorSituationType_Photo
+  lookAtSettingAssetId: lok_photo_cmmn-00
+- characterId: hkne
+  situationType: CharacterLookEffectorSituationType_Panorama
+  lookAtSettingAssetId: lok_panorama_cmmn-00
 - characterId: hmsz
   situationType: CharacterLookEffectorSituationType_Photo
   lookAtSettingAssetId: lok_photo_cmmn-00
