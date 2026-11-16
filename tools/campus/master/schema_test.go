@@ -1,12 +1,42 @@
 package master
 
 import (
+	"bytes"
 	"testing"
 
 	"google.golang.org/protobuf/encoding/protowire"
 	"google.golang.org/protobuf/proto"
 	"google.golang.org/protobuf/reflect/protoreflect"
 )
+
+func TestSettingClient360Fields(t *testing.T) {
+	row := protowire.AppendTag(nil, 1, protowire.BytesType)
+	row = protowire.AppendString(row, "1")
+	row = protowire.AppendTag(row, 161, protowire.VarintType)
+	row = protowire.AppendVarint(row, 16384)
+	row = protowire.AppendTag(row, 165, protowire.BytesType)
+	row = protowire.AppendString(row, "test-condition")
+
+	message := newTableMessage("Setting")
+	if err := proto.Unmarshal(row, message); err != nil {
+		t.Fatal(err)
+	}
+	if err := checkKnownFields(message.ProtoReflect()); err != nil {
+		t.Fatal(err)
+	}
+	yaml, err := YamlMarshal(message)
+	if err != nil {
+		t.Fatal(err)
+	}
+	for _, want := range []string{
+		"androidAppStorageLimitMax: 16384",
+		"plan4ViewConditionSetID: test-condition",
+	} {
+		if !bytes.Contains(yaml, []byte(want)) {
+			t.Errorf("Setting YAML missing %q:\n%s", want, yaml)
+		}
+	}
+}
 
 func TestNewClientTableAndUnknownWireFields(t *testing.T) {
 	message := newTableMessage("ProduceCharacterUnitOverrideLiveCostume")

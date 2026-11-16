@@ -17,7 +17,7 @@ import (
 	"google.golang.org/protobuf/types/dynamicpb"
 )
 
-// Extracted from Android client 3.4.1. Regenerate with schema_from_dump.py
+// Extracted from iOS client 3.6.0. Regenerate with schema_from_dump.py
 // when a client update adds or changes master tables or fields.
 //
 //go:embed client_schema.b64

@@ -4,7 +4,7 @@
 源版本为 `a7f5b047b47594761c9623117f4f8aa159ba38c6`，代码按 AGPL-3.0 发布，见 LICENSE。
 只保留 master 下载、SQLCipher 解密及协议通信功能。
 登录 API 的生成 protobuf 类型通过 go.mod 中的 campus 依赖引用。
-master 定义从当前 Android 3.4.1 客户端提取，压缩保存在
+master 定义从 iOS 3.6.0 客户端提取，压缩保存在
 `master/client_schema.b64`，由 Go 的 dynamicpb 解码；不依赖上游更新表映射。
 这些都是编译时依赖，运行时不访问 campus 或 gakumasu-diff 仓库。
 
@@ -175,10 +175,11 @@ Git diff 就是每次游戏 master 更新的差异记录，不另外生成补丁
 
 ## 更新 master schema
 
-1. 只读取得同一版本 APK 中的 `libil2cpp.so` 与 `global-metadata.dat`，放入忽略的 cache。
-2. 执行 `decode_client_metadata.py`，仅在 cache 生成解混淆的 metadata 副本。
-   mask 定位方法参考 [vilebbit/campus-meta](https://github.com/vilebbit/campus-meta)，按 AGPL-3.0 改编。
-3. 用 [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 对这两个副本生成 `dump.cs`。
+1. 从同一版本客户端取得 IL2CPP 二进制和 `global-metadata.dat`。Android 使用
+   APK 中的 `libil2cpp.so`，iOS 使用解密后的 `UnityFramework`。
+2. 准备解混淆的 metadata 副本。Android 可用 `decode_client_metadata.py` 在 cache
+   生成该副本，mask 定位方法参考 [vilebbit/campus-meta](https://github.com/vilebbit/campus-meta)，按 AGPL-3.0 改编。
+3. 用 [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) 读取二进制和解混淆后的 metadata，生成 `dump.cs`。
    非交互运行时，在工具配置中关闭 `RequireAnyKey`。
 4. `schema_from_dump.py --dump <dump.cs>` 检查字段及类型是否能完整解析。
    `--patch` 输出用于更新 `master/client_schema.b64` 的 apply_patch 内容，避免直接覆盖源码。
