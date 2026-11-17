@@ -7,12 +7,11 @@ from pathlib import Path
 import struct
 
 
-def main():
-    cache = Path(__file__).parent / 'cache'
-    metadata = (cache / 'global-metadata.dat').read_bytes()
+def decode(metadata_path, native_path):
+    metadata = metadata_path.read_bytes()
     signature = bytes.fromhex('AF1BB1FA')
     if metadata[:4] != signature:
-        native = (cache / 'libil2cpp.so').read_bytes()
+        native = native_path.read_bytes()
         prefix = bytes(a ^ b for a, b in zip(metadata[:4], signature))
         candidates = []
         start = 0
@@ -31,6 +30,12 @@ def main():
             raise RuntimeError(f'Expected one metadata mask, found {len(candidates)}')
         mask = candidates[0]
         metadata = bytes(b ^ mask[i & 127] for i, b in enumerate(metadata))
+    return metadata
+
+
+def main():
+    cache = Path(__file__).parent / 'cache'
+    metadata = decode(cache / 'global-metadata.dat', cache / 'libil2cpp.so')
     (cache / 'global-metadata-de.dat').write_bytes(metadata)
     print(f'Metadata version={struct.unpack_from("<I", metadata, 4)[0]}; decoded cache copy ready')
 

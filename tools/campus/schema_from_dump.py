@@ -4,6 +4,8 @@ Field-number/private-field analysis follows campus and SolisClient (AGPL-3.0).
 The generated descriptor contains public game schema, never account credentials.
 """
 import argparse
+import base64
+import gzip
 from pathlib import Path
 import re
 from google.protobuf import descriptor_pb2 as pb
@@ -97,23 +99,26 @@ def generate(text):
     return file, len(classes), len(enums), field_count
 
 
+def encode_descriptor(file):
+    encoded = base64.b64encode(gzip.compress(file.SerializeToString(), mtime=0)).decode('ascii')
+    return [encoded[offset:offset + 120] for offset in range(0, len(encoded), 120)]
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dump', type=Path, required=True)
     parser.add_argument('--patch', action='store_true', help='Emit an apply_patch payload instead of writing repository files')
     args = parser.parse_args()
     file, messages, enums, fields = generate(args.dump.read_text(encoding='utf-8-sig'))
-    import base64
-    import gzip
-    encoded = base64.b64encode(gzip.compress(file.SerializeToString(), mtime=0)).decode('ascii')
+    lines = encode_descriptor(file)
     if args.patch:
         target = Path(__file__).parent / 'master' / 'client_schema.b64'
         print('*** Begin Patch\n*** Add File: ' + str(target))
-        for offset in range(0, len(encoded), 120):
-            print('+' + encoded[offset:offset + 120])
+        for line in lines:
+            print('+' + line)
         print('*** End Patch')
     else:
-        print(f'Messages={messages}, enums={enums}, fields={fields}, encoded bytes={len(encoded)}')
+        print(f'Messages={messages}, enums={enums}, fields={fields}, encoded bytes={sum(map(len, lines))}')
 
 
 if __name__ == '__main__':

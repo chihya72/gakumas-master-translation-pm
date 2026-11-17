@@ -1,5 +1,7 @@
-"""Local Windows UI for recovering and explicitly publishing a campus credential."""
+"""Local Windows UI for publishing a campus credential and master schema."""
+import base64
 import ipaddress
+import json
 import os
 from pathlib import Path
 import queue
@@ -13,9 +15,11 @@ from tkinter import filedialog, ttk
 import urllib.error
 
 import read_android_account as account
+from schema_from_device import build_schema
 
 SECRET = 'CAMPUS_REFRESH_TOKEN'
 DEFAULT_REPO = 'chihya72/gakumas-master-translation-pm'
+SCHEMA_PATH = 'tools/campus/master/client_schema.b64'
 
 
 class ToolError(Exception):
@@ -35,7 +39,8 @@ def endpoint(host, port):
 
 def repository(value):
     value = value.strip()
-    if not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9-]*/[A-Za-z0-9_.-]+', value):
+    if (not re.fullmatch(r'[A-Za-z0-9][A-Za-z0-9-]*/[A-Za-z0-9_.-]+', value)
+            or value.rsplit('/', 1)[-1] in ('.', '..')):
         raise ToolError('GitHub 仓库请填写 owner/repo，例如 ' + DEFAULT_REPO + '。')
     return value
 
@@ -132,19 +137,52 @@ def recover(adb, device, progress=lambda _: None):
         raise ToolError('账号解析失败；响应内容已隐藏。请检查客户端版本和登录状态。') from None
 
 
-def publish(token, repo, progress=lambda _: None):
+def publish(token, repo, adb, device, progress=lambda _: None):
     repo = repository(repo)
     gh = find_gh()
     progress('正在检查 GitHub 登录状态…')
     run_native([gh, 'auth', 'status', '--hostname', 'github.com'],
                failure='GitHub CLI 未登录或登录失效。请在 pwsh 中执行 gh auth login。')
+    try:
+        schema = build_schema(adb, device, run_native, progress)
+    except ValueError as error:
+        raise ToolError(str(error)) from None
+    except (OSError, RuntimeError):
+        raise ToolError('无法从模拟器生成 Schema。请检查 ADB 连接和游戏版本。') from None
+
+    api = [gh, 'api', '--hostname', 'github.com']
+    path = f'repos/{repo}/contents/{SCHEMA_PATH}'
+    result = run_native([*api, f'{path}?ref=main'],
+                        failure='无法读取目标仓库 main 上的 Schema。请核对仓库和 Contents 权限。')
+    try:
+        remote = json.loads(result)
+        previous = base64.b64decode(''.join(remote['content'].split()), validate=True)
+        sha = remote['sha']
+    except (KeyError, TypeError, ValueError):
+        raise ToolError('无法识别目标仓库的 Schema 文件。') from None
+    if (remote.get('type') != 'file' or remote.get('encoding') != 'base64'
+            or not isinstance(sha, str) or not re.fullmatch(r'[0-9a-f]{40}', sha)):
+        raise ToolError('目标仓库未返回有效的 Schema 文件。')
+
     progress(f'正在更新 {repo} 的 Actions Secret…')
     # gh encrypts with the repository public key before upload. Noninteractive
     # stdin avoids --body (which exposes the credential in the process list).
     run_native([gh, 'secret', 'set', SECRET, '--app', 'actions', '--repo', repo],
                data=token.encode('utf-8'), timeout=60,
                failure='Secret 更新未获成功确认。请检查网络及仓库 Secrets 写入权限后重试。')
-    return repo
+    if b''.join(schema.split()) == b''.join(previous.split()):
+        return f'已更新 {repo} 的 Secret。main 上的 Schema 已一致。'
+
+    progress(f'Secret 已更新，正在提交 {repo} 的 Schema…')
+    body = json.dumps({
+        'message': 'Update Master Data schema from Android client',
+        'content': base64.b64encode(schema).decode('ascii'),
+        'sha': sha,
+        'branch': 'main',
+    }).encode('utf-8')
+    run_native([*api, '--method', 'PUT', path, '--input', '-', '--silent'], data=body, timeout=60,
+               failure='Secret 已更新，但 Schema 提交未获确认。请检查 main 写入权限或并发更新后重试。')
+    return f'已更新 {repo} 的 Secret，并将 Schema 提交到 main。'
 
 
 class TokenWindow:
@@ -153,7 +191,7 @@ class TokenWindow:
         self.token = None
         self.busy = False
         self.events = queue.Queue()
-        root.title('Campus · 账号凭据更新')
+        root.title('Campus · 账号凭据和 Schema 更新')
         root.geometry('740x520')
         root.minsize(690, 490)
         style = ttk.Style(root)
@@ -163,7 +201,7 @@ class TokenWindow:
         frame = ttk.Frame(root, padding=24)
         frame.pack(fill='both', expand=True)
         frame.columnconfigure(1, weight=1)
-        ttk.Label(frame, text='重新获取游戏凭据', font=('Microsoft YaHei UI', 18, 'bold')).grid(
+        ttk.Label(frame, text='更新游戏凭据和 Master Data Schema', font=('Microsoft YaHei UI', 18, 'bold')).grid(
             row=0, column=0, columnspan=3, sticky='w', pady=(0, 8))
         ttk.Label(frame, text='先自行打开游戏并进入大厅，再读取。需要模拟器 root 和 ADB 调试。').grid(
             row=1, column=0, columnspan=3, sticky='w', pady=(0, 20))
@@ -186,14 +224,14 @@ class TokenWindow:
         buttons.grid(row=7, column=0, columnspan=3, sticky='w')
         self.read_button = ttk.Button(buttons, text='1  读取并验证', command=self.read)
         self.read_button.pack(side='left')
-        self.upload_button = ttk.Button(buttons, text='2  上传 / 更新 Secret', command=self.upload, state='disabled')
+        self.upload_button = ttk.Button(buttons, text='2  上传 Secret 和 Schema', command=self.upload, state='disabled')
         self.upload_button.pack(side='left', padx=(12, 0))
         self.status = tk.StringVar(value='等待读取。令牌不会显示在界面或日志中。')
         ttk.Label(frame, textvariable=self.status, wraplength=640, foreground='#164e63').grid(
             row=8, column=0, columnspan=3, sticky='w', pady=(20, 8))
         self.spinner = ttk.Progressbar(frame, mode='indeterminate')
         self.spinner.grid(row=9, column=0, columnspan=3, sticky='ew', pady=(0, 14))
-        ttk.Label(frame, text='凭据仅在内存和当前 Windows 用户的加密缓存中保存。\n上传后，Actions 下次运行会使用新凭据；本工具不操作游戏。',
+        ttk.Label(frame, text='上传时从同一模拟器读取已安装的 APK，生成 Schema 并提交到目标仓库 main。\n凭据通过 GitHub Actions Secret 上传。',
                   foreground='#64748b', wraplength=640).grid(row=10, column=0, columnspan=3, sticky='w')
         for variable in (self.host, self.port, self.adb, self.repo):
             variable.trace_add('write', self.invalidate)
@@ -253,7 +291,9 @@ class TokenWindow:
         if self.busy or not self.token:
             return
         token, repo = self.token, self.repo.get()
-        self.start('published', lambda progress: publish(token, repo, progress))
+        adb = self.adb.get().strip()
+        device = endpoint(self.host.get(), self.port.get())
+        self.start('published', lambda progress: publish(token, repo, adb, device, progress))
 
     def poll(self):
         try:
@@ -264,10 +304,10 @@ class TokenWindow:
                 else:
                     if kind == 'recovered':
                         self.token = value
-                        self.status.set('读取及 Firebase 验证成功。请核对仓库，再点击“上传 / 更新 Secret”。')
+                        self.status.set('读取及 Firebase 验证成功。请核对仓库，再点击“上传 Secret 和 Schema”。')
                     elif kind == 'published':
                         self.token = None
-                        self.status.set(f'已更新 {value} 的 {SECRET}。Actions 下次运行将使用新凭据。')
+                        self.status.set(value)
                     else:
                         # Read failures have no token; upload failures may be retried.
                         self.status.set(value)

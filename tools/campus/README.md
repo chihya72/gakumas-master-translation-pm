@@ -4,7 +4,7 @@
 源版本为 `a7f5b047b47594761c9623117f4f8aa159ba38c6`，代码按 AGPL-3.0 发布，见 LICENSE。
 只保留 master 下载、SQLCipher 解密及协议通信功能。
 登录 API 的生成 protobuf 类型通过 go.mod 中的 campus 依赖引用。
-master 定义从 iOS 3.6.0 客户端提取，压缩保存在
+master 定义从游戏客户端提取，压缩保存在
 `master/client_schema.b64`，由 Go 的 dynamicpb 解码；不依赖上游更新表映射。
 这些都是编译时依赖，运行时不访问 campus 或 gakumasu-diff 仓库。
 
@@ -71,7 +71,7 @@ Firebase Android Auth 23.2.1 起为本地登录数据增加了加密。
 需要原模拟器可供 root ADB 读取；运行结束会删除设备上的临时辅助程序。
 端口应替换为当前实例的 ADB 端口。此流程不会启动或操作游戏，不需要重新搭建抓包代理。
 
-### 一键读取并更新 GitHub Secret
+### 读取并上传 GitHub Secret 和 Master Data Schema
 
 双击仓库根目录的 `run_tool.pyw`，在“安卓账号 / Token 更新工具”中点击“启动”。
 
@@ -83,8 +83,10 @@ Firebase Android Auth 23.2.1 起为本地登录数据增加了加密。
 
 也可双击同目录的 `campus_token_tool.pyw`（需要 Windows 已关联 Python）。
 
-需要 Python 3（含 Tkinter）、模拟器的 `adb.exe`、GitHub CLI。
-此电脑已有这些依赖；换电脑后先安装，并用 `gh auth login` 登录有仓库 Secrets 写入权限的账号。
+需要 Python 3（含 Tkinter 和 `protobuf`）、模拟器的 `adb.exe`、GitHub CLI 和 Windows 版
+[Il2CppDumper](https://github.com/Perfare/Il2CppDumper)。将独立版 `Il2CppDumper.exe` 放入
+`tools/campus/cache/il2cppdumper` 或加入 PATH。工具也识别现有的 `cache/schema-update/il2cppdumper`。
+用 `gh auth login` 登录可写入仓库 Actions Secret 和 `main` 内容的账号。
 工具自动查找 MuMu 12、PATH 或 Android SDK 中的 ADB，也可在界面选择 `adb.exe`。
 
 1. 在模拟器开启 root 和 ADB 调试，自行打开游戏并进入大厅。
@@ -92,9 +94,12 @@ Firebase Android Auth 23.2.1 起为本地登录数据增加了加密。
    默认值为 `127.0.0.1:16448`、`chihya72/gakumas-master-translation-pm`。
 3. 点击“读取并验证”。工具连接 ADB，读取明文或使用原设备 Keystore 解密加密账号，
    通过 Firebase 验证并取得返回的 refresh token；成功后保存当前 Windows 用户的 DPAPI 加密缓存。
-4. 点击“上传 / 更新 Secret”，写入目标仓库的 Actions Secret `CAMPUS_REFRESH_TOKEN`。
-   GitHub CLI 从标准输入接收令牌并加密上传，不在命令参数、界面或日志中显示。
-   读取完成不会自动上传。修改 IP、端口、ADB 路径或仓库后必须重新读取。
+4. 点击“上传 Secret 和 Schema”。工具从同一个模拟器读取当前已安装的 APK，
+   在临时目录生成并校验 `dump.cs` 和 schema，无需手选文件。请先将模拟器内的游戏更新到要同步的版本。
+   校验成功后，GitHub CLI 通过标准输入接收令牌，更新仓库的 Actions Secret
+   `CAMPUS_REFRESH_TOKEN`，随后将有变化的 `master/client_schema.b64` 提交到目标仓库 `main`。
+   提交会触发 Master Data 同步。两个写入分别由 GitHub 处理，若只完成 Secret 更新，界面会提示可重试。
+   修改 IP、端口、ADB 路径或仓库后必须重新读取。
 
 工具不启动、重启或操作游戏；必要时只请求 ADB root（重启 adbd），随后重连。
 设备上的独立解密辅助程序执行结束会删除；游戏 APK、账号文件、密钥均不修改。

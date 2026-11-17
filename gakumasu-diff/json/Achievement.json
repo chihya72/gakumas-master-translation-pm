@@ -696,6 +696,66 @@
             "description": "【GO MY WAY!!】藤田 ことねの特訓段階を{threshold}にする"
         },
         {
+            "id": "achieve-i_card-hkne-2-000-01",
+            "name": "忠義を胸に",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-02",
+            "name": "憧れを抱いて一歩ずつ",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-03",
+            "name": "いつの日か、同じ景色を",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-04",
+            "name": "憧れを抱いて一歩ずつ +",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-05",
+            "name": "憧れを抱いて一歩ずつ ++",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-06",
+            "name": "憧れを抱いて一歩ずつ +++",
+            "description": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-01",
+            "name": "柔らかな光の中で",
+            "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-02",
+            "name": "メタモルフォーゼ",
+            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-03",
+            "name": "アイドルとしての新しい私",
+            "description": "【メタモルフォーゼ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-04",
+            "name": "メタモルフォーゼ +",
+            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-05",
+            "name": "メタモルフォーゼ ++",
+            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-06",
+            "name": "メタモルフォーゼ +++",
+            "description": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
             "id": "achieve-i_card-hmsz-2-000-01",
             "name": "休み休み、前へ",
             "description": "【ゆっくり、一歩ずつ】秦谷 美鈴のプロデュースで最終試験に合格"
@@ -3801,6 +3861,11 @@
             "description": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
         },
         {
+            "id": "achieve-m_hkne-001",
+            "name": "マスターアチーブメント",
+            "description": "氷渡 香名江のアチーブメントの★を{threshold}個獲得"
+        },
+        {
             "id": "achieve-m_hmsz-001",
             "name": "マスターアチーブメント",
             "description": "秦谷 美鈴のアチーブメントの★を{threshold}個獲得"
@@ -4291,6 +4356,51 @@
             "description": "有村 麻央で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-amao-030",
+            "name": "麻央を彩る衣装たち",
+            "description": "有村 麻央の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-031",
+            "name": "麻央を魅せるアレンジ",
+            "description": "有村 麻央の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-033",
+            "name": "ボクらしい曲",
+            "description": "有村 麻央の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-amao-034",
+            "name": "目指す場所はひとつだけ",
+            "description": "有村 麻央のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-amao-035",
+            "name": "可愛いもカッコイイも",
+            "description": "有村 麻央のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-036",
+            "name": "王子様の舞台",
+            "description": "有村 麻央のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-amao-037",
+            "name": "ボクの仕事を観てください",
+            "description": "有村 麻央でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-amao-038",
+            "name": "ファインダー越しの麻央",
+            "description": "有村 麻央で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-amao-039",
+            "name": "幾多の舞台に立って",
+            "description": "有村 麻央で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "価値の証明",
             "description": "雨夜 燕でTrue Endをみる"
@@ -4434,6 +4544,51 @@
             "id": "achieve-p_idol-atbm-027",
             "name": "最も古いファン",
             "description": "雨夜 燕で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-030",
+            "name": "燕を彩る衣装たち",
+            "description": "雨夜 燕の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-031",
+            "name": "燕を魅せるアレンジ",
+            "description": "雨夜 燕の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-033",
+            "name": "想いを込めた歌",
+            "description": "雨夜 燕の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-atbm-034",
+            "name": "頂は譲らない",
+            "description": "雨夜 燕のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-atbm-035",
+            "name": "私の在り方",
+            "description": "雨夜 燕のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-036",
+            "name": "理想の体現",
+            "description": "雨夜 燕のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-atbm-037",
+            "name": "どんな仕事もこなしてみせる",
+            "description": "雨夜 燕でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-atbm-038",
+            "name": "ファインダー越しの燕",
+            "description": "雨夜 燕で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-atbm-039",
+            "name": "百錬成鋼",
+            "description": "雨夜 燕で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -4856,6 +5011,216 @@
             "description": "藤田 ことねで最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-fktn-030",
+            "name": "ことねを彩る衣装たち",
+            "description": "藤田 ことねの衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-031",
+            "name": "ことねを魅せるアレンジ",
+            "description": "藤田 ことねの髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-033",
+            "name": "あたしのための曲",
+            "description": "藤田 ことねの楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-fktn-034",
+            "name": "賞賛はあたしのもの♡",
+            "description": "藤田 ことねのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-fktn-035",
+            "name": "かわいいは無限大",
+            "description": "藤田 ことねのPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-036",
+            "name": "大好きがいっぱい",
+            "description": "藤田 ことねのTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-fktn-037",
+            "name": "お仕事、だ～いすきっ♡",
+            "description": "藤田 ことねでお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-fktn-038",
+            "name": "ファインダー越しのことね",
+            "description": "藤田 ことねで{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-fktn-039",
+            "name": "勝っても負けてもかわいい！",
+            "description": "藤田 ことねで{threshold}回コンテストに挑戦"
+        },
+        {
+            "id": "achieve-p_idol-hkne-000",
+            "name": "ふたつの夢",
+            "description": "氷渡 香名江でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hkne-001",
+            "name": "アイドルという認識",
+            "description": "氷渡 香名江のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hkne-002",
+            "name": "減点なしのパフォーマンス",
+            "description": "氷渡 香名江でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hkne-003",
+            "name": "『魅』せる動き",
+            "description": "氷渡 香名江でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hkne-004",
+            "name": "すべてはお嬢様のため",
+            "description": "氷渡 香名江で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-005",
+            "name": "光の当たった私",
+            "description": "氷渡 香名江で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-006",
+            "name": "新しい旅路の始まり",
+            "description": "氷渡 香名江で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-007",
+            "name": "影と光の狭間で",
+            "description": "氷渡 香名江のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hkne-008",
+            "name": "憧れのその先へ",
+            "description": "氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hkne-009",
+            "name": "夢に向かって",
+            "description": "氷渡 香名江のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hkne-010",
+            "name": "夢と想いを抱いて",
+            "description": "氷渡 香名江のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-011",
+            "name": "あなた様と共に",
+            "description": "氷渡 香名江の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hkne-012",
+            "name": "アイドルの資質",
+            "description": "氷渡 香名江でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-013",
+            "name": "従者の心得",
+            "description": "氷渡 香名江のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-hkne-014",
+            "name": "メイドであり、アイドル",
+            "description": "氷渡 香名江のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-hkne-015",
+            "name": "「アイドルへの道」氷渡香名江",
+            "description": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-016",
+            "name": "輝きも近侍も欲張って",
+            "description": "氷渡 香名江で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-017",
+            "name": "氷渡香名江マスター",
+            "description": "氷渡 香名江の定期公演『初』難易度：マスターで最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-018",
+            "name": "夢への道筋",
+            "description": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hkne-020",
+            "name": "ステージのおもてなし",
+            "description": "氷渡 香名江で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-021",
+            "name": "光の下で、咲きます",
+            "description": "氷渡 香名江で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-023",
+            "name": "噂の才媛",
+            "description": "氷渡 香名江で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-024",
+            "name": "私というアイドル",
+            "description": "氷渡 香名江で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-027",
+            "name": "主役の心得",
+            "description": "氷渡 香名江で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-030",
+            "name": "香名江を彩る衣装たち",
+            "description": "氷渡 香名江の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-031",
+            "name": "香名江を魅せるアレンジ",
+            "description": "氷渡 香名江の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-033",
+            "name": "私のための歌",
+            "description": "氷渡 香名江の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hkne-034",
+            "name": "お嬢様に恥じない戦いを",
+            "description": "氷渡 香名江のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hkne-035",
+            "name": "新しい私との出会い",
+            "description": "氷渡 香名江のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-036",
+            "name": "たくさんの光の海",
+            "description": "氷渡 香名江のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hkne-037",
+            "name": "私の務めを果たします",
+            "description": "氷渡 香名江でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hkne-038",
+            "name": "ファインダー越しの香名江",
+            "description": "氷渡 香名江で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hkne-039",
+            "name": "知見を活かして",
+            "description": "氷渡 香名江で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "人生最高の日",
             "description": "秦谷 美鈴でTrue Endをみる"
@@ -4999,6 +5364,51 @@
             "id": "achieve-p_idol-hmsz-027",
             "name": "踏み込んだ関係性",
             "description": "秦谷 美鈴で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-030",
+            "name": "美鈴を彩る衣装たち",
+            "description": "秦谷 美鈴の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-031",
+            "name": "美鈴を魅せるアレンジ",
+            "description": "秦谷 美鈴の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-033",
+            "name": "わたしが望むままの歌",
+            "description": "秦谷 美鈴の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-034",
+            "name": "わたしが上です",
+            "description": "秦谷 美鈴のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-035",
+            "name": "深まる夜空",
+            "description": "秦谷 美鈴のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-036",
+            "name": "順調な啓蒙活動",
+            "description": "秦谷 美鈴のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-037",
+            "name": "お仕事はほどほどに",
+            "description": "秦谷 美鈴でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-038",
+            "name": "ファインダー越しの美鈴",
+            "description": "秦谷 美鈴で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-039",
+            "name": "頂への足がかり",
+            "description": "秦谷 美鈴で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -5151,6 +5561,51 @@
             "description": "姫崎 莉波で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hrnm-030",
+            "name": "莉波を彩る衣装たち",
+            "description": "姫崎 莉波の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-031",
+            "name": "莉波を魅せるアレンジ",
+            "description": "姫崎 莉波の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-033",
+            "name": "私の気持ちの結晶たち",
+            "description": "姫崎 莉波の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-034",
+            "name": "諦めずに何度でも",
+            "description": "姫崎 莉波のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-035",
+            "name": "引き出された素質",
+            "description": "姫崎 莉波のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-036",
+            "name": "お姉さんのステージ",
+            "description": "姫崎 莉波のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-037",
+            "name": "お仕事、一生懸命頑張るね",
+            "description": "姫崎 莉波でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-038",
+            "name": "ファインダー越しの莉波",
+            "description": "姫崎 莉波で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-039",
+            "name": "挑戦を自信に変えて",
+            "description": "姫崎 莉波で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "無敵のトップアイドル",
             "description": "花海 咲季でTrue Endをみる"
@@ -5301,6 +5756,51 @@
             "description": "花海 咲季で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hski-030",
+            "name": "咲季を彩る衣装たち",
+            "description": "花海 咲季の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-031",
+            "name": "咲季を魅せるアレンジ",
+            "description": "花海 咲季の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-033",
+            "name": "共に戦い抜いた楽曲たち",
+            "description": "花海 咲季の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hski-034",
+            "name": "目指すは頂点のみ！",
+            "description": "花海 咲季のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hski-035",
+            "name": "手札の多さが武器",
+            "description": "花海 咲季のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-036",
+            "name": "熱く優しい炎",
+            "description": "花海 咲季のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hski-037",
+            "name": "どんな仕事も任せなさい！",
+            "description": "花海 咲季でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hski-038",
+            "name": "ファインダー越しの咲季",
+            "description": "花海 咲季で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hski-039",
+            "name": "闘いの数だけ強く",
+            "description": "花海 咲季で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "人生最高のファインプレー",
             "description": "花海 佑芽でTrue Endをみる"
@@ -5444,6 +5944,51 @@
             "id": "achieve-p_idol-hume-027",
             "name": "見様見真似ではない、本質",
             "description": "花海 佑芽で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-030",
+            "name": "佑芽を彩る衣装たち",
+            "description": "花海 佑芽の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-031",
+            "name": "佑芽を魅せるアレンジ",
+            "description": "花海 佑芽の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-033",
+            "name": "仲良しな友達がいっぱい！",
+            "description": "花海 佑芽の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hume-034",
+            "name": "誰にも負けない！",
+            "description": "花海 佑芽のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hume-035",
+            "name": "アイドル博士",
+            "description": "花海 佑芽のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-036",
+            "name": "バチバチでわくわく！",
+            "description": "花海 佑芽のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hume-037",
+            "name": "お仕事がんばるぞぉ～！",
+            "description": "花海 佑芽でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hume-038",
+            "name": "ファインダー越しの佑芽",
+            "description": "花海 佑芽で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hume-039",
+            "name": "わくわくの腕試し",
+            "description": "花海 佑芽で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -5596,6 +6141,51 @@
             "description": "十王 星南で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-jsna-030",
+            "name": "星南を彩る衣装たち",
+            "description": "十王 星南の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-031",
+            "name": "星南を魅せるアレンジ",
+            "description": "十王 星南の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-033",
+            "name": "特別な楽曲たち",
+            "description": "十王 星南の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-jsna-034",
+            "name": "頂点は私のもの",
+            "description": "十王 星南のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-jsna-035",
+            "name": "輝きを増す星",
+            "description": "十王 星南のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-036",
+            "name": "物語の1ページ",
+            "description": "十王 星南のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-jsna-037",
+            "name": "やりがいのある仕事ね",
+            "description": "十王 星南でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-jsna-038",
+            "name": "ファインダー越しの星南",
+            "description": "十王 星南で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-jsna-039",
+            "name": "一戦一戦を糧に",
+            "description": "十王 星南で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "レベル1の駆け出しアイドル",
             "description": "倉本 千奈でTrue Endをみる"
@@ -5741,6 +6331,51 @@
             "description": "倉本 千奈で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-kcna-030",
+            "name": "千奈を彩る衣装たち",
+            "description": "倉本 千奈の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-031",
+            "name": "千奈を魅せるアレンジ",
+            "description": "倉本 千奈の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-033",
+            "name": "かけがえのない楽曲たち",
+            "description": "倉本 千奈の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-kcna-034",
+            "name": "期待を背負って",
+            "description": "倉本 千奈のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-kcna-035",
+            "name": "大きな成長の証",
+            "description": "倉本 千奈のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-036",
+            "name": "あたたかなひだまり",
+            "description": "倉本 千奈のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-kcna-037",
+            "name": "お仕事はやり遂げますわ！",
+            "description": "倉本 千奈でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-kcna-038",
+            "name": "ファインダー越しの千奈",
+            "description": "倉本 千奈で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-kcna-039",
+            "name": "転んでも前進！",
+            "description": "倉本 千奈で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "光",
             "description": "葛城 リーリヤでTrue Endをみる"
@@ -5884,6 +6519,51 @@
             "id": "achieve-p_idol-kllj-027",
             "name": "結界系アイドルの誕生",
             "description": "葛城 リーリヤで最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-030",
+            "name": "リーリヤを彩る衣装たち",
+            "description": "葛城 リーリヤの衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-031",
+            "name": "リーリヤを魅せるアレンジ",
+            "description": "葛城 リーリヤの髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-033",
+            "name": "一途に紡いできた曲",
+            "description": "葛城 リーリヤの楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-kllj-034",
+            "name": "戦いはこれから",
+            "description": "葛城 リーリヤのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-kllj-035",
+            "name": "身に付けた能力",
+            "description": "葛城 リーリヤのPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-036",
+            "name": "惹き込まれる世界観",
+            "description": "葛城 リーリヤのTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-kllj-037",
+            "name": "お仕事、がんばります！",
+            "description": "葛城 リーリヤでお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-kllj-038",
+            "name": "ファインダー越しのリーリヤ",
+            "description": "葛城 リーリヤで{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-kllj-039",
+            "name": "挑んだ数だけ力になる",
+            "description": "葛城 リーリヤで{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -6036,6 +6716,51 @@
             "description": "篠澤 広で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-shro-030",
+            "name": "広を彩る衣装たち",
+            "description": "篠澤 広の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-031",
+            "name": "広を魅せるアレンジ",
+            "description": "篠澤 広の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-033",
+            "name": "乗り越えてきた試練",
+            "description": "篠澤 広の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-shro-034",
+            "name": "勝利のため息",
+            "description": "篠澤 広のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-shro-035",
+            "name": "広がる可能性",
+            "description": "篠澤 広のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-036",
+            "name": "女神様の灼熱",
+            "description": "篠澤 広のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-shro-037",
+            "name": "お仕事って楽しい、ね",
+            "description": "篠澤 広でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-shro-038",
+            "name": "ファインダー越しの広",
+            "description": "篠澤 広で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-shro-039",
+            "name": "たのしい挑戦",
+            "description": "篠澤 広で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "踏み出した一歩",
             "description": "紫雲 清夏でTrue Endをみる"
@@ -6179,6 +6904,51 @@
             "id": "achieve-p_idol-ssmk-027",
             "name": "最初のわがまま",
             "description": "紫雲 清夏で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-030",
+            "name": "清夏を彩る衣装たち",
+            "description": "紫雲 清夏の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-031",
+            "name": "清夏を魅せるアレンジ",
+            "description": "紫雲 清夏の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-033",
+            "name": "あたしの成長の証",
+            "description": "紫雲 清夏の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-034",
+            "name": "もっと強く！",
+            "description": "紫雲 清夏のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-035",
+            "name": "嘘を本当に変えて",
+            "description": "紫雲 清夏のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-036",
+            "name": "崩れない幻想",
+            "description": "紫雲 清夏のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-037",
+            "name": "仕事も楽しも～♪",
+            "description": "紫雲 清夏でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-038",
+            "name": "ファインダー越しの清夏",
+            "description": "紫雲 清夏で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-039",
+            "name": "挑戦の足跡",
+            "description": "紫雲 清夏で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -6329,6 +7099,51 @@
             "id": "achieve-p_idol-ttmr-027",
             "name": "憧れを追い越して",
             "description": "月村 手毬で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-030",
+            "name": "手毬を彩る衣装たち",
+            "description": "月村 手毬の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-031",
+            "name": "手毬を魅せるアレンジ",
+            "description": "月村 手毬の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-033",
+            "name": "私の持ち歌",
+            "description": "月村 手毬の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-034",
+            "name": "圧倒してこそ",
+            "description": "月村 手毬のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-035",
+            "name": "高く飛び続ける翼",
+            "description": "月村 手毬のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-036",
+            "name": "正真正銘の思い",
+            "description": "月村 手毬のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-037",
+            "name": "良い仕事をしました",
+            "description": "月村 手毬でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-038",
+            "name": "ファインダー越しの手毬",
+            "description": "月村 手毬で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-039",
+            "name": "腕が鳴る闘い",
+            "description": "月村 手毬で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achievement_char_hume-024",

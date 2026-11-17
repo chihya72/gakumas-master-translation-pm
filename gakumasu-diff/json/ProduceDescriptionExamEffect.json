@@ -31,7 +31,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamStaminaReduceFix",
-            "name": "体力消費"
+            "name": "固定体力消費"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonBuff",
@@ -251,19 +251,19 @@
         },
         {
             "type": "ProduceExamEffectType_ExamReviewReduce",
-            "name": "好印象減少"
+            "name": "好印象消費"
         },
         {
             "type": "ProduceExamEffectType_ExamAggressiveReduce",
-            "name": "やる気減少"
+            "name": "やる気消費"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonBuffReduce",
-            "name": "集中減少"
+            "name": "集中消費"
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffReduce",
-            "name": "好調減少"
+            "name": "好調消費"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonValueMultipleDown",
@@ -319,7 +319,7 @@
         },
         {
             "type": "ProduceExamEffectType_ExamParameterBuffMultiplePerTurnReduce",
-            "name": "絶好調減少"
+            "name": "絶好調消費"
         },
         {
             "type": "ProduceExamEffectType_ExamLessonValueMultipleDependReviewOrAggressive",
@@ -346,6 +346,10 @@
             "name": "強化状態コスト増加"
         },
         {
+            "type": "ProduceExamEffectType_ExamFullPowerPointReduceCancellable",
+            "name": "全力値低下"
+        },
+        {
             "type": "ProduceExamEffectType_ExamParameterBuffAdditiveFix",
             "name": "好調増加量追加"
         },
@@ -368,6 +372,18 @@
         {
             "type": "ProduceExamEffectType_ExamStatusEnchantEncore",
             "name": "再演"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamMetamorphose",
+            "name": "メタモルフォーゼ（支度）"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamMetamorphoseAfter",
+            "name": "メタモルフォーゼ（披露）"
+        },
+        {
+            "type": "ProduceExamEffectType_ExamStaminaReduceFixAffected",
+            "name": "体力消費"
         }
     ]
 }

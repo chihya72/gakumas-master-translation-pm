@@ -1314,6 +1314,10 @@
             "name": "SSRことねでB評価"
         },
         {
+            "id": "hidden_mission-normal-produce-clear-i_card-hkne-3-000-b",
+            "name": "SSR香名江でB評価"
+        },
+        {
             "id": "hidden_mission-normal-produce-clear-i_card-hmsz-3-000-b",
             "name": "SSR美鈴でB評価"
         },
@@ -1438,6 +1442,10 @@
             "name": "「アイドルへの道」で星を獲得"
         },
         {
+            "id": "hidden_mission-view-ending-a-hkne",
+            "name": "香名江でA Endを見る"
+        },
+        {
             "id": "hidden_mission-view-ending-a-hmsz",
             "name": "美鈴でA Endを見る"
         },
@@ -1494,8 +1502,16 @@
             "name": "手毬でA-End達成"
         },
         {
+            "id": "hidden_mission-view-ending-b-hkne",
+            "name": "香名江でB Endを見る"
+        },
+        {
             "id": "hidden_mission-view-ending-b-hmsz",
             "name": "美鈴でB Endを見る"
+        },
+        {
+            "id": "hidden_mission-view-ending-c-hkne",
+            "name": "香名江でC Endを見る"
         },
         {
             "id": "hidden_mission-view-ending-c-hmsz",
@@ -1708,6 +1724,10 @@
         {
             "id": "hidden_mission-view-ending-true-fktn",
             "name": "ことねでTrue Endを見る"
+        },
+        {
+            "id": "hidden_mission-view-ending-true-hkne",
+            "name": "香名江でTrueEndを見る"
         },
         {
             "id": "hidden_mission-view-ending-true-hmsz",
@@ -6262,6 +6282,10 @@
             "name": "燕ピースパック発火条件"
         },
         {
+            "id": "mission-normal-view-shop_pack_hkne-0001",
+            "name": "香名江ピースパック発火条件"
+        },
+        {
             "id": "mission-normal-view-shop_pack_hmsz-0001",
             "name": "美鈴ピースパック発火条件"
         },
@@ -8006,6 +8030,78 @@
             "name": "最終試験に{threshold}回合格しよう"
         },
         {
+            "id": "panel_mission-event-012-mission_1",
+            "name": "花海 咲季のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_11",
+            "name": "マニー交換所で{threshold}回交換しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_12",
+            "name": "葛城 リーリヤのプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_13",
+            "name": "紫雲 清夏のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_14",
+            "name": "雨夜 燕のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_15",
+            "name": "十王 星南のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_16",
+            "name": "秦谷 美鈴のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_17",
+            "name": "コンテストに{threshold}回挑戦しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_18",
+            "name": "有村 麻央のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_19",
+            "name": "姫崎 莉波のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_2",
+            "name": "月村 手毬のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_3",
+            "name": "藤田 ことねのプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_4",
+            "name": "マニーを回収しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_5",
+            "name": "氷渡 香名江のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_6",
+            "name": "お仕事を{threshold}回開始しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_7",
+            "name": "花海 佑芽のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_8",
+            "name": "倉本 千奈のプロデュースを{threshold}回完了しよう"
+        },
+        {
+            "id": "panel_mission-event-012-mission_9",
+            "name": "篠澤 広のプロデュースを{threshold}回完了しよう"
+        },
+        {
             "id": "panel_mission-event-niv-mission_1",
             "name": "最終試験をスコアB+以上で{threshold}回合格しよう"
         },
@@ -8592,6 +8688,54 @@
         {
             "id": "achieve-i_card-fktn-3-019-06",
             "name": "【GO MY WAY!!】藤田 ことねの特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-01",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-02",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-03",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-04",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-05",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-2-000-06",
+            "name": "【憧れを抱いて一歩ずつ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-01",
+            "name": "【メタモルフォーゼ】氷渡 香名江のプロデュースで最終試験に合格"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-02",
+            "name": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-03",
+            "name": "【メタモルフォーゼ】氷渡 香名江のプロデュースで評価A+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-04",
+            "name": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-05",
+            "name": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-i_card-hkne-3-000-06",
+            "name": "【メタモルフォーゼ】氷渡 香名江の特訓段階を{threshold}にする"
         },
         {
             "id": "achieve-i_card-hmsz-2-000-01",
@@ -11078,6 +11222,10 @@
             "name": "藤田 ことねのアチーブメントの★を{threshold}個獲得"
         },
         {
+            "id": "achieve-m_hkne-001",
+            "name": "氷渡 香名江のアチーブメントの★を{threshold}個獲得"
+        },
+        {
             "id": "achieve-m_hmsz-001",
             "name": "秦谷 美鈴のアチーブメントの★を{threshold}個獲得"
         },
@@ -11470,6 +11618,42 @@
             "name": "有村 麻央で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-amao-030",
+            "name": "有村 麻央の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-031",
+            "name": "有村 麻央の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-033",
+            "name": "有村 麻央の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-amao-034",
+            "name": "有村 麻央のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-amao-035",
+            "name": "有村 麻央のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-amao-036",
+            "name": "有村 麻央のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-amao-037",
+            "name": "有村 麻央でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-amao-038",
+            "name": "有村 麻央で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-amao-039",
+            "name": "有村 麻央で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-atbm-000",
             "name": "雨夜 燕でTrue Endをみる"
         },
@@ -11584,6 +11768,42 @@
         {
             "id": "achieve-p_idol-atbm-027",
             "name": "雨夜 燕で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-atbm-030",
+            "name": "雨夜 燕の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-031",
+            "name": "雨夜 燕の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-033",
+            "name": "雨夜 燕の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-atbm-034",
+            "name": "雨夜 燕のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-atbm-035",
+            "name": "雨夜 燕のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-atbm-036",
+            "name": "雨夜 燕のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-atbm-037",
+            "name": "雨夜 燕でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-atbm-038",
+            "name": "雨夜 燕で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-atbm-039",
+            "name": "雨夜 燕で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-card-amao-002-1",
@@ -11922,6 +12142,174 @@
             "name": "藤田 ことねで最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-fktn-030",
+            "name": "藤田 ことねの衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-031",
+            "name": "藤田 ことねの髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-033",
+            "name": "藤田 ことねの楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-fktn-034",
+            "name": "藤田 ことねのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-fktn-035",
+            "name": "藤田 ことねのPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-fktn-036",
+            "name": "藤田 ことねのTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-fktn-037",
+            "name": "藤田 ことねでお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-fktn-038",
+            "name": "藤田 ことねで{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-fktn-039",
+            "name": "藤田 ことねで{threshold}回コンテストに挑戦"
+        },
+        {
+            "id": "achieve-p_idol-hkne-000",
+            "name": "氷渡 香名江でTrue Endをみる"
+        },
+        {
+            "id": "achieve-p_idol-hkne-001",
+            "name": "氷渡 香名江のプロデュースでスキルカードを{threshold}回使用"
+        },
+        {
+            "id": "achieve-p_idol-hkne-002",
+            "name": "氷渡 香名江でレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hkne-003",
+            "name": "氷渡 香名江でSPレッスンを{threshold}回クリア"
+        },
+        {
+            "id": "achieve-p_idol-hkne-004",
+            "name": "氷渡 香名江で最終試験に合格して評価B以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-005",
+            "name": "氷渡 香名江で最終試験に合格して評価A以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-006",
+            "name": "氷渡 香名江で最終試験に合格して評価S以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-007",
+            "name": "氷渡 香名江のプロデュースを{threshold}回完了"
+        },
+        {
+            "id": "achieve-p_idol-hkne-008",
+            "name": "氷渡 香名江の特訓段階を{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hkne-009",
+            "name": "氷渡 香名江のプロデュースで最終試験に{threshold}回合格"
+        },
+        {
+            "id": "achieve-p_idol-hkne-010",
+            "name": "氷渡 香名江のファンを{threshold}人獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-011",
+            "name": "氷渡 香名江の親愛度Lvを{threshold}にする"
+        },
+        {
+            "id": "achieve-p_idol-hkne-012",
+            "name": "氷渡 香名江でプロデュース評価を合計{threshold}獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-013",
+            "name": "氷渡 香名江のプロデュースでスキルカードを{threshold}回強化"
+        },
+        {
+            "id": "achieve-p_idol-hkne-014",
+            "name": "氷渡 香名江のビジュアルを1000以上に育成してプロデュースを完了"
+        },
+        {
+            "id": "achieve-p_idol-hkne-015",
+            "name": "「アイドルへの道」でクリア条件の★を{threshold}個獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-016",
+            "name": "氷渡 香名江で最終試験に合格して評価S+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-017",
+            "name": "氷渡 香名江の定期公演『初』難易度：マスターで最終試験1位を獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-018",
+            "name": "プロデュースで特別指導を{threshold}回選択"
+        },
+        {
+            "id": "achieve-p_idol-hkne-020",
+            "name": "氷渡 香名江で最終試験に合格して評価SS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-021",
+            "name": "氷渡 香名江で最終試験に合格して評価SS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-023",
+            "name": "氷渡 香名江で最終試験に合格して評価SSS以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-024",
+            "name": "氷渡 香名江で最終試験に合格して評価SSS+以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-027",
+            "name": "氷渡 香名江で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hkne-030",
+            "name": "氷渡 香名江の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-031",
+            "name": "氷渡 香名江の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-033",
+            "name": "氷渡 香名江の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hkne-034",
+            "name": "氷渡 香名江のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hkne-035",
+            "name": "氷渡 香名江のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hkne-036",
+            "name": "氷渡 香名江のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hkne-037",
+            "name": "氷渡 香名江でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hkne-038",
+            "name": "氷渡 香名江で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hkne-039",
+            "name": "氷渡 香名江で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hmsz-000",
             "name": "秦谷 美鈴でTrue Endをみる"
         },
@@ -12036,6 +12424,42 @@
         {
             "id": "achieve-p_idol-hmsz-027",
             "name": "秦谷 美鈴で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-030",
+            "name": "秦谷 美鈴の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-031",
+            "name": "秦谷 美鈴の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-033",
+            "name": "秦谷 美鈴の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-034",
+            "name": "秦谷 美鈴のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-035",
+            "name": "秦谷 美鈴のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-036",
+            "name": "秦谷 美鈴のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-037",
+            "name": "秦谷 美鈴でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-038",
+            "name": "秦谷 美鈴で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hmsz-039",
+            "name": "秦谷 美鈴で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-hrnm-000",
@@ -12158,6 +12582,42 @@
             "name": "姫崎 莉波で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hrnm-030",
+            "name": "姫崎 莉波の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-031",
+            "name": "姫崎 莉波の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-033",
+            "name": "姫崎 莉波の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-034",
+            "name": "姫崎 莉波のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-035",
+            "name": "姫崎 莉波のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-036",
+            "name": "姫崎 莉波のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-037",
+            "name": "姫崎 莉波でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-038",
+            "name": "姫崎 莉波で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hrnm-039",
+            "name": "姫崎 莉波で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hski-000",
             "name": "花海 咲季でTrue Endをみる"
         },
@@ -12278,6 +12738,42 @@
             "name": "花海 咲季で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-hski-030",
+            "name": "花海 咲季の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-031",
+            "name": "花海 咲季の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-033",
+            "name": "花海 咲季の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hski-034",
+            "name": "花海 咲季のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hski-035",
+            "name": "花海 咲季のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hski-036",
+            "name": "花海 咲季のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hski-037",
+            "name": "花海 咲季でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hski-038",
+            "name": "花海 咲季で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hski-039",
+            "name": "花海 咲季で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-hume-000",
             "name": "花海 佑芽でTrue Endをみる"
         },
@@ -12392,6 +12888,42 @@
         {
             "id": "achieve-p_idol-hume-027",
             "name": "花海 佑芽で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-hume-030",
+            "name": "花海 佑芽の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-031",
+            "name": "花海 佑芽の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-033",
+            "name": "花海 佑芽の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-hume-034",
+            "name": "花海 佑芽のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-hume-035",
+            "name": "花海 佑芽のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-hume-036",
+            "name": "花海 佑芽のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-hume-037",
+            "name": "花海 佑芽でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-hume-038",
+            "name": "花海 佑芽で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-hume-039",
+            "name": "花海 佑芽で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-jsna-000",
@@ -12514,6 +13046,42 @@
             "name": "十王 星南で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-jsna-030",
+            "name": "十王 星南の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-031",
+            "name": "十王 星南の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-033",
+            "name": "十王 星南の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-jsna-034",
+            "name": "十王 星南のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-jsna-035",
+            "name": "十王 星南のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-jsna-036",
+            "name": "十王 星南のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-jsna-037",
+            "name": "十王 星南でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-jsna-038",
+            "name": "十王 星南で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-jsna-039",
+            "name": "十王 星南で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-kcna-000",
             "name": "倉本 千奈でTrue Endをみる"
         },
@@ -12630,6 +13198,42 @@
             "name": "倉本 千奈で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-kcna-030",
+            "name": "倉本 千奈の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-031",
+            "name": "倉本 千奈の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-033",
+            "name": "倉本 千奈の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-kcna-034",
+            "name": "倉本 千奈のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-kcna-035",
+            "name": "倉本 千奈のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kcna-036",
+            "name": "倉本 千奈のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-kcna-037",
+            "name": "倉本 千奈でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-kcna-038",
+            "name": "倉本 千奈で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-kcna-039",
+            "name": "倉本 千奈で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-kllj-000",
             "name": "葛城 リーリヤでTrue Endをみる"
         },
@@ -12744,6 +13348,42 @@
         {
             "id": "achieve-p_idol-kllj-027",
             "name": "葛城 リーリヤで最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-kllj-030",
+            "name": "葛城 リーリヤの衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-031",
+            "name": "葛城 リーリヤの髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-033",
+            "name": "葛城 リーリヤの楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-kllj-034",
+            "name": "葛城 リーリヤのプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-kllj-035",
+            "name": "葛城 リーリヤのPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-kllj-036",
+            "name": "葛城 リーリヤのTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-kllj-037",
+            "name": "葛城 リーリヤでお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-kllj-038",
+            "name": "葛城 リーリヤで{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-kllj-039",
+            "name": "葛城 リーリヤで{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-shro-000",
@@ -12866,6 +13506,42 @@
             "name": "篠澤 広で最終試験に合格して評価S4以上を{threshold}回獲得"
         },
         {
+            "id": "achieve-p_idol-shro-030",
+            "name": "篠澤 広の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-031",
+            "name": "篠澤 広の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-033",
+            "name": "篠澤 広の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-shro-034",
+            "name": "篠澤 広のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-shro-035",
+            "name": "篠澤 広のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-shro-036",
+            "name": "篠澤 広のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-shro-037",
+            "name": "篠澤 広でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-shro-038",
+            "name": "篠澤 広で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-shro-039",
+            "name": "篠澤 広で{threshold}回コンテストに挑戦"
+        },
+        {
             "id": "achieve-p_idol-ssmk-000",
             "name": "紫雲 清夏でTrue Endをみる"
         },
@@ -12980,6 +13656,42 @@
         {
             "id": "achieve-p_idol-ssmk-027",
             "name": "紫雲 清夏で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-030",
+            "name": "紫雲 清夏の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-031",
+            "name": "紫雲 清夏の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-033",
+            "name": "紫雲 清夏の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-034",
+            "name": "紫雲 清夏のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-035",
+            "name": "紫雲 清夏のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-036",
+            "name": "紫雲 清夏のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-037",
+            "name": "紫雲 清夏でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-038",
+            "name": "紫雲 清夏で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-ssmk-039",
+            "name": "紫雲 清夏で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achieve-p_idol-ttmr-000",
@@ -13100,6 +13812,42 @@
         {
             "id": "achieve-p_idol-ttmr-027",
             "name": "月村 手毬で最終試験に合格して評価S4以上を{threshold}回獲得"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-030",
+            "name": "月村 手毬の衣装を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-031",
+            "name": "月村 手毬の髪型を合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-033",
+            "name": "月村 手毬の楽曲を合計{threshold}曲解放"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-034",
+            "name": "月村 手毬のプロデューサーランキングで2000位以内に{threshold}シーズン入賞"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-035",
+            "name": "月村 手毬のPアイドルを合計{threshold}種類入手"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-036",
+            "name": "月村 手毬のTrueライブを{threshold}種類見る"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-037",
+            "name": "月村 手毬でお仕事を合計{threshold}時間"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-038",
+            "name": "月村 手毬で{threshold}枚撮影"
+        },
+        {
+            "id": "achieve-p_idol-ttmr-039",
+            "name": "月村 手毬で{threshold}回コンテストに挑戦"
         },
         {
             "id": "achievement_char_hume-024",

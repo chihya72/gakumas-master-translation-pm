@@ -57,25 +57,31 @@ def request(connection, operation, path):
     connection.sendall(operation + struct.pack('<I', len(data)) + data)
 
 
-def auth_files(device):
-    names = []
+def directory_entries(device, folder):
     with sync_connection(device) as connection:
-        request(connection, b'LIST', FOLDER)
+        request(connection, b'LIST', folder)
         while True:
             kind, value = struct.unpack('<4sI', exact(connection, 8))
             if kind == b'DONE':
-                return names
+                return
             if kind == b'FAIL':
                 exact(connection, value)
-                raise RuntimeError('Game preferences directory cannot be read.')
+                raise RuntimeError('Android directory cannot be read.')
             if kind != b'DENT':
                 raise RuntimeError('Unexpected ADB directory response.')
             size, _, length = struct.unpack('<III', exact(connection, 12))
             name = exact(connection, length).decode('utf-8')
-            if name.startswith('com.google.firebase.auth.api.Store.') and name.endswith('.xml'):
-                if '/' in name or '\\' in name or size > MAX_BYTES:
-                    raise RuntimeError('Invalid Firebase Auth file entry.')
-                names.append(name)
+            yield name, size
+
+
+def auth_files(device):
+    names = []
+    for name, size in directory_entries(device, FOLDER):
+        if name.startswith('com.google.firebase.auth.api.Store.') and name.endswith('.xml'):
+            if '/' in name or '\\' in name or size > MAX_BYTES:
+                raise RuntimeError('Invalid Firebase Auth file entry.')
+            names.append(name)
+    return names
 
 
 def read_path(device, path):
