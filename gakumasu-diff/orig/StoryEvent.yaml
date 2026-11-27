@@ -358,3 +358,15 @@
   idolCardSkinBeforeAssetId: ""
   idolCardSkinAfterAssetId: ""
   order: 17
+- id: unit-event-001
+  title: 乖轟
+  storyEventType: StoryEventType_UnitStory
+  titleAssetId: img_general_event_story_event-story-031-logo
+  bannerAssetId: img_general_event_story_event-story-031-banner
+  storyGroupId: ""
+  unitStoryGroupIds:
+  - unit_event_group-001-01
+  - unit_event_group-001-02
+  idolCardSkinBeforeAssetId: ""
+  idolCardSkinAfterAssetId: ""
+  order: 1

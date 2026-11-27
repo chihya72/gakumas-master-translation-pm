@@ -4779,6 +4779,23 @@
   rewardAssetId: ""
   conditionSetId: ""
   order: 1
+- id: mission-group-unit-event-001
+  name: 乖轟
+  assetId: img_general_event_story_event-story-031-header
+  missionPointId: ""
+  missionIds:
+  - mission-unit-event-001-mission_1
+  - mission-unit-event-001-mission_2
+  - mission-unit-event-001-mission_3
+  - mission-unit-event-001-mission_4
+  - mission-unit-event-001-mission_5
+  - mission-unit-event-001-mission_6
+  rewards: []
+  showHomeLimitedMission: false
+  rewardName: ""
+  rewardAssetId: ""
+  conditionSetId: ""
+  order: 1
 - id: panel_mission-event-002-group_1
   name: 第2回パネルミッション シート1
   assetId: ""

@@ -1954,3 +1954,43 @@
   - story-other-01_hski-02
   storyEventId: ""
   order: 33
+- id: unit_event_group-001-01
+  storyType: StoryType_StoryEvent
+  storyEventType: StoryEventType_Unknown
+  isCampaign: false
+  eventStoryFilterType: EventStoryFilterType_Unknown
+  title: Side 雨夜 燕
+  headerAssetId: img_general_event_story_event-story-031-header
+  storyThumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  viewConditionSetId: cd-story_view_unit_event_group-31-01
+  unlockConditionSetId: ""
+  characterId: atbm
+  dearnessLevelMin: 0
+  dearnessLevelMax: 0
+  storyIds:
+  - story-unit-event-031-01
+  - story-unit-event-031-02
+  - story-unit-event-031-03
+  - story-unit-event-031-04
+  storyEventId: unit-event-001
+  order: 34
+- id: unit_event_group-001-02
+  storyType: StoryType_StoryEvent
+  storyEventType: StoryEventType_Unknown
+  isCampaign: false
+  eventStoryFilterType: EventStoryFilterType_Unknown
+  title: Side 有村 麻央
+  headerAssetId: img_general_event_story_event-story-031-header
+  storyThumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  viewConditionSetId: cd-story_view_unit_event_group-31-01
+  unlockConditionSetId: ""
+  characterId: amao
+  dearnessLevelMin: 0
+  dearnessLevelMax: 0
+  storyIds:
+  - story-unit-event-031-01
+  - story-unit-event-031-05
+  - story-unit-event-031-06
+  - story-unit-event-031-07
+  storyEventId: unit-event-001
+  order: 34

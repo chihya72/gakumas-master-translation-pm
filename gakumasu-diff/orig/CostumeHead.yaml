@@ -232,6 +232,32 @@
   viewConditionSetId: ""
   viewStartTime: "1790733600000"
   order: 48700
+- id: costume_head_amao-cstm-0184
+  characterId: amao
+  name: アンバランス
+  hairAssetId: mdl_chr_amao-cstm-0184_hair
+  faceAssetId: mdl_chr_amao-base-0000_face
+  description: 【アンバランス】有村 麻央を入手
+  resourceOriginType: ResourceOriginType_IdolCardSkin
+  targetId: i_card-skin-amao-3-023
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1795744800000"
+  order: 48690
+- id: costume_head_amao-cstm-0185
+  characterId: amao
+  name: アンバランス
+  hairAssetId: mdl_chr_amao-cstm-0185_hair
+  faceAssetId: mdl_chr_amao-base-0000_face
+  description: 【アンバランス】有村 麻央の才能開花4段階目で入手
+  resourceOriginType: ResourceOriginType_IdolCard
+  targetId: i_card-amao-3-023
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1795744800000"
+  order: 48691
 - id: costume_head_amao-hair-0000
   characterId: amao
   name: ホントのフローライト
@@ -596,6 +622,32 @@
   viewConditionSetId: ""
   viewStartTime: "1790733600000"
   order: 138670
+- id: costume_head_atbm-cstm-0184
+  characterId: atbm
+  name: アンバランス
+  hairAssetId: mdl_chr_atbm-cstm-0184_hair
+  faceAssetId: mdl_chr_atbm-base-0000_face
+  description: 【アンバランス】雨夜 燕を入手
+  resourceOriginType: ResourceOriginType_IdolCardSkin
+  targetId: i_card-skin-atbm-3-020
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1795744800000"
+  order: 138650
+- id: costume_head_atbm-cstm-0185
+  characterId: atbm
+  name: アンバランス
+  hairAssetId: mdl_chr_atbm-cstm-0185_hair
+  faceAssetId: mdl_chr_atbm-base-0000_face
+  description: 【アンバランス】雨夜 燕の才能開花4段階目で入手
+  resourceOriginType: ResourceOriginType_IdolCard
+  targetId: i_card-atbm-3-020
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1795744800000"
+  order: 138651
 - id: costume_head_atbm-hair-0001
   characterId: atbm
   name: 紫陽花の髪飾り
@@ -1415,6 +1467,19 @@
   viewConditionSetId: ""
   viewStartTime: "1794794400000"
   order: 149820
+- id: costume_head_hkne-hair-0039
+  characterId: hkne
+  name: ぴょこっとリボン
+  hairAssetId: mdl_chr_hkne-hair-0039_hair
+  faceAssetId: mdl_chr_hkne-base-0001_face
+  description: プレミアムミッションパス 2026年12月で獲得
+  resourceOriginType: ResourceOriginType_Unknown
+  targetId: ""
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1796068800000"
+  order: 149810
 - id: costume_head_hkne-othr-0004
   characterId: hkne
   name: いつものお給仕スタイル
@@ -3110,9 +3175,9 @@
   name: 大きめリボン
   hairAssetId: mdl_chr_hume-hair-0009_hair
   faceAssetId: mdl_chr_hume-base-0000_face
-  description: プレミアムミッションパス 2025年12月で獲得
-  resourceOriginType: ResourceOriginType_Unknown
-  targetId: ""
+  description: プレミアムミッションパス 2025年12月で獲得など
+  resourceOriginType: ResourceOriginType_Shop
+  targetId: shop_costume
   isTraining: false
   noGashaAppeal: false
   viewConditionSetId: ""
@@ -3170,6 +3235,19 @@
   viewConditionSetId: ""
   viewStartTime: "1785528000000"
   order: 109820
+- id: costume_head_hume-hair-0039
+  characterId: hume
+  name: ぴょこっとリボン
+  hairAssetId: mdl_chr_hume-hair-0039_hair
+  faceAssetId: mdl_chr_hume-base-0000_face
+  description: プレミアムミッションパス 2026年12月で獲得
+  resourceOriginType: ResourceOriginType_Unknown
+  targetId: ""
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1796068800000"
+  order: 109810
 - id: costume_head_hume-schl-0000
   characterId: hume
   name: いつもの髪型
@@ -3968,9 +4046,9 @@
   name: 大きめリボン
   hairAssetId: mdl_chr_kcna-hair-0009_hair
   faceAssetId: mdl_chr_kcna-base-0000_face
-  description: プレミアムミッションパス 2025年12月で獲得
-  resourceOriginType: ResourceOriginType_Unknown
-  targetId: ""
+  description: プレミアムミッションパス 2025年12月で獲得など
+  resourceOriginType: ResourceOriginType_Shop
+  targetId: shop_costume
   isTraining: false
   noGashaAppeal: false
   viewConditionSetId: ""
@@ -4028,6 +4106,19 @@
   viewConditionSetId: ""
   viewStartTime: "1785528000000"
   order: 69820
+- id: costume_head_kcna-hair-0039
+  characterId: kcna
+  name: ぴょこっとリボン
+  hairAssetId: mdl_chr_kcna-hair-0039_hair
+  faceAssetId: mdl_chr_kcna-base-0000_face
+  description: プレミアムミッションパス 2026年12月で獲得
+  resourceOriginType: ResourceOriginType_Unknown
+  targetId: ""
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1796068800000"
+  order: 69810
 - id: costume_head_kllj-cstm-0007
   characterId: kllj
   name: 白線
@@ -4891,9 +4982,9 @@
   name: 大きめリボン
   hairAssetId: mdl_chr_shro-hair-0009_hair
   faceAssetId: mdl_chr_shro-base-0000_face
-  description: プレミアムミッションパス 2025年12月で獲得
-  resourceOriginType: ResourceOriginType_Unknown
-  targetId: ""
+  description: プレミアムミッションパス 2025年12月で獲得など
+  resourceOriginType: ResourceOriginType_Shop
+  targetId: shop_costume
   isTraining: false
   noGashaAppeal: false
   viewConditionSetId: ""
@@ -4951,6 +5042,19 @@
   viewConditionSetId: ""
   viewStartTime: "1785528000000"
   order: 89810
+- id: costume_head_shro-hair-0039
+  characterId: shro
+  name: ぴょこっとリボン
+  hairAssetId: mdl_chr_shro-hair-0039_hair
+  faceAssetId: mdl_chr_shro-base-0000_face
+  description: プレミアムミッションパス 2026年12月で獲得
+  resourceOriginType: ResourceOriginType_Unknown
+  targetId: ""
+  isTraining: false
+  noGashaAppeal: false
+  viewConditionSetId: ""
+  viewStartTime: "1796068800000"
+  order: 89800
 - id: costume_head_ssmk-cstm-0009
   characterId: ssmk
   name: Tame-Lie-One-Step

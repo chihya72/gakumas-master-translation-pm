@@ -26222,6 +26222,36 @@
   isBusinessExcellent: false
   libraryHidden: false
   order: 3
+- id: p_story-i_card-amao-3-023-01
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 1話
+  advAssetId: adv_cidol-amao-3-023_01
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 1
+- id: p_story-i_card-amao-3-023-02
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 2話
+  advAssetId: adv_cidol-amao-3-023_02
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 2
+- id: p_story-i_card-amao-3-023-03
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 3話
+  advAssetId: adv_cidol-amao-3-023_03
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 3
 - id: p_story-i_card-atbm-3-000-01
   type: ProduceStoryType_IdolCard
   title: 理論武装して 1話
@@ -26336,6 +26366,36 @@
   type: ProduceStoryType_IdolCard
   title: クライアイ 3話
   advAssetId: adv_cidol-atbm-3-018_03
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 3
+- id: p_story-i_card-atbm-3-020-01
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 1話
+  advAssetId: adv_cidol-atbm-3-020_01
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 1
+- id: p_story-i_card-atbm-3-020-02
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 2話
+  advAssetId: adv_cidol-atbm-3-020_02
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 2
+- id: p_story-i_card-atbm-3-020-03
+  type: ProduceStoryType_IdolCard
+  title: アンバランス 3話
+  advAssetId: adv_cidol-atbm-3-020_03
   produceEventHintProduceConditionDescriptions: []
   viewConditionSetId: ""
   unlockConditionSetId: ""
@@ -31602,6 +31662,26 @@
   isBusinessExcellent: false
   libraryHidden: false
   order: 2
+- id: p_story-s_card-2-0085-01
+  type: ProduceStoryType_SupportCard
+  title: 私たちがヒーロー！
+  advAssetId: adv_csprt-2-0085_01
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 1
+- id: p_story-s_card-2-0085-02
+  type: ProduceStoryType_SupportCard
+  title: 必殺コンビネーション！
+  advAssetId: adv_csprt-2-0085_02
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 2
 - id: p_story-s_card-3-0000-01
   type: ProduceStoryType_SupportCard
   title: 『友達』ランチ
@@ -35076,6 +35156,66 @@
   type: ProduceStoryType_SupportCard
   title: ここは高級レストラン？
   advAssetId: adv_csprt-3-0115_03
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 3
+- id: p_story-s_card-3-0116-01
+  type: ProduceStoryType_SupportCard
+  title: たまにはバディとして
+  advAssetId: adv_csprt-3-0116_01
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 1
+- id: p_story-s_card-3-0116-02
+  type: ProduceStoryType_SupportCard
+  title: 勝負はこれから！
+  advAssetId: adv_csprt-3-0116_02
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 2
+- id: p_story-s_card-3-0116-03
+  type: ProduceStoryType_SupportCard
+  title: まだ見ぬ凄腕ゲーマー
+  advAssetId: adv_csprt-3-0116_03
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 3
+- id: p_story-s_card-3-0117-01
+  type: ProduceStoryType_SupportCard
+  title: 新メニューコンペ！
+  advAssetId: adv_csprt-3-0117_01
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 1
+- id: p_story-s_card-3-0117-02
+  type: ProduceStoryType_SupportCard
+  title: 誰かを想うメニュー
+  advAssetId: adv_csprt-3-0117_02
+  produceEventHintProduceConditionDescriptions: []
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  isBusinessExcellent: false
+  libraryHidden: false
+  order: 2
+- id: p_story-s_card-3-0117-03
+  type: ProduceStoryType_SupportCard
+  title: 時には子どものように
+  advAssetId: adv_csprt-3-0117_03
   produceEventHintProduceConditionDescriptions: []
   viewConditionSetId: ""
   unlockConditionSetId: ""

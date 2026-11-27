@@ -955,6 +955,34 @@
   remainingTerm: 7
   evaluation: -100000
 - type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 1
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 2
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 3
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 4
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 5
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 6
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 7
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
   produceCardId: p_card-01-men-2_037
   remainingTerm: 1
   evaluation: 1000000
@@ -2560,6 +2588,30 @@
   evaluation: -100000
 - type: ExamPlayType_AutoPlay
   produceCardId: p_card-03-ido-3_247
+  remainingTerm: 7
+  evaluation: -100000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 1
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 2
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 4
+  evaluation: -100000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 5
+  evaluation: -100000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 6
+  evaluation: -100000
+- type: ExamPlayType_AutoPlay
+  produceCardId: p_card-03-ido-3_294
   remainingTerm: 7
   evaluation: -100000
 - type: ExamPlayType_AutoPlayCompetition
@@ -2887,6 +2939,34 @@
   remainingTerm: 2
   evaluation: 1000000
 - type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 1
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 2
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 3
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 4
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 5
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 6
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-01-ido-3_293
+  remainingTerm: 7
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
   produceCardId: p_card-01-men-2_037
   remainingTerm: 1
   evaluation: 1000000
@@ -3685,4 +3765,12 @@
 - type: ExamPlayType_AutoPlayCompetition
   produceCardId: p_card-03-ido-3_235
   remainingTerm: 7
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 1
+  evaluation: 1000000
+- type: ExamPlayType_AutoPlayCompetition
+  produceCardId: p_card-03-ido-3_294
+  remainingTerm: 2
   evaluation: 1000000

@@ -16198,6 +16198,23 @@
   pickCountMax: 0
   isResearch: false
   isProduceCardChangeDirectUpgradeCount: false
+- id: p_effect-produce_reward-0001_0001-produce_card-p_card-01-sup-3_254-0
+  produceEffectType: ProduceEffectType_ProduceReward
+  effectValueMin: 1
+  effectValueMax: 1
+  produceResourceType: ProduceResourceType_Unknown
+  produceRewards:
+  - resourceType: ProduceResourceType_ProduceCard
+    resourceId: p_card-01-sup-3_254
+    resourceLevel: 0
+  produceCardSearchId: ""
+  produceExamStatusEnchantId: ""
+  produceStepEventDetailId: ""
+  pickRangeType: ProducePickRangeType_Unknown
+  pickCountMin: 0
+  pickCountMax: 0
+  isResearch: false
+  isProduceCardChangeDirectUpgradeCount: false
 - id: p_effect-produce_reward-0001_0001-produce_card-p_card-02-ido-100_037-0
   produceEffectType: ProduceEffectType_ProduceReward
   effectValueMin: 1
@@ -19122,6 +19139,23 @@
   pickCountMax: 0
   isResearch: false
   isProduceCardChangeDirectUpgradeCount: false
+- id: p_effect-produce_reward-0001_0001-produce_item-pitem_03-2-138-0-0
+  produceEffectType: ProduceEffectType_ProduceReward
+  effectValueMin: 1
+  effectValueMax: 1
+  produceResourceType: ProduceResourceType_Unknown
+  produceRewards:
+  - resourceType: ProduceResourceType_ProduceItem
+    resourceId: pitem_03-2-138-0
+    resourceLevel: 0
+  produceCardSearchId: ""
+  produceExamStatusEnchantId: ""
+  produceStepEventDetailId: ""
+  pickRangeType: ProducePickRangeType_Unknown
+  pickCountMin: 0
+  pickCountMax: 0
+  isResearch: false
+  isProduceCardChangeDirectUpgradeCount: false
 - id: p_effect-produce_reward-0001_0001-produce_item-pitem_03-3-065-0-0
   produceEffectType: ProduceEffectType_ProduceReward
   effectValueMin: 1
@@ -19351,6 +19385,23 @@
   produceRewards:
   - resourceType: ProduceResourceType_ProduceItem
     resourceId: pitem_03-3-350-0
+    resourceLevel: 0
+  produceCardSearchId: ""
+  produceExamStatusEnchantId: ""
+  produceStepEventDetailId: ""
+  pickRangeType: ProducePickRangeType_Unknown
+  pickCountMin: 0
+  pickCountMax: 0
+  isResearch: false
+  isProduceCardChangeDirectUpgradeCount: false
+- id: p_effect-produce_reward-0001_0001-produce_item-pitem_03-3-358-0-0
+  produceEffectType: ProduceEffectType_ProduceReward
+  effectValueMin: 1
+  effectValueMax: 1
+  produceResourceType: ProduceResourceType_Unknown
+  produceRewards:
+  - resourceType: ProduceResourceType_ProduceItem
+    resourceId: pitem_03-3-358-0
     resourceLevel: 0
   produceCardSearchId: ""
   produceExamStatusEnchantId: ""

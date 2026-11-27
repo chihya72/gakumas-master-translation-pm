@@ -3521,6 +3521,56 @@
   startTime: "1794794400000"
   endTime: "0"
   order: 178
+- id: comic4_0178
+  name: 思い出す数々の
+  mediaType: MediaType_FourPanelComic
+  assetId: img_general_comic4_0178
+  thumbnailAssetId: img_general_comic4_0178-thumb
+  viewConditionSetId: cd_time_26_1127-1100
+  characterIds:
+  - atbm
+  externalUrl: ""
+  fourPanelComicEpisode: 178
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1795744800000"
+  endTime: "0"
+  order: 179
+- id: comic4_0179
+  name: あの日を振り返る
+  mediaType: MediaType_FourPanelComic
+  assetId: img_general_comic4_0179
+  thumbnailAssetId: img_general_comic4_0179-thumb
+  viewConditionSetId: cd_time_26_1127-1100
+  characterIds:
+  - ttmr
+  - hmsz
+  externalUrl: ""
+  fourPanelComicEpisode: 179
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1795744800000"
+  endTime: "0"
+  order: 180
+- id: comic4_0180
+  name: ちいさな歩みでも
+  mediaType: MediaType_FourPanelComic
+  assetId: img_general_comic4_0180
+  thumbnailAssetId: img_general_comic4_0180-thumb
+  viewConditionSetId: cd_time_26_1127-1100
+  characterIds:
+  - kcna
+  - hkne
+  externalUrl: ""
+  fourPanelComicEpisode: 180
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Unknown
+  startTime: "1795744800000"
+  endTime: "0"
+  order: 181
 - id: comic4_radio-0000
   name: 第0話
   mediaType: MediaType_FourPanelComicOther
@@ -4085,3 +4135,18 @@
   startTime: "1794322800000"
   endTime: "0"
   order: 34
+- id: movie-0035
+  name: 十王星南 生誕記念配信2026
+  mediaType: MediaType_Movie
+  assetId: mov_general_media_birthday-live-2026-jsna
+  thumbnailAssetId: img_general_media_birthday-live-2026-jsna
+  viewConditionSetId: cd_time_26_1207-0000
+  characterIds: []
+  externalUrl: ""
+  fourPanelComicEpisode: 0
+  caption: ""
+  fourPanelComicSeries: FourPanelComicSeries_Unknown
+  mediaMovieType: MediaMovieType_Birthday
+  startTime: "1796569200000"
+  endTime: "0"
+  order: 35

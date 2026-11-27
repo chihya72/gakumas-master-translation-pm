@@ -1712,6 +1712,30 @@
   - hkne
   text: （あぁ、お手伝いしたいですっ……）
   voiceAssetId: sud_vo_system_csprt-2-0084_03-hkne
+- supportCardId: s_card-2-0085
+  number: 1
+  characterIds:
+  - atbm
+  text: |-
+    遅れてすまない！
+    後ろに下がっていろ！
+  voiceAssetId: sud_vo_system_csprt-2-0085_01-atbm
+- supportCardId: s_card-2-0085
+  number: 2
+  characterIds:
+  - hume
+  text: |-
+    あたしたちが来たからには、
+    もう大丈夫だよ！
+  voiceAssetId: sud_vo_system_csprt-2-0085_02-hume
+- supportCardId: s_card-2-0085
+  number: 3
+  characterIds:
+  - atbm
+  text: |-
+    ああ！
+    怪人は私たちが倒してみせよう！
+  voiceAssetId: sud_vo_system_csprt-2-0085_03-atbm
 - supportCardId: s_card-3-0000
   number: 1
   characterIds:
@@ -4068,6 +4092,48 @@
     ジャンクフードの魅力、
     ちょっぴりわかった気がしますわ。
   voiceAssetId: sud_vo_system_csprt-3-0115_03-kcna
+- supportCardId: s_card-3-0116
+  number: 1
+  characterIds:
+  - amao
+  text: 燕、準備はいい？
+  voiceAssetId: sud_vo_system_csprt-3-0116_01-amao
+- supportCardId: s_card-3-0116
+  number: 2
+  characterIds:
+  - atbm
+  text: ああ。足を引っ張るなよ。
+  voiceAssetId: sud_vo_system_csprt-3-0116_02-atbm
+- supportCardId: s_card-3-0116
+  number: 3
+  characterIds:
+  - amao
+  text: |-
+    そっちこそ。
+    じゃあ――ゲームスタートだ。
+  voiceAssetId: sud_vo_system_csprt-3-0116_03-amao
+- supportCardId: s_card-3-0117
+  number: 1
+  characterIds:
+  - amao
+  text: |-
+    ボクの作ったスーパー完全食、
+    初星焼きをめしあがれ！
+  voiceAssetId: sud_vo_system_csprt-3-0117_01-amao
+- supportCardId: s_card-3-0117
+  number: 2
+  characterIds:
+  - hski
+  text: |-
+    これは、ただのお好み焼きじゃない……
+    一体、なにを使ったというの！？
+  voiceAssetId: sud_vo_system_csprt-3-0117_02-hski
+- supportCardId: s_card-3-0117
+  number: 3
+  characterIds:
+  - amao
+  text: ふっ、それは食べてみてのお楽しみや！
+  voiceAssetId: sud_vo_system_csprt-3-0117_03-amao
 - supportCardId: s_card-3-0122
   number: 1
   characterIds:

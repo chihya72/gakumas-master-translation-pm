@@ -119,6 +119,10 @@
   coefficientPermil: 423
   count: 0
 - type: ExamPlayType_AutoPlay
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-mental_skill-target
+  coefficientPermil: 650
+  count: 3
+- type: ExamPlayType_AutoPlay
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000
   coefficientPermil: 650
   count: 0
@@ -200,6 +204,10 @@
   count: 0
 - type: ExamPlayType_AutoPlay
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_lesson_buff
+  coefficientPermil: 500
+  count: 0
+- type: ExamPlayType_AutoPlay
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_parameter_buff
   coefficientPermil: 500
   count: 0
 - type: ExamPlayType_AutoPlay
@@ -399,6 +407,10 @@
   coefficientPermil: 423
   count: 0
 - type: ExamPlayType_ManualPlayLesson
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-mental_skill-target
+  coefficientPermil: 650
+  count: 3
+- type: ExamPlayType_ManualPlayLesson
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000
   coefficientPermil: 650
   count: 0
@@ -480,6 +492,10 @@
   count: 0
 - type: ExamPlayType_ManualPlayLesson
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_lesson_buff
+  coefficientPermil: 500
+  count: 0
+- type: ExamPlayType_ManualPlayLesson
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_parameter_buff
   coefficientPermil: 500
   count: 0
 - type: ExamPlayType_ManualPlayLesson
@@ -679,6 +695,10 @@
   coefficientPermil: 423
   count: 0
 - type: ExamPlayType_ManualPlayLessonHard
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-mental_skill-target
+  coefficientPermil: 650
+  count: 3
+- type: ExamPlayType_ManualPlayLessonHard
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000
   coefficientPermil: 650
   count: 0
@@ -760,6 +780,10 @@
   count: 0
 - type: ExamPlayType_ManualPlayLessonHard
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_lesson_buff
+  coefficientPermil: 500
+  count: 0
+- type: ExamPlayType_ManualPlayLessonHard
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_parameter_buff
   coefficientPermil: 500
   count: 0
 - type: ExamPlayType_ManualPlayLessonHard
@@ -959,6 +983,10 @@
   coefficientPermil: 423
   count: 0
 - type: ExamPlayType_ManualPlayAudition
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-mental_skill-target
+  coefficientPermil: 650
+  count: 3
+- type: ExamPlayType_ManualPlayAudition
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000
   coefficientPermil: 650
   count: 0
@@ -1040,6 +1068,10 @@
   count: 0
 - type: ExamPlayType_ManualPlayAudition
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_lesson_buff
+  coefficientPermil: 500
+  count: 0
+- type: ExamPlayType_ManualPlayAudition
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_parameter_buff
   coefficientPermil: 500
   count: 0
 - type: ExamPlayType_ManualPlayAudition
@@ -1239,6 +1271,10 @@
   coefficientPermil: 423
   count: 0
 - type: ExamPlayType_AutoPlayCompetition
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-mental_skill-target
+  coefficientPermil: 650
+  count: 3
+- type: ExamPlayType_AutoPlayCompetition
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_play_count_interval-2-p_card_search-target-effect_group-visible-exam_block-000
   coefficientPermil: 650
   count: 0
@@ -1320,6 +1356,10 @@
   count: 0
 - type: ExamPlayType_AutoPlayCompetition
   examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_lesson_buff
+  coefficientPermil: 500
+  count: 0
+- type: ExamPlayType_AutoPlayCompetition
+  examStatusEnchantProduceExamTriggerId: e_trigger-exam_status_change-7-exam_parameter_buff
   coefficientPermil: 500
   count: 0
 - type: ExamPlayType_AutoPlayCompetition

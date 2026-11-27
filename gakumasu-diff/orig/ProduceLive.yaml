@@ -6709,6 +6709,29 @@
   costumeHeadId: ""
   liveType: LiveType_Normal
   liveAdditionalAssetId: ""
+- musicId: music-unit-amaoatbm-006
+  type: ProduceLiveType_TrueEnd
+  forceUnlockConditionSetId: ""
+  unlockConditionSetId: ""
+  thumbnailAssetId: ""
+  environmentAssetId: env_3d_live_unit006-00-noon
+  timelineAssetId: tln_live_unit-006
+  beforeAdvAssetId: ""
+  afterAdvAssetId: ""
+  liveMusicAssetId: ""
+  motionAssetIds: []
+  unitLiveThumbnailAssetCharacterIds:
+  - atbm
+  - amao
+  unitLiveThumbnailAssetIds:
+  - img_general_live_music-unit-atbm-006_true-end
+  - img_general_live_music-unit-amao-006_true-end
+  liveOverrideAssetId: ""
+  additionalActorAssetIds: []
+  costumeId: ""
+  costumeHeadId: ""
+  liveType: LiveType_Normal
+  liveAdditionalAssetId: ""
 - musicId: music-unit-amaohrnm-004
   type: ProduceLiveType_TrueEnd
   forceUnlockConditionSetId: ""

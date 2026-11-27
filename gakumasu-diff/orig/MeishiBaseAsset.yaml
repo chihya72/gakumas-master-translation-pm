@@ -208,6 +208,11 @@
   isDefault: false
   meishiBaseAssetType: MeishiBaseAssetType_Other
   order: 110013
+- id: event-story-031
+  name: 名刺背景『乖轟』
+  isDefault: false
+  meishiBaseAssetType: MeishiBaseAssetType_Other
+  order: 110014
 - id: first-live-01
   name: 初声公演
   isDefault: false
@@ -333,6 +338,11 @@
   isDefault: false
   meishiBaseAssetType: MeishiBaseAssetType_CommonBackground
   order: 2016
+- id: jsna-birthday-03
+  name: 十王星南誕生日2026
+  isDefault: false
+  meishiBaseAssetType: MeishiBaseAssetType_CommonBackground
+  order: 2030
 - id: kcna-001
   name: マスターアチーブメント 千奈
   isDefault: false

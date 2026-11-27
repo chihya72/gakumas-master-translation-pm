@@ -6292,8 +6292,8 @@
   viewStartTime: "0"
   order: 5500
 - id: music-bgm-01_056
-  title: ガラクタロード [H.I.F Arrange]
-  displayTitle: ガラクタロード [H.I.F Arrange]
+  title: ガラクタロード [H.I.F BGM ver.]
+  displayTitle: ガラクタロード [H.I.F BGM ver.]
   lyrics: ""
   composer: ""
   arranger: ""
@@ -9160,6 +9160,45 @@
   - music-char-ttmr-005
   viewStartTime: "1748876400000"
   order: 14700
+- id: music-unit-amaoatbm-006
+  title: アンバランス
+  displayTitle: アンバランス
+  lyrics: MONJOE
+  composer: MONJOE
+  arranger: MONJOE,HOHMIE
+  type: MusicType_Music
+  jacketAssetId: unit-amaoatbm-006
+  gameVersionAssetId: sud_music_general_unit-006-amaoatbm_game
+  idolCardSkinUnitId: i_card-skin-unit-amaoatbm-006
+  shortVersionStartMilliseconds: 28000
+  shortVersionEndMilliseconds: 66000
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  produceLiveUnlockItemConditionSetId: ""
+  externalUrl: ""
+  unlockMusicIds: []
+  viewStartTime: "1795744800000"
+  order: 30160
+- id: music-unit-amaoatbm-006-inst
+  title: アンバランス [Instrumental]
+  displayTitle: アンバランス [Instrumental]
+  lyrics: MONJOE
+  composer: MONJOE
+  arranger: MONJOE,HOHMIE
+  type: MusicType_Instrumental
+  jacketAssetId: unit-amaoatbm-006
+  gameVersionAssetId: sud_music_general_unit-006-amaoatbm_game-inst
+  idolCardSkinUnitId: ""
+  shortVersionStartMilliseconds: 28000
+  shortVersionEndMilliseconds: 66000
+  viewConditionSetId: ""
+  unlockConditionSetId: cd-release-music-inst-unit-amaoatbm-006
+  produceLiveUnlockItemConditionSetId: ""
+  externalUrl: ""
+  unlockMusicIds:
+  - music-unit-amaoatbm-006
+  viewStartTime: "1795744800000"
+  order: 30160
 - id: music-unit-amaohrnm-004
   title: SUGAR FLAVOR
   displayTitle: SUGAR FLAVOR

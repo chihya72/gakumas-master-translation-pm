@@ -7467,6 +7467,17 @@
   weight: 0
   height: 0
   order: 20001
+- id: jsna-birthday-stream-logo-001
+  type: MeishiIllustrationType_Logo
+  isDefault: false
+  leftTopPositionX: 0
+  leftTopPositionY: 0
+  rightBottomPositionX: 0
+  rightBottomPositionY: 0
+  name: 十王星南誕生日2026
+  weight: 0
+  height: 0
+  order: 11022
 - id: kcna-birthday-stream-logo-001
   type: MeishiIllustrationType_Logo
   isDefault: false
@@ -9188,6 +9199,17 @@
   weight: 0
   height: 0
   order: 31
+- id: sd-kaigou-01
+  type: MeishiIllustrationType_Sdcharacter
+  isDefault: true
+  leftTopPositionX: 0
+  leftTopPositionY: 0
+  rightBottomPositionX: 0
+  rightBottomPositionY: 0
+  name: アンバランス 乖轟
+  weight: 0
+  height: 0
+  order: 38
 - id: sd-kcna-01
   type: MeishiIllustrationType_Sdcharacter
   isDefault: true

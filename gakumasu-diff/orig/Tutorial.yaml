@@ -3166,3 +3166,19 @@
   - img_tutorial_event_character-introduction_hkne-002-01
   advAssetId: ""
   tutorialProduceCommandType: TutorialProduceCommandType_Unknown
+- tutorialType: TutorialType_StoryEventUnitStory
+  idolCardId: ""
+  step: 1
+  subStep: 1
+  navigationType: TutorialNavigationType_Tips
+  navigationPositionType: TutorialNavigationPositionType_Unknown
+  title: ""
+  texts: []
+  assetIds:
+  - img_tutorial_event_story_event-story-031-01
+  - img_tutorial_event_story_event-story-031-02
+  - img_tutorial_event_story_event-story-031-03
+  - img_tutorial_event_story_event-story-031-04
+  - img_tutorial_event_story_event-story-031-05
+  advAssetId: ""
+  tutorialProduceCommandType: TutorialProduceCommandType_Unknown

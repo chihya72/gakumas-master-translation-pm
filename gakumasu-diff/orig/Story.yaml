@@ -4798,3 +4798,108 @@
   previousStoryId: ""
   dearnessStoryTitle: ""
   order: 1
+- id: story-unit-event-031-01
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: プロローグ
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_unit_introduction-01
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: ""
+  dearnessStoryTitle: ""
+  order: 1
+- id: story-unit-event-031-02
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 雨夜 燕 第1話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-04
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-01
+  dearnessStoryTitle: ""
+  order: 2
+- id: story-unit-event-031-03
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 雨夜 燕 第2話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-05
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-02
+  dearnessStoryTitle: ""
+  order: 3
+- id: story-unit-event-031-04
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 雨夜 燕 第3話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-06
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-03
+  dearnessStoryTitle: ""
+  order: 4
+- id: story-unit-event-031-05
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 有村 麻央 第1話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-01
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-01
+  dearnessStoryTitle: ""
+  order: 2
+- id: story-unit-event-031-06
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 有村 麻央 第2話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-02
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-05
+  dearnessStoryTitle: ""
+  order: 3
+- id: story-unit-event-031-07
+  type: StoryType_StoryEvent
+  characterId: ""
+  title: Side 有村 麻央 第3話
+  thumbnailAssetId: img_general_event_story_event-story-031-story-banner
+  advAssetId: adv_event_031_main-03
+  viewConditionSetId: cd_time_26_1127-1100
+  unlockConditionSetId: cd-story_unlock_story_event_group-01-01
+  reward:
+    resourceType: ResourceType_Unknown
+    resourceId: ""
+    quantity: 0
+  previousStoryId: story-unit-event-031-06
+  dearnessStoryTitle: ""
+  order: 4

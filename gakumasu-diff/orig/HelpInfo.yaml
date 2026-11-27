@@ -1492,9 +1492,9 @@
   openHelpContentId: help-character-introduction-event-story
 - type: StoryEventTopUnitStory
   helpCategoryIds:
-  - help-unitstoryevent
-  openHelpCategoryId: ""
-  openHelpContentId: ""
+  - help-unit-story-event
+  openHelpCategoryId: help-unit-story-event
+  openHelpContentId: unit-story-event-event-story
 - type: RefineTop
   helpCategoryIds:
   - help-refine

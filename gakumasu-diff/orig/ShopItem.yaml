@@ -1856,6 +1856,35 @@
   startTime: "1788228000000"
   endTime: "0"
   order: 143300
+- id: shop_costume_costume_head_hume-hair-0009
+  shopId: shop_costume
+  name: 大きめリボン（花海佑芽）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_hume-hair-0009
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_hume-hair-0009
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1796090400000"
+  endTime: "0"
+  order: 144000
 - id: shop_costume_costume_head_jsna-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（十王星南）
@@ -2204,6 +2233,35 @@
   startTime: "1788228000000"
   endTime: "0"
   order: 142800
+- id: shop_costume_costume_head_kcna-hair-0009
+  shopId: shop_costume
+  name: 大きめリボン（倉本千奈）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_kcna-hair-0009
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_kcna-hair-0009
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1796090400000"
+  endTime: "0"
+  order: 143800
 - id: shop_costume_costume_head_kllj-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（葛城リーリヤ）
@@ -2642,6 +2700,35 @@
   startTime: "1788228000000"
   endTime: "0"
   order: 143000
+- id: shop_costume_costume_head_shro-hair-0009
+  shopId: shop_costume
+  name: 大きめリボン（篠澤広）
+  labelTypes: []
+  assetId: ""
+  shopProductId: ""
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 300
+  rewards:
+  - resourceType: ResourceType_CostumeHead
+    resourceId: costume_head_shro-hair-0009
+    quantity: 1
+  viewConditionSetId: cd-purchase_costume_head_shro-hair-0009
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1796090400000"
+  endTime: "0"
+  order: 143900
 - id: shop_costume_costume_head_ssmk-hair-0001
   shopId: shop_costume
   name: 紫陽花の髪飾り（紫雲清夏）
@@ -9678,4 +9765,34 @@
   costumeId: ""
   startTime: "1793476800000"
   endTime: "1796068799000"
+  order: 100000
+- id: shop_pass_item-0032
+  shopId: shop_pass
+  name: プレミアムミッションパス 2026年12月
+  labelTypes:
+  - ShopItemLabelType_Recommend
+  assetId: "0032"
+  shopProductId: pass_0001
+  totalJewelQuantity: 0
+  paidOnlyJewelQuantity: 0
+  rewards:
+  - resourceType: ResourceType_MissionPassPremiumPass
+    resourceId: mission_pass-2026-12
+    quantity: 1
+  viewConditionSetId: ""
+  unlockConditionSetId: ""
+  resetTimingType: ResetTimingType_Never
+  resetHour: 0
+  resetMinute: 0
+  resetWeekday: Weekday_Unknown
+  resetDay: 0
+  purchaseLimit: 1
+  isHideRecommend: false
+  consumptionResourceType: ResourceType_Unknown
+  consumptionResourceId: ""
+  consumptionResourceQuantity: 0
+  costumeHeadId: ""
+  costumeId: ""
+  startTime: "1796068800000"
+  endTime: "1798747199000"
   order: 100000

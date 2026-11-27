@@ -646,6 +646,78 @@
     quantity: 2000
   featureRewards: []
   index: 0
+- achievementId: achieve-i_card-amao-3-023-01
+  threshold: 1
+  assetId: img_general_achievement_amao-3-023_001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 250
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-amao-3-023-02
+  threshold: 3
+  assetId: img_general_achievement_amao-3-023_002
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1000
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-amao-3-023-03
+  threshold: 1
+  assetId: img_general_achievement_amao-3-023_003
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-amao-3-023-04
+  threshold: 4
+  assetId: img_general_achievement_amao-3-023_004
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-amao-3-023-05
+  threshold: 5
+  assetId: img_general_achievement_amao-3-023_005
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-amao-3-023-06
+  threshold: 6
+  assetId: img_general_achievement_amao-3-023_006
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 2000
+  featureRewards: []
+  index: 0
 - achievementId: achieve-i_card-atbm-2-000-01
   threshold: 1
   assetId: img_general_achievement_atbm-2-000_001
@@ -997,6 +1069,78 @@
 - achievementId: achieve-i_card-atbm-3-018-06
   threshold: 6
   assetId: img_general_achievement_atbm-3-018_006
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 2000
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-01
+  threshold: 1
+  assetId: img_general_achievement_atbm-3-020_001
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 250
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-02
+  threshold: 3
+  assetId: img_general_achievement_atbm-3-020_002
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1000
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-03
+  threshold: 1
+  assetId: img_general_achievement_atbm-3-020_003
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 50
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-04
+  threshold: 4
+  assetId: img_general_achievement_atbm-3-020_004
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-05
+  threshold: 5
+  assetId: img_general_achievement_atbm-3-020_005
+  rewards:
+  - resourceType: ResourceType_JewelTotal
+    resourceId: ""
+    quantity: 20
+  - resourceType: ResourceType_UserExp
+    resourceId: ""
+    quantity: 1500
+  featureRewards: []
+  index: 0
+- achievementId: achieve-i_card-atbm-3-020-06
+  threshold: 6
+  assetId: img_general_achievement_atbm-3-020_006
   rewards:
   - resourceType: ResourceType_JewelTotal
     resourceId: ""

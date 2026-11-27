@@ -784,6 +784,12 @@
   effectCount: 1
   produceEffectId: ""
   produceExamStatusEnchantId: enchant-p_item_effect_02-0-006-0-022-enc01
+- id: p_item_effect-exam_status_enchant-inf-01-enchant-pitem_02-0-006-0-035-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 1
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_02-0-006-0-035-enc01
 - id: p_item_effect-exam_status_enchant-inf-01-enchant-pitem_02-1-010-0-enc01
   effectType: ProduceItemEffectType_ExamStatusEnchant
   effectTurn: -1
@@ -2104,6 +2110,12 @@
   effectCount: 2
   produceEffectId: ""
   produceExamStatusEnchantId: enchant-p_item_effect_03-0-003-0-022-enc01
+- id: p_item_effect-exam_status_enchant-inf-02-enchant-pitem_03-0-003-0-023-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 2
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_03-0-003-0-023-enc01
 - id: p_item_effect-exam_status_enchant-inf-02-enchant-pitem_03-0-007-0-009-enc01
   effectType: ProduceItemEffectType_ExamStatusEnchant
   effectTurn: -1
@@ -2272,6 +2284,18 @@
   effectCount: 2
   produceEffectId: ""
   produceExamStatusEnchantId: enchant-p_item_effect_03-3-347-1-enc01
+- id: p_item_effect-exam_status_enchant-inf-02-enchant-pitem_03-3-395-0-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 2
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_03-3-395-0-enc01
+- id: p_item_effect-exam_status_enchant-inf-02-enchant-pitem_03-3-395-1-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 2
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_03-3-395-1-enc01
 - id: p_item_effect-exam_status_enchant-inf-02-enchant-pitem_tower_001-exam_card_play_aggressive-1-stage_005-enc01
   effectType: ProduceItemEffectType_ExamStatusEnchant
   effectTurn: -1
@@ -2458,6 +2482,12 @@
   effectCount: 3
   produceEffectId: ""
   produceExamStatusEnchantId: enchant-p_item_effect_01-0-001-0-024-enc01
+- id: p_item_effect-exam_status_enchant-inf-03-enchant-pitem_01-0-001-0-025-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 3
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_01-0-001-0-025-enc01
 - id: p_item_effect-exam_status_enchant-inf-03-enchant-pitem_01-0-005-0-011-enc01
   effectType: ProduceItemEffectType_ExamStatusEnchant
   effectTurn: -1
@@ -2590,6 +2620,18 @@
   effectCount: 3
   produceEffectId: ""
   produceExamStatusEnchantId: enchant-p_item_effect_01-3-315-1-enc01
+- id: p_item_effect-exam_status_enchant-inf-03-enchant-pitem_01-3-394-0-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 3
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_01-3-394-0-enc01
+- id: p_item_effect-exam_status_enchant-inf-03-enchant-pitem_01-3-394-1-enc01
+  effectType: ProduceItemEffectType_ExamStatusEnchant
+  effectTurn: -1
+  effectCount: 3
+  produceEffectId: ""
+  produceExamStatusEnchantId: enchant-p_item_effect_01-3-394-1-enc01
 - id: p_item_effect-exam_status_enchant-inf-03-enchant-pitem_02-0-002-0-001-enc01
   effectType: ProduceItemEffectType_ExamStatusEnchant
   effectTurn: -1
@@ -5931,6 +5973,12 @@
   effectTurn: 0
   effectCount: 0
   produceEffectId: p_effect-vocal_addition-0001_0001
+  produceExamStatusEnchantId: ""
+- id: p_item_effect-produce_effect-p_effect-vocal_addition-0005_0005
+  effectType: ProduceItemEffectType_ProduceEffect
+  effectTurn: 0
+  effectCount: 0
+  produceEffectId: p_effect-vocal_addition-0005_0005
   produceExamStatusEnchantId: ""
 - id: p_item_effect-produce_effect-p_effect-vocal_addition-0006_0006
   effectType: ProduceItemEffectType_ProduceEffect

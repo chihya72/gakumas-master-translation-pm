@@ -709,6 +709,67 @@
   - achieve-i_card-amao-3-018-04
   - achieve-i_card-amao-3-018-05
   - achieve-i_card-amao-3-018-06
+- id: i_card-amao-3-023
+  characterId: amao
+  originalIdolCardSkinId: i_card-skin-amao-3-023
+  assetId: cidol-amao-3-023
+  name: アンバランス
+  rarity: IdolCardRarity_Ssr
+  isLimited: false
+  disableIdolCardCharacterPiece: true
+  anotherCostumeHeadId: costume_head_amao-cstm-0185
+  anotherCostumeId: amao-cstm-0185
+  idolCardPotentialId: idol_card_potential-i_card-amao-3-023
+  idolCardPotentialProduceSkillId: idol_card_potential_produce_skill-i_card-amao-3-023
+  idolCardLevelLimitId: idol_card_level_limit-ssr-plan3-vo-vi
+  idolCardLevelLimitProduceSkillId: idol_card_level_limit_produce_skill_001
+  maxIdolCardLevelLimitRank: IdolCardLevelLimitRank__6
+  additionalAnotherCostumeHeadIds: []
+  additionalAnotherCostumeIds: []
+  planType: ProducePlanType_Plan3
+  idolCardLevelLimitStatusUpId: level_limit_status_up-001
+  produceVocal: 75
+  produceDance: 65
+  produceVisual: 55
+  produceVocalGrowthRatePermil: 220
+  produceDanceGrowthRatePermil: 60
+  produceVisualGrowthRatePermil: 180
+  produceStamina: 31
+  produceStepAuditionDifficultyId: p_step_audition_difficulty-i_card-amao-3-023
+  examInitialDeckId: initial_deck-concentration
+  produceCardId: p_card-03-ido-3_294
+  beforeProduceItemId: pitem_03-3-395-0
+  afterProduceItemId: pitem_03-3-395-1
+  examEffectType: ProduceExamEffectType_ExamConcentration
+  produceChallengeSlotId: challenge_slot-exam_concentration
+  showExamEffectType: ProduceExamEffectType_Unknown
+  secondProduceCardId: ""
+  beforeLevelLimitProduceItemId: ""
+  afterLevelLimitProduceItemId: ""
+  primaStellaConsumptionSetId: ""
+  idolCardPrimaStellaProduceSkillId: ""
+  primaStellaAchievementId: ""
+  potentialRankVoiceAssetId: sud_vo_system_cidol-amao-3-023_idol_potential-01
+  produceSelectVoiceAssetId: sud_vo_system_cidol-amao-3-023_produce_start-01
+  produceScheduleFrontVoiceGroupId: voice_group-cidol-amao-3-023-produce_schedule
+  produceScheduleBackVoiceGroupId: ""
+  useProduceCardVoiceAssetId: sud_vo_system_cidol-amao-3-023_produce_skillcard-01
+  useSecondProduceCardVoiceAssetId: ""
+  usePrimaStellaProduceCardVoiceAssetId: ""
+  primaStellaVoiceAssetId: ""
+  viewStartTime: "1795744800000"
+  order: "1989200109976"
+  produceStoryIds:
+  - p_story-i_card-amao-3-023-01
+  - p_story-i_card-amao-3-023-02
+  - p_story-i_card-amao-3-023-03
+  achievementIds:
+  - achieve-i_card-amao-3-023-01
+  - achieve-i_card-amao-3-023-02
+  - achieve-i_card-amao-3-023-03
+  - achieve-i_card-amao-3-023-04
+  - achieve-i_card-amao-3-023-05
+  - achieve-i_card-amao-3-023-06
 - id: i_card-atbm-1-000
   characterId: atbm
   originalIdolCardSkinId: i_card-skin-atbm-1-000
@@ -1063,6 +1124,67 @@
   - achieve-i_card-atbm-3-018-04
   - achieve-i_card-atbm-3-018-05
   - achieve-i_card-atbm-3-018-06
+- id: i_card-atbm-3-020
+  characterId: atbm
+  originalIdolCardSkinId: i_card-skin-atbm-3-020
+  assetId: cidol-atbm-3-020
+  name: アンバランス
+  rarity: IdolCardRarity_Ssr
+  isLimited: false
+  disableIdolCardCharacterPiece: true
+  anotherCostumeHeadId: costume_head_atbm-cstm-0185
+  anotherCostumeId: atbm-cstm-0185
+  idolCardPotentialId: idol_card_potential-i_card-atbm-3-020
+  idolCardPotentialProduceSkillId: idol_card_potential_produce_skill-i_card-atbm-3-020
+  idolCardLevelLimitId: idol_card_level_limit-ssr-plan1-vo-da
+  idolCardLevelLimitProduceSkillId: idol_card_level_limit_produce_skill_001
+  maxIdolCardLevelLimitRank: IdolCardLevelLimitRank__6
+  additionalAnotherCostumeHeadIds: []
+  additionalAnotherCostumeIds: []
+  planType: ProducePlanType_Plan1
+  idolCardLevelLimitStatusUpId: level_limit_status_up-001
+  produceVocal: 80
+  produceDance: 90
+  produceVisual: 70
+  produceVocalGrowthRatePermil: 140
+  produceDanceGrowthRatePermil: 170
+  produceVisualGrowthRatePermil: 120
+  produceStamina: 31
+  produceStepAuditionDifficultyId: p_step_audition_difficulty-i_card-atbm-3-020
+  examInitialDeckId: initial_deck-lesson_buff
+  produceCardId: p_card-01-ido-3_293
+  beforeProduceItemId: pitem_01-3-394-0
+  afterProduceItemId: pitem_01-3-394-1
+  examEffectType: ProduceExamEffectType_ExamLessonBuff
+  produceChallengeSlotId: challenge_slot-exam_lesson_buff
+  showExamEffectType: ProduceExamEffectType_Unknown
+  secondProduceCardId: ""
+  beforeLevelLimitProduceItemId: ""
+  afterLevelLimitProduceItemId: ""
+  primaStellaConsumptionSetId: ""
+  idolCardPrimaStellaProduceSkillId: ""
+  primaStellaAchievementId: ""
+  potentialRankVoiceAssetId: sud_vo_system_cidol-atbm-3-020_idol_potential-01
+  produceSelectVoiceAssetId: sud_vo_system_cidol-atbm-3-020_produce_start-01
+  produceScheduleFrontVoiceGroupId: voice_group-cidol-atbm-3-020-produce_schedule
+  produceScheduleBackVoiceGroupId: ""
+  useProduceCardVoiceAssetId: sud_vo_system_cidol-atbm-3-020_produce_skillcard-01
+  useSecondProduceCardVoiceAssetId: ""
+  usePrimaStellaProduceCardVoiceAssetId: ""
+  primaStellaVoiceAssetId: ""
+  viewStartTime: "1795744800000"
+  order: "1989200079979"
+  produceStoryIds:
+  - p_story-i_card-atbm-3-020-01
+  - p_story-i_card-atbm-3-020-02
+  - p_story-i_card-atbm-3-020-03
+  achievementIds:
+  - achieve-i_card-atbm-3-020-01
+  - achieve-i_card-atbm-3-020-02
+  - achieve-i_card-atbm-3-020-03
+  - achieve-i_card-atbm-3-020-04
+  - achieve-i_card-atbm-3-020-05
+  - achieve-i_card-atbm-3-020-06
 - id: i_card-fktn-1-000
   characterId: fktn
   originalIdolCardSkinId: i_card-skin-fktn-1-000
