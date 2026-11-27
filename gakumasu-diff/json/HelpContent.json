@@ -1704,6 +1704,48 @@
             "id": "trail",
             "order": 1,
             "name": "思い出衣装"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-coin",
+            "order": 6,
+            "name": "イベント交換所用アイテム"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-finish",
+            "order": 7,
+            "name": "イベント終了後"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-mission",
+            "order": 5,
+            "name": "イベントミッション"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-point",
+            "order": 3,
+            "name": "累計イベントPt報酬"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-story",
+            "order": 1,
+            "name": "マルチシナリオイベント"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-story-bonus",
+            "order": 2,
+            "name": "イベントボーナス"
+        },
+        {
+            "helpCategoryId": "help-unit-story-event",
+            "id": "unit-story-event-event-story-story-unlock",
+            "order": 4,
+            "name": "イベントコミュ"
         }
     ]
 }

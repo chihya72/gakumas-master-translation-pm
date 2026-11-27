@@ -31,11 +31,11 @@
         },
         {
             "id": "card.sort.research_event_consumption_item_bonus",
-            "description": "あさり先生のプロデュースゼミ イベントボーナス"
+            "description": "イベントボーナス"
         },
         {
             "id": "card.sort.story_event_point_bonus",
-            "description": "氷渡香名江エピソード0 イベントボーナス"
+            "description": "イベントボーナス"
         },
         {
             "id": "common.story_event_point",
@@ -376,6 +376,18 @@
         {
             "id": "startup.gasha_point_expire_sheet.bottom_message",
             "description": "この交換Ptが獲得可能なガシャ"
+        },
+        {
+            "id": "story_event.story_reward",
+            "description": "シナリオイベントコミュ"
+        },
+        {
+            "id": "story_event.unit_story.unlock_item.complete_prefix_label",
+            "description": "コミュ解放の栞をすべて獲得しました"
+        },
+        {
+            "id": "story_event.unit_story.unlock_item.prefix_label",
+            "description": "コミュ解放の栞まで"
         },
         {
             "id": "story.idol.others.birthday",

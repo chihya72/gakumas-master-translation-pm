@@ -510,6 +510,12 @@
             "acquisitionRouteDescription": ""
         },
         {
+            "id": "item-gashaticket-new-wednesday-26-1202-1",
+            "name": "学マ水曜日ガシャチケット",
+            "description": "学マ水曜日ガシャで使用するチケット",
+            "acquisitionRouteDescription": ""
+        },
+        {
             "id": "item-gashaticket-ssr-fix_1",
             "name": "SSR確定ガシャチケット",
             "description": "SSR確定チケットガシャで使用するチケット",
@@ -1050,6 +1056,12 @@
             "acquisitionRouteDescription": "イベント「さいごの文化祭」、プロデュース"
         },
         {
+            "id": "item-medal-unit-event-001",
+            "name": "乖離し轟く名ポスター",
+            "description": "イベント交換所で様々な報酬と交換できるアイテム",
+            "acquisitionRouteDescription": "プロデュースなど"
+        },
+        {
             "id": "item-memory_exchange-class1",
             "name": "センスコイン",
             "description": "センスガシャで使用するコイン",
@@ -1152,6 +1164,12 @@
             "acquisitionRouteDescription": "ガシャなど"
         },
         {
+            "id": "item-piece-idol_amao-3-023",
+            "name": "[アンバランス]有村麻央のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
             "id": "item-piece-idol_atbm-1-000",
             "name": "[学園生活]雨夜燕のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
@@ -1184,6 +1202,12 @@
         {
             "id": "item-piece-idol_atbm-3-018",
             "name": "[クライアイ]雨夜燕のピース",
+            "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
+            "acquisitionRouteDescription": "ガシャなど"
+        },
+        {
+            "id": "item-piece-idol_atbm-3-020",
+            "name": "[アンバランス]雨夜燕のピース",
             "description": "プロデュースアイドルの才能開花や解放に使用するアイテム",
             "acquisitionRouteDescription": "ガシャなど"
         },
@@ -2356,6 +2380,12 @@
             "name": "サポートの証",
             "description": "交換所で使用するアイテム",
             "acquisitionRouteDescription": "サポート変換など"
+        },
+        {
+            "id": "item-ticket-unit-event-001",
+            "name": "コミュ解放の栞",
+            "description": "マルチシナリオイベントのコミュを解放するアイテム",
+            "acquisitionRouteDescription": "マルチシナリオイベント"
         }
     ]
 }
